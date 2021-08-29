@@ -85,8 +85,8 @@ foreach ($recipesSitemaps->toArray() as $currentSitemapIndex => $item) {
         // Начинаем процесс сбора данных со детальной страницы рецепта
 
         Cli::log("Обработка -> {$recipe['loc']}");
-        // $detailPage = new Document($recipe['loc'], true);
-        $detailPage = new Document('https://vkuso.ru/recipe/100123-italyanskij-biskvitnyj-limonnyj-pirog-12-lozhek/', true);
+        $detailPage = new Document($recipe['loc'], true);
+        // $detailPage = new Document('https://vkuso.ru/recipe/100123-italyanskij-biskvitnyj-limonnyj-pirog-12-lozhek/', true);
 
         $insert = [];
 
