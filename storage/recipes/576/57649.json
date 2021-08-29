@@ -1,0 +1,215 @@
+{
+    "source": "https://vkuso.ru/recipe/kurinye-grudki-v-bekone-s-timyanom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Куриные грудки в беконе с тимьяном",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/44/94e12cd160b0544_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры черри",
+                    "slug": "pomidory-cherri",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр козий",
+                    "slug": "syr-koziy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "бекон",
+                    "slug": "bekon",
+                    "notes": null,
+                    "value": "4",
+                    "type": "куска",
+                    "amount": null
+                },
+                {
+                    "name": "цукини",
+                    "slug": "cukini",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "тимьян свежий",
+                    "slug": "timyan-svejiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сухари панировочные",
+                    "slug": "suhari-panirovochnye",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Разрезать слегка охлажденное филе вдоль, чуть не дорезая до конца, развернуть, разложить на пленке, аккуратно отбить с каждой стороны.",
+            "image": null
+        },
+        {
+            "text": "Разложить по поверхности козий сыр, разровнять, присыпать измельченным тимьяном, плотно завернуть в трубочку и завернуть в пластинки тонко порезанного бекона.",
+            "image": null
+        },
+        {
+            "text": "Дно и стенки формы промазать маслом, притрусить сухарями, выложить кружочками цукини и половинками черри, присолить, поперчить, побрызгать маслом.",
+            "image": null
+        },
+        {
+            "text": "Разложить на овощную «подушку» куриные грудки в беконе, прикрыть несколькими веточками тимьяна, запекать в течение 45 минут при 180 градусах, подавать блюдо лучше горячим.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Диетическая куриная грудка",
+            "slug": "dieticheskaya-kurinaya-grudka"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Запеченное куриное филе",
+            "slug": "zapechennoe-kurinoe-file"
+        },
+        {
+            "name": "Куриное филе в духовке",
+            "slug": "kurinoe-file-v-duhovke"
+        },
+        {
+            "name": "Куриное филе с овощами",
+            "slug": "kurinoe-file-s-ovoschami"
+        },
+        {
+            "name": "Куриное филе с помидорами",
+            "slug": "kurinoe-file-s-pomidorami"
+        },
+        {
+            "name": "Куриное филе с помидорами в духовке",
+            "slug": "kurinoe-file-s-pomidorami-v-duhovke"
+        },
+        {
+            "name": "Куриное филе с помидорами и сыром",
+            "slug": "kurinoe-file-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Куриное филе с сыром",
+            "slug": "kurinoe-file-s-syrom"
+        },
+        {
+            "name": "Куриное филе с сыром в духовке",
+            "slug": "kurinoe-file-s-syrom-v-duhovke"
+        },
+        {
+            "name": "Курица в духовке",
+            "slug": "kurica-v-duhovke"
+        },
+        {
+            "name": "Курица с сыром",
+            "slug": "kurica-s-syrom"
+        },
+        {
+            "name": "Курица с сыром в духовке",
+            "slug": "kurica-s-syrom-v-duhovke"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ужин из кабачков",
+            "slug": "ujin-iz-kabachkov"
+        },
+        {
+            "name": "Ужин из куриного филе",
+            "slug": "ujin-iz-kurinogo-file"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        }
+    ]
+}

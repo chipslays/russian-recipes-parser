@@ -1,0 +1,91 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnij-tvorozhnyj-syr-s-ukropom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Домашний творожный сыр с укропом",
+    "description": "Сыр получается очень вкусный, нежный, кремовый, как густая сметана, абсолютно без крупинок и не кислый. Отлично может подойти, как в салаты, так и как намазка на хлеб, а можно и завернуть в лаваш.",
+    "note": null,
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/0b/c965cd9492b260b_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сметана 20%",
+                    "slug": "smetana-20",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кефир 2,5%",
+                    "slug": "kefir-2-5",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "зубчик",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Перемешать сметану (жирность 20 %), кефир (жирность 2,5) и 1 чайную ложку соли. Перелить в дуршлаг, поставить в холодильник под гнет на пару суток. По истечению времени нарезать свежего укропа, измельчить чеснок и щепотку соли, все смешать.",
+            "image": null
+        },
+        {
+            "text": "Обвалять сыр в приготовленной смеси, сформировать сырный батон. А еще можно накатать шариков и залить их растопленным маслом с разнообразными специями. Домашний творожный сыр с укропом готов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Лакто-вегетарианство",
+            "slug": "lakto-vegetarianstvo"
+        },
+        {
+            "name": "Лакто-ово-вегетарианство",
+            "slug": "lakto-ovo-vegetarianstvo"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

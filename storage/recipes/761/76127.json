@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/lapsha-vok-s-ananasami/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Лапша вок с ананасами",
+    "description": "Такое блюдо можно приготовить из свинины или курицы. Хорошее кушанье для холодного времени года.",
+    "note": "Блюдо можно украсить веточками зелени.",
+    "cuisine": "Азиатская кухня",
+    "cuisine_slug": "aziatskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/1c/9f396363311111c_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мясо",
+                    "slug": "myaso",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ананас консервированный",
+                    "slug": "ananas-konservirovanniy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лапша удон",
+                    "slug": "lapsha-udon",
+                    "notes": " (лапша соба)",
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соус соевый",
+                    "slug": "sous-soeviy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "корень имбиря",
+                    "slug": "koren-imbirya",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "крахмал",
+                    "slug": "krahmal",
+                    "notes": null,
+                    "value": "15",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Филе нарезать ломтиками, сладкий перец – соломкой.",
+            "image": null
+        },
+        {
+            "text": "Натереть чеснок и корень имбиря, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Консервированный ананас нарезать кубиками.",
+            "image": null
+        },
+        {
+            "text": "Лапшу соба или удон отварить.",
+            "image": null
+        },
+        {
+            "text": "Мясо обжарить до корочки.",
+            "image": null
+        },
+        {
+            "text": "Добавить перец, имбирь с чесноком, перемешать, подержать две или три минуты.",
+            "image": null
+        },
+        {
+            "text": "Огонь убавить, добавить ананасы.",
+            "image": null
+        },
+        {
+            "text": "Приготовить соус из лимонного сока, сахарного песка и соевого соуса.",
+            "image": null
+        },
+        {
+            "text": "Размешивать до растворения сахара.",
+            "image": null
+        },
+        {
+            "text": "Все ингредиенты перемешать, залить соусом, всыпать крахмал при постоянном помешивании.",
+            "image": null
+        },
+        {
+            "text": "Потушить вок в соусе еще десять минут и подать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из макарон",
+            "slug": "vtorye-blyuda-iz-makaron"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Китайская лапша",
+            "slug": "kitayskaya-lapsha"
+        },
+        {
+            "name": "Лапша вок",
+            "slug": "lapsha-vok"
+        },
+        {
+            "name": "Лапша с овощами",
+            "slug": "lapsha-s-ovoschami"
+        },
+        {
+            "name": "Мясо с овощами",
+            "slug": "myaso-s-ovoschami"
+        },
+        {
+            "name": "Тушеные блюда",
+            "slug": "tushenye-blyuda"
+        },
+        {
+            "name": "Ужин из макарон",
+            "slug": "ujin-iz-makaron"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

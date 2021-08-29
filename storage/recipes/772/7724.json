@@ -1,0 +1,136 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnie-blinchiki-s-yablokom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Домашние блинчики с яблоком",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/7d/847704323dff57d_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для блинов",
+            "list": [
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "корица",
+                    "slug": "korica",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Разбить в глубокую миску яйца, подсолить, всыпать сахар, взбить. Всыпать порциями муку, постоянно перемешивая венчиком, чтобы не образовывались комки. Пожарить как обычно с двух сторон блины.",
+            "image": null
+        },
+        {
+            "text": "Подготовить для начинки яблоки: помыть, удалить сердцевину и кожицу, порезать тонкими дольками. Слегка подогреть сковороду, высыпать яблоки, сделать средний нагрев, тушить минут 7, сдобрить смесью сахара с корицей, тушить еще 7 минут. Яблоки должны стать мягкими, но не потерять форму. Начинку выложить на блины, аккуратно свернуть.",
+            "image": null
+        },
+        {
+            "text": "Разрезать домашние блинчики с яблоком на несколько кусочков, подать со сметаной как самостоятельное блюдо. Но также вкусно будет с мороженым, украшенным листочками мяты.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блинчики",
+            "slug": "blinchiki"
+        },
+        {
+            "name": "Блинчики на молоке",
+            "slug": "blinchiki-na-moloke"
+        },
+        {
+            "name": "Блинчики с яблоками",
+            "slug": "blinchiki-s-yablokami"
+        },
+        {
+            "name": "Блины без дрожжей",
+            "slug": "bliny-bez-drojjey"
+        },
+        {
+            "name": "Выпечка с корицей",
+            "slug": "vypechka-s-koricey"
+        },
+        {
+            "name": "Выпечка с яблоками",
+            "slug": "vypechka-s-yablokami"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        }
+    ]
+}

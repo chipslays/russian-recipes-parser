@@ -1,0 +1,151 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-grafskij-s-orexami-i-chernoslivom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Графский» с орехами и черносливом",
+    "description": "Существует множество разновидностей этого салата, все они – слоеные, промазаны майонезом и посыпаются грецкими орехами.",
+    "note": "По желанию в салат можно добавить слой репчатого лука. Его лучше предварительно замариновать: приготовить смесь из стакана холодной кипяченой воды, добавить по столовой ложке сахарного песка и уксуса, залить лук, оставить на полчаса. Отцедить и выложить в салат на слой картофеля.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c9/6b392d22a6fe4c9_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "грецкие орехи",
+                    "slug": "greckie-orehi",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чернослив",
+                    "slug": "chernosliv",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "свекла",
+                    "slug": "svekla",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить до готовности свеклу и картофель в «мундире». Остудить, кожицу очистить. То и другое нарезать кубиками. Отварить куриные яйца, очистить и отделить белки от желтков.",
+            "image": null
+        },
+        {
+            "text": "Выложить салат на плоское блюдо слоями: картофель, свекла, нарезанные кубиками желтки, кусочки чернослива, белки. Все слои промазать майонезом. Чернослив лучше предварительно залить кипятком на 10–15 минут.",
+            "image": null
+        },
+        {
+            "text": "Салат сверху также намазать майонезом и посыпать рублеными грецкими орехами. Также можно украсить салат зернами спелого граната. Поставить салат «Графский» в холодильник для пропитывания на несколько часов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат из свеклы",
+            "slug": "salat-iz-svekly"
+        },
+        {
+            "name": "Салат из свеклы с грецкими орехами",
+            "slug": "salat-iz-svekly-s-greckimi-orehami"
+        },
+        {
+            "name": "Салат из свеклы с черносливом",
+            "slug": "salat-iz-svekly-s-chernoslivom"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с грецкими орехами",
+            "slug": "salat-s-greckimi-orehami"
+        },
+        {
+            "name": "Салат с картофелем",
+            "slug": "salat-s-kartofelem"
+        },
+        {
+            "name": "Салат с орехами",
+            "slug": "salat-s-orehami"
+        },
+        {
+            "name": "Салат с черносливом и грецкими орехами",
+            "slug": "salat-s-chernoslivom-i-greckimi-orehami"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты с черносливом",
+            "slug": "salaty-s-chernoslivom"
+        },
+        {
+            "name": "Слоеные салаты",
+            "slug": "sloenye-salaty"
+        }
+    ]
+}

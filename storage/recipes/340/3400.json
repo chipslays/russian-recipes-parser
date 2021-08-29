@@ -1,0 +1,120 @@
+{
+    "source": "https://vkuso.ru/recipe/zhur-po-polski-s-kopchenoj-grudinkoj/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Жур по-польски с копченой грудинкой",
+    "description": null,
+    "note": null,
+    "cuisine": "Польская кухня",
+    "cuisine_slug": "polskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b7/b62491d509187b7_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "копченой грудинки",
+                    "slug": "kopchenoy-grudinki",
+                    "notes": null,
+                    "value": "260",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "костей для бульона",
+                    "slug": "kostey-dlya-bulona",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "корня петрушки",
+                    "slug": "kornya-petrushki",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснока",
+                    "slug": "chesnoka",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                }
+            ]
+        },
+        {
+            "name": "Для жура",
+            "list": [
+                {
+                    "name": "ржаной / пеклеванной / овсяной муки",
+                    "slug": "rjanoy-peklevannoy-ovsyanoy-muki",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "воды",
+                    "slug": "vody",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить из ржаной или овсяной муки закваску (жур), в керамической посуде развести муку со стаканом воды, убрать в теплое место на 3-4 дня для брожения.",
+            "image": null
+        },
+        {
+            "text": "Сварить из костей и грудинки с добавлением моркови и корня петрушки бульон и процедить, грудинку порезать кубиками.",
+            "image": null
+        },
+        {
+            "text": "Добавить в бульон жур, нагреть до кипения, положить грудинку, посолить, заправить растертым с солью чесноком.",
+            "image": null
+        },
+        {
+            "text": "Жур по-польски с копченой грудинкой подавать с вареным картофелем, политым растопленным маслом, украсить в тарелке зеленью петрушки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп с копченостями",
+            "slug": "sup-s-kopchenostyami"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Супы с крупами",
+            "slug": "supy-s-krupami"
+        }
+    ]
+}

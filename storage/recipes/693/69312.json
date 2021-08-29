@@ -1,0 +1,91 @@
+{
+    "source": "https://vkuso.ru/recipe/sgushhenka-iz-celnogo-i-suxogo-moloka-v-multivarke/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Сгущенка из цельного и сухого молока в мультиварке",
+    "description": "Кухонная помощница может всё.",
+    "note": "Жидковатая сгущенка загустеет после остывания.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ca/fbf04b3838906ca_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко цельное",
+                    "slug": "moloko-celnoe",
+                    "notes": null,
+                    "value": "300",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко сухое",
+                    "slug": "moloko-suhoe",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В чашу блендера всыпать сахар и сухое молоко, смесь перемешать.",
+            "image": null
+        },
+        {
+            "text": "Влить молоко, взбивать содержимое до однородного состояния.",
+            "image": null
+        },
+        {
+            "text": "Перелить смесь в мультиварку, выставить режим «Каша» на полчаса. Температура приготовления – 90 градусов. Содержимое чаши постоянно помешивать. Продукт остудить.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерты в мультиварке",
+            "slug": "deserty-v-multivarke"
+        },
+        {
+            "name": "Десерты для детей",
+            "slug": "deserty-dlya-detey"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Другие десерты",
+            "slug": "drugie-deserty"
+        },
+        {
+            "name": "Крем",
+            "slug": "krem"
+        },
+        {
+            "name": "Крем для торта",
+            "slug": "krem-dlya-torta"
+        },
+        {
+            "name": "Сгущенка домашняя",
+            "slug": "sguschenka-domashnyaya"
+        }
+    ]
+}

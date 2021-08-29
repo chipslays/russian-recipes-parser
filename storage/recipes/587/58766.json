@@ -1,0 +1,103 @@
+{
+    "source": "https://vkuso.ru/recipe/malinovo-bananovyj-smuzi-na-moloke/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Малиново-банановый смузи на молоке",
+    "description": "Смузи – это густой напиток с мякотью, приготовленный из фруктов или ягод. В смесь обычно добавляют лед, сок, молоко.",
+    "note": "Смузи можно приготовить из любых фруктов или ягод: брусники, клубники, вишни. Дополнительными ингредиентами могут быть сухая молочная сыворотка, орехи, мед, сиропы, зеленый чай.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/18/efbf955ddac6618_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "малина",
+                    "slug": "malina",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "бананы",
+                    "slug": "banany",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "корица молотая",
+                    "slug": "korica-molotaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Взбить в пюре с помощью блендера свежие или размороженные ягоды малины, очищенные бананы, молоко.",
+            "image": null
+        },
+        {
+            "text": "Всыпать по вкусу молотую корицу. Налить малиново-банановый смузи в бокалы, посыпать корицей и украсить целыми ягодами малины.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Банановый коктейль",
+            "slug": "bananoviy-kokteyl"
+        },
+        {
+            "name": "Безалкогольные коктейли",
+            "slug": "bezalkogolnye-kokteyli"
+        },
+        {
+            "name": "Блендер",
+            "slug": "blender"
+        },
+        {
+            "name": "Детские коктейли",
+            "slug": "detskie-kokteyli"
+        },
+        {
+            "name": "Коктейли",
+            "slug": "kokteyli"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Смузи",
+            "slug": "smuzi"
+        },
+        {
+            "name": "Смузи с бананом",
+            "slug": "smuzi-s-bananom"
+        },
+        {
+            "name": "Смузи с малиной",
+            "slug": "smuzi-s-malinoy"
+        }
+    ]
+}

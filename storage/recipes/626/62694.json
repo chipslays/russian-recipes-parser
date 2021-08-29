@@ -1,0 +1,180 @@
+{
+    "source": "https://vkuso.ru/recipe/saxarnoe-pechene-s-yablokom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Сахарное печенье с яблоком",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/24/351190d4f229c24_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": "30 минут",
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для посыпки",
+            "list": [
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "корица",
+                    "slug": "korica",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Положить в муку сливочное масло, измельчить при помощи ножа.",
+            "image": null
+        },
+        {
+            "text": "Насыпать сахар, добавить желток.",
+            "image": null
+        },
+        {
+            "text": "Если тесто крошится в руках, значит желток был небольшого размера. В этом случае положить большую ложку сметаны.",
+            "image": null
+        },
+        {
+            "text": "Поставить на тридцать минут в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Раскатать тесто, вырезать круг.",
+            "image": null
+        },
+        {
+            "text": "Почистить яблоки, порезать на восемь частей.",
+            "image": null
+        },
+        {
+            "text": "Положить яблоки на тесто, сложить на две части.",
+            "image": null
+        },
+        {
+            "text": "При помощи вилки взбить белки в пену, намазать корж сверху, посыпать смесью корицы и сахара.",
+            "image": null
+        },
+        {
+            "text": "Поставить печенье с яблоком на противень, готовить минут пятнадцать, соблюдать температуру 180 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка с корицей",
+            "slug": "vypechka-s-koricey"
+        },
+        {
+            "name": "Выпечка с фруктами",
+            "slug": "vypechka-s-fruktami"
+        },
+        {
+            "name": "Выпечка с яблоками",
+            "slug": "vypechka-s-yablokami"
+        },
+        {
+            "name": "Печенье",
+            "slug": "pechene"
+        },
+        {
+            "name": "Печенье с корицей",
+            "slug": "pechene-s-koricey"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сахарное печенье",
+            "slug": "saharnoe-pechene"
+        }
+    ]
+}

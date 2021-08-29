@@ -1,0 +1,87 @@
+{
+    "source": "https://vkuso.ru/recipe/prostoj-krem-so-sgushhenkoj/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Простой крем со сгущенкой",
+    "description": null,
+    "note": "Для аромата можно добавить в крем ванилин, пару чайных ложек ликера или другую пряность.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/91/9af49293a163b91_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко сгущенное",
+                    "slug": "moloko-sguschennoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "ванилин/ликер",
+                    "slug": "vanilin-liker",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Мягкое сливочное масло взбить со сгущенкой. В процессе взбивания добавить постепенно желтки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерт со сгущенкой",
+            "slug": "desert-so-sguschenkoy"
+        },
+        {
+            "name": "Крем",
+            "slug": "krem"
+        },
+        {
+            "name": "Крем для пирожных",
+            "slug": "krem-dlya-pirojnyh"
+        },
+        {
+            "name": "Крем для торта",
+            "slug": "krem-dlya-torta"
+        },
+        {
+            "name": "Крем из сгущенки",
+            "slug": "krem-iz-sguschenki"
+        },
+        {
+            "name": "Торт со сгущенкой",
+            "slug": "tort-so-sguschenkoy"
+        }
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "source": "https://vkuso.ru/recipe/abrikosovyj-pirog-na-gazirovke-so-shtrejzelem/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Абрикосовый пирог на газировке со штрейзелем",
+    "description": "Штрейзель – мучная посыпка с сахаром, популярная в европейской кухне.",
+    "note": "При подаче пирог можно украсить кусочками свежего абрикоса.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e1/dd3eb469ba1d5e1_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/TWBTaaWkcQs?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "абрикосы",
+                    "slug": "abrikosy",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар ванильный",
+                    "slug": "sahar-vanilniy",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "вода газированная",
+                    "slug": "voda-gazirovannaya",
+                    "notes": " (сладкая)",
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для штрейзеля",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления блюда перемешать сырые яйца с обычным и ванильным сахаром, добавить газированную воду, масло, смесь перемешать.",
+            "image": null
+        },
+        {
+            "text": "Всыпать в емкость муку, добавить основную массу.",
+            "image": null
+        },
+        {
+            "text": "Погасить пищевую соду, лимонным соком или уксусом, влить в тесто, еще раз хорошо перемешать.",
+            "image": null
+        },
+        {
+            "text": "Смазать маслом форму для выпекания, дно застелить пергаментной бумагой, переложить тесто.",
+            "image": null
+        },
+        {
+            "text": "Поверх выложить половинки абрикосов без косточек.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления штрейзеля перемешать руками в крошку сливочное масло, муку, сахар.",
+            "image": null
+        },
+        {
+            "text": "Посыпать абрикосовую начинку, печь в течение 40 – 50 минут, температура – 200 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка с абрикосами",
+            "slug": "vypechka-s-abrikosami"
+        },
+        {
+            "name": "Выпечка с фруктами",
+            "slug": "vypechka-s-fruktami"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог с абрикосами",
+            "slug": "pirog-s-abrikosami"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги с фруктами",
+            "slug": "pirogi-s-fruktami"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Сладкие пироги",
+            "slug": "sladkie-pirogi"
+        }
+    ]
+}

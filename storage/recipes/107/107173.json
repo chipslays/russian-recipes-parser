@@ -1,0 +1,91 @@
+{
+    "source": "https://vkuso.ru/recipe/107173-pashtet-iz-seldi-s-morkovyu-i-maslom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Паштет из сельди с морковью и маслом",
+    "description": "Закуска из доступных продуктов.",
+    "note": "Важно не перестараться со специями: они не должны перебивать вкус сельди и сливочного масла.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/37/e603d8da453ee37_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "50 минут",
+    "preparetime": "2 часа",
+    "video": "https://www.youtube.com/embed/52Y1-qc2w1w?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "сельдь",
+                    "slug": "seld",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100-160",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сельдь очистить от хвоста, плавников, головы, вынуть кости.",
+            "image": null
+        },
+        {
+            "text": "Филе нарезать ломтиками.",
+            "image": null
+        },
+        {
+            "text": "Морковь отварить в воде или запечь до мягкости, также нарезать кусками.",
+            "image": null
+        },
+        {
+            "text": "Приготовить пасту при помощи блендера.",
+            "image": null
+        },
+        {
+            "text": "Добавить мягкое сливочное масло, любые специи.",
+            "image": null
+        },
+        {
+            "text": "Оставить в холоде для пропитывания.",
+            "image": null
+        },
+        {
+            "text": "Подать с ломтиками черного хлеба.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Паштет из селедки",
+            "slug": "pashtet-iz-seledki"
+        },
+        {
+            "name": "Паштеты",
+            "slug": "pashtety"
+        },
+        {
+            "name": "Рыбный паштет",
+            "slug": "rybniy-pashtet"
+        }
+    ]
+}

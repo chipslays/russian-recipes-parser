@@ -1,0 +1,216 @@
+{
+    "source": "https://vkuso.ru/recipe/cheshskij-pirog-vanochka-na-rozhdestvo/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Чешский пирог «Ваночка» на Рождество",
+    "description": null,
+    "note": "В тесто можно добавить и другие ингредиенты, например, кусочки орехов, сухофруктов, вяленые ягоды.",
+    "cuisine": "Чешская кухня",
+    "cuisine_slug": "cheshskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c1/1e657e3582985c1_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "900",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "изюм",
+                    "slug": "izyum",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи свежие",
+                    "slug": "drojji-svejie",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лимон(цедра)",
+                    "slug": "limon-cedra",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Дополнительно",
+            "list": [
+                {
+                    "name": "миндаль",
+                    "slug": "mindal",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В миске перемешать пшеничную муку, сахарный песок и соль. Развести смесь из сухих и свежих дрожжей в подогретом молоке. Влить полученную смесь в муку, перемешать. Оставить на 15 минут, когда появятся пузыри – вбить желток и яйцо целиком, добавить растопленное сливочное масло, лимонную цедру и изюм.",
+            "image": null
+        },
+        {
+            "text": "Перемешать массу, замесить тесто. Накрыть емкость с тестом крышкой или тканью, оставить на час в тепле. Когда масса увеличится вдвое – разрезать её на девять частей. Из каждой скрутить длинную и толстую «колбаску», из четырех сплести «косичку», края закрепить. Остальные «жгуты расположить справа и слева, переплести по своему усмотрению, закрепить зубочистками, оставить «плетенку» под полотенцем еще на 20 минут.",
+            "image": null
+        },
+        {
+            "text": "Заготовку смазать взбитым яичным белком и украсить миндальными хлопьями. Печь чешский пирог «Ваночка» в течение 50 минут при температуре 175 градусов до образования золотисто-коричневой корочки. Готовую выпечку посыпать сахарной пудрой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка на молоке",
+            "slug": "vypechka-na-moloke"
+        },
+        {
+            "name": "Выпечка с изюмом",
+            "slug": "vypechka-s-izyumom"
+        },
+        {
+            "name": "Выпечка с орехами",
+            "slug": "vypechka-s-orehami"
+        },
+        {
+            "name": "Выпечка с сухофруктами",
+            "slug": "vypechka-s-suhofruktami"
+        },
+        {
+            "name": "Пирог на молоке",
+            "slug": "pirog-na-moloke"
+        },
+        {
+            "name": "Пирог с изюмом",
+            "slug": "pirog-s-izyumom"
+        },
+        {
+            "name": "Пирог с орехами",
+            "slug": "pirog-s-orehami"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги из дрожжевого теста",
+            "slug": "pirogi-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Сладкие пироги",
+            "slug": "sladkie-pirogi"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "source": "https://vkuso.ru/recipe/xrustyashhie-trubochki-s-orexovym-kremom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Хрустящие трубочки с ореховым кремом",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/af/9fc776ae17d7faf_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко сгущенное вареное",
+                    "slug": "moloko-sguschennoe-varenoe",
+                    "notes": null,
+                    "value": "1/3",
+                    "type": "банки",
+                    "amount": null
+                },
+                {
+                    "name": "орехи",
+                    "slug": "orehi",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для теста: взбить яйца с сахарным песком и мукой. Нагреть и смазать маслом противень, выложить тесто ложкой, размазать до диаметра в 10 см. Выпечь в разогретой духовке, лепешку вынуть и в горячем виде скрутить в трубочку.",
+            "image": null
+        },
+        {
+            "text": "Для крема: смешать вареную сгущенку, мягкое сливочное масло, измельченные орехи, например, обжаренный арахис. Начинить хрустящие трубочки ореховым кремом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка с орехами",
+            "slug": "vypechka-s-orehami"
+        },
+        {
+            "name": "Выпечка со сгущенкой",
+            "slug": "vypechka-so-sguschenkoy"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "На десерт",
+            "slug": "na-desert"
+        },
+        {
+            "name": "Новогодняя выпечка",
+            "slug": "novogodnyaya-vypechka"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Трубочки",
+            "slug": "trubochki"
+        }
+    ]
+}

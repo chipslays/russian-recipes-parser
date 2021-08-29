@@ -1,0 +1,203 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-korall-s-semgoj/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Коралл» с семгой",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/cb/50921eadb9896cb_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "креветки",
+                    "slug": "krevetki",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "семга слабосоленая",
+                    "slug": "semga-slabosolenaya",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сварить креветки, сыр, яйца и помидоры без семян порезать на маленькие кубики, нарезать на кусочки семгу, посолить и все перемешать. Добавить в салат «Коралл» майонез, аккуратно перемешать, переложить в салатницу, украсить розочками из семги и веточками укропа.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Салат из помидоров",
+            "slug": "salat-iz-pomidorov"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат морской коктейль",
+            "slug": "salat-morskoy-kokteyl"
+        },
+        {
+            "name": "Салат с красной рыбой",
+            "slug": "salat-s-krasnoy-ryboy"
+        },
+        {
+            "name": "Салат с креветками",
+            "slug": "salat-s-krevetkami"
+        },
+        {
+            "name": "Салат с креветками и помидорами",
+            "slug": "salat-s-krevetkami-i-pomidorami"
+        },
+        {
+            "name": "Салат с лососем",
+            "slug": "salat-s-lososem"
+        },
+        {
+            "name": "Салат с помидорами и сыром",
+            "slug": "salat-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Салат с помидорами и яйцами",
+            "slug": "salat-s-pomidorami-i-yaycami"
+        },
+        {
+            "name": "Салат с рыбой",
+            "slug": "salat-s-ryboy"
+        },
+        {
+            "name": "Салат с семгой",
+            "slug": "salat-s-semgoy"
+        },
+        {
+            "name": "Салат с твердым сыром",
+            "slug": "salat-s-tverdym-syrom"
+        },
+        {
+            "name": "Салат с яйцом и сыром",
+            "slug": "salat-s-yaycom-i-syrom"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты из морепродуктов",
+            "slug": "salaty-iz-moreproduktov"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с макаронами",
+            "slug": "salaty-s-makaronami"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        },
+        {
+            "name": "Семга с сыром",
+            "slug": "semga-s-syrom"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

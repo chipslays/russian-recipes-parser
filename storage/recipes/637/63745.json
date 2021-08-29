@@ -1,0 +1,175 @@
+{
+    "source": "https://vkuso.ru/recipe/banan-v-tvorozhnom-klyare-s-izyumom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Банан в творожном кляре с изюмом",
+    "description": "Мягкое банановое пюре внутри и хрустящая ароматная корочка снаружи – вкусный десерт из доступных продуктов.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/59/4433ccd68ef7159_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "бананы",
+                    "slug": "banany",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "виноград",
+                    "slug": "vinograd",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "изюм",
+                    "slug": "izyum",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мука гречневая",
+                    "slug": "muka-grechnevaya",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "ванилин",
+                    "slug": "vanilin",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Измельчить с помощью блендера виноград с творогом, изюмом, сырым яичным белком.",
+            "image": null
+        },
+        {
+            "text": "В конце добавить ванилин, муку, разрыхлитель. Должна получиться густая масса.",
+            "image": null
+        },
+        {
+            "text": "Очистить банан от кожуры, нарезать кружочками толщиной в один сантиметр.",
+            "image": null
+        },
+        {
+            "text": "Разогреть духовку, противень смазать маслом или застелить бумагой для выпекания, можно положит «коврик» из силикона.",
+            "image": null
+        },
+        {
+            "text": "Каждую банановую дольку «закатать» в кусочек творожной массы.",
+            "image": null
+        },
+        {
+            "text": "Шарики выпекать в течение 15 минут, затем вынуть их из духовки, смазать желтком со всех сторон и печь еще пять-семь минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка на скорую руку",
+            "slug": "vypechka-na-skoruyu-ruku"
+        },
+        {
+            "name": "Выпечка с бананами",
+            "slug": "vypechka-s-bananami"
+        },
+        {
+            "name": "Выпечка с изюмом",
+            "slug": "vypechka-s-izyumom"
+        },
+        {
+            "name": "Выпечка с сухофруктами",
+            "slug": "vypechka-s-suhofruktami"
+        },
+        {
+            "name": "Выпечка с фруктами",
+            "slug": "vypechka-s-fruktami"
+        },
+        {
+            "name": "Десерт из бананов",
+            "slug": "desert-iz-bananov"
+        },
+        {
+            "name": "Десерт на скорую руку",
+            "slug": "desert-na-skoruyu-ruku"
+        },
+        {
+            "name": "десерты",
+            "slug": "deserty"
+        },
+        {
+            "name": "Несладкая выпечка",
+            "slug": "nesladkaya-vypechka"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        }
+    ]
+}

@@ -1,0 +1,327 @@
+{
+    "source": "https://vkuso.ru/recipe/samaya-vkusnaya-domashnyaya-lazanya-s-myasnym-farshem/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Самая вкусная домашняя лазанья с мясным фаршем",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e5/8a9011ce21c15e5_660x440.jpg",
+    "difficulty": "Высокая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "800",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр творожный",
+                    "slug": "syr-tvorojniy",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "свиной фарш",
+                    "slug": "svinoy-farsh",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соус томатный",
+                    "slug": "sous-tomatniy",
+                    "notes": null,
+                    "value": "350",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр моцарелла",
+                    "slug": "syr-mocarella",
+                    "notes": null,
+                    "value": "340",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "говяжий фарш",
+                    "slug": "govyajiy-farsh",
+                    "notes": null,
+                    "value": "340",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": null,
+                    "value": "170",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр пармезан",
+                    "slug": "syr-parmezan",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "листы лазаньи",
+                    "slug": "listy-lazani",
+                    "notes": null,
+                    "value": "12",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "специи итальянские",
+                    "slug": "specii-italyanskie",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "паприка",
+                    "slug": "paprika",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "фенхель",
+                    "slug": "fenhel",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "базилик",
+                    "slug": "bazilik",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": "1/4",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "перец красный молотый",
+                    "slug": "perec-krasniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Фарш, перемешать со специями, молотой петрушкой, пармезаном и чесноком. Переложить приготовленный фарш на сковороду,  добавить к нему фарш из говядины, чеснок, лук, поджарить до золотистого цвета.",
+            "image": null
+        },
+        {
+            "text": "Порезать помидоры, высыпать их в сковороду к мясу, добавить томатный соус и пасту, добавить воды, все перемешать. Заправить итальянской приправой, базиликом, рубленой петрушкой, сахаром, фенхелем, подсолить, поперчить. Смесь перемешать, тушить, накрыв крышкой, часа полтора на слабом огне, помешивая.",
+            "image": null
+        },
+        {
+            "text": "В широкой кастрюле довести до кипения подсоленную воду, отварить в течении 10 минут листы лазаньи слить воду, промыть листы под холодной проточной водой. Перемешать в миске яйца, порубленную петрушку и творожный сыр мягкой консистенции, подсолить половиной чайной ложкой соли.",
+            "image": null
+        },
+        {
+            "text": "Прогреть духовой шкаф чуть ниже 200 градусов. В глубокий противень налить полтора стакана соуса, затем положить листы лазаньи (6 штук), добавить половину творожной смеси. Положить на нее 1/3 часть всей моцареллы, порезанной ломтиками.",
+            "image": null
+        },
+        {
+            "text": "Полить остатками соуса, присыпать пармезаном. Слои повторить еще раз. В завершении, положить ломтики моцареллы, присыпать стружкой пармезана. Тщательно запаковать противень листом фольги.",
+            "image": null
+        },
+        {
+            "text": "В уже прогретую духовку задвинуть противень примерно на 25 минут, затем удалить фольгу и выпекать еще столько же. Достать самую вкусную домашнюю лазанью с мясным фаршем из духовки,  дать четверть часа остыть и подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Вторые блюда из говядины",
+            "slug": "vtorye-blyuda-iz-govyadiny"
+        },
+        {
+            "name": "Вторые блюда из макарон",
+            "slug": "vtorye-blyuda-iz-makaron"
+        },
+        {
+            "name": "Говядина с овощами",
+            "slug": "govyadina-s-ovoschami"
+        },
+        {
+            "name": "Лазанья",
+            "slug": "lazanya"
+        },
+        {
+            "name": "Лазанья с фаршем",
+            "slug": "lazanya-s-farshem"
+        },
+        {
+            "name": "Макароны с сыром",
+            "slug": "makarony-s-syrom"
+        },
+        {
+            "name": "Макароны с томатной пастой или соусом",
+            "slug": "makarony-s-tomatnoy-pastoy-ili-sousom"
+        },
+        {
+            "name": "Макароны с фаршем",
+            "slug": "makarony-s-farshem"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Мясо с сыром",
+            "slug": "myaso-s-syrom"
+        },
+        {
+            "name": "Паста",
+            "slug": "pasta"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Свинина с луком",
+            "slug": "svinina-s-lukom"
+        },
+        {
+            "name": "Свинина с овощами",
+            "slug": "svinina-s-ovoschami"
+        },
+        {
+            "name": "Свинина с помидорами",
+            "slug": "svinina-s-pomidorami"
+        },
+        {
+            "name": "Ужин из говядины",
+            "slug": "ujin-iz-govyadiny"
+        },
+        {
+            "name": "Ужин из макарон",
+            "slug": "ujin-iz-makaron"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из свинины",
+            "slug": "ujin-iz-svininy"
+        }
+    ]
+}

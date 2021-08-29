@@ -1,0 +1,235 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-iz-kalmarov-i-ogurcov-s-jogurtom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат из кальмаров и огурцов с йогуртом",
+    "description": "Классическое сочетание данных продуктов. Салат малокалорийный, может использоваться в диетическом питании.",
+    "note": "Если нет желания добавлять в салат зеленый лук, то можно посыпать смесь укропом или петрушкой, сбрызнуть лимонным соком. Если огурцы горчат – их нужно очистить от кожицы.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/9d/3e8a00a17dad69d_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кальмары",
+                    "slug": "kalmary",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "листья салата",
+                    "slug": "listya-salata",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кочан",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "йогурт натуральный",
+                    "slug": "yogurt-naturalniy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": "4",
+                    "type": "пера",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Кальмаров очистить от пленок, промыть, отварить в кипящей подсоленной воде в течение трех минут.",
+            "image": null
+        },
+        {
+            "text": "Тушки вынуть шумовкой, остудить.",
+            "image": null
+        },
+        {
+            "text": "Нарезать соломкой свежие огурцы.",
+            "image": null
+        },
+        {
+            "text": "Отварить куриные яйца, разрезать каждое на шесть частей.",
+            "image": null
+        },
+        {
+            "text": "Хорошо вымыть и порвать руками листья зеленого салата, переложить на тарелку.",
+            "image": null
+        },
+        {
+            "text": "Поверх – кальмары, нарезанные соломкой, рубленый зеленый лук, яйца, огурец.",
+            "image": null
+        },
+        {
+            "text": "Для заправки перемешать натуральный йогурт с лимонным соком, солью и молотым перцем.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетические салаты",
+            "slug": "dieticheskie-salaty"
+        },
+        {
+            "name": "Легкий салат",
+            "slug": "legkiy-salat"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат морской коктейль",
+            "slug": "salat-morskoy-kokteyl"
+        },
+        {
+            "name": "Салат с йогуртом",
+            "slug": "salat-s-yogurtom"
+        },
+        {
+            "name": "Салат с кальмарами",
+            "slug": "salat-s-kalmarami"
+        },
+        {
+            "name": "Салат с кальмарами и огурцами",
+            "slug": "salat-s-kalmarami-i-ogurcami"
+        },
+        {
+            "name": "Салат с кальмарами и яйцом",
+            "slug": "salat-s-kalmarami-i-yaycom"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с огурцом и яйцом",
+            "slug": "salat-s-ogurcom-i-yaycom"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без майонеза на праздничный стол",
+            "slug": "salaty-bez-mayoneza-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты из листьев салата",
+            "slug": "salaty-iz-listev-salata"
+        },
+        {
+            "name": "Салаты из морепродуктов",
+            "slug": "salaty-iz-moreproduktov"
+        },
+        {
+            "name": "Салаты из огурцов",
+            "slug": "salaty-iz-ogurcov"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты на скорую руку",
+            "slug": "salaty-na-skoruyu-ruku"
+        },
+        {
+            "name": "Специальное питание",
+            "slug": "specialnoe-pitanie"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

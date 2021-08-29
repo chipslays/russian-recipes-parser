@@ -1,0 +1,171 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-briz-s-sousom-tartar/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Бриз» с соусом тартар",
+    "description": "Само название блюда настраивает на легкий, весенний лад и содержание морепродуктов.",
+    "note": "Если салат готовится немного загодя, сухарики в него лучше засыпать непосредственно перед подачей, иначе они размокнут и испортят вкус блюда.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c6/d32b17b8a9b50c6_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "креветки",
+                    "slug": "krevetki",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "капуста пекинская",
+                    "slug": "kapusta-pekinskaya",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб белый",
+                    "slug": "hleb-beliy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соус тартар",
+                    "slug": "sous-tartar",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "зелень укропа",
+                    "slug": "zelen-ukropa",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "несколько",
+                    "type": "долек",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "прованские травы",
+                    "slug": "provanskie-travy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Белый хлеб высшего сорта нарезать кубиками, выложить на застеленный бумагой для выпечки противень. Сбрызнуть оливковым маслом, посолить, посыпать сушеными прованскими травами вместе с нарезанным чесноком. Печь сухарики при температуре 150 градусов в течение 40 минут.",
+            "image": null
+        },
+        {
+            "text": "Разморозить креветки, очистить, выложить на противень, также сбрызнуть оливковым маслом и посолить. Запечь в духовом шкафу в течение семи минут, температура – 140 градусов.",
+            "image": null
+        },
+        {
+            "text": "Пекинскую капусту мелко нашинковать.",
+            "image": null
+        },
+        {
+            "text": "Добавить креветки и заправить смесь соусом «Тартар». Можно взять магазинный или приготовить самостоятельно.",
+            "image": null
+        },
+        {
+            "text": "Салат посыпать сухариками вместе с рубленым зеленым укропом. Перемешать и сразу подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Легкий салат",
+            "slug": "legkiy-salat"
+        },
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из пекинской капусты",
+            "slug": "salat-iz-pekinskoy-kapusty"
+        },
+        {
+            "name": "Салат с креветками",
+            "slug": "salat-s-krevetkami"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салат с сухариками",
+            "slug": "salat-s-suharikami"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без майонеза на праздничный стол",
+            "slug": "salaty-bez-mayoneza-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты из морепродуктов",
+            "slug": "salaty-iz-moreproduktov"
+        }
+    ]
+}

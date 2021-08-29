@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/ochen-prostye-syrniki-na-zavtrak/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Очень простые сырники на завтрак",
+    "description": "Простой рецепт приготовления сырников для начала дня. Сырники можно приготовить с вечера, а потом разогреть.",
+    "note": "Подать сырники к столу можно с кофе и с любимым вареньем.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/8a/d4c7b6297539e8a_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/6xvKX_vHssI?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "сахар ванильный",
+                    "slug": "sahar-vanilniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Перемешать творог с яйцом и сахарным песком, немного посолить, массу перемешать.",
+            "image": null
+        },
+        {
+            "text": "Ввести муку, можно добавить соду для воздушности.",
+            "image": null
+        },
+        {
+            "text": "Тесто выложить ложкой на горячую сковороду, печь под крышкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Блюда из творога для детей",
+            "slug": "blyuda-iz-tvoroga-dlya-detey"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сковорода",
+            "slug": "skovoroda"
+        },
+        {
+            "name": "Сырники",
+            "slug": "syrniki"
+        },
+        {
+            "name": "Сырники без манки",
+            "slug": "syrniki-bez-manki"
+        },
+        {
+            "name": "Сырники классические",
+            "slug": "syrniki-klassicheskie"
+        },
+        {
+            "name": "Сырники на сковороде",
+            "slug": "syrniki-na-skovorode"
+        }
+    ]
+}

@@ -1,0 +1,323 @@
+{
+    "source": "https://vkuso.ru/recipe/tort-sekret-monashki-s-tvorozhnym-kremom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Торт «Секрет монашки» с творожным кремом",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b2/1eda4c0b238c6b2_660x440.jpg",
+    "difficulty": "Высокая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "маргарин",
+                    "slug": "margarin",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "8",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "пекарский порошок",
+                    "slug": "pekarskiy-poroshok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста 1",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "маргарин",
+                    "slug": "margarin",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "какао",
+                    "slug": "kakao",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "порошок для выпечки",
+                    "slug": "poroshok-dlya-vypechki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста2",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "1,2",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "маргарин",
+                    "slug": "margarin",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "12",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "пудинг ванильный",
+                    "slug": "puding-vanilniy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "порошок для выпечки",
+                    "slug": "poroshok-dlya-vypechki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для творожного крема",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "пудинг ванильный",
+                    "slug": "puding-vanilniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "желе красное",
+                    "slug": "jele-krasnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для пудингового крема с желе",
+            "list": [
+                {
+                    "name": "глазурь шоколадная",
+                    "slug": "glazur-shokoladnaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "орехи рубленые",
+                    "slug": "orehi-rublenye",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить тесто 1: перетереть маргарин и сахар, вбить по одному яйцу, насыпать муку с порошком для выпечки. Формочку (30 на 35 сантиметров) застелить специальной бумагой, вылить тесто, готовить 35 минут, соблюдая температуру 180 градусов.",
+            "image": null
+        },
+        {
+            "text": "Приготовить тесто 2: Замесить тесто из всех ингредиентов, кроме какао. Разделить пополам. Одну часть отправить в холодильник, в другую насыпать какао, замесить и тоже отправить в холодильник. Приготовить творожный крем: перетереть маргарин и сахар, вбить желтки, добавить порошок для выпечки, творог, пудинги, взбитые в пену белки, крупно натертое замороженное темное тесто.",
+            "image": null
+        },
+        {
+            "text": "На формочку постелить бумагу, облепить ее светлым тестом, готовить до румяного цвета. На готовое тесто положить творожный крем, готовить час, соблюдая температуру 175 градусов. Остудить. Приготовить пудинговый крем с желе: растворить в кипяченой воде желатин. В молоке растворить сахар и пудинг.",
+            "image": null
+        },
+        {
+            "text": "Закипятить остальное молоко, налить в него пудинг, варить до загустения. Охладить. Растереть масло на пушистую массу, кладя по ложке заварной охлажденный крем. Добавить желе в пудинговую массу. Положить крем на творог, разровнять. Сверху положить первое тесто. Полить торт «Секрет монашки»с творожным кремом шоколадной глазурью, посыпать измельченными орешками, поставить в холод.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Бисквитный торт",
+            "slug": "biskvitniy-tort"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка на маргарине",
+            "slug": "vypechka-na-margarine"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Кремовый торт",
+            "slug": "kremoviy-tort"
+        },
+        {
+            "name": "Новогодний торт",
+            "slug": "novogodniy-tort"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Ореховый торт",
+            "slug": "orehoviy-tort"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Торт на день рождения",
+            "slug": "tort-na-den-rojdeniya"
+        },
+        {
+            "name": "Торт с желе",
+            "slug": "tort-s-jele"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

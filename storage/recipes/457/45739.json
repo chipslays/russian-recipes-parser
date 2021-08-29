@@ -1,0 +1,155 @@
+{
+    "source": "https://vkuso.ru/recipe/buterbrody-s-syrnym-salatom-i-vetchinoj/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Бутерброды с сырным салатом и ветчиной",
+    "description": "Сырный салат можно подать к столу в тарталетках, предлагаемый вариант – обычные рецепты бутерброды с добавкой мясных ингредиентов.",
+    "note": "Бутерброд можно украсить половинками помидоров черри, веточками укропа.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/85/c8a9ffee1c20085_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "10 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/7ktxcUqP60A?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "хлеб тостовый",
+                    "slug": "hleb-tostoviy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "кусочка",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": " (сметана, натуральный йогурт)",
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сыр натереть на терке, добавить отваренное измельченное яйцо, майонез, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Хлеб для тостов подсушить на сковороде без масла или в тостере.",
+            "image": null
+        },
+        {
+            "text": "Намазать смесью, сверху положить кусочек копченой колбасы или ветчину.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды на день рождения",
+            "slug": "buterbrody-na-den-rojdeniya"
+        },
+        {
+            "name": "Бутерброды на Новый год",
+            "slug": "buterbrody-na-noviy-god"
+        },
+        {
+            "name": "Бутерброды на праздничный стол",
+            "slug": "buterbrody-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Бутерброды на скорую руку",
+            "slug": "buterbrody-na-skoruyu-ruku"
+        },
+        {
+            "name": "Бутерброды с ветчиной",
+            "slug": "buterbrody-s-vetchinoy"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Бутерброды с яйцом",
+            "slug": "buterbrody-s-yaycom"
+        },
+        {
+            "name": "Закуски из сыра",
+            "slug": "zakuski-iz-syra"
+        },
+        {
+            "name": "Закуски из яиц",
+            "slug": "zakuski-iz-yaic"
+        },
+        {
+            "name": "Закуски на день рождения",
+            "slug": "zakuski-na-den-rojdeniya"
+        },
+        {
+            "name": "Закуски на скорую руку",
+            "slug": "zakuski-na-skoruyu-ruku"
+        },
+        {
+            "name": "Новогодние закуски",
+            "slug": "novogodnie-zakuski"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Праздничный стол на скорую руку",
+            "slug": "prazdnichniy-stol-na-skoruyu-ruku"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        }
+    ]
+}

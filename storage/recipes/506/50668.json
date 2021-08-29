@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/klubnichnyj-pirog-s-otrubyami-i-jogurtom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Клубничный пирог с отрубями и йогуртом",
+    "description": "Летняя сочная клубника – настоящая королева стола. Из неё можно приготовить множество ароматных десертов или вкусную выпечку.",
+    "note": "При подаче пирог можно украсить свежими ягодами клубники, листочками мяты.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/06/2c1feaf9d048f06_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "клубника",
+                    "slug": "klubnika",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "йогурт",
+                    "slug": "yogurt",
+                    "notes": null,
+                    "value": "75",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "отруби",
+                    "slug": "otrubi",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "овсяные хлопья",
+                    "slug": "ovsyanye-hlopya",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "заменитель сахара",
+                    "slug": "zamenitel-sahara",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сырой яичный белок взбить в пену, добавить отруби, овсяные хлопья, йогурт, сахарозаменитель и специи. Массу перемешать.",
+            "image": null
+        },
+        {
+            "text": "Часть смеси поставить в морозильную камеру на полчаса.",
+            "image": null
+        },
+        {
+            "text": "Большую часть выложить в форму для выпекания, готовить при температуре 180 градусов.",
+            "image": null
+        },
+        {
+            "text": "Свежие ягоды перетереть или превратить в пюре. Можно просто раздавить клубнику ложкой, если она достаточно спелая. Сахарозаменитель добавлять по вкусу и желанию.",
+            "image": null
+        },
+        {
+            "text": "Достать из духовки выпеченную основу, выложить начинку и замороженное тесто, его нужно натереть на терке. Блюдо снова поставить в духовой шкаф на 15 – 20 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка на йогурте",
+            "slug": "vypechka-na-yogurte"
+        },
+        {
+            "name": "Выпечка с клубникой",
+            "slug": "vypechka-s-klubnikoy"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог на йогурте",
+            "slug": "pirog-na-yogurte"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги с клубникой",
+            "slug": "pirogi-s-klubnikoy"
+        },
+        {
+            "name": "Пироги с начинкой",
+            "slug": "pirogi-s-nachinkoy"
+        },
+        {
+            "name": "Пироги с ягодами",
+            "slug": "pirogi-s-yagodami"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

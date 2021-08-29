@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/kotlety-v-souse-iz-smetany/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Котлеты в соусе из сметаны",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c0/8f9045faba403c0_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мясного фарша",
+                    "slug": "myasnogo-farsha",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметаны",
+                    "slug": "smetany",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молока",
+                    "slug": "moloka",
+                    "notes": null,
+                    "value": "60",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "белого хлеба",
+                    "slug": "belogo-hleba",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйцо",
+                    "slug": "yayco",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "растительного масла",
+                    "slug": "rastitelnogo-masla",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Замочить хлеб в молоке и отжать, вбить в фарш яйцо, добавить измельченный лук, хлеб, сметану (1 ст.л.), присолить и поперчить.",
+            "image": null
+        },
+        {
+            "text": "Сформовать котлеты, обвалять в муке и зарумянить в растительном масле.",
+            "image": null
+        },
+        {
+            "text": "Переложить их в глубокую сковороду, залить сметаной и тушить под крышкой на слабом огне, подавать котлеты в соусе из сметаны можно будет через 15-20 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Мясные котлеты",
+            "slug": "myasnye-kotlety"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

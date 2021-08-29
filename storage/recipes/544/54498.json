@@ -1,0 +1,171 @@
+{
+    "source": "https://vkuso.ru/recipe/tvorozhnaya-galeta-so-slivami-i-persikami/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Творожная галета со сливами и персиками",
+    "description": "Пирог из мягкого и рассыпчатого теста, состав начинки зависит от фантазии кулинара.",
+    "note": "Готовый пирог можно украсить листочками мяты, ягодами свежей малины.",
+    "cuisine": "Французская кухня",
+    "cuisine_slug": "francuzskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/44/497ba62a054d144_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/PwX_lcKASSE?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "80",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар ванильный",
+                    "slug": "sahar-vanilniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "фрукты",
+                    "slug": "frukty",
+                    "notes": " (по желанию)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления теста перемешать творог с яйцом, ванилином, сахарным песком, ингредиенты перемешать. Добавить мягкое сливочное масло, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Муку всыпать постепенно, замесить тесто. Массу положить на час в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Любые фрукты нарезать тонкими ломтиками.",
+            "image": null
+        },
+        {
+            "text": "Тесто вынуть из холодильника, разделить на три части, тонко раскатать, толщина лепешки не должна превышать два миллиметра.",
+            "image": null
+        },
+        {
+            "text": "Выложить фрукты, края оставить свободными. Завернуть так, чтобы не вытек сок, посыпать сахаром, печь в течение 20 или 30 минут, температура – 180 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка с фруктами",
+            "slug": "vypechka-s-fruktami"
+        },
+        {
+            "name": "Открытый пирог",
+            "slug": "otkrytiy-pirog"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог Галета",
+            "slug": "pirog-galeta"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги с персиками",
+            "slug": "pirogi-s-persikami"
+        },
+        {
+            "name": "Пироги с фруктами",
+            "slug": "pirogi-s-fruktami"
+        },
+        {
+            "name": "Пироги со сливами",
+            "slug": "pirogi-so-slivami"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Сладкие пироги",
+            "slug": "sladkie-pirogi"
+        },
+        {
+            "name": "Творожный пирог",
+            "slug": "tvorojniy-pirog"
+        },
+        {
+            "name": "Французская выпечка",
+            "slug": "francuzskaya-vypechka"
+        }
+    ]
+}

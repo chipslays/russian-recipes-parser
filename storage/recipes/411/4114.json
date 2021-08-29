@@ -1,0 +1,259 @@
+{
+    "source": "https://vkuso.ru/recipe/zharkoe-iz-svininy-i-kartofelya-v-gorshochkax/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Жаркое из свинины и картофеля в горшочках",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ed/1e94d40512505ed_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "свинины",
+                    "slug": "svininy",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "6-8",
+                    "type": "клубней",
+                    "amount": null
+                },
+                {
+                    "name": "маринованных огурца",
+                    "slug": "marinovannyh-ogurca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "3"
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "моркови",
+                    "slug": "morkovi",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "говяжий бульон",
+                    "slug": "govyajiy-bulon",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Не очень крупными кубиками порезать мясо, сковороду раскалить и быстро обжарить на ней мясо, которое потом разложить по горшочкам.",
+            "image": null
+        },
+        {
+            "text": "Репчатый лук и морковь помыть и очистить, лук нарезать мелко, морковь порезать соломкой, обжарить овощи на сковороде.",
+            "image": null
+        },
+        {
+            "text": "Уложить слоем на мясо обжаренные лук и морковь, следующим слоем выложить тонкие колечки маринованных огурцов, заключительным слоем выложить крупные кубики очищенного картофеля.",
+            "image": null
+        },
+        {
+            "text": "Во все горшочки влить немного бульона, все полить майонезом и посыпать сверху тертым сыром.",
+            "image": null
+        },
+        {
+            "text": "Жаркое из свинины и картофеля в горшочках запекается при 190 градусах в духовке в течение 50 минут, после чего достается из нее и стоит еще 15 минут, а затем украшается зеленью и подается к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В горшочках",
+            "slug": "v-gorshochkah"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Жаркое",
+            "slug": "jarkoe"
+        },
+        {
+            "name": "Жаркое в горшочках",
+            "slug": "jarkoe-v-gorshochkah"
+        },
+        {
+            "name": "Жаркое в духовке",
+            "slug": "jarkoe-v-duhovke"
+        },
+        {
+            "name": "Жаркое из свинины",
+            "slug": "jarkoe-iz-svininy"
+        },
+        {
+            "name": "Жаркое с картошкой",
+            "slug": "jarkoe-s-kartoshkoy"
+        },
+        {
+            "name": "Картошка в горшочках",
+            "slug": "kartoshka-v-gorshochkah"
+        },
+        {
+            "name": "Картошка в духовке",
+            "slug": "kartoshka-v-duhovke"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Картошка с мясом в духовке",
+            "slug": "kartoshka-s-myasom-v-duhovke"
+        },
+        {
+            "name": "Картошка с сыром",
+            "slug": "kartoshka-s-syrom"
+        },
+        {
+            "name": "Картошка с сыром в горшочках",
+            "slug": "kartoshka-s-syrom-v-gorshochkah"
+        },
+        {
+            "name": "Картошка с сыром в духовке",
+            "slug": "kartoshka-s-syrom-v-duhovke"
+        },
+        {
+            "name": "Мясо в горшочках",
+            "slug": "myaso-v-gorshochkah"
+        },
+        {
+            "name": "Мясо в духовке",
+            "slug": "myaso-v-duhovke"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Мясо с овощами в горшочках",
+            "slug": "myaso-s-ovoschami-v-gorshochkah"
+        },
+        {
+            "name": "Мясо с сыром",
+            "slug": "myaso-s-syrom"
+        },
+        {
+            "name": "Свинина в горшочках",
+            "slug": "svinina-v-gorshochkah"
+        },
+        {
+            "name": "Свинина в духовке",
+            "slug": "svinina-v-duhovke"
+        },
+        {
+            "name": "Свинина с картошкой",
+            "slug": "svinina-s-kartoshkoy"
+        },
+        {
+            "name": "Свинина с картошкой в духовке",
+            "slug": "svinina-s-kartoshkoy-v-duhovke"
+        },
+        {
+            "name": "Свинина с луком",
+            "slug": "svinina-s-lukom"
+        },
+        {
+            "name": "Свинина с овощами",
+            "slug": "svinina-s-ovoschami"
+        },
+        {
+            "name": "Свинина с сыром",
+            "slug": "svinina-s-syrom"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из свинины",
+            "slug": "ujin-iz-svininy"
+        }
+    ]
+}

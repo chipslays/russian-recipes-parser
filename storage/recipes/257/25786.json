@@ -1,0 +1,115 @@
+{
+    "source": "https://vkuso.ru/recipe/klassicheskij-syrnyj-sup-s-ovoshhami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Классический сырный суп с овощами",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/8d/3db2357fc53728d_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сырок плавленый",
+                    "slug": "syrok-plavleniy",
+                    "notes": null,
+                    "value": "1,5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Почистить картофель, порезать на кусочки, бросить в воду (полтора литра) и варить. Крупно потереть морковь, кубиками порезать луковицу. Тушить овощи минут пять на сковороде.",
+            "image": null
+        },
+        {
+            "text": "Положить лук с морковью в кастрюльку с картофелем. Порезать сыр на кусочки, бросить в суп. Мешать, пока не растворится сыр. Посыпать солью. Готовить классический сырный суп с овощами тридцать минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Классические рецепты",
+            "slug": "klassicheskie-recepty"
+        },
+        {
+            "name": "Классические супы",
+            "slug": "klassicheskie-supy"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп с плавленым сыром",
+            "slug": "sup-s-plavlenym-syrom"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Сырный суп",
+            "slug": "syrniy-sup"
+        }
+    ]
+}

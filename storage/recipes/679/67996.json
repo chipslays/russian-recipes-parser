@@ -1,0 +1,212 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-damskij-kapriz-s-yazykom-vetchinoj-i-gribami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Дамский каприз» с языком, ветчиной и грибами",
+    "description": "Салат отлично подойдет для празднования Нового года.",
+    "note": "Салат можно украсить зернышками граната. Другой вариант: листочки петрушки и орехи.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/43/4cdd62d8e4c6843_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "свиной язык",
+                    "slug": "svinoy-yazyk",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы маринованные",
+                    "slug": "ogurcy-marinovannye",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грибы",
+                    "slug": "griby",
+                    "notes": " (грибы маринованные)",
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для украшения",
+            "list": [
+                {
+                    "name": "гранат",
+                    "slug": "granat",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить свиной язык, охладить.",
+            "image": null
+        },
+        {
+            "text": "Мясо, ветчину и маринованные огурцы нарезать соломкой.",
+            "image": null
+        },
+        {
+            "text": "Свежие грибы хорошо промыть, нарезать, прожарить с репчатым луком.",
+            "image": null
+        },
+        {
+            "text": "Если для приготовления используются маринованный продукт, то достаточно простой нарезки на кусочки крупного размера.",
+            "image": null
+        },
+        {
+            "text": "Два варианта: выложить салат слоями или перемешать.",
+            "image": null
+        },
+        {
+            "text": "Заправить майонезом, поперчить.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Мясные салаты на Новый год",
+            "slug": "myasnye-salaty-na-noviy-god"
+        },
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат Дамский каприз",
+            "slug": "salat-damskiy-kapriz"
+        },
+        {
+            "name": "Салат с ветчиной",
+            "slug": "salat-s-vetchinoy"
+        },
+        {
+            "name": "Салат с грибами",
+            "slug": "salat-s-gribami"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с мясом и грибами",
+            "slug": "salat-s-myasom-i-gribami"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с гранатом",
+            "slug": "salaty-s-granatom"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты с маринованными огурцами",
+            "slug": "salaty-s-marinovannymi-ogurcami"
+        },
+        {
+            "name": "Салаты с мясом",
+            "slug": "salaty-s-myasom"
+        },
+        {
+            "name": "Салаты со свининой",
+            "slug": "salaty-so-svininoy"
+        },
+        {
+            "name": "Слоеные салаты",
+            "slug": "sloenye-salaty"
+        },
+        {
+            "name": "Слоеный салат с грибами",
+            "slug": "sloeniy-salat-s-gribami"
+        }
+    ]
+}

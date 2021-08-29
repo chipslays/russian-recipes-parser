@@ -1,0 +1,147 @@
+{
+    "source": "https://vkuso.ru/recipe/92755-finskaya-uxa-iz-gorbushi-so-slivkami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Финская уха из горбуши со сливками",
+    "description": "Нежное и мягкое блюдо. Попробуйте только один раз – и рецепт кушанья займет достойное место в вашем меню.",
+    "note": "Готовую уху можно посыпать рубленой зеленью.",
+    "cuisine": "Финская кухня",
+    "cuisine_slug": "finskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/92/bad5f8554a45c92_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час 10 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "филе горбуши",
+                    "slug": "file-gorbushi",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Очистить клубни картофеля, мякоть нашинковать кубиками, выложить в кастрюлю, залить водой.",
+            "image": null
+        },
+        {
+            "text": "Довести до кипения, варить около десяти минут.",
+            "image": null
+        },
+        {
+            "text": "На сковороде растопить сливочное масло.",
+            "image": null
+        },
+        {
+            "text": "Горбушу очистить, филе нарезать кубиками и обжарить в течение минуты вместе с рубленым луком.",
+            "image": null
+        },
+        {
+            "text": "Содержимое сковороды переложить в кастрюлю, варить пятнадцать минут.",
+            "image": null
+        },
+        {
+            "text": "Влить сливки, прогревать еще пять минут.",
+            "image": null
+        },
+        {
+            "text": "Всыпать соль и перец, суп перемешать.",
+            "image": null
+        },
+        {
+            "text": "Настаивать в течение пяти минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Рыбный суп",
+            "slug": "rybniy-sup"
+        },
+        {
+            "name": "Сливочный суп",
+            "slug": "slivochniy-sup"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из горбуши",
+            "slug": "sup-iz-gorbushi"
+        },
+        {
+            "name": "Суп со сливками",
+            "slug": "sup-so-slivkami"
+        },
+        {
+            "name": "Уха",
+            "slug": "uha"
+        },
+        {
+            "name": "Уха из горбуши",
+            "slug": "uha-iz-gorbushi"
+        },
+        {
+            "name": "Уха по-фински",
+            "slug": "uha-po-finski"
+        }
+    ]
+}

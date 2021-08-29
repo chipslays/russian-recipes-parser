@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/pyshnye-oladi-na-zavtrak-iz-moloka/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пышные оладьи на завтрак из молока",
+    "description": null,
+    "note": "Подавать пышные оладьи на завтрак из молока с вареньем или сметаной.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ba/fc91cf49c3752ba_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "350-400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": " (для жарки)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Подогреть молоко до теплого состояния, вылить в большую емкость.",
+            "image": null
+        },
+        {
+            "text": "Положить дрожжи, насыпать ложку сахара, размешать венчиком, накрыть полотенцем, отправить в тепло на 10-15 минут.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/ae/864138f0ffb5aae_434x295.jpg"
+        },
+        {
+            "text": "Взбить яйца. Добавить яйца, соль, муку, оставшийся сахар в молоко. Перемешать до однородности. Накрыть посуду, отставить на полтора часа, чтобы тесто увеличилось.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/41/1ed2747ec637d41_434x295.jpg"
+        },
+        {
+            "text": "Нагреть на сковороде растительное масло, положить ложкой оладьи на сковороду, обжарить со всех сторон.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/76/2b2eb71f8deaa76_434x295.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Оладьи",
+            "slug": "oladi"
+        },
+        {
+            "name": "Оладьи на дрожжах",
+            "slug": "oladi-na-drojjah"
+        },
+        {
+            "name": "Оладьи на молоке",
+            "slug": "oladi-na-moloke"
+        },
+        {
+            "name": "Пышные оладьи",
+            "slug": "pyshnye-oladi"
+        }
+    ]
+}

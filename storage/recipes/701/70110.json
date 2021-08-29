@@ -1,0 +1,184 @@
+{
+    "source": "https://vkuso.ru/recipe/70110-salat-s-ovoshhami-kurinoj-grudkoj-i-tykvennymi-semechkami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат с овощами, куриной грудкой и тыквенными семечками",
+    "description": "Салат очень вкусный. Поджаренные семечки дают вкус и структуру. Салат хорош и с орешками, но семечки радуют еще и ценой. Лепешки можно заменить сухарями, а куриную грудку и вовсе можно убрать из салата, будет тоже очень вкусно. В заправку для салата хорошо будет добавить лимонный сок",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ac/ea4654ffb84cfac_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "25 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/-OtO-dyXZvw?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "семечки тыквенные",
+                    "slug": "semechki-tykvennye",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "листья салата",
+                    "slug": "listya-salata",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для лепешек",
+            "list": [
+                {
+                    "name": "мука пшеничная",
+                    "slug": "muka-pshenichnaya",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "150",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отвариваем яйца.",
+            "image": null
+        },
+        {
+            "text": "Для лепешек замешаем тесто. В просеянную муку добавляем растительное масло, соль. По чуть-чуть добавляя воду, замешиваем тесто. Тесто не должно липнуть к рукам.  Даем постоять тесту минут 15. Делим тесто на части (у меня получилось 6 частей). Раскатываем каждую часть теста на тонкую лепешку и жарим на сухой сковороде. ",
+            "image": null
+        },
+        {
+            "text": "Куриную грудку поджарим с двух сторон на масле.",
+            "image": null
+        },
+        {
+            "text": "Тыквенные семечки промываем под струей воды, откидываем на дуршлаг, даем стечь жидкости. Поджариваем семечки на сухой сковороде на небольшом огне, чтобы не подгорели.",
+            "image": null
+        },
+        {
+            "text": "Измельчим салат, нарежем помидор, яйца, куриную грудку, лепешки. Смешаем, добавляем растительное масло, соль, семечки. Салат готов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Легкий салат",
+            "slug": "legkiy-salat"
+        },
+        {
+            "name": "Салат из помидоров",
+            "slug": "salat-iz-pomidorov"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с куриным филе",
+            "slug": "salat-s-kurinym-file"
+        },
+        {
+            "name": "Салат с курицей",
+            "slug": "salat-s-kuricey"
+        },
+        {
+            "name": "Салат с курицей и овощами",
+            "slug": "salat-s-kuricey-i-ovoschami"
+        },
+        {
+            "name": "Салат с курицей и помидорами",
+            "slug": "salat-s-kuricey-i-pomidorami"
+        },
+        {
+            "name": "Салат с курицей и яйцом",
+            "slug": "salat-s-kuricey-i-yaycom"
+        },
+        {
+            "name": "Салат с помидорами и яйцами",
+            "slug": "salat-s-pomidorami-i-yaycami"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты из листьев салата",
+            "slug": "salaty-iz-listev-salata"
+        },
+        {
+            "name": "Салаты на скорую руку",
+            "slug": "salaty-na-skoruyu-ruku"
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "source": "https://vkuso.ru/recipe/zapechennyj-kartofel-v-moloke-v-duxovke/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Запеченный картофель в молоке в духовке",
+    "description": "Блюдо из детства, такое вкусное кушанье готовили наши бабушки. Блюдо простое, важно его правильно приготовить и выбрать качественные продукты.",
+    "note": "Для приготовления блюда лучше взять свежее деревенское молоко, оно не должно свернуться. Картофель лучше взять средней плотности, он не должен развалиться. Запеканку можно приготовить в порционных горшочках. При желании в массу можно добавить репчатый лук и обжаренную свинину.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/8a/8fc9ba8d6dcc88a_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Тщательно вымыть, очистить и нарезать кружочками клубни картофеля. Репчатый лук нарезать кубиками. Оба ингредиента смешать, добавить соль и молотый перец, любые сухие специи. Массу выложить в форму для запекания слоем в пять сантиметров, залить молоком. Поверх запеканки выложить нарезанное кусочками сливочное масло.",
+            "image": null
+        },
+        {
+            "text": "Печь при температуре 200 градусов в течение 15 минут, затем температуру убавить до 150 градусов, печь еще 40 минут. Еще вариант: сделать температуру минимальной и оставить блюдо в духовке на 2–3 часа. При подаче посыпать запеченный картофель в молоке зеленым луком.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вегетарианские вторые блюда",
+            "slug": "vegetarianskie-vtorye-blyuda"
+        },
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из картофеля",
+            "slug": "vtorye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Вторые блюда из овощей",
+            "slug": "vtorye-blyuda-iz-ovoschey"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Гарнир из картофеля",
+            "slug": "garnir-iz-kartofelya"
+        },
+        {
+            "name": "Гарнир к курице",
+            "slug": "garnir-k-kurice"
+        },
+        {
+            "name": "Гарниры",
+            "slug": "garniry"
+        },
+        {
+            "name": "Горячие блюда на праздничный стол",
+            "slug": "goryachie-blyuda-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Картофель запеченный",
+            "slug": "kartofel-zapechenniy"
+        },
+        {
+            "name": "Картошка в духовке",
+            "slug": "kartoshka-v-duhovke"
+        },
+        {
+            "name": "Овощи в духовке",
+            "slug": "ovoschi-v-duhovke"
+        },
+        {
+            "name": "Праздничные гарниры",
+            "slug": "prazdnichnye-garniry"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из овощей",
+            "slug": "ujin-iz-ovoschey"
+        }
+    ]
+}

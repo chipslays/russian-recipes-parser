@@ -1,0 +1,103 @@
+{
+    "source": "https://vkuso.ru/recipe/desert-shokolad-s-klubnikoj/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Десерт «Шоколад с клубникой»",
+    "description": null,
+    "note": "Вместо шоколада можно сделать клубнику в йогурте. Для этого сладкий йогурт залить в формочки с клубникой и поставить в морозилку.",
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/95/6ab9fa98be41495_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "клубника",
+                    "slug": "klubnika",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад черный горький",
+                    "slug": "shokolad-cherniy-gorkiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "На водяной бане или в микроволновке растопить шоколад.  Если клубника крупная, то разрезать ее пополам. Положить клубнику по одной штучке в формочки для льда. Залить в формочки шоколад и поставить в морозильник на 5 минут. Как только шоколад застынет, десерт «Шоколад с клубникой» готов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Десерты с клубникой",
+            "slug": "deserty-s-klubnikoy"
+        },
+        {
+            "name": "Детский день рождения",
+            "slug": "detskiy-den-rojdeniya"
+        },
+        {
+            "name": "Детский праздник",
+            "slug": "detskiy-prazdnik"
+        },
+        {
+            "name": "Новогодние десерты",
+            "slug": "novogodnie-deserty"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Фруктово-ягодные десерты",
+            "slug": "fruktovo-yagodnye-deserty"
+        },
+        {
+            "name": "Шоколадный десерт",
+            "slug": "shokoladniy-desert"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "source": "https://vkuso.ru/recipe/syrniki-s-kletchatkoj-v-duxovke/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Сырники с клетчаткой в духовке",
+    "description": "Всем известные сырники с минимальным содержанием жира, такое блюдо подходит для диетического питания.",
+    "note": "По желанию в творожную массу можно добавить промытый и высушенный изюм без косточек, нарезанные сухофрукты, цукаты из лимона или апельсина.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/cc/1f9671989ee06cc_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог обезжиренный",
+                    "slug": "tvorog-obezjirenniy",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко 0.5%",
+                    "slug": "moloko-0-5",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "клетчатка",
+                    "slug": "kletchatka",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "заменитель сахара",
+                    "slug": "zamenitel-sahara",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Хорошо перемешать обезжиренный творог, клетчатку, сырое куриное яйцо, молоко, сахарозаменитель.",
+            "image": null
+        },
+        {
+            "text": "Полученную массу выложить на противень в виде лепешек, поверхность предварительно застелить фольгой или бумагой для выпекания.",
+            "image": null
+        },
+        {
+            "text": "Поставить в духовку, печь при температуре 180 градусов в течение 20 – 25 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Полдник",
+            "slug": "poldnik"
+        },
+        {
+            "name": "Сырники",
+            "slug": "syrniki"
+        },
+        {
+            "name": "Сырники без манки",
+            "slug": "syrniki-bez-manki"
+        },
+        {
+            "name": "Сырники без муки",
+            "slug": "syrniki-bez-muki"
+        },
+        {
+            "name": "Сырники в духовке",
+            "slug": "syrniki-v-duhovke"
+        },
+        {
+            "name": "Сырники запеченные",
+            "slug": "syrniki-zapechennye"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

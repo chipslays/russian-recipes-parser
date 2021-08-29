@@ -1,0 +1,91 @@
+{
+    "source": "https://vkuso.ru/recipe/94228-lyubimyj-jogurt-v-xlebopechke/",
+    "category": "Молочные продукты домашние",
+    "category_slug": "molochnye-produkty-domashnie",
+    "title": "Любимый йогурт в хлебопечке",
+    "description": "В хлебопечке можно приготовить вкусный и полезный йогурт без консервантов и других неоднозначных промышленных добавок.",
+    "note": "В некоторых хлебопечках вместо функции «Йогурт» есть режим «Диспенсер». В этом случае фруктовые наполнители добавляют в основной продукт в самом конце приготовления.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/9f/d586f9847288b9f_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "8 часов 30 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/1_eDvC3KxR0?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 3 порции",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "закваска",
+                    "slug": "zakvaska",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пакетик",
+                    "amount": null
+                },
+                {
+                    "name": "фрукты",
+                    "slug": "frukty",
+                    "notes": " (сухофрукты)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "джем",
+                    "slug": "djem",
+                    "notes": " (мёд)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приобрести в аптеке специальную закваску.",
+            "image": null
+        },
+        {
+            "text": "Свежее деревенское молоко довести до кипения, остудить до сорока градусов, перелить в емкость хлебопечки.",
+            "image": null
+        },
+        {
+            "text": "В небольшом количестве подогретого молока развести порошок.",
+            "image": null
+        },
+        {
+            "text": "Вылить закваску в емкость, перемешать, добавить нарезанные фрукты или любимый джем.",
+            "image": null
+        },
+        {
+            "text": "Выставить программу «Йогурт» на восемь часов.",
+            "image": null
+        },
+        {
+            "text": "Если продукт получился жидким, его лучше поставить в холодильник до загустения.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Йогурт домашний",
+            "slug": "yogurt-domashniy"
+        },
+        {
+            "name": "Хлебопечка",
+            "slug": "hlebopechka"
+        }
+    ]
+}

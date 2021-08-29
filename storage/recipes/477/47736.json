@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/dieticheskoe-ovsyano-tvorozhnoe-pechene-s-yablokami/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Диетическое овсяно-творожное печенье с яблоками",
+    "description": "Мягкое печенье с яблочным пюре и обезжиренным творогом.",
+    "note": "В тесто можно добавить хорошо промытый и обсушенный изюм без косточек или любые сухофрукты, нарезанные небольшими кусочками.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/78/ae712f5a7748b78_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог обезжиренный",
+                    "slug": "tvorog-obezjirenniy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "овсяные хлопья",
+                    "slug": "ovsyanye-hlopya",
+                    "notes": null,
+                    "value": "120",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Овсяные хлопья залить водой, дать каше настояться, на это потребуется 15 – 20 минут.",
+            "image": null
+        },
+        {
+            "text": "Очистить и натереть яблоко, смешать пюре с хлопьями и обезжиренным творогом, вручную, с помощью ложки, или блендером.",
+            "image": null
+        },
+        {
+            "text": "Мокрыми руками сформовать небольшие шарики, придать им овальную форму, немного расплющить, выложить на противень, застеленный пекарской бумагой.",
+            "image": null
+        },
+        {
+            "text": "Печь при температуре 180 градусов в течение получаса. Верх печенья должен немного подрумяниться.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Без яиц",
+            "slug": "bez-yaic"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка на скорую руку",
+            "slug": "vypechka-na-skoruyu-ruku"
+        },
+        {
+            "name": "Выпечка с яблоками",
+            "slug": "vypechka-s-yablokami"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Детское печенье",
+            "slug": "detskoe-pechene"
+        },
+        {
+            "name": "Диетическое печенье",
+            "slug": "dieticheskoe-pechene"
+        },
+        {
+            "name": "Овсянка на завтрак",
+            "slug": "ovsyanka-na-zavtrak"
+        },
+        {
+            "name": "Овсяное печенье",
+            "slug": "ovsyanoe-pechene"
+        },
+        {
+            "name": "Печенье",
+            "slug": "pechene"
+        },
+        {
+            "name": "Печенье без муки",
+            "slug": "pechene-bez-muki"
+        },
+        {
+            "name": "Печенье без яиц",
+            "slug": "pechene-bez-yaic"
+        },
+        {
+            "name": "Печенье из овсяных хлопьев",
+            "slug": "pechene-iz-ovsyanyh-hlopev"
+        },
+        {
+            "name": "Творожное печенье",
+            "slug": "tvorojnoe-pechene"
+        }
+    ]
+}

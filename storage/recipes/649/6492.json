@@ -1,0 +1,204 @@
+{
+    "source": "https://vkuso.ru/recipe/klassicheskaya-polskaya-sharlotka-s-yablokami/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Классическая польская шарлотка с яблоками",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e3/91d616404a0c1e3_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "310",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар коричневый",
+                    "slug": "sahar-korichneviy",
+                    "notes": null,
+                    "value": "120",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца 3",
+                    "slug": "yayca-3",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "шт."
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "1,5",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "сахар ванильный",
+                    "slug": "sahar-vanilniy",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Порезать на небольшие кубики масло, порубить в крупную крошку с просеянной мукой.",
+            "image": null
+        },
+        {
+            "text": "Смешать в глубокой миске сахар, яичные желтки, сметану, подсолить, объединить с крошкой, перемешать до однородности, обернуть тесто пленкой, поставить на час в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Подготовить яблоки (кисло-сладкие) для начинки: почистить, удалить сердцевину и косточки. Порезать на кубики, посыпать смесью обычного и ванильного сахара, перемешать, высыпать в сухую  сковороду и потушить до мягкости около 10 минут (следить, чтобы не получилась каша), всыпать муку, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Включить прогреться духовку до 180 градусов, подготовить форму для выпечки. Достать тесто, отделить небольшой кусочек (размером чуть больше теннисного мячика). Основную часть раскатать по размерам формы с небольшим запасом для формирования бортика в 3-4 см, проколоть тесто в нескольких местах вилкой, отправить минут на 12-13 в духовку.",
+            "image": null
+        },
+        {
+            "text": "Готовую основу наполнить начинкой, слой разровнять и утрамбовать. Раскатать вторую часть теста, нарезать на полоски, разложить вплотную одна к другой по поверхности классической польской шарлотки с яблоками, отправить десерт минут на 35 в духовку.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Выпечка с яблоками",
+            "slug": "vypechka-s-yablokami"
+        },
+        {
+            "name": "Десерты из яблок",
+            "slug": "deserty-iz-yablok"
+        },
+        {
+            "name": "Классические рецепты",
+            "slug": "klassicheskie-recepty"
+        },
+        {
+            "name": "Новогодняя выпечка",
+            "slug": "novogodnyaya-vypechka"
+        },
+        {
+            "name": "Пирог с яблоками",
+            "slug": "pirog-s-yablokami"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги классические",
+            "slug": "pirogi-klassicheskie"
+        },
+        {
+            "name": "Пироги с начинкой",
+            "slug": "pirogi-s-nachinkoy"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Сладкие пироги",
+            "slug": "sladkie-pirogi"
+        },
+        {
+            "name": "Шарлотка",
+            "slug": "sharlotka"
+        },
+        {
+            "name": "Шарлотка в духовке",
+            "slug": "sharlotka-v-duhovke"
+        },
+        {
+            "name": "Шарлотка классическая с яблоками",
+            "slug": "sharlotka-klassicheskaya-s-yablokami"
+        },
+        {
+            "name": "Шарлотка на сметане",
+            "slug": "sharlotka-na-smetane"
+        },
+        {
+            "name": "Шарлотка с яблоками",
+            "slug": "sharlotka-s-yablokami"
+        }
+    ]
+}

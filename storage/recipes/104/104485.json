@@ -1,0 +1,207 @@
+{
+    "source": "https://vkuso.ru/recipe/104485-pirog-s-vetchinoj-i-syrom-na-sloenom-teste/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пирог с ветчиной и сыром на слоеном тесте",
+    "description": "Очень простой пирог на уже готовом слоеном тесте. Начинка для пирога очень простая и незамысловатая, но объединив все эти продукты вместе — получается очень нежная.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/90/9e7f238945e3290_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/5R5yYOtdyRM?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "мак",
+                    "slug": "mak",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": "&frac13;",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "7",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр сливочный мягкий",
+                    "slug": "syr-slivochniy-myagkiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр полутвердый",
+                    "slug": "syr-polutverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца куриные",
+                    "slug": "yayca-kurinye",
+                    "notes": null,
+                    "value": "7",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "тесто слоеное бездрожжевое",
+                    "slug": "testo-sloenoe-bezdrojjevoe",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарежьте ветчину и болгарский перец небольшими кубиками, сложите в миску. Добавьте яйца (5 шт.), соль и перец – перемешать.",
+            "image": null
+        },
+        {
+            "text": "Разогрейте на сковороде сливочное масло. Вылейте в сковороду яичную смесь и готовьте на сильном огне 2–3 минуты перемешивая. Добавьте сливочный сыр перемешивайте пока сыр не растает. Снимите сковороду с огня.",
+            "image": null
+        },
+        {
+            "text": "Раскатайте тесто в прямоугольник размером, выложите на противень, застеленный пекарской бумагой. В центр теста выложите начинку из яичного омлета. На омлет натрите сыр на крупной терке.",
+            "image": null
+        },
+        {
+            "text": "Сделайте надрезы на тесте перпендикулярно начинке, на расстоянии 2– 3 см друг от друга по длинным сторонам прямоугольника, немного не доходя до начинки. Затем заворачиваем край на начинку и поочередно накрываем начинку кусочками теста, будто заплетая косу.",
+            "image": null
+        },
+        {
+            "text": "Взбиваем оставшееся яйцо и смазываем им тесто, затем посыпаем маком. Разогреваем духовку до 180 градусов, выпекаем 25 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сахара",
+            "slug": "vypechka-bez-sahara"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка из слоеного теста",
+            "slug": "vypechka-iz-sloenogo-testa"
+        },
+        {
+            "name": "Выпечка с маком",
+            "slug": "vypechka-s-makom"
+        },
+        {
+            "name": "Выпечка с сыром",
+            "slug": "vypechka-s-syrom"
+        },
+        {
+            "name": "Закрытый пирог",
+            "slug": "zakrytiy-pirog"
+        },
+        {
+            "name": "Несладкая выпечка",
+            "slug": "nesladkaya-vypechka"
+        },
+        {
+            "name": "Несладкие пироги",
+            "slug": "nesladkie-pirogi"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог из слоеного теста",
+            "slug": "pirog-iz-sloenogo-testa"
+        },
+        {
+            "name": "Пирог с маком",
+            "slug": "pirog-s-makom"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги с начинкой",
+            "slug": "pirogi-s-nachinkoy"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рулеты из теста",
+            "slug": "rulety-iz-testa"
+        },
+        {
+            "name": "Сковорода",
+            "slug": "skovoroda"
+        }
+    ]
+}

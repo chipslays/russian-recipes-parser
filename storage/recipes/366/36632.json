@@ -1,0 +1,221 @@
+{
+    "source": "https://vkuso.ru/recipe/pirog-grushi-v-mindalnom-kreme-v-duxovke/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пирог «Груши в миндальном креме» в духовке",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/77/1cb36f9f909d977_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "110",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для основы",
+            "list": [
+                {
+                    "name": "миндаль",
+                    "slug": "mindal",
+                    "notes": null,
+                    "value": "190",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "груши",
+                    "slug": "grushi",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1/4",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "экстракт миндаля",
+                    "slug": "ekstrakt-mindalya",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для миндального крема",
+            "list": [
+                {
+                    "name": "джем абрикосовый",
+                    "slug": "djem-abrikosoviy",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "С помощью кухонного комбайна взбить просеянную пшеничную муку с охлажденным сливочным маслом в крошку. Влить немного холодной воды. Выложить массу на рабочую поверхность, сформовать диск. Обернуть его пищевой пленкой и положить в холодильник на час или на сутки. Охлажденное тесто раскатать в лепешку по размеру формы для выпечки, выложить.",
+            "image": null
+        },
+        {
+            "text": "Приготовить крем из молотого миндаля, сливочного масла, яйца, дополнительного белка, миндального экстракта. Массу взбивать при добавлении каждого нового компонента. Вылить смесь на корж в форму. Очистить груши от кожицы и внутренней части, нарезать на мелкие дольки. Сбрызнуть лимонным соком, чтобы не почернели, переложить в крем и слегка вдавить.",
+            "image": null
+        },
+        {
+            "text": "Печь при температуре 190 градусов в течение 50–55 минут. Начинка должна покрыться золотисто-коричневой корочкой. В небольшой кастрюле нагреть воду или бренди с абрикосовым джемом. Готовый пирог «Груши в миндальном креме» смазать жидкостью, остудить до комнатной температуры и подать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка с грушами",
+            "slug": "vypechka-s-grushami"
+        },
+        {
+            "name": "Выпечка с джемом",
+            "slug": "vypechka-s-djemom"
+        },
+        {
+            "name": "Выпечка с орехами",
+            "slug": "vypechka-s-orehami"
+        },
+        {
+            "name": "Выпечка с фруктами",
+            "slug": "vypechka-s-fruktami"
+        },
+        {
+            "name": "Открытый пирог",
+            "slug": "otkrytiy-pirog"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог с орехами",
+            "slug": "pirog-s-orehami"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги с грушами",
+            "slug": "pirogi-s-grushami"
+        },
+        {
+            "name": "Пироги с фруктами",
+            "slug": "pirogi-s-fruktami"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        }
+    ]
+}

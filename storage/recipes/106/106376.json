@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/106376-govyadina-v-medovo-chesnochnom-souse/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Говядина в медово-чесночном соусе",
+    "description": "Оригинальное сочетание соленого со сладким, кислого с горьким. Как ни странно, все вместе – это очень вкусно и гармонично.",
+    "note": "Готовое мясо подать с салатом из овощей, заправленным виноградным или оливковым маслом.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/4b/ae1da0ba22b154b_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "2 часа 30 минут",
+    "preparetime": "12 часов",
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 8 порции",
+            "list": [
+                {
+                    "name": "говядина",
+                    "slug": "govyadina",
+                    "notes": " (молодая)",
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "уксус бальзамический",
+                    "slug": "uksus-balzamicheskiy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соус соевый",
+                    "slug": "sous-soeviy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный горошком",
+                    "slug": "perec-cherniy-goroshkom",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сварить маринад из воды, лаврового листа, соли, перца-горошка.",
+            "image": null
+        },
+        {
+            "text": "Выложить кусок молодой говядины на двенадцать часов.",
+            "image": null
+        },
+        {
+            "text": "Приготовить смесь из меда с давленым чесноком, солью, бальзамическим уксусом, соевым соусом. Ингредиенты хорошо перемешать.",
+            "image": null
+        },
+        {
+            "text": "Вынуть мясо из рассола, обсушить, намазать готовым соусом.",
+            "image": null
+        },
+        {
+            "text": "Завернуть в фольгу, положить в духовой шкаф на два часа.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Буженина в фольге",
+            "slug": "bujenina-v-folge"
+        },
+        {
+            "name": "Буженина домашняя",
+            "slug": "bujenina-domashnyaya"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из говядины",
+            "slug": "vtorye-blyuda-iz-govyadiny"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Говядина в духовке",
+            "slug": "govyadina-v-duhovke"
+        },
+        {
+            "name": "Говядина в фольге",
+            "slug": "govyadina-v-folge"
+        },
+        {
+            "name": "Запеченные блюда",
+            "slug": "zapechennye-blyuda"
+        },
+        {
+            "name": "Мясо в духовке",
+            "slug": "myaso-v-duhovke"
+        },
+        {
+            "name": "Мясо в фольге",
+            "slug": "myaso-v-folge"
+        },
+        {
+            "name": "Мясо запеченное",
+            "slug": "myaso-zapechennoe"
+        },
+        {
+            "name": "Ужин из говядины",
+            "slug": "ujin-iz-govyadiny"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Фольга",
+            "slug": "folga"
+        }
+    ]
+}

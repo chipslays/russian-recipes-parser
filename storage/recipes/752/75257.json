@@ -1,0 +1,191 @@
+{
+    "source": "https://vkuso.ru/recipe/kordon-blyu-iz-kabachkov/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Кордон блю из кабачков",
+    "description": "Необычный и быстрый вариант приготовления блюда, поскольку вместо мяса начинка, из уже готовых к употреблению продуктов (сыр с колбасой), помещается между кабачковыми ломтиками, а их некоторые любители едят даже сырыми. Кабачки лучше брать молодые с упругой сочной мякотью и еще несформированными косточками.",
+    "note": null,
+    "cuisine": "Швейцарская кухня",
+    "cuisine_slug": "shveycarskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/15/fafb7e6758f4f15_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/vA7OTDe2b6o?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "колбаса вареная",
+                    "slug": "kolbasa-varenaya",
+                    "notes": null,
+                    "value": "230",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "220",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кабачки",
+                    "slug": "kabachki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сухари панировочные",
+                    "slug": "suhari-panirovochnye",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Очистить кабачки (цукини), но если кожица совсем тоненькая, то ее можно оставить.",
+            "image": null
+        },
+        {
+            "text": "Нарезать на тонкие (до 3 мм) пластинки вместе с колбасой и сыром.",
+            "image": null
+        },
+        {
+            "text": "Кабачковые заготовки слегка присолить, дождаться сока, промакнуть его бумажным полотенцем.",
+            "image": null
+        },
+        {
+            "text": "Присыпать их из мельнички смесью перцев и любимыми приправами.",
+            "image": null
+        },
+        {
+            "text": "Собрать кордон блю из кабачков, поместив между двух пластинок по кусочку сыра с колбасой.",
+            "image": null
+        },
+        {
+            "text": "Обвалять со всех сторон в муке, обмакнуть в разболтанное яйцо, обвалять в сухарях.",
+            "image": null
+        },
+        {
+            "text": "Обжарить в прогретом масле при минимальном нагреве, прикрыв крышкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "В панировке",
+            "slug": "v-panirovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из овощей",
+            "slug": "vtorye-blyuda-iz-ovoschey"
+        },
+        {
+            "name": "Горячие блюда на праздничный стол",
+            "slug": "goryachie-blyuda-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Кабачки в духовке",
+            "slug": "kabachki-v-duhovke"
+        },
+        {
+            "name": "Кабачки запеченные",
+            "slug": "kabachki-zapechennye"
+        },
+        {
+            "name": "Кабачки с сыром",
+            "slug": "kabachki-s-syrom"
+        },
+        {
+            "name": "Кордон блю",
+            "slug": "kordon-blyu"
+        },
+        {
+            "name": "Овощи в духовке",
+            "slug": "ovoschi-v-duhovke"
+        },
+        {
+            "name": "Овощи в панировке",
+            "slug": "ovoschi-v-panirovke"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Ужин из кабачков",
+            "slug": "ujin-iz-kabachkov"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из овощей",
+            "slug": "ujin-iz-ovoschey"
+        },
+        {
+            "name": "Фаршированное мясо",
+            "slug": "farshirovannoe-myaso"
+        },
+        {
+            "name": "Фаршированные блюда",
+            "slug": "farshirovannye-blyuda"
+        },
+        {
+            "name": "Шницель",
+            "slug": "shnicel"
+        }
+    ]
+}

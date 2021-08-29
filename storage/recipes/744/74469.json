@@ -1,0 +1,135 @@
+{
+    "source": "https://vkuso.ru/recipe/lavash-s-tvorozhno-yablochnoj-nachinkoj-i-orexami/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Лаваш с творожно-яблочной начинкой и орехами",
+    "description": "Десертный вариант лаваша, сладкая начинка немного неожиданна, но не уникальна. Всем известная тонкая лепешка позволяет готовить и острые закуски, и нежное завершение обеда.",
+    "note": "Готовый десерт разрезать на кусочки, при подаче их можно полить фруктовым сиропом, украсить свежими или размороженными ягодами.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/bc/a384e1b017901bc_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог зерненый",
+                    "slug": "tvorog-zerneniy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лаваш тонкий",
+                    "slug": "lavash-tonkiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "орехи",
+                    "slug": "orehi",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Крупное, сладкое яблоко очистить и натереть на крупной терке.",
+            "image": null
+        },
+        {
+            "text": "Поставить в микроволновую печь на две минуты.",
+            "image": null
+        },
+        {
+            "text": "Расстелить лист пергамента, выложить лаваш.",
+            "image": null
+        },
+        {
+            "text": "Намазать массу из печеного яблока.",
+            "image": null
+        },
+        {
+            "text": "Треть поверхности оставить непокрытой.",
+            "image": null
+        },
+        {
+            "text": "Выложить орехи и зернистый творог.",
+            "image": null
+        },
+        {
+            "text": "Скрутить рулет, поставить его в духовку на 10 – 15 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из лаваша",
+            "slug": "vypechka-iz-lavasha"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка с орехами",
+            "slug": "vypechka-s-orehami"
+        },
+        {
+            "name": "Выпечка с яблоками",
+            "slug": "vypechka-s-yablokami"
+        },
+        {
+            "name": "Лаваш с творогом",
+            "slug": "lavash-s-tvorogom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        },
+        {
+            "name": "Яблоки в духовке",
+            "slug": "yabloki-v-duhovke"
+        },
+        {
+            "name": "Яблоки с творогом",
+            "slug": "yabloki-s-tvorogom"
+        }
+    ]
+}

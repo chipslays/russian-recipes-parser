@@ -1,0 +1,103 @@
+{
+    "source": "https://vkuso.ru/recipe/prostoj-kompot-iz-kuragi-v-multivarke/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Простой компот из кураги в мультиварке",
+    "description": "Полезный прибор позволит сварить напиток быстро и без потерь витаминов и других полезных элементов. Компот уместен для детского и диетического рациона.",
+    "note": "По желанию в компот можно добавить ломтик лимона.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c2/de29e984bb93ec2_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "курага",
+                    "slug": "kuraga",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Курагу вымочить в холодной воде, промыть, положить в чашу мультиварки.",
+            "image": null
+        },
+        {
+            "text": "Всыпать сахарный песок, влить воду.",
+            "image": null
+        },
+        {
+            "text": "Прибор закрыть, включить режим «Суп» на один час.",
+            "image": null
+        },
+        {
+            "text": "Крышку не открывать, компот не перемешивать.",
+            "image": null
+        },
+        {
+            "text": "После того, как программа завершится, напиток оставить на час для настаивания.",
+            "image": null
+        },
+        {
+            "text": "Крышку открыть, компот остудить и перелить в кувшин.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Домашний компот",
+            "slug": "domashniy-kompot"
+        },
+        {
+            "name": "Компот в мультиварке",
+            "slug": "kompot-v-multivarke"
+        },
+        {
+            "name": "Компот из кураги",
+            "slug": "kompot-iz-kuragi"
+        },
+        {
+            "name": "Компот из сухофруктов",
+            "slug": "kompot-iz-suhofruktov"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Фруктовые напитки",
+            "slug": "fruktovye-napitki"
+        }
+    ]
+}

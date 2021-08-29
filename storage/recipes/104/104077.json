@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/104077-brusketta-s-krevetkami-i-ikroj/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Брускетта с креветками и икрой",
+    "description": "Хрустящие бутерброды с соленой икрой – такая закуска может украсить праздничный стол.",
+    "note": "Бутерброды можно подать к столу с шампанским, украсить тонко нарезанным лимоном.",
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/2a/df14cc19ea90e2a_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "25 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 10 порции",
+            "list": [
+                {
+                    "name": "хлеб",
+                    "slug": "hleb",
+                    "notes": null,
+                    "value": "10-12",
+                    "type": "кусочков",
+                    "amount": null
+                },
+                {
+                    "name": "креветки",
+                    "slug": "krevetki",
+                    "notes": " (вареные)",
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр рикотта",
+                    "slug": "syr-rikotta",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "икра",
+                    "slug": "ikra",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "горчица дижонская",
+                    "slug": "gorchica-dijonskaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень укропа",
+                    "slug": "zelen-ukropa",
+                    "notes": null,
+                    "value": "½",
+                    "type": "пучка",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Ломтики хлеба обжарить до золотистого цвета на сковороде.",
+            "image": null
+        },
+        {
+            "text": "Нарезать кусочками очищенные отваренные креветки. Часть морепродуктов оставить целыми, для украшения.",
+            "image": null
+        },
+        {
+            "text": "Измельчить зелень укропа.",
+            "image": null
+        },
+        {
+            "text": "Бока брускетт обмазать сливочным маслом и обмакнуть в укроп. Должна получиться зеленая окантовка закуски.",
+            "image": null
+        },
+        {
+            "text": "Майонез перемешать с дижонской горчицей, перемешать с креветками.",
+            "image": null
+        },
+        {
+            "text": "Рикотту посолить и поперчить, взбить при помощи миксера до получения воздушной массы.",
+            "image": null
+        },
+        {
+            "text": "Слайсы смазать рикоттой, выложить креветки, небольшие горки икры и по целой креветке.",
+            "image": null
+        },
+        {
+            "text": "Украсить веточками зелени укропа.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Брускетта",
+            "slug": "brusketta"
+        },
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды на день рождения",
+            "slug": "buterbrody-na-den-rojdeniya"
+        },
+        {
+            "name": "Бутерброды на Новый год",
+            "slug": "buterbrody-na-noviy-god"
+        },
+        {
+            "name": "Бутерброды на праздничный стол",
+            "slug": "buterbrody-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Бутерброды открытые",
+            "slug": "buterbrody-otkrytye"
+        },
+        {
+            "name": "Бутерброды с икрой",
+            "slug": "buterbrody-s-ikroy"
+        },
+        {
+            "name": "Бутерброды с креветками",
+            "slug": "buterbrody-s-krevetkami"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Закуски из морепродуктов",
+            "slug": "zakuski-iz-moreproduktov"
+        },
+        {
+            "name": "Новогодние закуски",
+            "slug": "novogodnie-zakuski"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        }
+    ]
+}

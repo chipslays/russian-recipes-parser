@@ -1,0 +1,139 @@
+{
+    "source": "https://vkuso.ru/recipe/ris-na-skovorode-za-polchasa/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Рис на сковороде за полчаса",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e8/00e0e0a98144fe8_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Порезать лук на кубики, мелко потереть морковь. На сковороду налить масло и поставить на огонь. Положить морковь и лук, чуть-чуть обжарить.",
+            "image": null
+        },
+        {
+            "text": "Положить рис, размешать, пропитать двадцать секунд. Налить два стакана воды, размешать, накрыть крышкой.",
+            "image": null
+        },
+        {
+            "text": "Минут через десять посыпать солью, размешать, накрыть рис на сковороде крышкой. Оставить минут на пятнадцать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские вторые блюда",
+            "slug": "vegetarianskie-vtorye-blyuda"
+        },
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Вторые блюда из овощей",
+            "slug": "vtorye-blyuda-iz-ovoschey"
+        },
+        {
+            "name": "Вторые блюда из риса",
+            "slug": "vtorye-blyuda-iz-risa"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Вторые блюда на скорую руку",
+            "slug": "vtorye-blyuda-na-skoruyu-ruku"
+        },
+        {
+            "name": "Гарнир из риса",
+            "slug": "garnir-iz-risa"
+        },
+        {
+            "name": "Гарнир к курице",
+            "slug": "garnir-k-kurice"
+        },
+        {
+            "name": "Гарниры",
+            "slug": "garniry"
+        },
+        {
+            "name": "Жареный рис",
+            "slug": "jareniy-ris"
+        },
+        {
+            "name": "Постные блюда из риса",
+            "slug": "postnye-blyuda-iz-risa"
+        },
+        {
+            "name": "Постный ужин",
+            "slug": "postniy-ujin"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рис с овощами",
+            "slug": "ris-s-ovoschami"
+        },
+        {
+            "name": "Ужин из овощей",
+            "slug": "ujin-iz-ovoschey"
+        }
+    ]
+}

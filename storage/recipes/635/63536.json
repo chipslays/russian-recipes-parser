@@ -1,0 +1,203 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-iz-krevetok-s-jogurtovoj-zapravkoj/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат из креветок с йогуртовой заправкой",
+    "description": "Оригинальное и неожиданное сочетание фруктов, морепродуктов и пекинской капусты. Натуральный йогурт «свяжет» все ингредиенты воедино.",
+    "note": "Блюдо по желанию можно украсить кусочками листьев пекинской капусты и зернами граната. Для приготовления салата лучше использовать не королевские, а очищенные коктейльные креветки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b9/02b3ec4810ab4b9_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "креветки салатные",
+                    "slug": "krevetki-salatnye",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ананас консервированный",
+                    "slug": "ananas-konservirovanniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "гранат",
+                    "slug": "granat",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "капуста пекинская",
+                    "slug": "kapusta-pekinskaya",
+                    "notes": null,
+                    "value": "½",
+                    "type": "кочана",
+                    "amount": null
+                },
+                {
+                    "name": "йогурт",
+                    "slug": "yogurt",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Разморозить креветки в горячей воде.",
+            "image": null
+        },
+        {
+            "text": "Нашинковать пекинскую капусту, только её зеленую часть.",
+            "image": null
+        },
+        {
+            "text": "Нарезать мелкими кусочками консервированные ананасы.",
+            "image": null
+        },
+        {
+            "text": "Очистить и разобрать на зернышки спелый гранат.",
+            "image": null
+        },
+        {
+            "text": "Все ингредиенты перемешать, посолить по вкусу и заправить йогуртом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Легкий салат",
+            "slug": "legkiy-salat"
+        },
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новогодние салаты без майонеза",
+            "slug": "novogodnie-salaty-bez-mayoneza"
+        },
+        {
+            "name": "Новогодний салат с ананасами",
+            "slug": "novogodniy-salat-s-ananasami"
+        },
+        {
+            "name": "Новогодний салат с креветками",
+            "slug": "novogodniy-salat-s-krevetkami"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из капусты",
+            "slug": "salat-iz-kapusty"
+        },
+        {
+            "name": "Салат из пекинской капусты",
+            "slug": "salat-iz-pekinskoy-kapusty"
+        },
+        {
+            "name": "Салат морской коктейль",
+            "slug": "salat-morskoy-kokteyl"
+        },
+        {
+            "name": "Салат с ананасом",
+            "slug": "salat-s-ananasom"
+        },
+        {
+            "name": "Салат с йогуртом",
+            "slug": "salat-s-yogurtom"
+        },
+        {
+            "name": "Салат с консервированным ананасом",
+            "slug": "salat-s-konservirovannym-ananasom"
+        },
+        {
+            "name": "Салат с креветками",
+            "slug": "salat-s-krevetkami"
+        },
+        {
+            "name": "Салат с креветками и ананасом",
+            "slug": "salat-s-krevetkami-i-ananasom"
+        },
+        {
+            "name": "Салат-коктейль",
+            "slug": "salat-kokteyl"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без майонеза на праздничный стол",
+            "slug": "salaty-bez-mayoneza-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты из морепродуктов",
+            "slug": "salaty-iz-moreproduktov"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с гранатом",
+            "slug": "salaty-s-granatom"
+        },
+        {
+            "name": "Салаты с фруктами",
+            "slug": "salaty-s-fruktami"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

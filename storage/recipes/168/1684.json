@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/tatarskij-sup-s-myasom/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Татарский суп с мясом",
+    "description": null,
+    "note": null,
+    "cuisine": "Татарская кухня",
+    "cuisine_slug": "tatarskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/9f/70c66b9c64e959f_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "600",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "говядины / баранины",
+                    "slug": "govyadiny-baraniny",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "свиного сала",
+                    "slug": "svinogo-sala",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "150-200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснока",
+                    "slug": "chesnoka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "зелени петрушки",
+                    "slug": "zeleni-petrushki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "молотый черный перец",
+                    "slug": "molotiy-cherniy-perec",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Вытопить в кастрюле из нарезанного кубиками сала жир, добавить порезанное на кусочки мясо и помешивая слегка обжарить со всех сторон, добавить пару стаканов воды и тушить на малом огне 40 минут.",
+            "image": null
+        },
+        {
+            "text": "Порезать лук на кубики и засыпать к мясу, залить литром воды и дать супу закипеть, добавить разрезанный на четвертинки картофель и варить до его готовности, а за 7 минут положить лавровый лист, перец и посолить.",
+            "image": null
+        },
+        {
+            "text": "Перед подачей татарский суп с мясом сдобрить большим количеством рубленой петрушки и заправить измельченным чесноком.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Картофельный суп",
+            "slug": "kartofelniy-sup"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Суп из баранины",
+            "slug": "sup-iz-baraniny"
+        },
+        {
+            "name": "Суп из говядины",
+            "slug": "sup-iz-govyadiny"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        }
+    ]
+}

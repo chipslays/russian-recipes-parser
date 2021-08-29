@@ -1,0 +1,103 @@
+{
+    "source": "https://vkuso.ru/recipe/101753-miso-sup-s-beloj-repoj/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Мисо-суп с белой репой",
+    "description": "Легкий овощной суп, приготовленный за пять минут. Репа – отличный продукт для тех, кто борется с лишним весом.",
+    "note": "Подать суп к стол горячим, с накрошенной зеленью.",
+    "cuisine": "Японская кухня",
+    "cuisine_slug": "yaponskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a5/200e4cd03ddeba5_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "бульон даши (даси)",
+                    "slug": "bulon-dashi-dasi",
+                    "notes": null,
+                    "value": "3",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "репа",
+                    "slug": "repa",
+                    "notes": " (белая с листьями)",
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мисо-паста",
+                    "slug": "miso-pasta",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "приправы",
+                    "slug": "pripravy",
+                    "notes": " (сёю)",
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Белую репу с листьями очистить и разрезать на четыре части. Листочки оставить.",
+            "image": null
+        },
+        {
+            "text": "Если их нет – добавить хризантему или шпинат.",
+            "image": null
+        },
+        {
+            "text": "Влить в кастрюлю бульон даси, добавить соль и сею.",
+            "image": null
+        },
+        {
+            "text": "Выложить нарезанную репу, варить пять минут на тихом огне.",
+            "image": null
+        },
+        {
+            "text": "Перемешать мисо с бульоном, влить в суп, варить блюдо несколько минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Мисо суп",
+            "slug": "miso-sup"
+        },
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        }
+    ]
+}

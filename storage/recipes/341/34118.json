@@ -1,0 +1,160 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnij-pirog-cvety-s-syrom-i-bekonom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Домашний пирог «Цветы» с сыром и беконом",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d1/13b314c81dbdad1_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "520",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "360",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "8",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "бекон",
+                    "slug": "bekon",
+                    "notes": null,
+                    "value": "350",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Разболтать в теплом молоке дрожжи, добавить через 5 минут подсоленную муку, сахар, мягкое масло, ведерко со смесью поставить в хлебопечку на режим «замес теста», дать тесту подойти, разделить на 7 шариков, прикрыть их полотенцем, дать постоять минут 15. Присыпать стол мукой, раскатать из шарика круг, загнуть край теста от края к центр, повторить, только загибать тесто снизу.",
+            "image": null
+        },
+        {
+            "text": "Раскатать в полосу шириной чуть больше бекона, надрезать длинный край через каждый сантиметр. Уложить на тесто ломтик бекона и соломку из сыра, свернуть в трубочку, чтобы получился цветок, повторить все с остатками теста. Промазать маслом форму, заполнить «цветами», прикрыть пленкой, дать подойти. Выпекать пирог «Цветы» с сыром и беконом примерно 45 минут в духовке с температурой 180 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Закрытый пирог",
+            "slug": "zakrytiy-pirog"
+        },
+        {
+            "name": "Несладкая выпечка",
+            "slug": "nesladkaya-vypechka"
+        },
+        {
+            "name": "Несладкие пироги",
+            "slug": "nesladkie-pirogi"
+        },
+        {
+            "name": "Пирог без яиц",
+            "slug": "pirog-bez-yaic"
+        },
+        {
+            "name": "Пирог на молоке",
+            "slug": "pirog-na-moloke"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги из дрожжевого теста",
+            "slug": "pirogi-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Пироги с сыром",
+            "slug": "pirogi-s-syrom"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        }
+    ]
+}

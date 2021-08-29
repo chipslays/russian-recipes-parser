@@ -1,0 +1,203 @@
+{
+    "source": "https://vkuso.ru/recipe/103559-picca-s-krevetkami-i-kurinoj-grudkoj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пицца с креветками и куриной грудкой",
+    "description": "Выпечка с морепродуктами напомнит о лете, теплых островах.",
+    "note": "Другой вариант – посыпать пирог тертым сыром через двадцать минут после начала запекания.",
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d9/faf925bff44e3d9_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "тесто дрожжевое",
+                    "slug": "testo-drojjevoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100-150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "куриная грудка",
+                    "slug": "kurinaya-grudka",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ананасы",
+                    "slug": "ananasy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "креветки",
+                    "slug": "krevetki",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Раскатать тесто для пиццы, поместить в смазанную форму.",
+            "image": null
+        },
+        {
+            "text": "Намазать лепешку томатной пастой.",
+            "image": null
+        },
+        {
+            "text": "Выложить сладкий болгарский перец, нарезанный соломкой, кусочки свежих ананасов, огурец.",
+            "image": null
+        },
+        {
+            "text": "Отварить куриную грудку, выложить на овощи, поверх – сырые креветки.",
+            "image": null
+        },
+        {
+            "text": "Посыпать тертым сыром.",
+            "image": null
+        },
+        {
+            "text": "Выпечь в духовом шкафу до готовности.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без муки",
+            "slug": "vypechka-bez-muki"
+        },
+        {
+            "name": "Выпечка без сахара",
+            "slug": "vypechka-bez-sahara"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка с сыром",
+            "slug": "vypechka-s-syrom"
+        },
+        {
+            "name": "Выпечка с фруктами",
+            "slug": "vypechka-s-fruktami"
+        },
+        {
+            "name": "Гавайская пицца",
+            "slug": "gavayskaya-picca"
+        },
+        {
+            "name": "Домашняя пицца",
+            "slug": "domashnyaya-picca"
+        },
+        {
+            "name": "Дрожжевая пицца",
+            "slug": "drojjevaya-picca"
+        },
+        {
+            "name": "Итальянская пицца",
+            "slug": "italyanskaya-picca"
+        },
+        {
+            "name": "Перец в духовке",
+            "slug": "perec-v-duhovke"
+        },
+        {
+            "name": "Пицца",
+            "slug": "picca"
+        },
+        {
+            "name": "Пицца в духовке",
+            "slug": "picca-v-duhovke"
+        },
+        {
+            "name": "Пицца с ананасами",
+            "slug": "picca-s-ananasami"
+        },
+        {
+            "name": "Пицца с креветками",
+            "slug": "picca-s-krevetkami"
+        },
+        {
+            "name": "Пицца с курицей",
+            "slug": "picca-s-kuricey"
+        },
+        {
+            "name": "Пицца с курицей и ананасами",
+            "slug": "picca-s-kuricey-i-ananasami"
+        },
+        {
+            "name": "Пицца с морепродуктами",
+            "slug": "picca-s-moreproduktami"
+        },
+        {
+            "name": "Пицца с сыром",
+            "slug": "picca-s-syrom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "source": "https://vkuso.ru/recipe/109369-solyanka-s-krevetkami-i-kapersami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Солянка с креветками и каперсами",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/15/a36568266446815_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "креветки",
+                    "slug": "krevetki",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы соленые",
+                    "slug": "ogurcy-solenye",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "маслины",
+                    "slug": "masliny",
+                    "notes": null,
+                    "value": "7",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "каперсы",
+                    "slug": "kapersy",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный горошком",
+                    "slug": "perec-cherniy-goroshkom",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Почистить репчатый лук, порезать на тоненькие полукольца.",
+            "image": null
+        },
+        {
+            "text": "Растопить масло в сковороде, чуть-чуть обжарить лук.",
+            "image": null
+        },
+        {
+            "text": "Положить томатную пасту, помешивая, довести лук до готовности.",
+            "image": null
+        },
+        {
+            "text": "Помыть креветки, отварить, достать креветки из бульона.",
+            "image": null
+        },
+        {
+            "text": "Не выливать бульон – он еще будет нужен.",
+            "image": null
+        },
+        {
+            "text": "Охладить креветки, почистить, порезать на небольшие кусочки.",
+            "image": null
+        },
+        {
+            "text": "Бульон от креветок поставить на огонь, довести до кипения.",
+            "image": null
+        },
+        {
+            "text": "Положить в кипящий бульон пассированный лучок, огурцы, почищенные от кожуры и порезанные на маленькие кубики, лавровый листик, каперсы, перец горошком, посыпать солью.",
+            "image": null
+        },
+        {
+            "text": "Готовить минут десять.",
+            "image": null
+        },
+        {
+            "text": "За несколько минут до завершения готовки заправить сметанкой, довести до кипения.",
+            "image": null
+        },
+        {
+            "text": "Перед подачей положить в тарелочки вареные креветки, маслины, порезанные пополам, кусочек лимона.",
+            "image": null
+        },
+        {
+            "text": "Разлить по тарелкам солянку, посыпать солянку с креветками и каперсами измельченной петрушкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Солянка",
+            "slug": "solyanka"
+        },
+        {
+            "name": "Солянка с оливками",
+            "slug": "solyanka-s-olivkami"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из морепродуктов",
+            "slug": "sup-iz-moreproduktov"
+        },
+        {
+            "name": "Суп с креветками",
+            "slug": "sup-s-krevetkami"
+        },
+        {
+            "name": "Суп с оливками",
+            "slug": "sup-s-olivkami"
+        }
+    ]
+}

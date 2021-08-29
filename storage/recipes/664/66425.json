@@ -1,0 +1,183 @@
+{
+    "source": "https://vkuso.ru/recipe/krem-sup-iz-belyx-zamorozhennyx-gribov-s-grenkami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Крем-суп из белых замороженных грибов с гренками",
+    "description": "Замороженные грибы можно приготовить в разгар сезона, а затем использовать в случае необходимости.",
+    "note": "Готовый суп можно посыпать еще одной порцией рубленого базилика, петрушки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/4f/a78ff3daf53e54f_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "грибы белые замороженные",
+                    "slug": "griby-belye-zamorojennye",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый",
+                    "slug": "syr-plavleniy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "базилик",
+                    "slug": "bazilik",
+                    "notes": null,
+                    "value": "1",
+                    "type": "веточка",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Грибы разморозить и обжарить на сливочном масле до мягкости.",
+            "image": null
+        },
+        {
+            "text": "Нарезать базилик и петрушку, положить в обжарку, влить воду, довести до кипения и посолить. Варить в течение пяти минут, снять с огня.",
+            "image": null
+        },
+        {
+            "text": "Приготовить заправку: растопить сливочное масло на сковороде, положить плавленый сыр, прогреть, перемешать до однородного состояния.",
+            "image": null
+        },
+        {
+            "text": "Влить сливки, поперчить, еще раз перемешать.",
+            "image": null
+        },
+        {
+            "text": "Готовый соус смешать с грибным бульоном, довести до кипения.",
+            "image": null
+        },
+        {
+            "text": "Хлеб намазать сливочным маслом и запечь в духовом шкафу, затем порезать гренки кубиками.",
+            "image": null
+        },
+        {
+            "text": "Разлить суп в тарелки, посыпать домашними гренками.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Грибной крем-суп",
+            "slug": "gribnoy-krem-sup"
+        },
+        {
+            "name": "Грибной суп",
+            "slug": "gribnoy-sup"
+        },
+        {
+            "name": "Грибной суп из замороженных грибов",
+            "slug": "gribnoy-sup-iz-zamorojennyh-gribov"
+        },
+        {
+            "name": "Крем-суп",
+            "slug": "krem-sup"
+        },
+        {
+            "name": "Сливочный суп",
+            "slug": "slivochniy-sup"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из белых грибов",
+            "slug": "sup-iz-belyh-gribov"
+        },
+        {
+            "name": "Суп со сливками",
+            "slug": "sup-so-slivkami"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Суп-пюре грибной",
+            "slug": "sup-pyure-gribnoy"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Сырный крем-суп",
+            "slug": "syrniy-krem-sup"
+        },
+        {
+            "name": "Сырный суп-пюре",
+            "slug": "syrniy-sup-pyure"
+        }
+    ]
+}

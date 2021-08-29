@@ -1,0 +1,99 @@
+{
+    "source": "https://vkuso.ru/recipe/108480-molochnyj-koktejl-s-klubnikoj/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Молочный коктейль с клубникой",
+    "description": "Молочный коктейль с клубникой – самый простой и быстрый рецепт! Не смотря на всю простоту приготовления, коктейль получается очень вкусным. А для его приготовления нам потребуется всего три ингредиента.",
+    "note": "Количество ингредиентов можно изменять по своему вкусу",
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d9/3ae418a0c9f73d9_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "5 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/Ft2GhIgy5PA?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 3 порции",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "300",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "клубника",
+                    "slug": "klubnika",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В чашу блендера наливаем 300 мл молока.",
+            "image": "https://vkuso.ru/data/cache/data/1f/f35b413470c641f_434x295_notrise.png"
+        },
+        {
+            "text": "Добавляем клубнику, если клубника замороженная - размораживаем.\r\nДобавляем мед или сахар по вкусу.",
+            "image": "https://vkuso.ru/data/cache/data/2f/c9973b51a326c2f_434x295_notrise.jpg"
+        },
+        {
+            "text": "Взбиваем в блендере.",
+            "image": "https://vkuso.ru/data/cache/data/00/1236743542c9900_434x295_notrise.jpg"
+        },
+        {
+            "text": "И все коктейль готов! Приятного аппетита!",
+            "image": "https://vkuso.ru/data/cache/data/17/5c104dfe5ff4b17_434x295_notrise.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Безалкогольные коктейли",
+            "slug": "bezalkogolnye-kokteyli"
+        },
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Блендер",
+            "slug": "blender"
+        },
+        {
+            "name": "Молочный коктейль",
+            "slug": "molochniy-kokteyl"
+        },
+        {
+            "name": "Молочный коктейль без мороженого",
+            "slug": "molochniy-kokteyl-bez-morojenogo"
+        },
+        {
+            "name": "Напитки с молоком",
+            "slug": "napitki-s-molokom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

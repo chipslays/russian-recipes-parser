@@ -1,0 +1,119 @@
+{
+    "source": "https://vkuso.ru/recipe/polskij-zhurek-na-zakvaske/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Польский журек на закваске",
+    "description": null,
+    "note": null,
+    "cuisine": "Польская кухня",
+    "cuisine_slug": "polskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/96/f873c25b7a40896_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "колбаса копченая",
+                    "slug": "kolbasa-kopchenaya",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "закваска",
+                    "slug": "zakvaska",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "300",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Обжарить лук до золотистого цвета на растительном масле. Затем высыпать лук в кипящую воду и варить 30 минут. Через полчаса всыпать в кипящую воду порезанную кубиком копченую колбасу, лавровый лист, перец и давленый чеснок.",
+            "image": null
+        },
+        {
+            "text": "Варить еще 30 минут на медленном огне. После влить закваску и посолить суп по вкусу. Консистенция польского журека немного загустеет. В конце влить сметану и прокипятить 5 минут. Отставить суп с огня и накрыть крышкой, чтобы напитался вкусом и запахом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп с колбасой",
+            "slug": "sup-s-kolbasoy"
+        },
+        {
+            "name": "Суп с копченостями",
+            "slug": "sup-s-kopchenostyami"
+        }
+    ]
+}

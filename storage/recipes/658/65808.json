@@ -1,0 +1,151 @@
+{
+    "source": "https://vkuso.ru/recipe/lukovyj-sup-pyure-s-chesnochnymi-grenkami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Луковый суп-пюре с чесночными гренками",
+    "description": "Необычная консистенция, нежный вкус.",
+    "note": "отовый суп можно посыпать рубленой зеленью петрушки, кинзы.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/3d/3fab1db9337fc3d_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/i4Ds5wqM79E?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "бульон",
+                    "slug": "bulon",
+                    "notes": null,
+                    "value": "800",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый",
+                    "slug": "syr-plavleniy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "багет",
+                    "slug": "baget",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Измельчить лук, спассеровать на растительном масле в кастрюле до мягкости.",
+            "image": null
+        },
+        {
+            "text": "Всыпать муку, специи, соль.",
+            "image": null
+        },
+        {
+            "text": "Обжарку перемешать, влить бульон, через полчаса добавить плавленый сыр.",
+            "image": null
+        },
+        {
+            "text": "Суп варить до растворения сыра.",
+            "image": null
+        },
+        {
+            "text": "Превратить смесь в пюре при помощи погружного блендера.",
+            "image": null
+        },
+        {
+            "text": "Чеснок обжарить отдельно, на полученном чесночном масле прогреть хлебные кубики. Подать к супу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Луковый суп",
+            "slug": "lukoviy-sup"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп с плавленым сыром",
+            "slug": "sup-s-plavlenym-syrom"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Сырный суп",
+            "slug": "syrniy-sup"
+        },
+        {
+            "name": "Сырный суп-пюре",
+            "slug": "syrniy-sup-pyure"
+        }
+    ]
+}

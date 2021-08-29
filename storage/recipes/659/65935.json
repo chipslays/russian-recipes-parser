@@ -1,0 +1,191 @@
+{
+    "source": "https://vkuso.ru/recipe/lenivaya-picca-iz-batona-s-kopchenoj-kolbasoj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Ленивая пицца из батона с копченой колбасой",
+    "description": "Простая выпечка из духовки, для приготовления не нужно замешивать тесто.",
+    "note": "По желанию готовую пиццу можно посыпать зеленью.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/63/1d52dfff69ae563_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/b7kwcviHBvw?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "батон",
+                    "slug": "baton",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "колбаса копченая",
+                    "slug": "kolbasa-kopchenaya",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы маринованные",
+                    "slug": "ogurcy-marinovannye",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для пиццы в качестве основы подойдет дрожжевая булка или батон. Хлебобулочное изделие нужно разрезать на две половины вдоль.",
+            "image": null
+        },
+        {
+            "text": "Мякоть вынуть ножом или руками, делать это нужно осторожно, чтобы не повредить корочку.",
+            "image": null
+        },
+        {
+            "text": "Обе половины намазать майонезом.",
+            "image": null
+        },
+        {
+            "text": "Отварить и натереть куриные яйца, насыпать в «лодочки».",
+            "image": null
+        },
+        {
+            "text": "Маринованные огурцы нарезать кружками, выложить поверх яиц.",
+            "image": null
+        },
+        {
+            "text": "Выложить кубики копченой колбасы.",
+            "image": null
+        },
+        {
+            "text": "Нарезать кружками помидоры, это будет следующий слой.",
+            "image": null
+        },
+        {
+            "text": "Натереть твердый сыр, посыпать пиццу, поставить в духовку.",
+            "image": null
+        },
+        {
+            "text": "Температура приготовления – 180 градусов, сыр должен расплавиться.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка с колбасой",
+            "slug": "vypechka-s-kolbasoy"
+        },
+        {
+            "name": "Домашняя пицца",
+            "slug": "domashnyaya-picca"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Ленивая пицца",
+            "slug": "lenivaya-picca"
+        },
+        {
+            "name": "Пицца",
+            "slug": "picca"
+        },
+        {
+            "name": "Пицца в духовке",
+            "slug": "picca-v-duhovke"
+        },
+        {
+            "name": "Пицца на батоне",
+            "slug": "picca-na-batone"
+        },
+        {
+            "name": "Пицца с колбасой",
+            "slug": "picca-s-kolbasoy"
+        },
+        {
+            "name": "Пицца с колбасой и сыром",
+            "slug": "picca-s-kolbasoy-i-syrom"
+        },
+        {
+            "name": "Пицца с колбасой, помидорами и сыром",
+            "slug": "picca-s-kolbasoy-pomidorami-i-syrom"
+        },
+        {
+            "name": "Пицца с помидорами",
+            "slug": "picca-s-pomidorami"
+        },
+        {
+            "name": "Пицца с помидорами и сыром",
+            "slug": "picca-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Пицца с сыром",
+            "slug": "picca-s-syrom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

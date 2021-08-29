@@ -1,0 +1,204 @@
+{
+    "source": "https://vkuso.ru/recipe/zalivnoj-pirog-s-gribami-na-kefire/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Заливной пирог с грибами на кефире",
+    "description": null,
+    "note": "Тесто на кефире получается нежным, начинка, приготовленная по этому рецепту, очень сочная: помимо грибов, в нее входит набор овощей.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/8a/252b01eb8baac8a_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "400",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "160",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "1,5",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "грибы",
+                    "slug": "griby",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кабачки",
+                    "slug": "kabachki",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Смешать кефир комнатной температуры с растопленным сливочным маслом или маргарином. Добавить сахарный песок, соль, яйцо, просеянную муку и разрыхлитель. Вымесить тесто ложкой или с помощью миксера. Масса должна быть, как густая сметана.",
+            "image": null
+        },
+        {
+            "text": "Форму для выпекания смазать растопленным сливочным маслом, вылить три четверти теста, равномерно размазать. Морковь, грибы и кабачки вымыть, мелко нарезать, то и другое обжарить на сковороде, добавить специи, подлить сливки, соль – по вкусу. Тушить начинку в течение 10 минут, добавить рубленую зелень.",
+            "image": null
+        },
+        {
+            "text": "Полученную массу выложить поверх слоя теста, залить оставшимся тестом. Печь около получаса при температуре 180 градусов. Готовность заливного пирога с грибами проверить зубочисткой, она должна остаться сухой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка на кефире",
+            "slug": "vypechka-na-kefire"
+        },
+        {
+            "name": "Заливной пирог",
+            "slug": "zalivnoy-pirog"
+        },
+        {
+            "name": "Заливной пирог на кефире",
+            "slug": "zalivnoy-pirog-na-kefire"
+        },
+        {
+            "name": "Несладкая выпечка",
+            "slug": "nesladkaya-vypechka"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог на кефире",
+            "slug": "pirog-na-kefire"
+        },
+        {
+            "name": "Пирог на кефире в духовке",
+            "slug": "pirog-na-kefire-v-duhovke"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги с грибами",
+            "slug": "pirogi-s-gribami"
+        },
+        {
+            "name": "Пироги с начинкой",
+            "slug": "pirogi-s-nachinkoy"
+        }
+    ]
+}

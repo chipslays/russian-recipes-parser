@@ -1,0 +1,87 @@
+{
+    "source": "https://vkuso.ru/recipe/107307-zapravka-s-yablochnym-uksusom-i-gorchicej/",
+    "category": "Соусы",
+    "category_slug": "sousy",
+    "title": "Заправка с яблочным уксусом и горчицей",
+    "description": "Любой салат становится вкуснее и насыщеннее, если он заправлен правильным соусом. Такой рецепт подойдет для винегрета.",
+    "note": "Для заправки понадобится натуральный яблочный уксус без дополнительных ароматизаторов.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/9c/cbe750be33c139c_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "10 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/84wpgyUjzZE?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 1 порцию",
+            "list": [
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "уксус яблочный",
+                    "slug": "uksus-yablochniy",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "горчица сладкая",
+                    "slug": "gorchica-sladkaya",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "2",
+                    "type": "щепотки",
+                    "amount": null
+                },
+                {
+                    "name": "перец острый",
+                    "slug": "perec-ostriy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Подсолнечное масло перемешать с солью и сладкой горчицей.",
+            "image": null
+        },
+        {
+            "text": "Влить яблочный уксус, посолить и поперчить.",
+            "image": null
+        },
+        {
+            "text": "Соус перебить блендером до однородного состояния.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Заправка для винегрета",
+            "slug": "zapravka-dlya-vinegreta"
+        },
+        {
+            "name": "Заправка для салата",
+            "slug": "zapravka-dlya-salata"
+        }
+    ]
+}

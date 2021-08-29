@@ -1,0 +1,168 @@
+{
+    "source": "https://vkuso.ru/recipe/tonkie-blinchiki-s-nachinkoj-iz-banana/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Тонкие блинчики с начинкой из банана",
+    "description": "Десерт с волшебным вкусом. Бананы играют роль начинки.",
+    "note": "Блины можно подать с медом.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d3/a49f5de8b850ed3_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "5-6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "бананы",
+                    "slug": "banany",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить тесто из молока, яиц, сахара и соли, влить растительное масло, всыпать муку.",
+            "image": null
+        },
+        {
+            "text": "Должно получиться жидкое тесто, оставить его для набухания клейковины.",
+            "image": null
+        },
+        {
+            "text": "Очистить спелые бананы, нарезать кружками.",
+            "image": null
+        },
+        {
+            "text": "Сливочное масло растопить в сотейнике, положить бананы, прогревать до прозрачного цвета.",
+            "image": null
+        },
+        {
+            "text": "Начинку остудить, положить на блинчики, свернуть трубочкой или конвертом.",
+            "image": null
+        },
+        {
+            "text": "Обжарить с двух сторон.",
+            "image": null
+        },
+        {
+            "text": "Перед подачей посыпать сахарной пудрой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Блины",
+            "slug": "bliny"
+        },
+        {
+            "name": "Блины без дрожжей",
+            "slug": "bliny-bez-drojjey"
+        },
+        {
+            "name": "Блины на молоке",
+            "slug": "bliny-na-moloke"
+        },
+        {
+            "name": "Выпечка с бананами",
+            "slug": "vypechka-s-bananami"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Тонкие блины",
+            "slug": "tonkie-bliny"
+        },
+        {
+            "name": "Тонкие блины на молоке",
+            "slug": "tonkie-bliny-na-moloke"
+        },
+        {
+            "name": "Фаршированные блины с начинкой",
+            "slug": "farshirovannye-bliny-s-nachinkoy"
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "source": "https://vkuso.ru/recipe/gaspacho-s-avokado-i-zelenyu/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Гаспачо с авокадо и зеленью",
+    "description": "Пикантный вариант приготовления гаспачо. Вкус получается чуть сладковатым, а консистенция бархатистой с ореховым послевкусием.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c8/eeb14599d5445c8_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий красный",
+                    "slug": "perec-sladkiy-krasniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "авокадо",
+                    "slug": "avokado",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук красный",
+                    "slug": "luk-krasniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сельдерей",
+                    "slug": "selderey",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стебель",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "55",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "базилик",
+                    "slug": "bazilik",
+                    "notes": null,
+                    "value": "35",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "15",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль морская",
+                    "slug": "sol-morskaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Блендером измельчить очищенные томаты с чесноком и маслом.",
+            "image": null
+        },
+        {
+            "text": "На маленькие кубики порезать лук, сельдерей, перец и авокадо, перемешать с пюре.",
+            "image": null
+        },
+        {
+            "text": "В гаспачо с авокадо и зеленью добавить измельченную петрушку, поперчить, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Убрать его в холодное место на несколько часов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Гаспачо",
+            "slug": "gaspacho"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Постный овощной суп",
+            "slug": "postniy-ovoschnoy-sup"
+        },
+        {
+            "name": "Постный суп",
+            "slug": "postniy-sup"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из сельдерея",
+            "slug": "sup-iz-seldereya"
+        },
+        {
+            "name": "Томатный суп",
+            "slug": "tomatniy-sup"
+        },
+        {
+            "name": "Холодные супы",
+            "slug": "holodnye-supy"
+        }
+    ]
+}

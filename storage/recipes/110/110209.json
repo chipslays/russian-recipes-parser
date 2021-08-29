@@ -1,0 +1,183 @@
+{
+    "source": "https://vkuso.ru/recipe/110209-belorusskie-kolduny-s-farshem-v-bulone/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Белорусские колдуны с фаршем в бульоне",
+    "description": "Блюдо наших бабушек.",
+    "note": "Подать к блюду сметану с зеленью.",
+    "cuisine": "Белорусская кухня",
+    "cuisine_slug": "belorusskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/84/a8c1294dd33dc84_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/5eGt76hgmPU?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "фарш",
+                    "slug": "farsh",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "бульон",
+                    "slug": "bulon",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Картофель натереть на мелкой терке, сок отжать через марлю.",
+            "image": null
+        },
+        {
+            "text": "Дать жидкости постоять, крахмал, осевший на дно, добавить в картофель.",
+            "image": null
+        },
+        {
+            "text": "Всыпать муку, соль, вбить яйцо.",
+            "image": null
+        },
+        {
+            "text": "Массу хорошо перемешать.",
+            "image": null
+        },
+        {
+            "text": "Часть нарезанного лука спассеровать на масле.",
+            "image": null
+        },
+        {
+            "text": "Сырой лук всыпать в фарш.",
+            "image": null
+        },
+        {
+            "text": "Пассерованный лук добавить в картофельную массу.",
+            "image": null
+        },
+        {
+            "text": "Перемешать, соль и молотый перец – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Сформовать котлеты из фарша, закрытые со всех сторон картофелем.",
+            "image": null
+        },
+        {
+            "text": "Жарить до золотистой корочки.",
+            "image": null
+        },
+        {
+            "text": "Переложить изделия в другую емкость, влить бульон, он должен полностью покрыть колдуны.",
+            "image": null
+        },
+        {
+            "text": "Потушить полчаса на тихом огне.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из картофеля",
+            "slug": "vtorye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Вторые блюда из фарша",
+            "slug": "vtorye-blyuda-iz-farsha"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Картошка с фаршем",
+            "slug": "kartoshka-s-farshem"
+        },
+        {
+            "name": "Колдуны",
+            "slug": "kolduny"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        }
+    ]
+}

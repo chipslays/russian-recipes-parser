@@ -1,0 +1,155 @@
+{
+    "source": "https://vkuso.ru/recipe/sous-barbekyu-iz-perca-i-morkovi-s-tabasko/",
+    "category": "Соусы",
+    "category_slug": "sousy",
+    "title": "Соус барбекю из перца и моркови с табаско",
+    "description": "Отличное дополнение к рыбе и мясу.",
+    "note": "Можно добавить в рецепт томаты и баклажаны.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/da/e9a061fd02e91da_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "4",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "соус Табаско",
+                    "slug": "sous-tabasko",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соус соевый",
+                    "slug": "sous-soeviy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "тмин молотый",
+                    "slug": "tmin-molotiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "орегано сушеный",
+                    "slug": "oregano-susheniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный свежемолотый",
+                    "slug": "perec-cherniy-svejemolotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Вымыть и почистить овощи, положить на решетку, запечь.",
+            "image": null
+        },
+        {
+            "text": "Пюрировать до однородности. Для этого можно использовать или вилку, или блендер.",
+            "image": null
+        },
+        {
+            "text": "Положить чеснок, посыпать специями, размешать.",
+            "image": null
+        },
+        {
+            "text": "Чтобы соус барбекю из перца и моркови с табаско  надолго сохранился, переложить его в предварительно простерилизованные банки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Запеченные блюда",
+            "slug": "zapechennye-blyuda"
+        },
+        {
+            "name": "Овощи в духовке",
+            "slug": "ovoschi-v-duhovke"
+        },
+        {
+            "name": "Перец в духовке",
+            "slug": "perec-v-duhovke"
+        },
+        {
+            "name": "Постные блюда в духовке",
+            "slug": "postnye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Постный соус",
+            "slug": "postniy-sous"
+        },
+        {
+            "name": "Соус Барбекю",
+            "slug": "sous-barbekyu"
+        },
+        {
+            "name": "Соус для шашлыка",
+            "slug": "sous-dlya-shashlyka"
+        },
+        {
+            "name": "Соус к рыбе",
+            "slug": "sous-k-rybe"
+        },
+        {
+            "name": "Соусы к мясу",
+            "slug": "sousy-k-myasu"
+        }
+    ]
+}

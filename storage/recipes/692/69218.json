@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/sous-iz-plavlenogo-syra-i-parmezana/",
+    "category": "Соусы",
+    "category_slug": "sousy",
+    "title": "Соус из плавленого сыра и пармезана",
+    "description": "Вкусная добавка к макаронам или картофельным чипсам.",
+    "note": "Украсить блюдо любой зеленью.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/25/f57bec25aeb1225_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр плавленый",
+                    "slug": "syr-plavleniy",
+                    "notes": null,
+                    "value": "120",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "70-80",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр пармезан тертый",
+                    "slug": "syr-parmezan-tertiy",
+                    "notes": null,
+                    "value": "&frac23;",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "молоко жирное",
+                    "slug": "moloko-jirnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "зубчик",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "базилик сушеный",
+                    "slug": "bazilik-susheniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "мускатный орех",
+                    "slug": "muskatniy-oreh",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Разогреть в сотейнике оливковое масло, добавить сливочное.",
+            "image": null
+        },
+        {
+            "text": "Обжарить мелко нарезанный чеснок.",
+            "image": null
+        },
+        {
+            "text": "Через 3-4 минуты после начала обжаривания влить жирное молоко, положить кусочки плавленого сыра.",
+            "image": null
+        },
+        {
+            "text": "Массу посолить, добавить тертый твердый сыр и приправы. Прогревать до загустения на тихом огне.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Соус для макарон",
+            "slug": "sous-dlya-makaron"
+        },
+        {
+            "name": "Соус для спагетти",
+            "slug": "sous-dlya-spagetti"
+        },
+        {
+            "name": "Соус с сыром",
+            "slug": "sous-s-syrom"
+        },
+        {
+            "name": "Сырный соус",
+            "slug": "syrniy-sous"
+        }
+    ]
+}

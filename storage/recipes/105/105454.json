@@ -1,0 +1,115 @@
+{
+    "source": "https://vkuso.ru/recipe/105454-pechene-na-pive-i-masle/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Печенье на пиве и масле",
+    "description": "Рецепт такого печенья получается всегда хорошо. Хрустящая и рассыпчатая выпечка, долго не черствеет.",
+    "note": "Чем дольше держать в духовке, тем печенье будет более рассыпчатое, если кто любит мягкое, то можно держать меньше.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5a/c17affbaa4a335a_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "50 минут",
+    "preparetime": "1 час",
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 10 порции",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "пиво",
+                    "slug": "pivo",
+                    "notes": null,
+                    "value": "130",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Хорошо замороженное масло крупно натереть, перемешать до состояния маслянистой крошки с мукой, всыпать сахар, еще раз перемешать, влить пиво (или газировку), еще раз перемешать.",
+            "image": null
+        },
+        {
+            "text": "Переложить тесто на стол, окончательно вымесить, обернуть пленкой, убрать на час в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Достать, разрезать пополам, скатать оба колбаской, порезать на кусочки, каждый свернуть колечко, накручивая на палец.",
+            "image": null
+        },
+        {
+            "text": "Обвалять заготовки печенья на пиве и масле в сахаре, разложить их на противень, выстланный бумагой для выпечки.",
+            "image": null
+        },
+        {
+            "text": "Отправить в прогретую до 200 градусов духовку примерно на 35 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка на пиве",
+            "slug": "vypechka-na-pive"
+        },
+        {
+            "name": "Печенье",
+            "slug": "pechene"
+        },
+        {
+            "name": "Печенье без яиц",
+            "slug": "pechene-bez-yaic"
+        },
+        {
+            "name": "Печенье на пиве",
+            "slug": "pechene-na-pive"
+        }
+    ]
+}

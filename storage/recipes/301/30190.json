@@ -1,0 +1,183 @@
+{
+    "source": "https://vkuso.ru/recipe/gulyash-iz-kurinoj-grudki-s-bolgarskim-percem/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Гуляш из куриной грудки с болгарским перцем",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5d/b5223cea647505d_660x440.jpeg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "кетчуп",
+                    "slug": "ketchup",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "приправы",
+                    "slug": "pripravy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Помыть филе курицы под проточной водой, порезать на маленькие кусочки. Почистить лук, порезать на тоненькие полукольца. Положить лук на сковороду, обжарить. Потереть морковь на терке для корейской моркови, так она будет красивой и быстро прожарится. Лук жарить минуты три, затем положить морковь и обжаривать все вместе. Когда овощи хорошенько прожарятся, добавить мясо, во время тушения курица впитает запах и вкус обжаренных овощей. Порезать соломкой сладкий перец.",
+            "image": null
+        },
+        {
+            "text": "Положить перец в сковороду, обжаривать вместе с курицей, морковью и луком. Перемешать. Соединить в емкости кетчуп, томатную пасту, перец и соль. Размешать до однородности. Когда мясо приобретет золотистую корочку, вылить смесь в сковороду, размешать, добавить воду, посыпать перцем, солью, приправами. Сделать огонь максимальным. После закипания сделать маленький огонь и тушить под крышкой минут пятнадцать. Несколько раз перемешивать. Гуляш из куриной грудки с болгарским перцем подавать с макаронами или картофельным пюре.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Гуляш",
+            "slug": "gulyash"
+        },
+        {
+            "name": "Диетическая куриная грудка",
+            "slug": "dieticheskaya-kurinaya-grudka"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Запеченное куриное филе",
+            "slug": "zapechennoe-kurinoe-file"
+        },
+        {
+            "name": "Куриное филе в духовке",
+            "slug": "kurinoe-file-v-duhovke"
+        },
+        {
+            "name": "Куриное филе с овощами",
+            "slug": "kurinoe-file-s-ovoschami"
+        },
+        {
+            "name": "Курица в духовке",
+            "slug": "kurica-v-duhovke"
+        },
+        {
+            "name": "Курица на сковороде",
+            "slug": "kurica-na-skovorode"
+        },
+        {
+            "name": "Курица с болгарским перцем",
+            "slug": "kurica-s-bolgarskim-percem"
+        },
+        {
+            "name": "Курица с овощами",
+            "slug": "kurica-s-ovoschami"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Тушеная курица",
+            "slug": "tushenaya-kurica"
+        },
+        {
+            "name": "Тушеные блюда",
+            "slug": "tushenye-blyuda"
+        },
+        {
+            "name": "Ужин из куриного филе",
+            "slug": "ujin-iz-kurinogo-file"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

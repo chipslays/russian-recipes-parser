@@ -1,0 +1,155 @@
+{
+    "source": "https://vkuso.ru/recipe/skandinavskie-buterbrody-s-pechenyu/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Скандинавские бутерброды с печенью",
+    "description": null,
+    "note": null,
+    "cuisine": "Скандинавская кухня",
+    "cuisine_slug": "skandinavskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c7/81f55feb79f36c7_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "батона",
+                    "slug": "batona",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "говяжьей печени",
+                    "slug": "govyajey-pecheni",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыра",
+                    "slug": "syra",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливочного масла",
+                    "slug": "slivochnogo-masla",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "острого кетчупа",
+                    "slug": "ostrogo-ketchupa",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "помидор",
+                    "slug": "pomidor",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "молотый красный перец",
+                    "slug": "molotiy-krasniy-perec",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень укропа",
+                    "slug": "zelen-ukropa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень петрушки",
+                    "slug": "zelen-petrushki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить в подсоленной воде печень, перекрутить дважды в мясорубке с мелкими отверстиями, к печеночному фаршу добавить сливочное масло, натертый сыр, мелко порезанные яйца, измельченную зелень, кетчуп, посолить, поперчить, смесь хорошо вымешать до однородности.",
+            "image": null
+        },
+        {
+            "text": "Нарезать батон, можно поджарить кусочки в тостере и намазать паштетом.",
+            "image": null
+        },
+        {
+            "text": "Готовые скандинавские бутерброды с печенью украсить веточками петрушки и ломтиками помидора.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды с помидорами",
+            "slug": "buterbrody-s-pomidorami"
+        },
+        {
+            "name": "Бутерброды с помидорами и сыром",
+            "slug": "buterbrody-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Бутерброды с яйцом",
+            "slug": "buterbrody-s-yaycom"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        }
+    ]
+}

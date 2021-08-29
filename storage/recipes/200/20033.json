@@ -1,0 +1,203 @@
+{
+    "source": "https://vkuso.ru/recipe/svinoe-zharkoe-s-kartofelem/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Свиное жаркое с картофелем",
+    "description": "Это очень сытное, вкусное и ароматное блюдо. Жаркое – это тушеное мясо с овощами (чаще всего с картофелем) в разнообразных приправах, после обжарки. Вместо свинины можно брать менее жирное мясо, но тогда время приготовления блюда немного увеличится.",
+    "note": null,
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5c/77cf41e0baca25c_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "свинина(вырезка)",
+                    "slug": "svinina-vyrezka",
+                    "notes": null,
+                    "value": "450",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "7",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук",
+                    "slug": "luk",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Мясо промыть и промокнуть бумажным полотенцем. Нарезать свинину кубиками и поджарить в сковородке или в сотейнике с высокими бортиками и толстым дном, на разогретом масле, до золотистой корочки. Лук очистить и нашинковать. Морковь натереть на крупной терке.",
+            "image": null
+        },
+        {
+            "text": "Когда мясо поджарится, отправить к нему морковь и лук. Тушить 5-10 минут. Картофель нарезать кубиками. Положить картофель к мясу и налить воды так, чтобы она не до конца покрыла картофель. Посолить, поперчить. Когда закипит вода, огонь уменьшить и тушить под крышкой.",
+            "image": null
+        },
+        {
+            "text": "Минут через 15 положить специи (сушеную петрушку, базилик, барбарис или любые другие по желанию и вкусу). Тушить, до готовности картофеля, вода при этом не должна полностью выпариться. Когда картофель будет готов, убрать с огня и отставить минут на 15. Свиное жаркое с картофелем готово.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Горячие блюда на день рождения",
+            "slug": "goryachie-blyuda-na-den-rojdeniya"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Жаркое из свинины",
+            "slug": "jarkoe-iz-svininy"
+        },
+        {
+            "name": "Жаркое по-домашнему",
+            "slug": "jarkoe-po-domashnemu"
+        },
+        {
+            "name": "Жаркое с картошкой",
+            "slug": "jarkoe-s-kartoshkoy"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Мясо с овощами",
+            "slug": "myaso-s-ovoschami"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Свинина с картошкой",
+            "slug": "svinina-s-kartoshkoy"
+        },
+        {
+            "name": "Свинина с луком",
+            "slug": "svinina-s-lukom"
+        },
+        {
+            "name": "Свинина с овощами",
+            "slug": "svinina-s-ovoschami"
+        },
+        {
+            "name": "Тушеная свинина",
+            "slug": "tushenaya-svinina"
+        },
+        {
+            "name": "Тушеная свинина с картошкой",
+            "slug": "tushenaya-svinina-s-kartoshkoy"
+        },
+        {
+            "name": "Тушеное мясо",
+            "slug": "tushenoe-myaso"
+        },
+        {
+            "name": "Тушеные блюда",
+            "slug": "tushenye-blyuda"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из свинины",
+            "slug": "ujin-iz-svininy"
+        }
+    ]
+}

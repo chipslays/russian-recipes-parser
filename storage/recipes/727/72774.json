@@ -1,0 +1,183 @@
+{
+    "source": "https://vkuso.ru/recipe/kabachkovyj-pirog-s-farshem-i-gribami/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Кабачковый пирог с фаршем и грибами",
+    "description": "Интересная кулинарная придумка: вместо теста для приготовления блюда использован кабачок.",
+    "note": "Блюдо можно украсить зеленью, майонезом и соусом «Кетчуп», нарисовав произвольный узор на тарелке.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ab/5dfac820bc898ab_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "говяжий фарш",
+                    "slug": "govyajiy-farsh",
+                    "notes": " (куриный фарш)",
+                    "value": "200-300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кабачки",
+                    "slug": "kabachki",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "5-6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "йогурт",
+                    "slug": "yogurt",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень укропа",
+                    "slug": "zelen-ukropa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Кабачки нарезать тонкими пластинками, выложить в форму для запекания друг на друга, внахлест.",
+            "image": null
+        },
+        {
+            "text": "Сырые яйца взбить с натуральным йогуртом, соль – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Смазать кабачки.",
+            "image": null
+        },
+        {
+            "text": "Выложить слоями: куриный или говяжий фарш, обжаренные шампиньоны, рубленый укроп.",
+            "image": null
+        },
+        {
+            "text": "Сверху залить остатками яично-йогуртовой смеси.",
+            "image": null
+        },
+        {
+            "text": "Печь в течение 40 – 50 минут при температуре 200 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из говядины",
+            "slug": "vtorye-blyuda-iz-govyadiny"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Говядина с грибами",
+            "slug": "govyadina-s-gribami"
+        },
+        {
+            "name": "Говядина с овощами",
+            "slug": "govyadina-s-ovoschami"
+        },
+        {
+            "name": "Запеканка мясная",
+            "slug": "zapekanka-myasnaya"
+        },
+        {
+            "name": "Запеканка овощная",
+            "slug": "zapekanka-ovoschnaya"
+        },
+        {
+            "name": "Запеканки",
+            "slug": "zapekanki"
+        },
+        {
+            "name": "Запеканки из кабачков",
+            "slug": "zapekanki-iz-kabachkov"
+        },
+        {
+            "name": "Запеканки с грибами",
+            "slug": "zapekanki-s-gribami"
+        },
+        {
+            "name": "Запеканки с курицей",
+            "slug": "zapekanki-s-kuricey"
+        },
+        {
+            "name": "Запеканки с фаршем",
+            "slug": "zapekanki-s-farshem"
+        },
+        {
+            "name": "Запеченные блюда",
+            "slug": "zapechennye-blyuda"
+        },
+        {
+            "name": "Кабачки с грибами",
+            "slug": "kabachki-s-gribami"
+        },
+        {
+            "name": "Мясо с грибами в духовке",
+            "slug": "myaso-s-gribami-v-duhovke"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ужин из говядины",
+            "slug": "ujin-iz-govyadiny"
+        },
+        {
+            "name": "Ужин из кабачков",
+            "slug": "ujin-iz-kabachkov"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

@@ -1,0 +1,314 @@
+{
+    "source": "https://vkuso.ru/recipe/110035-tort-s-likerom-vishnevyj-poceluj/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Торт с ликером «Вишневый поцелуй»",
+    "description": "Мягкий корж, нежный крем, вкусная пропитка. Сочетание сладкого и кислого устроит всех.",
+    "note": "Десерт по желанию можно украсить целыми вишенками со стебельками, взбитыми сливками.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5c/8339541340d6b5c_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "2 часа",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко сгущенное",
+                    "slug": "moloko-sguschennoe",
+                    "notes": null,
+                    "value": "½",
+                    "type": "банки",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "какао-порошок",
+                    "slug": "kakao-poroshok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сода гашеная",
+                    "slug": "soda-gashenaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для коржа",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "молоко сгущенное",
+                    "slug": "moloko-sguschennoe",
+                    "notes": null,
+                    "value": "½",
+                    "type": "банки",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для крема",
+            "list": [
+                {
+                    "name": "вишня замороженная",
+                    "slug": "vishnya-zamorojennaya",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ликер",
+                    "slug": "liker",
+                    "notes": " (коньяк)",
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для украшения и пропитки",
+            "list": [
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "6",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "какао-порошок",
+                    "slug": "kakao-poroshok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления теста перемешать с помощью комбайна или миксера сахарный песок, сырые куриные яйца, чайную ложку соды, погашенной соком лимона или уксусом.",
+            "image": null
+        },
+        {
+            "text": "Всыпать просеянную муку, влить сметану, половину банки сгущенки. Тесто должно получиться полужидким.",
+            "image": null
+        },
+        {
+            "text": "Противень с бортиками застелить бумагой для выпекания, вылить тесто.",
+            "image": null
+        },
+        {
+            "text": "Выпекать при температуре 180 градусов в течение 20 минут, готовность проверить спичкой или зубочисткой.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления крема смешать сырое яйцо, столовую ложку пшеничной муки, стакан молока и сахарный песок.",
+            "image": null
+        },
+        {
+            "text": "Смесь перемешать и поставить на огонь, довести до кипения, помешивать.",
+            "image": null
+        },
+        {
+            "text": "Варить до загустения, затем охладить.",
+            "image": null
+        },
+        {
+            "text": "Мягкое сливочное масло взбить миксером на небольшой скорости.",
+            "image": null
+        },
+        {
+            "text": "Добавить остывший крем порциями, взбивать до однородного состояния.",
+            "image": null
+        },
+        {
+            "text": "Влить остатки сгущенного молока, продолжать взбивать медленно, а затем быстро в течение двух-трех минут. Крем должен получиться легким и воздушным.",
+            "image": null
+        },
+        {
+            "text": "Разморозить вишню, сок слить и смешать с коньяком или ликером «Амаретто».",
+            "image": null
+        },
+        {
+            "text": "Готовый корж разрезать на три части, одну нарубить кубиками.",
+            "image": null
+        },
+        {
+            "text": "Нижнюю часть выпечки пропитать смесью вишневого сока с коньяком, выложить крем и ягоды вишни.",
+            "image": null
+        },
+        {
+            "text": "Сверху – второй корж, полить кремом, выложить ягоды, кусочки рубленого коржа, крем, вишню.",
+            "image": null
+        },
+        {
+            "text": "Приготовить глазурь из сахарного песка, какао-порошка, горячего молока и сливочного масла.",
+            "image": null
+        },
+        {
+            "text": "Смесь прогреть на плите, помешивать, довести до кипения, не кипятить. Сахар должен раствориться.",
+            "image": null
+        },
+        {
+            "text": "Снять с плиты, через минуту или две глазурью залить торт.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Десерт с вишней",
+            "slug": "desert-s-vishney"
+        },
+        {
+            "name": "Десерт со сгущенкой",
+            "slug": "desert-so-sguschenkoy"
+        },
+        {
+            "name": "Праздничные десерты",
+            "slug": "prazdnichnye-deserty"
+        },
+        {
+            "name": "Праздничные торты",
+            "slug": "prazdnichnye-torty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Торт без мастики",
+            "slug": "tort-bez-mastiki"
+        },
+        {
+            "name": "Торт на день рождения",
+            "slug": "tort-na-den-rojdeniya"
+        },
+        {
+            "name": "Торт с вишней",
+            "slug": "tort-s-vishney"
+        },
+        {
+            "name": "Торт со сгущенкой",
+            "slug": "tort-so-sguschenkoy"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        },
+        {
+            "name": "Шоколадный торт",
+            "slug": "shokoladniy-tort"
+        },
+        {
+            "name": "Шоколадный торт с вишней",
+            "slug": "shokoladniy-tort-s-vishney"
+        }
+    ]
+}

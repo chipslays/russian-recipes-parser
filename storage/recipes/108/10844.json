@@ -1,0 +1,75 @@
+{
+    "source": "https://vkuso.ru/recipe/krem-iz-slivochnogo-masla-i-sgushhenki-dlya-tortov/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Крем из сливочного масла и сгущенки для тортов",
+    "description": "Этот рецепт крема очень простой и требует только двух ингредиентов.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f7/59c862b22e97ff7_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "110",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко сгущенное",
+                    "slug": "moloko-sguschennoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нужно взять масло сливочное, размягчить его при комнатной температуре, а потом, добавив сгущенное молоко, взбить до однородности. Охладить готовый крем.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерт со сгущенкой",
+            "slug": "desert-so-sguschenkoy"
+        },
+        {
+            "name": "Крем для пирожных",
+            "slug": "krem-dlya-pirojnyh"
+        },
+        {
+            "name": "Крем для торта",
+            "slug": "krem-dlya-torta"
+        },
+        {
+            "name": "Крем из сгущенки",
+            "slug": "krem-iz-sguschenki"
+        },
+        {
+            "name": "Сливочный крем",
+            "slug": "slivochniy-krem"
+        },
+        {
+            "name": "Торт без яиц",
+            "slug": "tort-bez-yaic"
+        },
+        {
+            "name": "Торт со сгущенкой",
+            "slug": "tort-so-sguschenkoy"
+        }
+    ]
+}

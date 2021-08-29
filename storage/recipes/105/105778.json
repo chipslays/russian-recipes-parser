@@ -1,0 +1,211 @@
+{
+    "source": "https://vkuso.ru/recipe/105778-cezar-s-kuricej-pomidorami-cherri-i-lavashom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Цезарь с курицей, помидорами черри и лавашом",
+    "description": "Американский салат с легкой восточной ноткой.",
+    "note": "Лаваш лучше выложить перед подачей, чтобы не успел размокнуть.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/7b/464756b45d0c27b_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 3 порции",
+            "list": [
+                {
+                    "name": "куриная грудка",
+                    "slug": "kurinaya-grudka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр пармезан",
+                    "slug": "syr-parmezan",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры черри",
+                    "slug": "pomidory-cherri",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лаваш",
+                    "slug": "lavash",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "листья салата",
+                    "slug": "listya-salata",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соус Цезарь",
+                    "slug": "sous-cezar",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Тонкий лаваш намазать оливковым маслом, присыпать специями, нарезать небольшими кусочками.",
+            "image": null
+        },
+        {
+            "text": "Продукт подсушить в духовом шкафу при температуре 180 градусов.",
+            "image": null
+        },
+        {
+            "text": "Филе курицы замариновать, нарезать кубиками, жарить на сковороде до готовности.",
+            "image": null
+        },
+        {
+            "text": "Выложить на тарелку нарезанные или порванные листья салата, куриное мясо, помидоры черри, разрезанные пополам, полить соусом «Цезарь», перемешать, посыпать сыром «Пармезан», выложить кусочки лаваша.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Классические салаты",
+            "slug": "klassicheskie-salaty"
+        },
+        {
+            "name": "Классический салат Цезарь с курицей",
+            "slug": "klassicheskiy-salat-cezar-s-kuricey"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из помидоров",
+            "slug": "salat-iz-pomidorov"
+        },
+        {
+            "name": "Салат с куриной грудкой",
+            "slug": "salat-s-kurinoy-grudkoy"
+        },
+        {
+            "name": "Салат с куриной грудкой и сыром",
+            "slug": "salat-s-kurinoy-grudkoy-i-syrom"
+        },
+        {
+            "name": "Салат с курицей",
+            "slug": "salat-s-kuricey"
+        },
+        {
+            "name": "Салат с курицей и овощами",
+            "slug": "salat-s-kuricey-i-ovoschami"
+        },
+        {
+            "name": "Салат с курицей и помидорами",
+            "slug": "salat-s-kuricey-i-pomidorami"
+        },
+        {
+            "name": "Салат с курицей и сыром",
+            "slug": "salat-s-kuricey-i-syrom"
+        },
+        {
+            "name": "Салат с помидорами и сыром",
+            "slug": "salat-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Салат с помидорами черри",
+            "slug": "salat-s-pomidorami-cherri"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салат с твердым сыром",
+            "slug": "salat-s-tverdym-syrom"
+        },
+        {
+            "name": "Салат Цезарь",
+            "slug": "salat-cezar"
+        },
+        {
+            "name": "Салат Цезарь классический",
+            "slug": "salat-cezar-klassicheskiy"
+        },
+        {
+            "name": "Салат Цезарь с курицей",
+            "slug": "salat-cezar-s-kuricey"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без майонеза на праздничный стол",
+            "slug": "salaty-bez-mayoneza-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Салаты из листьев салата",
+            "slug": "salaty-iz-listev-salata"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        }
+    ]
+}

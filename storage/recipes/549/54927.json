@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/risovaya-kasha-s-syrom-i-slivkami-v-multivarke/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Рисовая каша с сыром и сливками в мультиварке",
+    "description": "Интересное сочетание продуктов в рецепте каши в мультиварке.",
+    "note": "Готовую кашу можно посыпать еще одной порцией тертого сыра.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/1f/b74de10bbaf5e1f_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "рис пропаренный",
+                    "slug": "ris-proparenniy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "мультистакан",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2",
+                    "type": "мультистакан",
+                    "amount": null
+                },
+                {
+                    "name": "сливки жирные",
+                    "slug": "slivki-jirnye",
+                    "notes": null,
+                    "value": "1",
+                    "type": "мультистакан",
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сложить в чашу мультиварки пропаренный рис, сливочное масло, посолить и залить водой. Варить в режиме «Гречка» или «Крупа».",
+            "image": null
+        },
+        {
+            "text": "После окончания приготовления влить в кашу прогретые сливки, всыпать тертый сыр, перемешать и прогреть блюдо под крышкой в течение пяти или семи минут в режиме «Подогрев».",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из риса",
+            "slug": "vtorye-blyuda-iz-risa"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Каша",
+            "slug": "kasha"
+        },
+        {
+            "name": "Каша в мультиварке",
+            "slug": "kasha-v-multivarke"
+        },
+        {
+            "name": "Каши на завтрак",
+            "slug": "kashi-na-zavtrak"
+        },
+        {
+            "name": "Крупы в мультиварке",
+            "slug": "krupy-v-multivarke"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рис в мультиварке",
+            "slug": "ris-v-multivarke"
+        },
+        {
+            "name": "Рисовая каша",
+            "slug": "risovaya-kasha"
+        },
+        {
+            "name": "Рисовая каша в мультиварке",
+            "slug": "risovaya-kasha-v-multivarke"
+        }
+    ]
+}

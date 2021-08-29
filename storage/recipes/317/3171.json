@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/tyurya-na-vode-russkaya/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Тюря на воде русская",
+    "description": null,
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/67/f49253acd4f0f67_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "хлеб черный",
+                    "slug": "hleb-cherniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло подсолнечное",
+                    "slug": "maslo-podsolnechnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать мелко зеленый лук, пересыпать в глубокую тарелку и помять до выделения сока.",
+            "image": null
+        },
+        {
+            "text": "Покрошить туда слегка черствый черный хлеб, залить охлажденной кипяченой водой, добавить ложку подсолнечного масла, посолить и перемешать.",
+            "image": null
+        },
+        {
+            "text": "Тюря на воде русская – прекрасное освежающее легкое блюдо для жаркой погоды.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Постный завтрак",
+            "slug": "postniy-zavtrak"
+        },
+        {
+            "name": "Постный суп",
+            "slug": "postniy-sup"
+        },
+        {
+            "name": "Постный ужин",
+            "slug": "postniy-ujin"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Супы на скорую руку",
+            "slug": "supy-na-skoruyu-ruku"
+        },
+        {
+            "name": "Холодные супы",
+            "slug": "holodnye-supy"
+        }
+    ]
+}

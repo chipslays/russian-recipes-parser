@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-s-krevetkami-kukuruzoj-i-kalmarami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат с креветками, кукурузой и кальмарами",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/fd/e5f58e0b3f8a3fd_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кукуруза",
+                    "slug": "kukuruza",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "капуста пекинская",
+                    "slug": "kapusta-pekinskaya",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кальмары консервированные",
+                    "slug": "kalmary-konservirovannye",
+                    "notes": null,
+                    "value": "185",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "креветки",
+                    "slug": "krevetki",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "оливки",
+                    "slug": "olivki",
+                    "notes": null,
+                    "value": "80",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры черри",
+                    "slug": "pomidory-cherri",
+                    "notes": null,
+                    "value": "8",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "До готовности отварить яйца, а после того, как они остынут, очистить и нарезать соломкой. Помидорки черри промыть под водой, обсушить и разрезать каждый плод на четвертинки. С консервированных кальмаров слить жидкость и нарезать тушки небольшими кусочками.",
+            "image": null
+        },
+        {
+            "text": "С кукурузы и оливок также слить жидкость и разрезать последние пополам. Капусту помыть, обсушить и нашинковать соломкой. Петрушку промыть, обсушить и мелко порубить. Смешать все подготовленные продукты (кроме петрушки) в салатнике или большой миске и добавить отварные креветки.",
+            "image": null
+        },
+        {
+            "text": "Заправить салат с креветками, кукурузой и кальмарами майонезом и хорошо перемешать. Получившийся салат непосредственно перед подачей украсить измельченной петрушкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат из пекинской капусты",
+            "slug": "salat-iz-pekinskoy-kapusty"
+        },
+        {
+            "name": "Салат из помидоров",
+            "slug": "salat-iz-pomidorov"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат морской коктейль",
+            "slug": "salat-morskoy-kokteyl"
+        },
+        {
+            "name": "Салат с кальмарами",
+            "slug": "salat-s-kalmarami"
+        },
+        {
+            "name": "Салат с кальмарами и кукурузой",
+            "slug": "salat-s-kalmarami-i-kukuruzoy"
+        },
+        {
+            "name": "Салат с кальмарами и помидорами",
+            "slug": "salat-s-kalmarami-i-pomidorami"
+        },
+        {
+            "name": "Салат с кальмарами и яйцом",
+            "slug": "salat-s-kalmarami-i-yaycom"
+        },
+        {
+            "name": "Салат с консервированной кукурузой",
+            "slug": "salat-s-konservirovannoy-kukuruzoy"
+        },
+        {
+            "name": "Салат с креветками",
+            "slug": "salat-s-krevetkami"
+        },
+        {
+            "name": "Салат с креветками и кальмарами",
+            "slug": "salat-s-krevetkami-i-kalmarami"
+        },
+        {
+            "name": "Салат с креветками и помидорами",
+            "slug": "salat-s-krevetkami-i-pomidorami"
+        },
+        {
+            "name": "Салат с оливками",
+            "slug": "salat-s-olivkami"
+        },
+        {
+            "name": "Салат с помидорами и яйцами",
+            "slug": "salat-s-pomidorami-i-yaycami"
+        },
+        {
+            "name": "Салат с помидорами черри",
+            "slug": "salat-s-pomidorami-cherri"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты из морепродуктов",
+            "slug": "salaty-iz-moreproduktov"
+        },
+        {
+            "name": "Салаты с кукурузой",
+            "slug": "salaty-s-kukuruzoy"
+        }
+    ]
+}

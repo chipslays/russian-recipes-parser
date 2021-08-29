@@ -1,0 +1,211 @@
+{
+    "source": "https://vkuso.ru/recipe/83341-orexovyj-tort-iz-pesochnogo-pechenya/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Ореховый торт из песочного печенья",
+    "description": "Быстрый вариант торта «Муравейник».",
+    "note": "Торт можно посыпать какао-порошком.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/13/27aa7ec2b7e4e13_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "50 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "печенье песочное",
+                    "slug": "pechene-pesochnoe",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко сгущенное вареное",
+                    "slug": "moloko-sguschennoe-varenoe",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "170",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грецкие орехи",
+                    "slug": "greckie-orehi",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "какао",
+                    "slug": "kakao",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мак",
+                    "slug": "mak",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Песочное печенье поломать руками.",
+            "image": null
+        },
+        {
+            "text": "Грецкие орехи измельчить скалкой, продукт накрыть пергаментом.",
+            "image": null
+        },
+        {
+            "text": "Орехи обжарить.",
+            "image": null
+        },
+        {
+            "text": "Добавить сгущенку, мягкое сливочное масло.",
+            "image": null
+        },
+        {
+            "text": "Ингредиенты перемешать.",
+            "image": null
+        },
+        {
+            "text": "Ввести печенье.",
+            "image": null
+        },
+        {
+            "text": "Массу выложить горкой на блюдо, уплотнить.",
+            "image": null
+        },
+        {
+            "text": "Отдельно перемешать кефир с какао-порошком, сахаром, сливочным маслом.",
+            "image": null
+        },
+        {
+            "text": "Все вместе прогреть на тихом огне, крем должен получиться однородным.",
+            "image": null
+        },
+        {
+            "text": "Поставить в холодильник на пятнадцать минут.",
+            "image": null
+        },
+        {
+            "text": "Залить торт, посыпать маковым семенем.",
+            "image": null
+        },
+        {
+            "text": "Вернуть в холод для пропитывания.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Выпечка с маком",
+            "slug": "vypechka-s-makom"
+        },
+        {
+            "name": "Выпечка со сгущенкой",
+            "slug": "vypechka-so-sguschenkoy"
+        },
+        {
+            "name": "Ореховый торт",
+            "slug": "orehoviy-tort"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Торт без выпечки",
+            "slug": "tort-bez-vypechki"
+        },
+        {
+            "name": "Торт без выпечки со сгущенкой",
+            "slug": "tort-bez-vypechki-so-sguschenkoy"
+        },
+        {
+            "name": "Торт из печенья",
+            "slug": "tort-iz-pechenya"
+        },
+        {
+            "name": "Торт из печенья со сгущенкой без выпечки",
+            "slug": "tort-iz-pechenya-so-sguschenkoy-bez-vypechki"
+        },
+        {
+            "name": "Торт на скорую руку",
+            "slug": "tort-na-skoruyu-ruku"
+        },
+        {
+            "name": "Торт проще простого",
+            "slug": "tort-prosche-prostogo"
+        },
+        {
+            "name": "Торт с вареной сгущенкой",
+            "slug": "tort-s-varenoy-sguschenkoy"
+        },
+        {
+            "name": "Торт с маком",
+            "slug": "tort-s-makom"
+        },
+        {
+            "name": "Торт с орехами",
+            "slug": "tort-s-orehami"
+        },
+        {
+            "name": "Торт со сгущенкой",
+            "slug": "tort-so-sguschenkoy"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        }
+    ]
+}

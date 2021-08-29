@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/kompot-iz-svezhego-shipovnika-s-yagodami/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Компот из свежего шиповника с ягодами",
+    "description": "Свежие ягоды можно собирать в течение двух недель в период созревания. В таком компоте содержится максимум витаминов.",
+    "note": "Вместо марли можно использовать фильтр для кофемашины.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e4/88bd3ff7bdc42e4_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "ягоды",
+                    "slug": "yagody",
+                    "notes": " (малина, ежевика, клубника)",
+                    "value": "150-200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шиповник",
+                    "slug": "shipovnik",
+                    "notes": null,
+                    "value": "100-150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Вскипятить воду в кастрюле нужного объема.",
+            "image": null
+        },
+        {
+            "text": "Растворить сахарный песок.",
+            "image": null
+        },
+        {
+            "text": "Перебрать плоды шиповника, удалить семена и волоски.",
+            "image": null
+        },
+        {
+            "text": "Всыпать подготовленный продукт в воду вместе с малиной, ежевикой, клубникой.",
+            "image": null
+        },
+        {
+            "text": "Потомить ягоды на огне в течение пяти или семи минут.",
+            "image": null
+        },
+        {
+            "text": "Плиту выключить, настаивать напиток под крышкой в течение получаса.",
+            "image": null
+        },
+        {
+            "text": "Перед подачей компот пропустить через марлю, охладить.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Домашний компот",
+            "slug": "domashniy-kompot"
+        },
+        {
+            "name": "Компот из шиповника",
+            "slug": "kompot-iz-shipovnika"
+        },
+        {
+            "name": "Напитки для детей",
+            "slug": "napitki-dlya-detey"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "source": "https://vkuso.ru/recipe/109131-nesladkie-yaichno-molochnye-grenki/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Несладкие яично-молочные гренки",
+    "description": null,
+    "note": "Подавать к столу теплыми.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/7c/a465b3fe83e0e7c_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "20 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "батон",
+                    "slug": "baton",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Вбить яйца в молоко, посолить, поперчить.",
+            "image": null
+        },
+        {
+            "text": "Смесь хорошо взболтать.",
+            "image": null
+        },
+        {
+            "text": "Батон нарезать ломтиками, обмакнуть в жидкую массу и обжарить с двух сторон на сковороде.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Гренки",
+            "slug": "grenki"
+        },
+        {
+            "name": "Гренки из батона",
+            "slug": "grenki-iz-batona"
+        },
+        {
+            "name": "Гренки из батона с яйцом и молоком",
+            "slug": "grenki-iz-batona-s-yaycom-i-molokom"
+        },
+        {
+            "name": "Гренки с яйцом",
+            "slug": "grenki-s-yaycom"
+        },
+        {
+            "name": "Гренки с яйцом и молоком",
+            "slug": "grenki-s-yaycom-i-molokom"
+        }
+    ]
+}

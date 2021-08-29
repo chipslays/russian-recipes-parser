@@ -1,0 +1,268 @@
+{
+    "source": "https://vkuso.ru/recipe/lagman-s-govyadinoj-i-domashnej-lapshoj/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Лагман с говядиной и домашней лапшой",
+    "description": null,
+    "note": null,
+    "cuisine": "Узбекская кухня",
+    "cuisine_slug": "uzbekskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/79/abdae285f69de79_660x440.jpg",
+    "difficulty": "Высокая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "говядина",
+                    "slug": "govyadina",
+                    "notes": null,
+                    "value": "800",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "капуста",
+                    "slug": "kapusta",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "4-5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "приправа хаваедж",
+                    "slug": "priprava-havaedj",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "кинза",
+                    "slug": "kinza",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "пучка",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для лапши",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кумин молотый",
+                    "slug": "kumin-molotiy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "кориандр",
+                    "slug": "koriandr",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "куркума",
+                    "slug": "kurkuma",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "кардамон",
+                    "slug": "kardamon",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "приправа хаваедж",
+                    "slug": "priprava-havaedj",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Лапшу для приготовления блюда, если не хочется возиться, можно взять, конечно, и готовую, но с домашней будет вкуснее. Всыпать в чашу комбайна муку, вбить яйца, подсолить, замешивать 5 минут, готовое тесто завернуть в пленку, дать полежать треть часа.",
+            "image": null
+        },
+        {
+            "text": "Вымесить его еще один раз, раскатать, как для приготовления пельменей, нарезать лапшу, чуть подсушить, сварить с добавлением соли. Разогреть в казане растительное масло, обжарить кубики мяса до коричневатой корочки, всыпать полукольца лука, через пару-тройку минут всыпать кубики моркови, размешать.",
+            "image": null
+        },
+        {
+            "text": "Жарить 10 минут, следить, чтобы не пригорало, мясо должно стать мягким, всыпать кубики картошки, размешать, тушить еще 10 минут, добавить капусту, кубики сладкого перца и помидора, тушить все вместе 5 минут.",
+            "image": null
+        },
+        {
+            "text": "Влить в казан кипящую воду на 2 пальца выше содержимого, всыпать специи, подсолить, поперчить, тушить около получаса. За 5 минут до окончания приготовления ",
+            "image": null
+        },
+        {
+            "text": "Разложить в глубокие миски лапшу, на нее положить овощи и мясо, добавить бульон, посыпать измельченную зелень. Кто любит, то может добавить к лагману с говядиной и домашней лапшой еще и ложечку сметаны.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Говядина тушеная",
+            "slug": "govyadina-tushenaya"
+        },
+        {
+            "name": "Капуста с мясом",
+            "slug": "kapusta-s-myasom"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Лагман",
+            "slug": "lagman"
+        },
+        {
+            "name": "Лагман в домашних условиях",
+            "slug": "lagman-v-domashnih-usloviyah"
+        },
+        {
+            "name": "Лагман из говядины",
+            "slug": "lagman-iz-govyadiny"
+        },
+        {
+            "name": "Суп из говядины",
+            "slug": "sup-iz-govyadiny"
+        },
+        {
+            "name": "Суп с домашней лапшой",
+            "slug": "sup-s-domashney-lapshoy"
+        },
+        {
+            "name": "Суп с капустой",
+            "slug": "sup-s-kapustoy"
+        },
+        {
+            "name": "Суп с лапшой",
+            "slug": "sup-s-lapshoy"
+        }
+    ]
+}

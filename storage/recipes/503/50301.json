@@ -1,0 +1,179 @@
+{
+    "source": "https://vkuso.ru/recipe/rolly-s-shampinonami-i-cvetnoj-kapustoj/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Роллы с шампиньонами и цветной капустой",
+    "description": "Рис в роллах с успехом можно заменить цветной капустой, продукт имеет нейтральный вкус и не испортит блюдо.",
+    "note": "В роллы можно добавить сладкий болгарский перец любого цвета, нарезанный соломкой, как и остальные овощи.",
+    "cuisine": "Японская кухня",
+    "cuisine_slug": "yaponskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/cb/76abba2d90275cb_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "водоросли нори",
+                    "slug": "vodorosli-nori",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "филе красной рыбы",
+                    "slug": "file-krasnoy-ryby",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "капуста цветная",
+                    "slug": "kapusta-cvetnaya",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шампиньоны свежие",
+                    "slug": "shampinony-svejie",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы свежие",
+                    "slug": "ogurcy-svejie",
+                    "notes": " (небольшие)",
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "&frac13;",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соус соевый",
+                    "slug": "sous-soeviy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло кунжутное",
+                    "slug": "maslo-kunjutnoe",
+                    "notes": null,
+                    "value": "&frac13;",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "листья салата",
+                    "slug": "listya-salata",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать сырые шампиньоны тонкими пластинками, положить в смесь оливкового масла и соевого соуса, дать постоять для пропитывания.",
+            "image": null
+        },
+        {
+            "text": "Цветную капусту разобрать и измельчить в блендере. Полить смесью лимонного сока и кунжутного масла.",
+            "image": null
+        },
+        {
+            "text": "Нарезать сырой огурец и морковь соломкой.",
+            "image": null
+        },
+        {
+            "text": "Выложить листья зеленого салата на лист нори, сверху – слой цветной капусты, которая заменит рис, грибы, полоски овощей, кусочки любой красной рыбы.",
+            "image": null
+        },
+        {
+            "text": "При помощи циновки роллы туго скрутить, «шов» смазать водой, сбрызнуть всю поверхность изделия.",
+            "image": null
+        },
+        {
+            "text": "Дать постоять в течение пяти минут для пропитывания. При подаче нарезать на шесть-восемь частей.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Закуски для фуршета",
+            "slug": "zakuski-dlya-fursheta"
+        },
+        {
+            "name": "Закуски из грибов",
+            "slug": "zakuski-iz-gribov"
+        },
+        {
+            "name": "Закуски с красной рыбой",
+            "slug": "zakuski-s-krasnoy-ryboy"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Роллы с огурцом",
+            "slug": "rolly-s-ogurcom"
+        },
+        {
+            "name": "Роллы с рыбой",
+            "slug": "rolly-s-ryboy"
+        },
+        {
+            "name": "Суши и роллы",
+            "slug": "sushi-i-rolly"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        }
+    ]
+}

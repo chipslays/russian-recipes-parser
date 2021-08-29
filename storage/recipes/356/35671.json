@@ -1,0 +1,116 @@
+{
+    "source": "https://vkuso.ru/recipe/treugolnye-blinchiki-s-kurinym-farshem/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Треугольные блинчики с куриным фаршем",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/11/ff6eb72f568ea11_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "блины тонкие",
+                    "slug": "bliny-tonkie",
+                    "notes": null,
+                    "value": "10",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "куриный фарш",
+                    "slug": "kuriniy-farsh",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для начинки необходимо приготовить фарш, как на пельмени. Перемолоть рубленое мясо с луком, добавить по вкусу перец и соль. Пожарить блины, свернуть в бендерики. Когда готово 10 блинов, можно приступить к сборке. Разрезать блинчики пополам. На каждую часть положить чуть-чуть фарша. Свернуть 1/2 блина с фаршем в виде треугольника.",
+            "image": null
+        },
+        {
+            "text": "Получается вдвое больше вкусных блинчиков с курицей. Можно обжарить небольшое количество блинов, а остальные сложить в контейнер и отправить в морозилку. В любой момент можно достать и обжарить на сливочном масле. Перед обжариванием можно окунуть блинчики с куриным фаршем в яйцо.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блинчики с мясом",
+            "slug": "blinchiki-s-myasom"
+        },
+        {
+            "name": "Блины",
+            "slug": "bliny"
+        },
+        {
+            "name": "Блины с курицей",
+            "slug": "bliny-s-kuricey"
+        },
+        {
+            "name": "Блины с мясом",
+            "slug": "bliny-s-myasom"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка с мясом и фаршем",
+            "slug": "vypechka-s-myasom-i-farshem"
+        },
+        {
+            "name": "Выпечка с фаршем",
+            "slug": "vypechka-s-farshem"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Тонкие блины",
+            "slug": "tonkie-bliny"
+        }
+    ]
+}

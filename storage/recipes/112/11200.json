@@ -1,0 +1,151 @@
+{
+    "source": "https://vkuso.ru/recipe/kurica-s-risom-i-sladkim-percem-v-tomate/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Курица с рисом и сладким перцем в томате",
+    "description": "Венгерская кухня немыслима без паприки. Эту приправу так любят в этой стране, что даже основали уникальный «Музей паприки».",
+    "note": "При подаче можно посыпать рубленой петрушкой, укропом, украсить дольками помидоров и тонкими ломтиками огурца или лимона.",
+    "cuisine": "Венгерская кухня",
+    "cuisine_slug": "vengerskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c9/e16f6ae04575ac9_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "помидоры в собственном соку",
+                    "slug": "pomidory-v-sobstvennom-soku",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "куриные окорочка",
+                    "slug": "kurinye-okorochka",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец болгарский сладкий",
+                    "slug": "perec-bolgarskiy-sladkiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "паприка молотая",
+                    "slug": "paprika-molotaya",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец красный молотый",
+                    "slug": "perec-krasniy-molotiy",
+                    "notes": null,
+                    "value": "1/3",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления маринада смешать растительное масло, молотую паприку, соль, перец. Полученной массой обмазать куриные окорочка, разрезанные пополам, накрыть крышкой и оставить на час.",
+            "image": null
+        },
+        {
+            "text": "Мелко нарезать репчатый лук и красный острый перец, порубить чеснок. Обжарить ножки со всех сторон на масле, до образования золотистой корочки, вынуть. В той же сковороде обжарить лук и чеснок, добавить сладкий перец и жарить все вместе еще три минуты.  Добавить рис, подержать на среднем огне пять минут.",
+            "image": null
+        },
+        {
+            "text": "В сотейник вылить размятые томаты в собственном соку, подлить стакан воды, выложить рис, обжарку, курицу, посолить по вкусу. Довести блюдо до кипения, накрыть крышкой, уменьшить огонь, тушить курицу с рисом и сладким перцем до готовности в течение получаса. В процессе приготовления можно долить воду.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Курица с болгарским перцем",
+            "slug": "kurica-s-bolgarskim-percem"
+        },
+        {
+            "name": "Курица с овощами",
+            "slug": "kurica-s-ovoschami"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рис с курицей",
+            "slug": "ris-s-kuricey"
+        },
+        {
+            "name": "Рис с мясом",
+            "slug": "ris-s-myasom"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

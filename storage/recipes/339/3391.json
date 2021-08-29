@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/limonnyj-sup-po-polski-s-risom/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Лимонный суп по-польски с рисом",
+    "description": null,
+    "note": null,
+    "cuisine": "Польская кухня",
+    "cuisine_slug": "polskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a0/0efaa500d063ba0_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "костей для бульона",
+                    "slug": "kostey-dlya-bulona",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "корня петрушки",
+                    "slug": "kornya-petrushki",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "риса",
+                    "slug": "risa",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "сметаны",
+                    "slug": "smetany",
+                    "notes": null,
+                    "value": "3/4",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "сливочного масла",
+                    "slug": "slivochnogo-masla",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сварить из костей крепкий бульон, добавить порезанные морковь и корень петрушки.",
+            "image": null
+        },
+        {
+            "text": "Сварить отдельно рис, не разваривать, он должен получиться рассыпчатым.",
+            "image": null
+        },
+        {
+            "text": "Приготовить из муки и масла пассировку, добавить ее в процеженный бульон, довести до кипения, всыпать рис, положить тонкие пластинки лимона без кожуры, посолить.",
+            "image": null
+        },
+        {
+            "text": "Разлить лимонный суп по-польски с рисом по тарелкам и заправить сметаной, вкус супа должен получиться слегка кисловатым.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Рис с мясом",
+            "slug": "ris-s-myasom"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп с рисом",
+            "slug": "sup-s-risom"
+        }
+    ]
+}

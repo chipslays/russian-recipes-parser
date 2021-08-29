@@ -1,0 +1,366 @@
+{
+    "source": "https://vkuso.ru/recipe/92089-mussovyj-tort-s-shokoladnymi-sloyami/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Муссовый торт с шоколадными слоями",
+    "description": "Отличный десерт для сладкоежек. Шоколадная глазурь отливает зеркальным блеском, десерт можно украсить любыми свежими ягодами.",
+    "note": "Торт украсить шоколадными перышками из трех видов шоколада: белого, молочного, темного.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5d/ca23374e786e45d_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "4 часа",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/COiRx5LsaUg?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 8 порции",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "130",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "какао-порошок",
+                    "slug": "kakao-poroshok",
+                    "notes": null,
+                    "value": "20-40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "4-5",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для первого слоя мусса",
+            "list": [
+                {
+                    "name": "сливки кондитерские",
+                    "slug": "slivki-konditerskie",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "150",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад темный",
+                    "slug": "shokolad-temniy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "90",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "45",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "9",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для второго слоя мусса",
+            "list": [
+                {
+                    "name": "сливки кондитерские",
+                    "slug": "slivki-konditerskie",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "150",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад молочный",
+                    "slug": "shokolad-molochniy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "90",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "45",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "9",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для третьего слоя мусса",
+            "list": [
+                {
+                    "name": "сливки кондитерские",
+                    "slug": "slivki-konditerskie",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "150",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад белый",
+                    "slug": "shokolad-beliy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "90",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "45",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "9",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Мягкое сливочное масло взбить с сахарной пудрой, яйца ввести по одному, всыпать муку, разрыхлитель, какао-порошок.",
+            "image": null
+        },
+        {
+            "text": "Из полученного теста испечь корж, остудить, верхнюю корочку срезать.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления мусса растереть желтки с сахарным песком, влить молоко, прогреть до густоты.",
+            "image": null
+        },
+        {
+            "text": "В горячую массу положить кусочки горького шоколада, подготовленный желатин.",
+            "image": null
+        },
+        {
+            "text": "Смесь перемешать, остудить до комнатной температуры.",
+            "image": null
+        },
+        {
+            "text": "Перемешать со взбитыми сливками.",
+            "image": null
+        },
+        {
+            "text": "Приготовить три мусса с разными видами шоколада: темным, молочным и белым.",
+            "image": null
+        },
+        {
+            "text": "Установить на блюдо сервировочное кольцо подходящего размера.",
+            "image": null
+        },
+        {
+            "text": "Бока застелить пленкой.",
+            "image": null
+        },
+        {
+            "text": "Выложить бисквит, залить темным муссом.",
+            "image": null
+        },
+        {
+            "text": "Поставить десерт в холод до застывания.",
+            "image": null
+        },
+        {
+            "text": "Сверху вылить мусс из молочного шоколада, после повторного застывания вылить мусс с белым шоколадом.",
+            "image": null
+        },
+        {
+            "text": "Охлажденный десерт украсить темной зеркальной глазурью.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка на молоке",
+            "slug": "vypechka-na-moloke"
+        },
+        {
+            "name": "Выпечка с шоколадом",
+            "slug": "vypechka-s-shokoladom"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Красивый торт",
+            "slug": "krasiviy-tort"
+        },
+        {
+            "name": "Муссовый торт",
+            "slug": "mussoviy-tort"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничные торты",
+            "slug": "prazdnichnye-torty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Слоеный торт",
+            "slug": "sloeniy-tort"
+        },
+        {
+            "name": "Торт на день рождения",
+            "slug": "tort-na-den-rojdeniya"
+        },
+        {
+            "name": "Торт с зеркальной глазурью",
+            "slug": "tort-s-zerkalnoy-glazuryu"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        },
+        {
+            "name": "Шоколадный торт",
+            "slug": "shokoladniy-tort"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

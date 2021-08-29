@@ -1,0 +1,119 @@
+{
+    "source": "https://vkuso.ru/recipe/rolly-s-syrom-semgoj-i-krevetkami/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Роллы с сыром, семгой и креветками",
+    "description": null,
+    "note": null,
+    "cuisine": "Японская кухня",
+    "cuisine_slug": "yaponskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/30/fc9277af93ce630_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр пармезан",
+                    "slug": "syr-parmezan",
+                    "notes": null,
+                    "value": "50-100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый",
+                    "slug": "syr-plavleniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "семга/лосось",
+                    "slug": "semga-losos",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "креветки",
+                    "slug": "krevetki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "водоросли нори",
+                    "slug": "vodorosli-nori",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Постелить на стол макису, обернуть ее пленкой, разрезать лист нори на 2 части, расположить его блестящей стороной вниз (параллельно пластинкам) на циновке. Смочить рисовым уксусом руки, взять рис, разложить на листе нори, 1 см противоположного края оставить свободным, на рис выложить крупную стружку сыра.",
+            "image": null
+        },
+        {
+            "text": "Перевернуть нори рисом вниз, положить поверх квадратики сыра, кусочек семги и креветки. Приподнять край у макису, свернуть роллы с сыром, семгой и креветками, разложить их на тарелке, украсить ломтиками помидора.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "Закуски из морепродуктов",
+            "slug": "zakuski-iz-moreproduktov"
+        },
+        {
+            "name": "Закуски с красной рыбой",
+            "slug": "zakuski-s-krasnoy-ryboy"
+        },
+        {
+            "name": "Лосось с сыром",
+            "slug": "losos-s-syrom"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рис с креветками",
+            "slug": "ris-s-krevetkami"
+        },
+        {
+            "name": "Семга с сыром",
+            "slug": "semga-s-syrom"
+        },
+        {
+            "name": "Суши и роллы",
+            "slug": "sushi-i-rolly"
+        }
+    ]
+}

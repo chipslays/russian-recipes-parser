@@ -1,0 +1,177 @@
+{
+    "source": "https://vkuso.ru/recipe/pirozhki-s-kartofelem-na-skovorode/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пирожки с картофелем на сковороде",
+    "description": null,
+    "note": null,
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a2/955f6fd5b5799a2_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2,5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1,5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "500-700",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Дополнительно",
+            "list": [
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Поставить варится картофель для начинки. Тесто: взять муку (3 стакана), просеять, добавить к муке сухие дрожжи и теплую воду. Оставить минут на 10. Потом в тесто добавить сметану, сахар и соль. Замесить плотное тесто, добавляя муку по необходимости.",
+            "image": null
+        },
+        {
+            "text": "Отставить, чтобы поднялось. Начинка: смешать толченый картофель, предварительно нарезанный и поджаренный лук, приправить солью и перцем. Разделить готовое тесто на небольшие шарики. Из шарика образовать лепешку, уложить в центре него ложку начинки и защипнуть края.",
+            "image": null
+        },
+        {
+            "text": "Аккуратно расплющить пирожок до 1 сантиметра толщиной, следить, чтобы тесто не порвалось. Жарить их на масле растительном с каждой стороны (небольшой огонь). Готовые пирожки с картофелем присыпать свежей или сушеной зеленью и измельченным чесноком.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Выпечка с зеленью",
+            "slug": "vypechka-s-zelenyu"
+        },
+        {
+            "name": "Дрожжевые пирожки",
+            "slug": "drojjevye-pirojki"
+        },
+        {
+            "name": "Жареные пирожки",
+            "slug": "jarenye-pirojki"
+        },
+        {
+            "name": "Жареные пирожки с картошкой на сковороде",
+            "slug": "jarenye-pirojki-s-kartoshkoy-na-skovorode"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки на сметане",
+            "slug": "pirojki-na-smetane"
+        },
+        {
+            "name": "Пирожки с картошкой",
+            "slug": "pirojki-s-kartoshkoy"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "source": "https://vkuso.ru/recipe/shokoladnye-blinchiki-s-tvorogom-k-zavtraku/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Шоколадные блинчики с творогом к завтраку",
+    "description": "Очень вкусные, с нежной начинкой, блинчики шоколадного цвета смотрятся на столе необычно и оригинально. Детям обязательно понравится десерт, тем более простота приготовления позволит готовить вместе с малышами.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a6/6be4ef2a0c9a2a6_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "какао",
+                    "slug": "kakao",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пакетик",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "курага",
+                    "slug": "kuraga",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "изюм",
+                    "slug": "izyum",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "При помощи миксера взбить яйца с сахаром, посолить по вкусу и добавить молоко. Просеять муку и добавить разрыхлитель, какао. Муку постепенно всыпать в тесто, продолжая взбивать миксером. По консистенции тесто будет, как жидкая сметана. Раскалить сковороду, смазать растительным маслом. Наливать порцию теста на сковороду и жарить блин с двух сторон. Готовые блинчики остудить.",
+            "image": null
+        },
+        {
+            "text": "Для начинки необходимо замочить изюм, высушить, затем смешать с творогом и сахаром. В каждый блинчик завернуть немного начинки и сложить аккуратной горкой. Шоколадные блинчики можно заворачивать по-особенному, например, в форме конфетки. Завязать края шоколадных блинчиков с творогом полоской кураги или чернослива.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Блинчики на молоке",
+            "slug": "blinchiki-na-moloke"
+        },
+        {
+            "name": "Блины",
+            "slug": "bliny"
+        },
+        {
+            "name": "Блины без дрожжей",
+            "slug": "bliny-bez-drojjey"
+        },
+        {
+            "name": "Блины на молоке",
+            "slug": "bliny-na-moloke"
+        },
+        {
+            "name": "Блины с творогом",
+            "slug": "bliny-s-tvorogom"
+        },
+        {
+            "name": "Выпечка для детей",
+            "slug": "vypechka-dlya-detey"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка с изюмом",
+            "slug": "vypechka-s-izyumom"
+        },
+        {
+            "name": "Выпечка с сухофруктами",
+            "slug": "vypechka-s-suhofruktami"
+        },
+        {
+            "name": "Детские блины",
+            "slug": "detskie-bliny"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Детский завтрак",
+            "slug": "detskiy-zavtrak"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Масленица",
+            "slug": "maslenica"
+        },
+        {
+            "name": "Фаршированные блины с начинкой",
+            "slug": "farshirovannye-bliny-s-nachinkoy"
+        },
+        {
+            "name": "Шоколадные блины",
+            "slug": "shokoladnye-bliny"
+        }
+    ]
+}

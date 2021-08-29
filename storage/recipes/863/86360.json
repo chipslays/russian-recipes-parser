@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/86360-klassicheskaya-mannaya-kasha-s-maslom-v-multivarke/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Классическая манная каша с маслом в мультиварке",
+    "description": "Кухонный прибор поможет избежать самую главную проблему – молоко не сбежит и не пригорит.",
+    "note": "Кашу украсить сезонными ягодами, полить сиропом или медом.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e3/183b0972d4391e3_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "15 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/JndamT7wsPs?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "манная крупа",
+                    "slug": "mannaya-krupa",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В емкость мультиварки всыпать манку, сахар, соль.",
+            "image": null
+        },
+        {
+            "text": "Влить молоко, добавить часть нормы сливочного масла.",
+            "image": null
+        },
+        {
+            "text": "Массу перемешать.",
+            "image": null
+        },
+        {
+            "text": "Прибор закрыть, выставить режим «Молочная каша» на десять минут.",
+            "image": null
+        },
+        {
+            "text": "Прибор открыть, добавить оставшееся масло.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Каша",
+            "slug": "kasha"
+        },
+        {
+            "name": "Каша в мультиварке",
+            "slug": "kasha-v-multivarke"
+        },
+        {
+            "name": "Каша в мультиварке на молоке",
+            "slug": "kasha-v-multivarke-na-moloke"
+        },
+        {
+            "name": "Каша на молоке",
+            "slug": "kasha-na-moloke"
+        },
+        {
+            "name": "Каши классические",
+            "slug": "kashi-klassicheskie"
+        },
+        {
+            "name": "Каши на завтрак",
+            "slug": "kashi-na-zavtrak"
+        },
+        {
+            "name": "Классические рецепты",
+            "slug": "klassicheskie-recepty"
+        },
+        {
+            "name": "Манная каша",
+            "slug": "mannaya-kasha"
+        },
+        {
+            "name": "Манная каша в мультиварке",
+            "slug": "mannaya-kasha-v-multivarke"
+        },
+        {
+            "name": "Манная каша на молоке",
+            "slug": "mannaya-kasha-na-moloke"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        }
+    ]
+}

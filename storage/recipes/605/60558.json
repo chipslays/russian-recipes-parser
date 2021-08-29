@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/semga-gravlaks-s-ukropom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Семга гравлакс с укропом",
+    "description": "Скандинавское блюдо, которое очень любят в Норвегии, в Финляндии, Исландии и Швеции. В переводе название означает «похороненная» или «закопанная» рыба. В былые времена при отсутствии холодильников натертый специями продукт действительно закапывали в песок или в землю.",
+    "note": "Закусочную рыбу можно подать с лимоном и горчицей.",
+    "cuisine": "Скандинавская кухня",
+    "cuisine_slug": "skandinavskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/43/63bf84cce96a943_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": "10 часов",
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "филе семги",
+                    "slug": "file-semgi",
+                    "notes": " (на коже)",
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "соль морская",
+                    "slug": "sol-morskaya",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень укропа",
+                    "slug": "zelen-ukropa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "укроп сушеный",
+                    "slug": "ukrop-susheniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Перемешать сахарный песок с морской солью и черным молотым перцем.",
+            "image": null
+        },
+        {
+            "text": "Филе семги с кожей разрезать пополам, обвалять куски в смеси со всех сторон.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/a5/4770f0ca12400a5_434x295.jpg"
+        },
+        {
+            "text": "Мелко нарезать свежий зеленый укроп, перемешать с сушеным.",
+            "image": null
+        },
+        {
+            "text": "Посыпать филе и этой смесью, сложить куски стопкой и завернуть в пищевую пленку.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/61/ad4ef44b4aa7961_434x295.jpg"
+        },
+        {
+            "text": "Рыбу поместить под пресс и оставить при комнатной температуре на 10 или 12 часов.",
+            "image": null
+        },
+        {
+            "text": "Убрать в холодильник на 12 часов или больше.",
+            "image": null
+        },
+        {
+            "text": "При подаче слой специй удалить, филе нарезать тонкими ломтиками.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/88/6846b636c353988_434x295.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Закуски для фуршета",
+            "slug": "zakuski-dlya-fursheta"
+        },
+        {
+            "name": "Закуски из рыбы",
+            "slug": "zakuski-iz-ryby"
+        },
+        {
+            "name": "Закуски на день рождения",
+            "slug": "zakuski-na-den-rojdeniya"
+        },
+        {
+            "name": "Закуски с красной рыбой",
+            "slug": "zakuski-s-krasnoy-ryboy"
+        },
+        {
+            "name": "Новогодние закуски",
+            "slug": "novogodnie-zakuski"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рыба на Новый год",
+            "slug": "ryba-na-noviy-god"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        },
+        {
+            "name": "Холодные закуски",
+            "slug": "holodnye-zakuski"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "source": "https://vkuso.ru/recipe/106760-salat-iz-tykvy-s-solenymi-ogurcami-i-pomidorami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат из тыквы с солеными огурцами и помидорами",
+    "description": "Острый салат с зимними заготовками.",
+    "note": "Для блюда понадобится соль мелкого помола.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ae/5aa5d86c23786ae_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "50 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "тыква",
+                    "slug": "tykva",
+                    "notes": null,
+                    "value": "320",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "зеленый горошек",
+                    "slug": "zeleniy-goroshek",
+                    "notes": null,
+                    "value": "80",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы соленые",
+                    "slug": "ogurcy-solenye",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук белый",
+                    "slug": "luk-beliy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "уксус столовый",
+                    "slug": "uksus-stoloviy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень петрушки",
+                    "slug": "zelen-petrushki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Мякоть тыквы нарезать кубиками, отварить в воде с солью.",
+            "image": null
+        },
+        {
+            "text": "Продукт охладить, переложить в салатницу.",
+            "image": null
+        },
+        {
+            "text": "Добавить кубики нарезанных соленых огурцов, дольки свежих томатов.",
+            "image": null
+        },
+        {
+            "text": "Добавить тонко нарезанный полукольцами репчатый лук, зелень петрушки, горошек.",
+            "image": null
+        },
+        {
+            "text": "Приготовить заправку из уксуса, масла, соли, полить салат.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Овощные салаты",
+            "slug": "ovoschnye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из помидоров",
+            "slug": "salat-iz-pomidorov"
+        },
+        {
+            "name": "Салат из тыквы",
+            "slug": "salat-iz-tykvy"
+        },
+        {
+            "name": "Салат с зеленым горошком",
+            "slug": "salat-s-zelenym-goroshkom"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салат с солеными огурцами",
+            "slug": "salat-s-solenymi-ogurcami"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты из огурцов",
+            "slug": "salaty-iz-ogurcov"
+        },
+        {
+            "name": "Салаты из огурцов и помидоров",
+            "slug": "salaty-iz-ogurcov-i-pomidorov"
+        }
+    ]
+}

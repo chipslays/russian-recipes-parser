@@ -1,0 +1,251 @@
+{
+    "source": "https://vkuso.ru/recipe/yablochnyj-shtrudel-s-limonom-i-izyumom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Яблочный штрудель с лимоном и изюмом",
+    "description": "Всемирно известная выпечка, которой можно побаловать своих домочадцев в разгар новогодних каникул.",
+    "note": "Готовую выпечку при подаче разрезать на порции.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c2/8c6fb2e4fb167c2_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/AAzuEfJN2_A?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "700-800",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "125",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сухари панировочные",
+                    "slug": "suhari-panirovochnye",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар ванильный",
+                    "slug": "sahar-vanilniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "изюм",
+                    "slug": "izyum",
+                    "notes": " (цедра лимона)",
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Муку перемешать с солью, подогретой водой, растительным маслом. Тесто должно получиться однородным.",
+            "image": null
+        },
+        {
+            "text": "Смазать тесто растительным маслом, накрыть горячей миской на полчаса.",
+            "image": null
+        },
+        {
+            "text": "Яблоки нарезать тонкими ломтиками, перемешать с цедрой и лимонным соком или с вымытым изюмом без косточек.",
+            "image": null
+        },
+        {
+            "text": "Раскатать тесто в тонкий пласт, вытянуть до прозрачности, присыпать панировочными сухарями, выложить яблочную начинку.",
+            "image": null
+        },
+        {
+            "text": "Посыпать обычным и ванильным сахаром. Скатать рулет, выложить в заранее смазанную форму.",
+            "image": null
+        },
+        {
+            "text": "Верх смазать сливочным маслом, печь при температуре 190 градусов в течение 40 минут.",
+            "image": null
+        },
+        {
+            "text": "Готовую выпечку смазать маслом и посыпать сахарной пудрой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка с изюмом",
+            "slug": "vypechka-s-izyumom"
+        },
+        {
+            "name": "Выпечка с сухофруктами",
+            "slug": "vypechka-s-suhofruktami"
+        },
+        {
+            "name": "Выпечка с яблоками",
+            "slug": "vypechka-s-yablokami"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Детский день рождения",
+            "slug": "detskiy-den-rojdeniya"
+        },
+        {
+            "name": "Новогодняя выпечка",
+            "slug": "novogodnyaya-vypechka"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог без яиц",
+            "slug": "pirog-bez-yaic"
+        },
+        {
+            "name": "Пирог с изюмом",
+            "slug": "pirog-s-izyumom"
+        },
+        {
+            "name": "Пирог с яблоками",
+            "slug": "pirog-s-yablokami"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Постная выпечка",
+            "slug": "postnaya-vypechka"
+        },
+        {
+            "name": "Постные блюда в духовке",
+            "slug": "postnye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Постные пироги",
+            "slug": "postnye-pirogi"
+        },
+        {
+            "name": "Постный ужин",
+            "slug": "postniy-ujin"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Сладкие пироги",
+            "slug": "sladkie-pirogi"
+        },
+        {
+            "name": "Штрудель",
+            "slug": "shtrudel"
+        },
+        {
+            "name": "Яблочный штрудель",
+            "slug": "yablochniy-shtrudel"
+        }
+    ]
+}

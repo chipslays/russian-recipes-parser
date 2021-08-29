@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/omlet-s-krevetkami-k-zavtraku/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Омлет с креветками к завтраку",
+    "description": "Обычное, «утреннее», блюдо с наполнителем из морепродуктов.",
+    "note": "Готовый омлет можно посыпать рубленой зеленью лука, укропа, петрушки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/78/fd447b76f56fc78_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "креветки",
+                    "slug": "krevetki",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Креветки отварить в течение нескольких минут, очистить.",
+            "image": null
+        },
+        {
+            "text": "Сырые куриные яйца взбить с солью и перцем.",
+            "image": null
+        },
+        {
+            "text": "Во взбитые яйца добавить молоко, перемешать, положить креветки, еще раз перемешать.",
+            "image": null
+        },
+        {
+            "text": "Жарить омлетную массу на разогретой сковороде с маслом под крышкой в течение 8 – 10 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блюда из яиц",
+            "slug": "blyuda-iz-yaic"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Омлет",
+            "slug": "omlet"
+        },
+        {
+            "name": "Омлет на завтрак",
+            "slug": "omlet-na-zavtrak"
+        },
+        {
+            "name": "Омлет на сковороде",
+            "slug": "omlet-na-skovorode"
+        },
+        {
+            "name": "Омлет с молоком",
+            "slug": "omlet-s-molokom"
+        },
+        {
+            "name": "Омлет с молоком на сковороде",
+            "slug": "omlet-s-molokom-na-skovorode"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

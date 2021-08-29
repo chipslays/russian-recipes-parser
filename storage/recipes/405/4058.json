@@ -1,0 +1,167 @@
+{
+    "source": "https://vkuso.ru/recipe/prostoj-shokoladnyj-pirog/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Простой шоколадный пирог",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f6/e3f5d50108233f6_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахара",
+                    "slug": "sahara",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "кислого молока",
+                    "slug": "kislogo-moloka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "свежесваренного крепкого кофе",
+                    "slug": "svejesvarennogo-krepkogo-kofe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "какао-порошка",
+                    "slug": "kakao-poroshka",
+                    "notes": null,
+                    "value": "3/4",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "растительного масла",
+                    "slug": "rastitelnogo-masla",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "соды",
+                    "slug": "sody",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлителя",
+                    "slug": "razryhlitelya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "ванили",
+                    "slug": "vanili",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соли",
+                    "slug": "soli",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Включить на разогрев до 175 градусов духовку, смазать круглую форму с отверстием в центре маслом и присыпать порошком какао.",
+            "image": null
+        },
+        {
+            "text": "Смешать муку, сахар, какао, соду, разрыхлитель, соль, взбить в гомогенную смесь на малой скорости в миксере кофе, масло, молоко, яйца, ванилин, постепенно всыпать мучную смесь, окончательно взбить тесто на средней скорости около 5 минут, перелить в форму.",
+            "image": null
+        },
+        {
+            "text": "Выпекать простой шоколадный пирог 45 минут, охладить, посыпать сахарной пудрой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог на молоке",
+            "slug": "pirog-na-moloke"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Сладкие пироги",
+            "slug": "sladkie-pirogi"
+        },
+        {
+            "name": "Шоколадные пироги",
+            "slug": "shokoladnye-pirogi"
+        },
+        {
+            "name": "Шоколадный торт",
+            "slug": "shokoladniy-tort"
+        }
+    ]
+}

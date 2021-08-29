@@ -1,0 +1,167 @@
+{
+    "source": "https://vkuso.ru/recipe/pashtet-iz-govyadiny-i-svininy-po-skandinavski/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Паштет из говядины и свинины по-скандинавски",
+    "description": null,
+    "note": null,
+    "cuisine": "Скандинавская кухня",
+    "cuisine_slug": "skandinavskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/30/2ef79d544ddce30_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "говядины",
+                    "slug": "govyadiny",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "свинины",
+                    "slug": "svininy",
+                    "notes": null,
+                    "value": "350",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыра",
+                    "slug": "syra",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливочного масла",
+                    "slug": "slivochnogo-masla",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грибов",
+                    "slug": "gribov",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйцо",
+                    "slug": "yayco",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "сметаны",
+                    "slug": "smetany",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "соли",
+                    "slug": "soli",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Замесить из муки, соли, яйца, сметаны и сливочного масла (200 г) тесто. Поставить в холодильник на час.",
+            "image": null
+        },
+        {
+            "text": "Приготовить за это время фарш из говядины и свинины, измельчить зелень, свежие грибы, луковицу, натереть сыр на терке.",
+            "image": null
+        },
+        {
+            "text": "Растопить на сковороде сливочное масло, поджарить грибы, лук, петрушку, мясной фарш, сыр, добавить по вкусу перец и соль.",
+            "image": null
+        },
+        {
+            "text": "Разделить на две части тесто, раскатать одну часть и выложить на противень, смазанный маслом, затем выложить начинку и накрыть вторым пластом, края следует хорошо защепить, чтобы мясо не сочилось,можно украсить верхний пласт плетенкой из тонких полосок теста, смазать сырым яйцом.",
+            "image": null
+        },
+        {
+            "text": "Поставить паштет из говядины и свинины по-скандинавски в разогретую духовку, выпекать до золотистого цвета.",
+            "image": null
+        },
+        {
+            "text": "Подавать паштет к столу в горячем виде со сметаной.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Закуски из грибов",
+            "slug": "zakuski-iz-gribov"
+        },
+        {
+            "name": "Закуски из мяса",
+            "slug": "zakuski-iz-myasa"
+        },
+        {
+            "name": "Мясной паштет",
+            "slug": "myasnoy-pashtet"
+        },
+        {
+            "name": "Мясо с грибами",
+            "slug": "myaso-s-gribami"
+        },
+        {
+            "name": "Мясо с грибами и сыром",
+            "slug": "myaso-s-gribami-i-syrom"
+        },
+        {
+            "name": "Мясо с сыром",
+            "slug": "myaso-s-syrom"
+        },
+        {
+            "name": "Паштеты",
+            "slug": "pashtety"
+        }
+    ]
+}

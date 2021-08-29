@@ -1,0 +1,151 @@
+{
+    "source": "https://vkuso.ru/recipe/celnozernovye-rumyanye-bulochki/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Цельнозерновые румяные булочки",
+    "description": "Приятная и полезная выпечка на все случаи жизни.",
+    "note": "По желанию булочки можно посыпать кунжутным семенем или маком.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/9b/cd152c87abf549b_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/l88rMWlbrpc?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука цельнозерновая",
+                    "slug": "muka-celnozernovaya",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука пшеничная",
+                    "slug": "muka-pshenichnaya",
+                    "notes": null,
+                    "value": "100-150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "45",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В смесь воды с молоком добавить сухие дрожжи и сахар, оставить на 10 или 15 минут, дрожжи должны разойтись.",
+            "image": null
+        },
+        {
+            "text": "Всыпать соль, цельнозерновую и пшеничную муку, влить растительное масло, вбить сырое яйцо.",
+            "image": null
+        },
+        {
+            "text": "Замесить тесто, оно должно отставать от рук.",
+            "image": null
+        },
+        {
+            "text": "Поделить массу на 12 частей, сформовать небольшие булочки, выложить их на противень и оставить на час.",
+            "image": null
+        },
+        {
+            "text": "Духовку разогреть до 180 градусов, время выпекания – от 20 до 25 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Булочки",
+            "slug": "bulochki"
+        },
+        {
+            "name": "Булочки на молоке",
+            "slug": "bulochki-na-moloke"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка для детей",
+            "slug": "vypechka-dlya-detey"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Домашние булочки",
+            "slug": "domashnie-bulochki"
+        },
+        {
+            "name": "Дрожжевые булочки",
+            "slug": "drojjevye-bulochki"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        }
+    ]
+}

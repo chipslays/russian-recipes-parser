@@ -1,0 +1,152 @@
+{
+    "source": "https://vkuso.ru/recipe/sloenaya-samsa-s-sochnym-myasom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Слоеная самса с сочным мясом",
+    "description": null,
+    "note": null,
+    "cuisine": "Узбекская кухня",
+    "cuisine_slug": "uzbekskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/38/83efdaededb9838_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "говядина",
+                    "slug": "govyadina",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "свинина",
+                    "slug": "svinina",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления теста необходимо, в глубокую посуду поместить муку, сформировать посередине воронку, соединить соль и воду, соленую воду влить в муку и замесить тесто. Готовое тесто прикрыть и дать отдохнуть в течение 30 минут. Для приготовления начинки подготовленное мясо перекрутить в фарш. Лук нашинковать.",
+            "image": null
+        },
+        {
+            "text": "Мясной фарш обжарить на сковороде с добавлением лука. Начинку остудить. Тесто раскатать скалкой в очень тонкий пласт, весь промазать растопленным маслом и завернуть на скалку маслом внутрь. Затем разрезать тесто вдоль, скалку удалить, полученный отрезок разрезать пополам вдоль.",
+            "image": null
+        },
+        {
+            "text": "Из отрезков теста крутить рулет, сделать 3 оборота, тесто обрезать и так до конца. Каждый получившийся рулетик разрезать на 2 части, каждую часть придавить сверху. Получившиеся лепешки раскатать, в центр положить начинку и сформировать треугольную самсу, тщательно залепляя швы. Заготовки обжарить в разогретом растительном масле с двух сторон до золотистой корочки.  Слоеная самса с сочным мясом готова.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка с мясом и фаршем",
+            "slug": "vypechka-s-myasom-i-farshem"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки без дрожжей",
+            "slug": "pirojki-bez-drojjey"
+        },
+        {
+            "name": "Пирожки на воде",
+            "slug": "pirojki-na-vode"
+        },
+        {
+            "name": "Пирожки с мясом",
+            "slug": "pirojki-s-myasom"
+        },
+        {
+            "name": "Самса",
+            "slug": "samsa"
+        },
+        {
+            "name": "Самса из слоеного теста",
+            "slug": "samsa-iz-sloenogo-testa"
+        },
+        {
+            "name": "Слоеные пирожки",
+            "slug": "sloenye-pirojki"
+        }
+    ]
+}

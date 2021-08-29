@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/krem-sup-iz-kukuruzy-so-slivkami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Крем-суп из кукурузы со сливками",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/07/f32201d0d36d807_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кукуруза",
+                    "slug": "kukuruza",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб белый",
+                    "slug": "hleb-beliy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "куска",
+                    "amount": null
+                },
+                {
+                    "name": "соус брусничный",
+                    "slug": "sous-brusnichniy",
+                    "notes": null,
+                    "value": "5",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло подсолнечное",
+                    "slug": "maslo-podsolnechnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Порезать пару кусочков белого хлеба на кубики, присыпать солью, чуть обжарить в подсолнечном масле.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/0e/b333ef3deaf720e_434x295.jpg"
+        },
+        {
+            "text": "В чашу блендера влить сливки, положить кукурузу, измельчить.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/69/3fb09fde2126069_434x295.jpg"
+        },
+        {
+            "text": "Вылить сквозь сито в сотейник, чтобы убрать оставшиеся частички кукурузы.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/34/7cbe7843ac1ef34_434x295.jpg"
+        },
+        {
+            "text": "Массу нагреть до кипения и снять крем-суп из кукурузы со сливками с плиты.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/25/c2be2977c567225_434x295.jpg"
+        },
+        {
+            "text": "Разлить по тарелкам, положить в каждую по ложке брусничного соуса и гренки.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/d9/92fdb6f252161d9_434x295.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Кисломолочные супы",
+            "slug": "kislomolochnye-supy"
+        },
+        {
+            "name": "Крем-суп",
+            "slug": "krem-sup"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Сладкие супы",
+            "slug": "sladkie-supy"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп со сливками",
+            "slug": "sup-so-slivkami"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        }
+    ]
+}

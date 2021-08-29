@@ -1,0 +1,139 @@
+{
+    "source": "https://vkuso.ru/recipe/svinina-s-shampinonami-pod-syrnym-sousom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Свинина с шампиньонами под сырным соусом",
+    "description": null,
+    "note": "Для приготовления более диетического блюда томатную пасту можно заменить помидорами, а для любителей «погорячее» добавить граммов 50 соуса чили. Да, и зелень в любом количестве прекрасно дополнит вкус тушеного мяса с грибами.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/06/911d177968f0906_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "свинина",
+                    "slug": "svinina",
+                    "notes": null,
+                    "value": "1,5",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый",
+                    "slug": "syr-plavleniy",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "приправа для мяса",
+                    "slug": "priprava-dlya-myasa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Подготовить мясную вырезку, порезать на средние кубики, пересыпать в сковороду, обжарить при среднем нагреве. Мясо без присмотра не оставлять, постоянно перемешивать.",
+            "image": null
+        },
+        {
+            "text": "Вымыть грибы, поместить в кипяток, дать закипеть, проварить минут 10-12 (зависит от размера грибов), сцедить отвар, дать хорошо остыть, мелко порезать.",
+            "image": null
+        },
+        {
+            "text": "Когда от сковороды с мясом появится запах ароматного бульона, а на кусочках не будет красноватых пятен, всыпать грибы, сдобрить любимыми приправами, размешать, добавить томатную пасту хорошо перемешать.",
+            "image": null
+        },
+        {
+            "text": "Порезать на кусочки плавленый сыр, соединить с грибами и мясом, перемешать, дать ему расплавиться. Чем тщательнее перемешивать, тем будет вкуснее.",
+            "image": null
+        },
+        {
+            "text": "Разложить свинину с шампиньонами под сырным соусом по тарелкам, добавить любой гарнир, подать к столу.  Блюдо можно есть и без гарнира, например,  с любым овощным салатом или малосольными огурчиками.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Мясо с грибами",
+            "slug": "myaso-s-gribami"
+        },
+        {
+            "name": "Мясо с грибами и сыром",
+            "slug": "myaso-s-gribami-i-syrom"
+        },
+        {
+            "name": "Мясо с сыром",
+            "slug": "myaso-s-syrom"
+        },
+        {
+            "name": "Свинина с грибами",
+            "slug": "svinina-s-gribami"
+        },
+        {
+            "name": "Свинина с грибами и сыром",
+            "slug": "svinina-s-gribami-i-syrom"
+        },
+        {
+            "name": "Свинина с сыром",
+            "slug": "svinina-s-syrom"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из свинины",
+            "slug": "ujin-iz-svininy"
+        }
+    ]
+}

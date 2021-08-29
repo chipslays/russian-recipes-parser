@@ -1,0 +1,235 @@
+{
+    "source": "https://vkuso.ru/recipe/ragu-iz-pekinskoj-kapusty-s-lisichkami/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Рагу из пекинской капусты с лисичками",
+    "description": "Легкое, капустное, блюдо со сметаной и грибами. Пекинская капуста как нельзя лучше подходит для диетического рациона, она содержит немало полезных веществ, которые способствуют нормальному пищеварению, удаляют лишний холестерин и даже борются с онкологией.",
+    "note": "Готовое рагу можно посыпать нарезанной зеленью петрушки и укропа, украсить помидорами черри или дольками обычных помидоров.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/89/9384da47edf4e89_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "капуста пекинская",
+                    "slug": "kapusta-pekinskaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "зеленый горошек замороженный",
+                    "slug": "zeleniy-goroshek-zamorojenniy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лисички",
+                    "slug": "lisichki",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарубить репчатый лук, обжарить на растительном масле. Добавить сладкий болгарский перец, нарезанный соломкой, когда он станет мягче – добавить размороженные лисички. Жарить на среднем огне в течение 10 минут.",
+            "image": null
+        },
+        {
+            "text": "Пекинскую капусту нашинковать и перетереть её с солью руками. Всыпать в сковороду с обжаркой, прогреть до мягкости. Добавить сметану, размороженный зеленый горошек, соль и перец – по вкусу. Огонь убавить, накрыть сковороду крышкой, тушить 15 минут. В конце приготовления в рагу из пекинской капусты добавить тертый твердый сыр.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Веганство",
+            "slug": "veganstvo"
+        },
+        {
+            "name": "Вегетарианские вторые блюда",
+            "slug": "vegetarianskie-vtorye-blyuda"
+        },
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из овощей",
+            "slug": "vtorye-blyuda-iz-ovoschey"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Гарнир из грибов",
+            "slug": "garnir-iz-gribov"
+        },
+        {
+            "name": "Гарнир к курице",
+            "slug": "garnir-k-kurice"
+        },
+        {
+            "name": "Гарниры",
+            "slug": "garniry"
+        },
+        {
+            "name": "Грибы в духовке",
+            "slug": "griby-v-duhovke"
+        },
+        {
+            "name": "Грибы в сметане",
+            "slug": "griby-v-smetane"
+        },
+        {
+            "name": "Грибы с сыром",
+            "slug": "griby-s-syrom"
+        },
+        {
+            "name": "Грибы с сыром в духовке",
+            "slug": "griby-s-syrom-v-duhovke"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Капуста в духовке",
+            "slug": "kapusta-v-duhovke"
+        },
+        {
+            "name": "Овощи в духовке",
+            "slug": "ovoschi-v-duhovke"
+        },
+        {
+            "name": "Овощное рагу",
+            "slug": "ovoschnoe-ragu"
+        },
+        {
+            "name": "Овощное рагу с капустой",
+            "slug": "ovoschnoe-ragu-s-kapustoy"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рагу",
+            "slug": "ragu"
+        },
+        {
+            "name": "Тушеная капуста",
+            "slug": "tushenaya-kapusta"
+        },
+        {
+            "name": "Тушеные грибы",
+            "slug": "tushenye-griby"
+        },
+        {
+            "name": "Ужин из капусты",
+            "slug": "ujin-iz-kapusty"
+        },
+        {
+            "name": "Ужин из овощей",
+            "slug": "ujin-iz-ovoschey"
+        }
+    ]
+}

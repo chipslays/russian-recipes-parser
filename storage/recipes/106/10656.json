@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/knedliki-iz-kartofelya-s-shampinonami/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Кнедлики из картофеля с шампиньонами",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/3a/98ef4cca610563a_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Картофель средних размеров отварить в соленой воде. Очистить и протереть через терку. Грибы промыть почистить и мелко порубить. Репчатый лук нашинковать мелкими кубиками. Обжарить грибочки с луком на растительном масле. Перемешать с картошкой. Добавить в массу яйца, соль и муку. Тщательно замесить вязкое тесто.",
+            "image": null
+        },
+        {
+            "text": "В большой кастрюле вскипятить воду, куда положить лавровый лист и соль. Руки слегка намочить и сформировать шарики среднего размера. Каждый шар осторожно опустить в кипящую воду. В процессе варки нужно аккуратно двигать их ложкой, чтобы не прилипали ко дну. После всплытия шариков варить 4 минуты. Кнедлики из картофеля с шампиньонами готовы.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Вторые блюда из овощей",
+            "slug": "vtorye-blyuda-iz-ovoschey"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Картошка с грибами",
+            "slug": "kartoshka-s-gribami"
+        },
+        {
+            "name": "Картошка с шампиньонами",
+            "slug": "kartoshka-s-shampinonami"
+        },
+        {
+            "name": "Кнедлики",
+            "slug": "knedliki"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из овощей",
+            "slug": "ujin-iz-ovoschey"
+        }
+    ]
+}

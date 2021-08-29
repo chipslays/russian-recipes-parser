@@ -1,0 +1,203 @@
+{
+    "source": "https://vkuso.ru/recipe/107603-romshteks-s-pomidorami-pod-syrnoj-korochkoj/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Ромштекс с помидорами под сырной корочкой",
+    "description": "Телятина с божественным вкусом, нежная и аппетитная.",
+    "note": "Для приготовления блюда можно использовать сыр «Моцарелла».",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/13/e47d43c1a971613_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час 20 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "телятина",
+                    "slug": "telyatina",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сухари панировочные",
+                    "slug": "suhari-panirovochnye",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб",
+                    "slug": "hleb",
+                    "notes": null,
+                    "value": "5",
+                    "type": "кусочков",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "зубчик",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Мясо нарезать кусками, посыпать специями, отбить.",
+            "image": null
+        },
+        {
+            "text": "Обмакнуть во взбитые яйца, запанировать в сухарях, обжарить.",
+            "image": null
+        },
+        {
+            "text": "На готовые куски выложить нарезанные томаты и давленый чеснок.",
+            "image": null
+        },
+        {
+            "text": "Посыпать сыром, прогреть в микроволновке.",
+            "image": null
+        },
+        {
+            "text": "На том же масле, на котором готовилось мясо, обжарить хлеб.",
+            "image": null
+        },
+        {
+            "text": "На гренки выложить мясо, посыпать рубленой зеленью и сразу подать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Горячие блюда на день рождения",
+            "slug": "goryachie-blyuda-na-den-rojdeniya"
+        },
+        {
+            "name": "Горячие блюда на праздничный стол",
+            "slug": "goryachie-blyuda-na-prazdnichniy-stol"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Мясо в кляре",
+            "slug": "myaso-v-klyare"
+        },
+        {
+            "name": "Мясо на сковороде",
+            "slug": "myaso-na-skovorode"
+        },
+        {
+            "name": "Мясо с сыром",
+            "slug": "myaso-s-syrom"
+        },
+        {
+            "name": "Отбивные",
+            "slug": "otbivnye"
+        },
+        {
+            "name": "Отбивные в кляре",
+            "slug": "otbivnye-v-klyare"
+        },
+        {
+            "name": "Отбивные из говядины",
+            "slug": "otbivnye-iz-govyadiny"
+        },
+        {
+            "name": "Отбивные на сковороде",
+            "slug": "otbivnye-na-skovorode"
+        },
+        {
+            "name": "Отбивные с помидорами",
+            "slug": "otbivnye-s-pomidorami"
+        },
+        {
+            "name": "Отбивные с сыром",
+            "slug": "otbivnye-s-syrom"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Ромштекс",
+            "slug": "romshteks"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

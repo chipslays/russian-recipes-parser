@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/prostye-chipsy-iz-tonkogo-lavasha/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Простые чипсы из тонкого лаваша",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/2e/006e60d6851322e_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лаваш тонкий",
+                    "slug": "lavash-tonkiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Мелко потереть сыр. Взбить сметану, яйцо, посыпать перцем, добавить прессованный чеснок, 2/3 сыра. Перемешать. Намазать массой листы лаваша, посыпать сыром. Порезать лаваш на кусочки, положить на сухой противень, готовить чипсы из лаваша до золотистой корочки, соблюдать температуру 180 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Домашние чипсы",
+            "slug": "domashnie-chipsy"
+        },
+        {
+            "name": "Закуски из лаваша",
+            "slug": "zakuski-iz-lavasha"
+        },
+        {
+            "name": "Закуски к пиву",
+            "slug": "zakuski-k-pivu"
+        },
+        {
+            "name": "Лаваш с сыром",
+            "slug": "lavash-s-syrom"
+        },
+        {
+            "name": "Лаваш с сыром и яйцом",
+            "slug": "lavash-s-syrom-i-yaycom"
+        },
+        {
+            "name": "Лаваш с яйцом",
+            "slug": "lavash-s-yaycom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

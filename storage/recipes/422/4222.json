@@ -1,0 +1,147 @@
+{
+    "source": "https://vkuso.ru/recipe/sup-s-govyadinoj-i-grechkoj/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Суп с говядиной и гречкой",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b6/d6477286f0a88b6_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "говядины",
+                    "slug": "govyadiny",
+                    "notes": null,
+                    "value": "500-700",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "моркови",
+                    "slug": "morkovi",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "5",
+                    "type": "клубней",
+                    "amount": null
+                },
+                {
+                    "name": "лавровых листа",
+                    "slug": "lavrovyh-lista",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "3-4"
+                },
+                {
+                    "name": "гречневой крупы",
+                    "slug": "grechnevoy-krupy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Говяжье мясо порезать на порционные куски, положить их в кипящую воду на 1-1,5 часа и приготовить бульон.",
+            "image": null
+        },
+        {
+            "text": "Перебрать и тщательно промыть гречневую крупу, очищенный картофель нарезать, крупно потереть на терке морковь.",
+            "image": null
+        },
+        {
+            "text": "Все подготовленные ингредиенты переложить в кипящий бульон, добавить молотый перец, лавровый лист, соль.",
+            "image": null
+        },
+        {
+            "text": "За несколько минут до готовности необходимо добавить в суп с говядиной и гречкой рубленую зелень и измельченный зеленый лук.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Гречка с мясом",
+            "slug": "grechka-s-myasom"
+        },
+        {
+            "name": "Гречневый суп",
+            "slug": "grechneviy-sup"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Суп из говядины",
+            "slug": "sup-iz-govyadiny"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Супы с крупами",
+            "slug": "supy-s-krupami"
+        }
+    ]
+}

@@ -1,0 +1,196 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-svinka-s-vetchinoj-i-syrom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Свинка» с ветчиной и сыром",
+    "description": "Блюдо из доступных продуктов, несложное в приготовлении.",
+    "note": "Поросенка можно украсить зеленью или зеленым горошком из банки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a0/03d303a9d67dba0_660x440.jpeg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        },
+        {
+            "name": "Для украшения",
+            "list": [
+                {
+                    "name": "колбаса вареная",
+                    "slug": "kolbasa-varenaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "маслины",
+                    "slug": "masliny",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать небольшими кубиками ветчину, отварное куриное яйцо, твердый сыр, помидоры.",
+            "image": null
+        },
+        {
+            "text": "Ингредиенты перемешать, заправить майонезом по вкусу и выложить на блюдо в виде поросенка.",
+            "image": null
+        },
+        {
+            "text": "Из вареной колбасы вырезать хвостик, пятачок, ушки, глаза сделать из маслин.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новогодний салат Свинка",
+            "slug": "novogodniy-salat-svinka"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Салат в виде свиньи",
+            "slug": "salat-v-vide-svini"
+        },
+        {
+            "name": "Салат из помидоров",
+            "slug": "salat-iz-pomidorov"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с ветчиной",
+            "slug": "salat-s-vetchinoy"
+        },
+        {
+            "name": "Салат с ветчиной и сыром",
+            "slug": "salat-s-vetchinoy-i-syrom"
+        },
+        {
+            "name": "Салат с помидорами и сыром",
+            "slug": "salat-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Салат с помидорами и яйцами",
+            "slug": "salat-s-pomidorami-i-yaycami"
+        },
+        {
+            "name": "Салат с твердым сыром",
+            "slug": "salat-s-tverdym-syrom"
+        },
+        {
+            "name": "Салат с яйцом и сыром",
+            "slug": "salat-s-yaycom-i-syrom"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты на скорую руку",
+            "slug": "salaty-na-skoruyu-ruku"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        }
+    ]
+}

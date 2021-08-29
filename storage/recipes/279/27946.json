@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/tonkie-blinchiki-s-nachinkoj-na-zavtrak/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Тонкие блинчики с начинкой на завтрак",
+    "description": "Из тонких блинчиков можно приготовить большое количество вкусных блюд, от закусочных рулетов до сложных, многослойных, тортов со сладкими или острыми, мясными или овощными, начинками.",
+    "note": "При подаче такую закуску можно выложить на листья зеленого салата, гарнировать помидорами черри, нарезанным свежим огурцом и зеленью петрушки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5a/658688400aeac5a_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "1,2",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "8",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В просеянную пшеничную муку добавить яйца, влить молоко, перемешать, добавить соль, сахар, растопленное сливочное масло, взбивать до исчезновения комочков. Дать постоять тесту 20 минут, чтобы набухла клейковина. Выпечь блинчики с двух сторон на небольшом количестве масла, лучше взять сковороду с антипригарным покрытием.",
+            "image": null
+        },
+        {
+            "text": "Для начинки нарезать брусками малосольный или соленый огурец, завернуть его в тонко нарезанную колбасу, а затем в ломтик сыра. Выложить на тонкие блинчики, завернуть рулетом и разрезать на две-три части.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блинчики",
+            "slug": "blinchiki"
+        },
+        {
+            "name": "Блинчики на молоке",
+            "slug": "blinchiki-na-moloke"
+        },
+        {
+            "name": "Блинчики тонкие",
+            "slug": "blinchiki-tonkie"
+        },
+        {
+            "name": "Блины",
+            "slug": "bliny"
+        },
+        {
+            "name": "Блины без дрожжей",
+            "slug": "bliny-bez-drojjey"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/xrustyashhie-buterbrody-s-avokado-i-chesnokom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Хрустящие бутерброды с авокадо и чесноком",
+    "description": "Вкусная закуска для завтрака. Запах чеснока не будет ощутим, он будет поглощен другими продуктами.",
+    "note": "Сверху на тосты можно положить по ломтику сельди, семги, бекона, шпроты, зелень. Новый ингредиент – новый вкус.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/1e/49f0f4c2e9f341e_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/yv3bFxaLS5A?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "хлеб тостовый",
+                    "slug": "hleb-tostoviy",
+                    "notes": null,
+                    "value": "10",
+                    "type": "ломтиков",
+                    "amount": null
+                },
+                {
+                    "name": "авокадо",
+                    "slug": "avokado",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "60",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "20",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Тостерный хлеб обжарить на сковороде с оливковым маслом. Другой способ: сбрызнуть маслом и запечь в духовке.",
+            "image": null
+        },
+        {
+            "text": "Выложить ломтики на бумажные салфетки, чтобы впитался лишний жир.",
+            "image": null
+        },
+        {
+            "text": "Авокадо очистить, вынуть косточку, мякоть измельчить блендером или размять вилкой.",
+            "image": null
+        },
+        {
+            "text": "Пропустить через пресс чеснок.",
+            "image": null
+        },
+        {
+            "text": "Добавить в пюре из авокадо вместе с солью и лимонным соком.",
+            "image": null
+        },
+        {
+            "text": "Перемешать. Намазать тосты.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды в дорогу",
+            "slug": "buterbrody-v-dorogu"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды на природу",
+            "slug": "buterbrody-na-prirodu"
+        },
+        {
+            "name": "Бутерброды открытые",
+            "slug": "buterbrody-otkrytye"
+        },
+        {
+            "name": "Бутерброды с авокадо",
+            "slug": "buterbrody-s-avokado"
+        },
+        {
+            "name": "Закуски для пикника",
+            "slug": "zakuski-dlya-piknika"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

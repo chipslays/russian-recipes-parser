@@ -1,0 +1,184 @@
+{
+    "source": "https://vkuso.ru/recipe/ovsyanoe-pechene-s-chernikoj-po-domashnemu/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Овсяное печенье с черникой по-домашнему",
+    "description": "Вкусная выпечка из овсяных хлопьев с ягодами. Придется по вкусу и взрослым и детям.",
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/75/485423c0b4b9075_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "120",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "120",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар тростниковый",
+                    "slug": "sahar-trostnikoviy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "овсяные хлопья",
+                    "slug": "ovsyanye-hlopya",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "корица",
+                    "slug": "korica",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для печенья",
+            "list": [
+                {
+                    "name": "сахар тростниковый",
+                    "slug": "sahar-trostnikoviy",
+                    "notes": null,
+                    "value": "100-150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "черника",
+                    "slug": "chernika",
+                    "notes": null,
+                    "value": "100-150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Духовку разогреть. Соединить муку, овсяные хлопья, корицу, разрыхлитель, сахар, соль. Порезать масло на небольшие кусочки, положить в сухую смесь, растереть руками, чтобы получилась крупная крошка.",
+            "image": null
+        },
+        {
+            "text": "Положить 2/3 массы на дно формочки, намазанной маслом или застеленной специальной бумагой. Массу выровнять, прижать. Сверху положить перетертую чернику, посыпать остальной овсяной крошкой (прижимать не нужно).",
+            "image": null
+        },
+        {
+            "text": "Готовить овсяное печенье с черникой минут 35, слой ягод должен уплотниться. Остудить и порезать на порционные куски.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Без яиц",
+            "slug": "bez-yaic"
+        },
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка для детей",
+            "slug": "vypechka-dlya-detey"
+        },
+        {
+            "name": "Выпечка с корицей",
+            "slug": "vypechka-s-koricey"
+        },
+        {
+            "name": "Выпечка с черникой",
+            "slug": "vypechka-s-chernikoy"
+        },
+        {
+            "name": "Детское печенье",
+            "slug": "detskoe-pechene"
+        },
+        {
+            "name": "Овсяное печенье",
+            "slug": "ovsyanoe-pechene"
+        },
+        {
+            "name": "Печенье",
+            "slug": "pechene"
+        },
+        {
+            "name": "Печенье без яиц",
+            "slug": "pechene-bez-yaic"
+        },
+        {
+            "name": "Печенье из овсяных хлопьев",
+            "slug": "pechene-iz-ovsyanyh-hlopev"
+        },
+        {
+            "name": "Печенье с корицей",
+            "slug": "pechene-s-koricey"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

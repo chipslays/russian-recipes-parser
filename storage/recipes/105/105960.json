@@ -1,0 +1,99 @@
+{
+    "source": "https://vkuso.ru/recipe/105960-dieticheskaya-sladkaya-kolbaska-s-jogurtom/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Диетическая сладкая колбаска с йогуртом",
+    "description": "Низкокалорийность десерта достигается за счет использования обезжиренного йогурта.",
+    "note": "Вместо натурального горького шоколада можно использовать какао-порошок.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c6/a85afef7adcb7c6_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "йогурт обезжиренный",
+                    "slug": "yogurt-obezjirenniy",
+                    "notes": null,
+                    "value": "350-400",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "печенье",
+                    "slug": "pechene",
+                    "notes": null,
+                    "value": "250-300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад черный горький",
+                    "slug": "shokolad-cherniy-gorkiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар тростниковый",
+                    "slug": "sahar-trostnikoviy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Часть печенья поломать руками, вторую измельчить в крошку.",
+            "image": null
+        },
+        {
+            "text": "Натереть на терке горький шоколад.",
+            "image": null
+        },
+        {
+            "text": "В чашу блендера налить йогурт, добавить тростниковый сахар, шоколад, массу взбить до однородного состояния.",
+            "image": null
+        },
+        {
+            "text": "Готовой смесью залить печенье, перемешать, раскатать колбаски, охладить.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерты без выпечки",
+            "slug": "deserty-bez-vypechki"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетические десерты",
+            "slug": "dieticheskie-deserty"
+        },
+        {
+            "name": "Сладкая колбаска",
+            "slug": "sladkaya-kolbaska"
+        },
+        {
+            "name": "Специальное питание",
+            "slug": "specialnoe-pitanie"
+        },
+        {
+            "name": "Шоколадная колбаса",
+            "slug": "shokoladnaya-kolbasa"
+        }
+    ]
+}

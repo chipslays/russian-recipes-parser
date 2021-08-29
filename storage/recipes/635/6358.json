@@ -1,0 +1,115 @@
+{
+    "source": "https://vkuso.ru/recipe/rogaliki-s-krabovymi-palochkami-i-syrom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Рогалики с крабовыми палочками и сыром",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a2/0877da3a39f9ea2_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "тесто слоеное",
+                    "slug": "testo-sloenoe",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "крабовые палочки",
+                    "slug": "krabovye-palochki",
+                    "notes": null,
+                    "value": "180",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "пряности",
+                    "slug": "pryanosti",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать тесто на столько полосок, сколько будет запекаться крабовых палочек.",
+            "image": null
+        },
+        {
+            "text": "Рабочую поверхность присыпать пряной смесью и раскатать на ней тестяные полоски по длине так, чтобы на тесте осталась эта смесь.",
+            "image": null
+        },
+        {
+            "text": "Сыр нарезать на пластины так, чтобы они совпадали по размеру с крабовыми палочками.",
+            "image": null
+        },
+        {
+            "text": "На одну сырную полоску положить крабовую палочку, накрыть ее второй полоской.",
+            "image": null
+        },
+        {
+            "text": "Завернуть палочку в подготовленную тестяную полоску, то же самое проделать с остальными.",
+            "image": null
+        },
+        {
+            "text": "Выпекать рогалики с крабовыми палочками и сыром в течение 25 минут при 180 градусах.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Булочки",
+            "slug": "bulochki"
+        },
+        {
+            "name": "Булочки из слоеного теста",
+            "slug": "bulochki-iz-sloenogo-testa"
+        },
+        {
+            "name": "Булочки с сыром",
+            "slug": "bulochki-s-syrom"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из слоеного теста",
+            "slug": "vypechka-iz-sloenogo-testa"
+        },
+        {
+            "name": "Рогалики",
+            "slug": "rogaliki"
+        },
+        {
+            "name": "Рогалики из слоеного теста",
+            "slug": "rogaliki-iz-sloenogo-testa"
+        }
+    ]
+}

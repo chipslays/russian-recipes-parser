@@ -1,0 +1,191 @@
+{
+    "source": "https://vkuso.ru/recipe/86120-rasstegai-s-kartoshkoj-iz-sloenogo-testa/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Расстегаи с картошкой из слоеного теста",
+    "description": "Оригинальная выпечка из слоеного теста, приобретенного в магазине.",
+    "note": "По желанию в начинку можно добавить рубленую зелень.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/80/27968846e722880_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час 30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "тесто слоеное бездрожжевое",
+                    "slug": "testo-sloenoe-bezdrojjevoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "филе рыбы",
+                    "slug": "file-ryby",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кусочек",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Разморозить тесто.",
+            "image": null
+        },
+        {
+            "text": "Клубни картофеля очистить, отварить в подсоленной воде.",
+            "image": null
+        },
+        {
+            "text": "Репчатый лук нарезать и спассеровать до золотистого цвета.",
+            "image": null
+        },
+        {
+            "text": "Из картофеля приготовить пюре, перемешать с обжаркой.",
+            "image": null
+        },
+        {
+            "text": "Рыбное филе нарезать кубиками, перемешать с начинкой.",
+            "image": null
+        },
+        {
+            "text": "Тесто нарезать квадратами, выложить смесь с рыбой.",
+            "image": null
+        },
+        {
+            "text": "Сформовать пирожки с открытой начинкой, положить по кусочку сливочного масла на расстегай.",
+            "image": null
+        },
+        {
+            "text": "Изделия смазать яйцом, печь при температуре 200 градусов до полной готовности.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка из слоеного теста",
+            "slug": "vypechka-iz-sloenogo-testa"
+        },
+        {
+            "name": "Несладкая выпечка",
+            "slug": "nesladkaya-vypechka"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки без дрожжей",
+            "slug": "pirojki-bez-drojjey"
+        },
+        {
+            "name": "Пирожки в духовке",
+            "slug": "pirojki-v-duhovke"
+        },
+        {
+            "name": "Пирожки несладкие",
+            "slug": "pirojki-nesladkie"
+        },
+        {
+            "name": "Пирожки с рыбой",
+            "slug": "pirojki-s-ryboy"
+        },
+        {
+            "name": "Расстегай",
+            "slug": "rasstegay"
+        },
+        {
+            "name": "Расстегай с рыбой",
+            "slug": "rasstegay-s-ryboy"
+        },
+        {
+            "name": "Рыба запеченная",
+            "slug": "ryba-zapechennaya"
+        },
+        {
+            "name": "Рыба с картошкой в духовке",
+            "slug": "ryba-s-kartoshkoy-v-duhovke"
+        },
+        {
+            "name": "Слоеные пирожки",
+            "slug": "sloenye-pirojki"
+        }
+    ]
+}

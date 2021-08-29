@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/krem-sup-iz-kabachkov-s-imbirem-i-koriandrom/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Крем-суп из кабачков с имбирем и кориандром",
+    "description": "Минимум ингредиентов, суп подойдет для поста. В этом случае в него не нужно добавлять сыр.",
+    "note": "Несколько ломтиков кабачка можно обжарить и положить в суп целиком.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/49/99160ccff45f049_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кабачки",
+                    "slug": "kabachki",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "корень имбиря",
+                    "slug": "koren-imbirya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "кориандр",
+                    "slug": "koriandr",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "смесь перцев",
+                    "slug": "smes-percev",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Поставить воду на огонь, довести до кипения. Положить кубики картофеля и кабачков. Кабачки должны быть нарезаны немного крупнее, чем картофель. Варить до готовности.",
+            "image": null
+        },
+        {
+            "text": "Растолочь в ступе семена кориандра, корень имбиря. Переложить в суп. Через минуту огонь выключить.",
+            "image": null
+        },
+        {
+            "text": "Слить бульон в отдельную миску, овощи измельчить в блендере.",
+            "image": null
+        },
+        {
+            "text": "Добавить овощи обратно, поставить суп на огонь.",
+            "image": null
+        },
+        {
+            "text": "Приправить блюдо сушеной зеленью, перцем, солью, дать закипеть и снять с огня.",
+            "image": null
+        },
+        {
+            "text": "Разлить суп по тарелкам, добавить тертый сыр или сельдерей, свежую рубленую зелень.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Крем-суп",
+            "slug": "krem-sup"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Специальное питание",
+            "slug": "specialnoe-pitanie"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из кабачков",
+            "slug": "sup-iz-kabachkov"
+        },
+        {
+            "name": "Суп с имбирем",
+            "slug": "sup-s-imbirem"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Сырный крем-суп",
+            "slug": "syrniy-krem-sup"
+        },
+        {
+            "name": "Сырный суп-пюре",
+            "slug": "syrniy-sup-pyure"
+        }
+    ]
+}

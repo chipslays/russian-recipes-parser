@@ -1,0 +1,235 @@
+{
+    "source": "https://vkuso.ru/recipe/sloenyj-pirog-s-syrom-farshem-i-kartofelem/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Слоеный пирог с сыром, фаршем и картофелем.",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/69/325e2810c49f069_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "тесто слоеное",
+                    "slug": "testo-sloenoe",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мясной фарш",
+                    "slug": "myasnoy-farsh",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр моцарелла",
+                    "slug": "syr-mocarella",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр пармезан",
+                    "slug": "syr-parmezan",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр для сэндвичей",
+                    "slug": "syr-dlya-sendvichey",
+                    "notes": null,
+                    "value": "3",
+                    "type": "пластинки",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы соленые",
+                    "slug": "ogurcy-solenye",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "мускатный орех",
+                    "slug": "muskatniy-oreh",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "корица",
+                    "slug": "korica",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Обжарить фарш и специи до тех пор, пока мясо не подсохнет и не зарумянится, присыпать пармезаном.",
+            "image": null
+        },
+        {
+            "text": "Нарезать мелко картошку, обжарить во фритюре, огурцы нарезать кружочками.",
+            "image": null
+        },
+        {
+            "text": "Раскатать тесто как для пельменей, уложить в форму, сформовать бортики. Уложит на тесто фарш, кусочки сыра для сэндвичей, жареную картошку, огурчики, полить майонезом, присыпать моцареллой.",
+            "image": null
+        },
+        {
+            "text": "Закрыть слоеный пирог с сыром, фаршем и картофелем  фольгой, отправить в нагретую (185 градусов) духовку на треть часа. Фольгу удалить, снизит нагрев на 100 градусов, подержать пирог еще четверть часа.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из слоеного теста",
+            "slug": "vypechka-iz-sloenogo-testa"
+        },
+        {
+            "name": "Выпечка с корицей",
+            "slug": "vypechka-s-koricey"
+        },
+        {
+            "name": "Выпечка с мясом и фаршем",
+            "slug": "vypechka-s-myasom-i-farshem"
+        },
+        {
+            "name": "Выпечка с орехами",
+            "slug": "vypechka-s-orehami"
+        },
+        {
+            "name": "Выпечка с фаршем",
+            "slug": "vypechka-s-farshem"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Картошка с фаршем в духовке",
+            "slug": "kartoshka-s-farshem-v-duhovke"
+        },
+        {
+            "name": "Несладкая выпечка",
+            "slug": "nesladkaya-vypechka"
+        },
+        {
+            "name": "Открытый пирог",
+            "slug": "otkrytiy-pirog"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог без яиц",
+            "slug": "pirog-bez-yaic"
+        },
+        {
+            "name": "Пирог из слоеного теста",
+            "slug": "pirog-iz-sloenogo-testa"
+        },
+        {
+            "name": "Пирог с орехами",
+            "slug": "pirog-s-orehami"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги из слоеного теста",
+            "slug": "pirogi-iz-sloenogo-testa"
+        },
+        {
+            "name": "Пироги с картошкой",
+            "slug": "pirogi-s-kartoshkoy"
+        },
+        {
+            "name": "Пироги с мясом",
+            "slug": "pirogi-s-myasom"
+        }
+    ]
+}

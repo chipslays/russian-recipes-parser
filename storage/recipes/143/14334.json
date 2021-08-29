@@ -1,0 +1,216 @@
+{
+    "source": "https://vkuso.ru/recipe/picca-kalcone-po-italyanski/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пицца «Кальцоне» по-итальянски",
+    "description": "Итальянский пирог, который представляет собой закрытую пиццу. Слово переводится как «чулок», «брюки», «мягкое», «смятое», так как тесто по краю защипывается складочками. Обязательные ингредиенты классического кальцоне – помидоры и сыр моцарелла.",
+    "note": "Часть помидоров для начинки можно заменить красным сладким перцем и луком-пореем.",
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/27/a701f5e82ba2d27_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "220",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи свежие",
+                    "slug": "drojji-svejie",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "базилик",
+                    "slug": "bazilik",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "орегано",
+                    "slug": "oregano",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Растворить свежие или сухие дрожжи в теплой воде. Влить в просеянную муку, добавить сахар, оливковое масло, соль по вкусу. Тесто замесить и положить в теплое место. Для начинки очистить помидоры: сделать крестообразный надрез и опустить в кипяток на две минуты. Кожуру очистить, удалить семенную камеру, порезать кусочками, откинуть на сито.",
+            "image": null
+        },
+        {
+            "text": "Натереть твердый сыр, Пармезан или Российский, добавить нарезанную ветчину и приправы, зеленый или сушеный базилик, зелень петушки. Перемешать. Раскатать тесто, выложить начинку на половину лепешки, закрыть второй половиной и защипать косичкой в форме полумесяца. Выложить пиццу «Кальцоне» по-итальянски на противень, сбрызнуть теплой водой и печь в течение 20 минут при температуре 200 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Тесто домашнее",
+            "slug": "testo-domashnee"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Дрожжевая пицца",
+            "slug": "drojjevaya-picca"
+        },
+        {
+            "name": "Закрытая пицца",
+            "slug": "zakrytaya-picca"
+        },
+        {
+            "name": "Итальянская пицца",
+            "slug": "italyanskaya-picca"
+        },
+        {
+            "name": "Кальцоне",
+            "slug": "kalcone"
+        },
+        {
+            "name": "Пирог без яиц",
+            "slug": "pirog-bez-yaic"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги с начинкой",
+            "slug": "pirogi-s-nachinkoy"
+        },
+        {
+            "name": "Пицца",
+            "slug": "picca"
+        },
+        {
+            "name": "Пицца в духовке",
+            "slug": "picca-v-duhovke"
+        },
+        {
+            "name": "Пицца с ветчиной",
+            "slug": "picca-s-vetchinoy"
+        },
+        {
+            "name": "Пицца с помидорами",
+            "slug": "picca-s-pomidorami"
+        },
+        {
+            "name": "Пицца с помидорами и сыром",
+            "slug": "picca-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Пицца с сыром",
+            "slug": "picca-s-syrom"
+        },
+        {
+            "name": "Тесто для пиццы на воде",
+            "slug": "testo-dlya-piccy-na-vode"
+        }
+    ]
+}

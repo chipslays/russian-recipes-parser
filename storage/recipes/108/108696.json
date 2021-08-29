@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/108696-frikadelki-s-kartofelem-v-smetane/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Фрикадельки с картофелем в сметане",
+    "description": "Сытное и вкусное блюдо для семейного ужина.",
+    "note": "Для фрикаделек использовать следующие специи: паприку, карри, кориандр, розмарин.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/7f/b0476ab583d1e7f_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час 30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "300-400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "фарш",
+                    "slug": "farsh",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "150",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "90",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "зубчик",
+                    "amount": null
+                },
+                {
+                    "name": "кориандр молотый",
+                    "slug": "koriandr-molotiy",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "щепотки",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В мясной фарш всыпать приправы, соль, добавить сырое яйцо.",
+            "image": null
+        },
+        {
+            "text": "Порубить чеснок, натереть репчатый лук, овощи добавить к фаршу.",
+            "image": null
+        },
+        {
+            "text": "Нарезать некрупной соломкой сырой картофель, переложить в форму для запекания, посыпать специями и полить сметаной.",
+            "image": null
+        },
+        {
+            "text": "Вылепить шарики небольшого размера, выложить поверх овощей.",
+            "image": null
+        },
+        {
+            "text": "Долить воду. Тушить около часа при температуре 190 градусов.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления блюда идеальный вариант – фарш-ассорти из говядины и свинины.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из картофеля",
+            "slug": "vtorye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Вторые блюда из фарша",
+            "slug": "vtorye-blyuda-iz-farsha"
+        },
+        {
+            "name": "Картошка в духовке",
+            "slug": "kartoshka-v-duhovke"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Картошка с мясом в духовке",
+            "slug": "kartoshka-s-myasom-v-duhovke"
+        },
+        {
+            "name": "Картошка с фаршем",
+            "slug": "kartoshka-s-farshem"
+        },
+        {
+            "name": "Картошка с фаршем в духовке",
+            "slug": "kartoshka-s-farshem-v-duhovke"
+        },
+        {
+            "name": "Мясо в духовке",
+            "slug": "myaso-v-duhovke"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        },
+        {
+            "name": "Фрикадельки",
+            "slug": "frikadelki"
+        },
+        {
+            "name": "Фрикадельки в духовке",
+            "slug": "frikadelki-v-duhovke"
+        }
+    ]
+}

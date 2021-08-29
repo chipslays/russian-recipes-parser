@@ -1,0 +1,91 @@
+{
+    "source": "https://vkuso.ru/recipe/razryxlitel-dlya-lyubogo-testa/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Разрыхлитель для любого теста",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/4a/93d51a52966434a_660x440.jpeg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "12",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "5",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "кислота лимонная",
+                    "slug": "kislota-limonnaya",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Положить все ингредиенты в небольшую баночку из стекла. Закрыть плотно крышечкой, потрясти. Разрыхлитель равномерно распределяется по тесту и не дает лишних привкусов и запахов, в отличие от обычной соды, гашенной укусом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Тесто домашнее",
+            "slug": "testo-domashnee"
+        },
+        {
+            "name": "Бездрожжевое тесто",
+            "slug": "bezdrojjevoe-testo"
+        },
+        {
+            "name": "Бисквитное тесто",
+            "slug": "biskvitnoe-testo"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Дрожжевое тесто",
+            "slug": "drojjevoe-testo"
+        },
+        {
+            "name": "Постная выпечка",
+            "slug": "postnaya-vypechka"
+        },
+        {
+            "name": "Тесто для пирога",
+            "slug": "testo-dlya-piroga"
+        },
+        {
+            "name": "Тесто для пирожков",
+            "slug": "testo-dlya-pirojkov"
+        },
+        {
+            "name": "тесто домашнее",
+            "slug": "testo-domashnee"
+        }
+    ]
+}

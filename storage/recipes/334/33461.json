@@ -1,0 +1,180 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnij-tort-snegovik/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Домашний торт «Снеговик»",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c1/263a8067e5f5bc1_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "3",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "кокосовая стружка",
+                    "slug": "kokosovaya-strujka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "пакетика",
+                    "amount": null
+                },
+                {
+                    "name": "сахар ванильный",
+                    "slug": "sahar-vanilniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пакетик",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Включить духовку, довести температуру до 180 градусов. Взбить яйца вместе с сахаром до состояния крепкой пены, перемешать с охлажденным растопленным маслом, всыпать ванильный сахар с мукой, солью и содой, вымесить тесто.",
+            "image": null
+        },
+        {
+            "text": "Заполнит подходящую форму тестом, поместить ее в прогретую духовку примерно на полчаса или чуть больше, дать остыть, разделить на кусочки размером 4х4 сантиметра.",
+            "image": null
+        },
+        {
+            "text": "Для крема взбить сметану хорошего качества и сахар. Каждый кусочек коржа погружать в крем, а затем фигурно выложить так, чтобы получился торт «Снеговик», присыпать верх стружкой кокоса, украсить морковкой и изюмом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Бисквитный торт",
+            "slug": "biskvitniy-tort"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Выпечка с кокосовой стружкой",
+            "slug": "vypechka-s-kokosovoy-strujkoy"
+        },
+        {
+            "name": "Год крысы",
+            "slug": "god-krysy"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Кокосовый торт",
+            "slug": "kokosoviy-tort"
+        },
+        {
+            "name": "Новогодний торт",
+            "slug": "novogodniy-tort"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничные торты",
+            "slug": "prazdnichnye-torty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Сметанный торт",
+            "slug": "smetanniy-tort"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        }
+    ]
+}

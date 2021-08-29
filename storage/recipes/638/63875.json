@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/smuzi-iz-grejpfruta-i-banana-s-morkovyu/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Смузи из грейпфрута и банана с морковью",
+    "description": "Вкусный оранжевый напиток с интересным сочетанием ингредиентов.",
+    "note": "Мак в напиток можно не добавлять, бокал украсить ломтиком грейпфрута.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/bf/498dc3ca5ec83bf_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "грейпфрут",
+                    "slug": "greypfrut",
+                    "notes": " (розовый)",
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "бананы",
+                    "slug": "banany",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко соевое",
+                    "slug": "moloko-soevoe",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "чашки",
+                    "amount": null
+                },
+                {
+                    "name": "лед",
+                    "slug": "led",
+                    "notes": null,
+                    "value": "2",
+                    "type": "кубика",
+                    "amount": null
+                },
+                {
+                    "name": "мак молотый",
+                    "slug": "mak-molotiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "имбирь свежий",
+                    "slug": "imbir-svejiy",
+                    "notes": null,
+                    "value": "1/4-1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Очистить розовый грейпфрут от кожицы и белых пленок и прожилок.",
+            "image": null
+        },
+        {
+            "text": "Добавить в мякоть спелый банан, растительное молоко, тертый свежий имбирь, маковый порошок, очищенную морковь и кубики льда.",
+            "image": null
+        },
+        {
+            "text": "Измельчить смесь до однородного состояния с помощью блендера.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Праздничные коктейли и напитки",
+            "slug": "prazdnichnye-kokteyli-i-napitki"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        }
+    ]
+}

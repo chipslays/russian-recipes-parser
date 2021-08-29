@@ -1,0 +1,269 @@
+{
+    "source": "https://vkuso.ru/recipe/107853-blinnaya-lazanya-s-farshem-i-sousom-beshamel/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Блинная лазанья с фаршем и соусом бешамель",
+    "description": "Вкснейшая блинная запеканка с мясным фаршем и соусом бешамель. Блинная запеканка получается настолько нежной, сочной и сливочной, что это ну просто не передать словами. Обязательно попробуйте приготовить и побалуйте себя и своих близких.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c4/ccb6c35baff80c4_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "45 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/IdzDZI0qXtY?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 8 порции",
+            "list": [
+                {
+                    "name": "блины тонкие готовые",
+                    "slug": "bliny-tonkie-gotovye",
+                    "notes": null,
+                    "value": "8",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "орегано сушеный",
+                    "slug": "oregano-susheniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Запеканка",
+            "list": [
+                {
+                    "name": "говяжий фарш",
+                    "slug": "govyajiy-farsh",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1.2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": "1.4",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок сушеный молотый",
+                    "slug": "chesnok-susheniy-molotiy",
+                    "notes": null,
+                    "value": "1.3",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "орегано",
+                    "slug": "oregano",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Мясная начинка",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "400",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1.2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": "1.4",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок сушеный молотый",
+                    "slug": "chesnok-susheniy-molotiy",
+                    "notes": null,
+                    "value": "1.4",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мускатный орех молотый",
+                    "slug": "muskatniy-oreh-molotiy",
+                    "notes": null,
+                    "value": "1.4",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Лук мелко нарезать.",
+            "image": null
+        },
+        {
+            "text": "На растительном масле обжарить лук.\r\nДобавить фарш и обжарить до готовности.\r\nДобавить соль, черный молотый перец, гранулированный чеснок.\r\nДобавить томатную пасту перемешать. Влить немного воды, перемешать. Добавить орегано перемешать и тушить минут 5-7.",
+            "image": null
+        },
+        {
+            "text": "Сыр натереть на крупной тёрке.",
+            "image": null
+        },
+        {
+            "text": "Завернуть в блины мясную начинку. И уложить их в форму для запекания.",
+            "image": null
+        },
+        {
+            "text": "Приготовим бешамель.\r\nРастопить сливочное масло. Добавить муку и тщательно перемешать. Частями добавлять молоко и хорошо перемешивать, удобнее это делать венчиком.\r\nДобавить соль, черный перец, гранулированный чеснок, мускатный орех. Перемешать.",
+            "image": null
+        },
+        {
+            "text": "Залить блины соусом. Сверху посыпать сыром. Посыпать орегано.\r\nВыпекать в разогретой до 180-200°C духовке, около 10 минут, до румяной корочки сыра.\r\n\r\nВот и все. Наша запеканка готова. Она получается очень ароматной, сочной, нежной и сливочной. Прекрасный ужин или обед для всей семьи.\r\n\r\nПодавать с любовью.\r\nПриятного аппетита.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из говядины",
+            "slug": "vtorye-blyuda-iz-govyadiny"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Говядина в духовке",
+            "slug": "govyadina-v-duhovke"
+        },
+        {
+            "name": "Запеканка мясная",
+            "slug": "zapekanka-myasnaya"
+        },
+        {
+            "name": "Запеканки",
+            "slug": "zapekanki"
+        },
+        {
+            "name": "Запеканки с сыром",
+            "slug": "zapekanki-s-syrom"
+        },
+        {
+            "name": "Лазанья",
+            "slug": "lazanya"
+        },
+        {
+            "name": "Лазанья с фаршем",
+            "slug": "lazanya-s-farshem"
+        },
+        {
+            "name": "Мясо в духовке",
+            "slug": "myaso-v-duhovke"
+        },
+        {
+            "name": "Мясо с сыром",
+            "slug": "myaso-s-syrom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ужин из говядины",
+            "slug": "ujin-iz-govyadiny"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

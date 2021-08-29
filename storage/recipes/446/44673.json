@@ -1,0 +1,139 @@
+{
+    "source": "https://vkuso.ru/recipe/rizotto-s-kopchenym-bekonom-i-tomatami/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Ризотто с копченым беконом и томатами",
+    "description": "Очень итальянское блюдо с томленым рисом, изобилием пряной зелени и сочными помидорами.",
+    "note": "Ризотто принято подавать на подогретых тарелках, его едят не в остывшем, а в остывающем виде.",
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/eb/9762ffda545b1eb_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бульон куриный",
+                    "slug": "bulon-kuriniy",
+                    "notes": null,
+                    "value": "800",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "рис для ризотто",
+                    "slug": "ris-dlya-rizotto",
+                    "notes": null,
+                    "value": "175",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вино белое сухое",
+                    "slug": "vino-beloe-suhoe",
+                    "notes": null,
+                    "value": "150",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры черри",
+                    "slug": "pomidory-cherri",
+                    "notes": " (на веточке)",
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "бекон копченый",
+                    "slug": "bekon-kopcheniy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр маскарпоне",
+                    "slug": "syr-maskarpone",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "базилик",
+                    "slug": "bazilik",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В кастрюле разогреть ложку оливкового масла, добавить измельченный репчатый лук, пассеровать продукт до мягкости в течение двух-трех минут на медленном огне.",
+            "image": null
+        },
+        {
+            "text": "Копченый бекон нарезать небольшими кусочками, добавить к луку, обжарить до золотистой корочки.",
+            "image": null
+        },
+        {
+            "text": "Добавить в массу рис для ризотто, перемешать, огонь увеличить, влить белое сухое вино, прогревать две минуты.",
+            "image": null
+        },
+        {
+            "text": "Куриный бульон подогреть, вливать понемногу в основную массу, помешивать до выпаривания жидкости. Через 20 минут рис должен стать мягким.",
+            "image": null
+        },
+        {
+            "text": "Помидоры черри на веточке положить на противень, сбрызнуть оливковым маслом, поперчить и посолить. Поставить овощи в духовой шкаф на пять-шесть минут. Переложить помидоры на тарелку, накрыть, чтобы не остыли.",
+            "image": null
+        },
+        {
+            "text": "Добавить в ризотто сыр «Маскарпоне» и мелко нарезанный базилик. Выложить блюдо на тарелки, сверху украсить веточками запеченных помидоров черри.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из риса",
+            "slug": "vtorye-blyuda-iz-risa"
+        },
+        {
+            "name": "Гарнир из риса",
+            "slug": "garnir-iz-risa"
+        },
+        {
+            "name": "Ризотто",
+            "slug": "rizotto"
+        },
+        {
+            "name": "Ризотто с овощами",
+            "slug": "rizotto-s-ovoschami"
+        },
+        {
+            "name": "Ризотто с сыром",
+            "slug": "rizotto-s-syrom"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

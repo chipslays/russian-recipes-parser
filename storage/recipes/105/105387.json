@@ -1,0 +1,107 @@
+{
+    "source": "https://vkuso.ru/recipe/105387-sous-xrenovina-so-sladkim-bolgarskim-percem/",
+    "category": "Заготовки",
+    "category_slug": "zagotovki",
+    "title": "Соус Хреновина со сладким болгарским перцем",
+    "description": "Готовится очень просто, получается всегда вкусным, подходит к разным блюдам.",
+    "note": "При желании можно влить немного уксуса и добавить любимую приправу.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/68/4b92d2767a2dd68_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 10 порции",
+            "list": [
+                {
+                    "name": "хрен",
+                    "slug": "hren",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Подготовить овощи, крупно порезать перец с помидорами, переложить в блендер, добавить чеснок, измельчить до состояния пюре.",
+            "image": null
+        },
+        {
+            "text": "Добавить в мелко тертый хрен, присолить, добавить чуть сахара, перемешать, попробовать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Заготовки из овощей",
+            "slug": "zagotovki-iz-ovoschey"
+        },
+        {
+            "name": "Перец на зиму",
+            "slug": "perec-na-zimu"
+        },
+        {
+            "name": "Помидоры на зиму",
+            "slug": "pomidory-na-zimu"
+        },
+        {
+            "name": "Соус на зиму",
+            "slug": "sous-na-zimu"
+        },
+        {
+            "name": "Хрен на зиму",
+            "slug": "hren-na-zimu"
+        },
+        {
+            "name": "Хреновина на зиму",
+            "slug": "hrenovina-na-zimu"
+        }
+    ]
+}

@@ -1,0 +1,210 @@
+{
+    "source": "https://vkuso.ru/recipe/prostye-domashnie-vareniki/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Простые домашние вареники",
+    "description": null,
+    "note": null,
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/73/f69ca4bd41d0b73_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "600",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "400",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "грибы",
+                    "slug": "griby",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для картофельной начинки",
+            "list": [
+                {
+                    "name": "капуста",
+                    "slug": "kapusta",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для капустной начинки",
+            "list": [
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "головки",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Из воды, муки и соли вымесить тесто, дать постоять (минут 20). Картофель порезать, сложить в кастрюлю и залить водой. Отправить на огонь, посолить и варить до готовности. Порезать мелко грибы и лук. Обжаривать грибы 10 минут. Добавить к грибам лук и обжаривать до золотистого оттенка.",
+            "image": null
+        },
+        {
+            "text": "Из вареного картофеля приготовить пюре, перемешать с грибами и луком, посолить. Капусту нашинковать соломкой и тушить на растительном масле, на небольшом огне, до мягкости (минут 15-20). Посолить. Оторвать от теста кусок, сформировать с него жгут, поделить его на небольшие кусочки.",
+            "image": null
+        },
+        {
+            "text": "Раскатать скалкой, уложить внутрь начинку и сформировать вареники. Отваривать вареники в подсоленной воде 4 минуты. Лук мелко порезать и поджарить на сковородке. Простые домашние вареники переложить в тарелку, присыпать жареным луком, перемешать и сразу подавать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вареники с грибами",
+            "slug": "vareniki-s-gribami"
+        },
+        {
+            "name": "Вареники с капустой",
+            "slug": "vareniki-s-kapustoy"
+        },
+        {
+            "name": "Вареники с картошкой",
+            "slug": "vareniki-s-kartoshkoy"
+        },
+        {
+            "name": "Вареники с картошкой и грибами",
+            "slug": "vareniki-s-kartoshkoy-i-gribami"
+        },
+        {
+            "name": "Вареники с картошкой и луком",
+            "slug": "vareniki-s-kartoshkoy-i-lukom"
+        },
+        {
+            "name": "Вегетарианские вторые блюда",
+            "slug": "vegetarianskie-vtorye-blyuda"
+        },
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Постные блюда из капусты",
+            "slug": "postnye-blyuda-iz-kapusty"
+        },
+        {
+            "name": "Постные блюда из картофеля",
+            "slug": "postnye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Постные блюда с грибами",
+            "slug": "postnye-blyuda-s-gribami"
+        },
+        {
+            "name": "Постные вареники",
+            "slug": "postnye-vareniki"
+        },
+        {
+            "name": "Постные рецепты",
+            "slug": "postnye-recepty"
+        },
+        {
+            "name": "Постный завтрак",
+            "slug": "postniy-zavtrak"
+        },
+        {
+            "name": "Постный ужин",
+            "slug": "postniy-ujin"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ужин из капусты",
+            "slug": "ujin-iz-kapusty"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        }
+    ]
+}

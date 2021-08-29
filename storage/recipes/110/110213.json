@@ -1,0 +1,151 @@
+{
+    "source": "https://vkuso.ru/recipe/110213-vegetarianskie-kolduny-s-kapustoj/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Вегетарианские колдуны с капустой",
+    "description": "Обычно для приготовления этого блюда используется мясной фарш. Вариант для вегетарианцев.",
+    "note": "Подать блюдо с овощной нарезкой, сметаной.",
+    "cuisine": "Белорусская кухня",
+    "cuisine_slug": "belorusskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/09/39c90312d7bce09_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "1.2",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "капуста",
+                    "slug": "kapusta",
+                    "notes": null,
+                    "value": "420",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Картофель измельчить при помощи комбайна.",
+            "image": null
+        },
+        {
+            "text": "Отжать сок, дать постоять, крахмал вернуть в картофельную массу.",
+            "image": null
+        },
+        {
+            "text": "Вбить сырые куриные яйца, посолить и поперчить, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Мелко нашинковать белокочанную капусту, обжарить с большим количеством масла, соль – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "В конце приготовления добавить нарезанный репчатый лук, обжарить все вместе, подержать пять минут под крышкой.",
+            "image": null
+        },
+        {
+            "text": "Перемешать картофель с остывшими овощами, сформовать шарики, обжарить.",
+            "image": null
+        },
+        {
+            "text": "Выложить изделия на противень, печь полчаса при температуре 180 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские вторые блюда",
+            "slug": "vegetarianskie-vtorye-blyuda"
+        },
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Вторые блюда из картофеля",
+            "slug": "vtorye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Вторые блюда из овощей",
+            "slug": "vtorye-blyuda-iz-ovoschey"
+        },
+        {
+            "name": "Картошка с капустой",
+            "slug": "kartoshka-s-kapustoy"
+        },
+        {
+            "name": "Колдуны",
+            "slug": "kolduny"
+        },
+        {
+            "name": "Специальное питание",
+            "slug": "specialnoe-pitanie"
+        },
+        {
+            "name": "Ужин из капусты",
+            "slug": "ujin-iz-kapusty"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из овощей",
+            "slug": "ujin-iz-ovoschey"
+        }
+    ]
+}

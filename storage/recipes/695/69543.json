@@ -1,0 +1,167 @@
+{
+    "source": "https://vkuso.ru/recipe/zavarnoj-kulich-s-tvorogom-i-izyumom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Заварной кулич с творогом и изюмом",
+    "description": "Нежнейший рассыпчатый кулич из заварного теста с добавлением творога.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/99/85d4101c5d25c99_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1-1.2",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "изюм",
+                    "slug": "izyum",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи свежие",
+                    "slug": "drojji-svejie",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "7",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "ваниль",
+                    "slug": "vanil",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Довести до кипения молоко, заварить в нем стакан муки, тщательно размешать венчиком, чтобы исчезли комочки, дать остыть до 35 градусов, всыпать пару ложек сахара с дрожжами, дать подойти.",
+            "image": null
+        },
+        {
+            "text": "В чашу блендера положить творог и желтки, взбить, добавить сахар, размешать до однородности, ввести мягкое масло, еще раз взбить, всыпать1 ч.л. соли, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Объединить с опарой, размешать всыпать изюм, подсыпать немного муки, вымесить тесто, дать ему хорошо подняться, разделить на кусочки, разложить по формочкам.",
+            "image": null
+        },
+        {
+            "text": "Выпекать заварной кулич с творогом порядка 35 минут, поставить остывать, оформить верх глазурью и украсить по своему вкусу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка на молоке",
+            "slug": "vypechka-na-moloke"
+        },
+        {
+            "name": "Выпечка с изюмом",
+            "slug": "vypechka-s-izyumom"
+        },
+        {
+            "name": "Выпечка с сухофруктами",
+            "slug": "vypechka-s-suhofruktami"
+        },
+        {
+            "name": "Пасха",
+            "slug": "pasha"
+        },
+        {
+            "name": "Пасхальная выпечка",
+            "slug": "pashalnaya-vypechka"
+        },
+        {
+            "name": "Пасхальные куличи",
+            "slug": "pashalnye-kulichi"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Творожный кулич",
+            "slug": "tvorojniy-kulich"
+        }
+    ]
+}

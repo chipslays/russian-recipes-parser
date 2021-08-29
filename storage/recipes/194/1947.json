@@ -1,0 +1,83 @@
+{
+    "source": "https://vkuso.ru/recipe/klassicheskij-tatarskij-chaj/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Классический татарский чай",
+    "description": null,
+    "note": null,
+    "cuisine": "Татарская кухня",
+    "cuisine_slug": "tatarskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b0/287dabde54c15b0_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молока",
+                    "slug": "moloka",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "воды",
+                    "slug": "vody",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сливочного масла",
+                    "slug": "slivochnogo-masla",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чая",
+                    "slug": "chaya",
+                    "notes": null,
+                    "value": "5-6",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Этот национальный напиток готовят из плиточного чая, дать воде закипеть, положить чай, добавить молоко, кипятить, помешивая, 5 минут, добавить соль.",
+            "image": null
+        },
+        {
+            "text": "Классический татарский чай подается в пиалах с кусочком сливочного масла.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Классические рецепты",
+            "slug": "klassicheskie-recepty"
+        },
+        {
+            "name": "Чай и чайные напитки",
+            "slug": "chay-i-chaynye-napitki"
+        }
+    ]
+}

@@ -1,0 +1,211 @@
+{
+    "source": "https://vkuso.ru/recipe/102808-makarony-po-flotski-s-kurinym-farshem-i-lyubimymi-gribami-v-multivarke/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Макароны по-флотски с куриным фаршем и любимыми грибами в мультиварке",
+    "description": "Малокалорийное блюдо с грибами и куриным фаршем.",
+    "note": "К блюду можно подать салат из свежих овощей.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/2a/b4c033e9ca0982a_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "макароны",
+                    "slug": "makarony",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "куриный фарш",
+                    "slug": "kuriniy-farsh",
+                    "notes": null,
+                    "value": "350",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грибы",
+                    "slug": "griby",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "40",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Шампиньоны или другие грибы нарезать, обжарить на растительном масле.",
+            "image": null
+        },
+        {
+            "text": "Это можно сделать в мультиварке в режиме «Жарка».",
+            "image": null
+        },
+        {
+            "text": "Когда влага испарится – всыпать нарезанный репчатый лук, продолжать жарить.",
+            "image": null
+        },
+        {
+            "text": "Добавить фарш из куриного мяса.",
+            "image": null
+        },
+        {
+            "text": "Перемешать, обжарить все вместе.",
+            "image": null
+        },
+        {
+            "text": "Всыпать макароны, влить горячую воду.",
+            "image": null
+        },
+        {
+            "text": "Посолить и поперчить по вкусу, выставить режим «Плов» или «Паста».",
+            "image": null
+        },
+        {
+            "text": "По желанию в блюдо можно добавить сливки или сметану, потушить все вместе.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Вторые блюда в мультиварке",
+            "slug": "vtorye-blyuda-v-multivarke"
+        },
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Вторые блюда из макарон",
+            "slug": "vtorye-blyuda-iz-makaron"
+        },
+        {
+            "name": "Вторые блюда из фарша",
+            "slug": "vtorye-blyuda-iz-farsha"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Грибы в мультиварке",
+            "slug": "griby-v-multivarke"
+        },
+        {
+            "name": "Курица в мультиварке",
+            "slug": "kurica-v-multivarke"
+        },
+        {
+            "name": "Курица с грибами",
+            "slug": "kurica-s-gribami"
+        },
+        {
+            "name": "Макароны в мультиварке",
+            "slug": "makarony-v-multivarke"
+        },
+        {
+            "name": "Макароны по-флотски",
+            "slug": "makarony-po-flotski"
+        },
+        {
+            "name": "Макароны по-флотски в мультиварке",
+            "slug": "makarony-po-flotski-v-multivarke"
+        },
+        {
+            "name": "Макароны с грибами",
+            "slug": "makarony-s-gribami"
+        },
+        {
+            "name": "Макароны с курицей",
+            "slug": "makarony-s-kuricey"
+        },
+        {
+            "name": "Макароны с фаршем",
+            "slug": "makarony-s-farshem"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ужин в мультиварке",
+            "slug": "ujin-v-multivarke"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из макарон",
+            "slug": "ujin-iz-makaron"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        }
+    ]
+}

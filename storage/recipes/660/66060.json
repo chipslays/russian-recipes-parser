@@ -1,0 +1,211 @@
+{
+    "source": "https://vkuso.ru/recipe/syrnyj-salat-s-chesnokom-yajcom-i-suxarikami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Сырный салат с чесноком, яйцом и сухариками",
+    "description": "Готовый салат нужно подавать сразу, чтобы сухарики не потеряли свою хрусткость.",
+    "note": "Для приготовления салата можно использовать зелень петрушки и укропа, сухарики – домашние или купленные в магазине.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c9/3823f7a9d3430c9_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "230",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы соленые",
+                    "slug": "ogurcy-solenye",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сухарики",
+                    "slug": "suhariki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пакетик",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить и нарезать куриные яйца, лучше кубиками.",
+            "image": null
+        },
+        {
+            "text": "Соленые огурцы измельчить точно так же.",
+            "image": null
+        },
+        {
+            "text": "Ингредиенты перемешать.",
+            "image": null
+        },
+        {
+            "text": "Натереть сыр на крупной терке, чеснок – на мелкой.",
+            "image": null
+        },
+        {
+            "text": "Порубить зелень.",
+            "image": null
+        },
+        {
+            "text": "Заправить салат майонезом, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Всыпать сухарики и подать на стол.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Праздничный стол на скорую руку",
+            "slug": "prazdnichniy-stol-na-skoruyu-ruku"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с огурцом и сыром",
+            "slug": "salat-s-ogurcom-i-syrom"
+        },
+        {
+            "name": "Салат с огурцом и яйцом",
+            "slug": "salat-s-ogurcom-i-yaycom"
+        },
+        {
+            "name": "Салат с сухариками",
+            "slug": "salat-s-suharikami"
+        },
+        {
+            "name": "Салат с сухариками и сыром",
+            "slug": "salat-s-suharikami-i-syrom"
+        },
+        {
+            "name": "Салат с сыром и чесноком",
+            "slug": "salat-s-syrom-i-chesnokom"
+        },
+        {
+            "name": "Салат с твердым сыром",
+            "slug": "salat-s-tverdym-syrom"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салат с чесноком и майонезом",
+            "slug": "salat-s-chesnokom-i-mayonezom"
+        },
+        {
+            "name": "Салат с яйцом и сыром",
+            "slug": "salat-s-yaycom-i-syrom"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты к шашлыку",
+            "slug": "salaty-k-shashlyku"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты на скорую руку",
+            "slug": "salaty-na-skoruyu-ruku"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        },
+        {
+            "name": "Сырный салат",
+            "slug": "syrniy-salat"
+        }
+    ]
+}

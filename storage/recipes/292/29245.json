@@ -1,0 +1,267 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-mozaika-s-shampinonami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Мозаика» с шампиньонами",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/32/f21623eefdbba32_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь по-корейски",
+                    "slug": "morkov-po-koreyski",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кукуруза консервированная",
+                    "slug": "kukuruza-konservirovannaya",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "банки",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить до готовности куриное филе, охладить и нарезать кубиками. Измельчить репчатый лук, обжарить на растительном масле, порезать шампиньоны пластинками, добавить к луку и еще обжарить. Также остудить.",
+            "image": null
+        },
+        {
+            "text": "Нарезать соломкой красный сладкий болгарский перец, твердый сыр – кубиками. Ингредиенты смешать, добавить морковь по-корейски, консервированную кукурузу, заправить майонезом. Украсить салат «Мозаика» зеленым луком.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Курица с грибами",
+            "slug": "kurica-s-gribami"
+        },
+        {
+            "name": "Курица с шампиньонами",
+            "slug": "kurica-s-shampinonami"
+        },
+        {
+            "name": "Мясные салаты на Новый год",
+            "slug": "myasnye-salaty-na-noviy-god"
+        },
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новогодний салат с курицей",
+            "slug": "novogodniy-salat-s-kuricey"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из моркови",
+            "slug": "salat-iz-morkovi"
+        },
+        {
+            "name": "Салат с грибами",
+            "slug": "salat-s-gribami"
+        },
+        {
+            "name": "Салат с грибами и сыром",
+            "slug": "salat-s-gribami-i-syrom"
+        },
+        {
+            "name": "Салат с консервированной кукурузой",
+            "slug": "salat-s-konservirovannoy-kukuruzoy"
+        },
+        {
+            "name": "Салат с корейской морковью и грибами",
+            "slug": "salat-s-koreyskoy-morkovyu-i-gribami"
+        },
+        {
+            "name": "Салат с куриной грудкой",
+            "slug": "salat-s-kurinoy-grudkoy"
+        },
+        {
+            "name": "Салат с курицей",
+            "slug": "salat-s-kuricey"
+        },
+        {
+            "name": "Салат с курицей и грибами",
+            "slug": "salat-s-kuricey-i-gribami"
+        },
+        {
+            "name": "Салат с курицей и корейской морковью",
+            "slug": "salat-s-kuricey-i-koreyskoy-morkovyu"
+        },
+        {
+            "name": "Салат с курицей и кукурузой",
+            "slug": "salat-s-kuricey-i-kukuruzoy"
+        },
+        {
+            "name": "Салат с курицей и морковью",
+            "slug": "salat-s-kuricey-i-morkovyu"
+        },
+        {
+            "name": "Салат с курицей и овощами",
+            "slug": "salat-s-kuricey-i-ovoschami"
+        },
+        {
+            "name": "Салат с курицей и сыром",
+            "slug": "salat-s-kuricey-i-syrom"
+        },
+        {
+            "name": "Салат с курицей и шампиньонами",
+            "slug": "salat-s-kuricey-i-shampinonami"
+        },
+        {
+            "name": "Салат с курицей, грибами и корейской морковью",
+            "slug": "salat-s-kuricey-gribami-i-koreyskoy-morkovyu"
+        },
+        {
+            "name": "Салат с курицей, грибами и сыром",
+            "slug": "salat-s-kuricey-gribami-i-syrom"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с мясом и грибами",
+            "slug": "salat-s-myasom-i-gribami"
+        },
+        {
+            "name": "Салат с шампиньонами",
+            "slug": "salat-s-shampinonami"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с болгарским перцем",
+            "slug": "salaty-s-bolgarskim-percem"
+        },
+        {
+            "name": "Салаты с кукурузой",
+            "slug": "salaty-s-kukuruzoy"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты с морковью по-корейски",
+            "slug": "salaty-s-morkovyu-po-koreyski"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnyaya-pastroma-iz-indyushinoj-ili-kurinoj-grudki/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Домашняя пастрома из индюшиной или куриной грудки",
+    "description": "Пасторма – мясной деликатес, блюдо молдавской и румынской кухни. Вероятно, название имеет тюркское происхождение, оно этимологически связано с «бастурмой» и «пастримой». Готовится из говядины, свинины, птицы.",
+    "note": "Блюдо можно приготовить с вечера и оставить в выключенной духовке до утра. При подаче нарезать мясо очень тонкими ломтиками.",
+    "cuisine": "Молдавская кухня, Румынская кухня",
+    "cuisine_slug": "moldavskaya-kuhnya-rumynskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d2/c54c15c5ae900d2_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "филе индейки",
+                    "slug": "file-indeyki",
+                    "notes": " (куриное филе)",
+                    "value": "1-2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "5-6",
+                    "type": "зубчиков",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "смесь молотых перцев",
+                    "slug": "smes-molotyh-percev",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В глубокую емкость небольшого размера насыпать соль, влить воду, размешать.",
+            "image": null
+        },
+        {
+            "text": "Положить в раствор грудку индейки или две куриных, дать пропитаться в течение двух часов.",
+            "image": null
+        },
+        {
+            "text": "Мясо вынуть из рассола, обсушить с помощью бумажных салфеток.",
+            "image": null
+        },
+        {
+            "text": "Застелить противень фольгой, выложить грудки, сделать надрезы и нашпиговать дольками очищенного чеснока, намазать смесью растительного масла и молотых перцев.",
+            "image": null
+        },
+        {
+            "text": "Приправы можно использовать любые, например, смесь паприки и чили.",
+            "image": null
+        },
+        {
+            "text": "Поставить блюдо в духовку, нагретую до 250 градусов, печь в течение 20 минут, затем подержать мясо при закрытой дверце еще два часа или больше.",
+            "image": null
+        },
+        {
+            "text": "Пасторма до подачи должна полностью остыть.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Закуски для фуршета",
+            "slug": "zakuski-dlya-fursheta"
+        },
+        {
+            "name": "Закуски из курицы",
+            "slug": "zakuski-iz-kuricy"
+        },
+        {
+            "name": "Закуски из птицы",
+            "slug": "zakuski-iz-pticy"
+        },
+        {
+            "name": "Закуски на день рождения",
+            "slug": "zakuski-na-den-rojdeniya"
+        },
+        {
+            "name": "Индейка на Новый год",
+            "slug": "indeyka-na-noviy-god"
+        },
+        {
+            "name": "Новогодние закуски",
+            "slug": "novogodnie-zakuski"
+        },
+        {
+            "name": "Пастрома",
+            "slug": "pastroma"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Птица на Новый год",
+            "slug": "ptica-na-noviy-god"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        },
+        {
+            "name": "Холодные закуски",
+            "slug": "holodnye-zakuski"
+        }
+    ]
+}

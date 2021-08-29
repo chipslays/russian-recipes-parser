@@ -1,0 +1,151 @@
+{
+    "source": "https://vkuso.ru/recipe/klassicheskaya-samsa-s-baraninoj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Классическая самса с бараниной",
+    "description": "Самса или самоса – пирожки произвольной формы с мясом и репчатым луком. Распространена выпечка в Азии, в странах средиземноморского бассейна. В населенных пунктах Средней Азии самсой торгуют на улицах и базарах так же, как в Европе хот-догами.",
+    "note": "Выпечку можно приготовить не из пресного, а из слоеного теста. К пирожкам подать сметану или томатный соус. Для фарша использовать куриное филе, курдючное сало, тыкву, картофель. В Узбекистане самсу подают с кисломолочными продуктами, зеленым чаем, салатом из тертой редьки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/77/ff75279ba658e77_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "баранина/говядина",
+                    "slug": "baranina-govyadina",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "жир кулинарный",
+                    "slug": "jir-kulinarniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить фарш из говядины или баранины, обжарить на масле. Добавить соль по вкусу, черный молотый перец, припущенный рис и луковую пассеровку. Перемешать. Замесить пресное тесто, раскатать кружками.",
+            "image": null
+        },
+        {
+            "text": "Края смазать чуть взбитым сырым яйцом, положить приготовленный фарш, защипать края пирожков, придав им форму полумесяца. Обжарить самсу с бараниной с добавлением кулинарного жира.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка с мясом и фаршем",
+            "slug": "vypechka-s-myasom-i-farshem"
+        },
+        {
+            "name": "Говядина классические рецепты",
+            "slug": "govyadina-klassicheskie-recepty"
+        },
+        {
+            "name": "Классические рецепты",
+            "slug": "klassicheskie-recepty"
+        },
+        {
+            "name": "Мясо классические рецепты",
+            "slug": "myaso-klassicheskie-recepty"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки без дрожжей",
+            "slug": "pirojki-bez-drojjey"
+        },
+        {
+            "name": "Пирожки с мясом",
+            "slug": "pirojki-s-myasom"
+        },
+        {
+            "name": "Пирожки с рисом",
+            "slug": "pirojki-s-risom"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рис с мясом",
+            "slug": "ris-s-myasom"
+        },
+        {
+            "name": "Самса",
+            "slug": "samsa"
+        },
+        {
+            "name": "Самса из слоеного теста",
+            "slug": "samsa-iz-sloenogo-testa"
+        },
+        {
+            "name": "Слоеные пирожки",
+            "slug": "sloenye-pirojki"
+        }
+    ]
+}

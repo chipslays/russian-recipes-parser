@@ -1,0 +1,326 @@
+{
+    "source": "https://vkuso.ru/recipe/tort-skazka-trexslojnyj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Торт «Сказка» трехслойный",
+    "description": null,
+    "note": "Верх выпечки можно украсить тертым темным шоколадом, цветной кулинарной посыпкой.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/0e/6ce2c151d243a0e_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "какао-порошок",
+                    "slug": "kakao-poroshok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сода/уксус",
+                    "slug": "soda-uksus",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для шоколадного коржа",
+            "list": [
+                {
+                    "name": "мак",
+                    "slug": "mak",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сода/уксус",
+                    "slug": "soda-uksus",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для макового коржа",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "грецкие орехи",
+                    "slug": "greckie-orehi",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сода/уксус",
+                    "slug": "soda-uksus",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для орехового коржа",
+            "list": [
+                {
+                    "name": "молоко сгущенное",
+                    "slug": "moloko-sguschennoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить несколько коржей с разным составом ингредиентов. Первый – шоколадный, состав: сахарный песок, мука, сметана, сода, погашенная уксусом, сырые куриные яйца, растопленное сливочное масло, какао-порошок. Яйца взбить с сахаром в пену, добавить масло и сметану, еще раз взбить, всыпать соду и муку, какао.",
+            "image": null
+        },
+        {
+            "text": "Второй корж: те же составляющие, но вместо какао – мак, предварительно запаренный кипящей водой. Для третьего коржа – стакан рубленых грецких орехов. Приготовить крем из сливочного масла и сгущенного молока, смесь должна быть однородной, поставить на полчаса в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Выпечь три коржа по отдельности в смазанной маслом форме в течение 25–30 минут до готовности, проверить спичкой или зубочисткой. Коржи полностью охладить, промазать охлажденным кремом, покрыть им же верх и бока выпечки. Подержать торт «Сказка» в холодильнике в течение 8–12 часов, можно оставить на ночь.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Бисквитный торт",
+            "slug": "biskvitniy-tort"
+        },
+        {
+            "name": "Бисквитный торт со сгущенкой",
+            "slug": "biskvitniy-tort-so-sguschenkoy"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Выпечка с маком",
+            "slug": "vypechka-s-makom"
+        },
+        {
+            "name": "Выпечка со сгущенкой",
+            "slug": "vypechka-so-sguschenkoy"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Детский день рождения",
+            "slug": "detskiy-den-rojdeniya"
+        },
+        {
+            "name": "Детский праздник",
+            "slug": "detskiy-prazdnik"
+        },
+        {
+            "name": "Маковый торт",
+            "slug": "makoviy-tort"
+        },
+        {
+            "name": "Ореховый торт",
+            "slug": "orehoviy-tort"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничные торты",
+            "slug": "prazdnichnye-torty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождественский торт",
+            "slug": "rojdestvenskiy-tort"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Торт на день рождения",
+            "slug": "tort-na-den-rojdeniya"
+        },
+        {
+            "name": "Торт с маком",
+            "slug": "tort-s-makom"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

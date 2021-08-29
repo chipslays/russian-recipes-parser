@@ -1,0 +1,365 @@
+{
+    "source": "https://vkuso.ru/recipe/105744-myasnaya-lazanya-s-bolgarskim-percem-pod-sousom-beshamel/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Мясная лазанья с болгарским перцем под соусом Бешамель",
+    "description": "Атмосферу солнечной Италии можно создать у себя дома.",
+    "note": "При подаче порционные куски лазаньи можно украсить зеленью и помидорами черри.",
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/43/190601fe13d0343_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "2 часа",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "300-400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "листы лазаньи",
+                    "slug": "listy-lazani",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр пармезан",
+                    "slug": "syr-parmezan",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для соуса Бешамель",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мускатный орех",
+                    "slug": "muskatniy-oreh",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "фарш",
+                    "slug": "farsh",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры в собственном соку",
+                    "slug": "pomidory-v-sobstvennom-soku",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "лук красный",
+                    "slug": "luk-krasniy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук белый",
+                    "slug": "luk-beliy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "6",
+                    "type": "зубчиков",
+                    "amount": null
+                },
+                {
+                    "name": "сельдерей",
+                    "slug": "selderey",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "стебля",
+                    "amount": null
+                },
+                {
+                    "name": "орегано",
+                    "slug": "oregano",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "тимьян",
+                    "slug": "timyan",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "базилик",
+                    "slug": "bazilik",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления соуса «Болоньезе» раздавить зубчик и прогреть его разогретом оливковом масле, затем выбросить.",
+            "image": null
+        },
+        {
+            "text": "Нарезать репчатый лук кубиками, обжарить в чесночном масле до прозрачного состояния.",
+            "image": null
+        },
+        {
+            "text": "Мелкими кубиками нарезать морковь, положить в лук, затем туда же добавить кубики болгарского перца.",
+            "image": null
+        },
+        {
+            "text": "Нарезать сельдерей и также добавить в овощную смесь.",
+            "image": null
+        },
+        {
+            "text": "Все вместе жарить пять минут, добавить фарш, приготовленный из постной говядины.",
+            "image": null
+        },
+        {
+            "text": "Жарить от 20 до 25 минут, всыпать любимые специи, потушить под крышкой еще десять минут.",
+            "image": null
+        },
+        {
+            "text": "Добавить нарезанные томаты в собственном соку.",
+            "image": null
+        },
+        {
+            "text": "Другой вариант: свежие нарезанные помидоры без кожуры.",
+            "image": null
+        },
+        {
+            "text": "За три минуты до готовности добавить давленый чеснок.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления соуса «Бешамель» понадобится посуда с толстым дном.",
+            "image": null
+        },
+        {
+            "text": "Растопить в ней сливочное масло, всыпать муку, перемешать до однородного состояния.",
+            "image": null
+        },
+        {
+            "text": "Влить тонкой струйкой холодное молоко, постоянно помешивать, в соусе не должно быть комочков.",
+            "image": null
+        },
+        {
+            "text": "Добавить соль и молотый мускатный орех.",
+            "image": null
+        },
+        {
+            "text": "Перемешать, снять с огня. Соус должен быть средней густоты.",
+            "image": null
+        },
+        {
+            "text": "На дно жаропрочной стеклянной формы налить немного соуса «Бешамель».",
+            "image": null
+        },
+        {
+            "text": "Выложить сухие листья лазаньи, которые не требуют предварительного отваривания.",
+            "image": null
+        },
+        {
+            "text": "Поверх выложить мясной соус, разровнять.",
+            "image": null
+        },
+        {
+            "text": "Присыпать тертым сыром «Пармезан» или любым другим твердым.",
+            "image": null
+        },
+        {
+            "text": "Поверх налить соус «Бешамель».",
+            "image": null
+        },
+        {
+            "text": "Слои повторять до тех пор, пока ингредиенты не закончатся.",
+            "image": null
+        },
+        {
+            "text": "Поставить лазанью в духовой шкаф на 35 или 40 минут, температура выпекания – 180 градусов.",
+            "image": null
+        },
+        {
+            "text": "Готовое блюдо должно легко протыкаться вилкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Вторые блюда из фарша",
+            "slug": "vtorye-blyuda-iz-farsha"
+        },
+        {
+            "name": "Запеканка мясная",
+            "slug": "zapekanka-myasnaya"
+        },
+        {
+            "name": "Запеканки",
+            "slug": "zapekanki"
+        },
+        {
+            "name": "Запеканки с сыром",
+            "slug": "zapekanki-s-syrom"
+        },
+        {
+            "name": "Запеканки с фаршем",
+            "slug": "zapekanki-s-farshem"
+        },
+        {
+            "name": "Лазанья",
+            "slug": "lazanya"
+        },
+        {
+            "name": "Лазанья с фаршем",
+            "slug": "lazanya-s-farshem"
+        },
+        {
+            "name": "Мясо в духовке",
+            "slug": "myaso-v-duhovke"
+        },
+        {
+            "name": "Мясо с помидорами и сыром в духовке",
+            "slug": "myaso-s-pomidorami-i-syrom-v-duhovke"
+        },
+        {
+            "name": "Мясо с сыром",
+            "slug": "myaso-s-syrom"
+        },
+        {
+            "name": "Перец в духовке",
+            "slug": "perec-v-duhovke"
+        },
+        {
+            "name": "Помидоры с сыром в духовке",
+            "slug": "pomidory-s-syrom-v-duhovke"
+        },
+        {
+            "name": "Ужин из макарон",
+            "slug": "ujin-iz-makaron"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        }
+    ]
+}

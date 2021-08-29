@@ -1,0 +1,167 @@
+{
+    "source": "https://vkuso.ru/recipe/okroshka-s-zelenym-goroshkom/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Окрошка с зеленым горошком",
+    "description": null,
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/be/8cec5ee401318be_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кефира",
+                    "slug": "kefira",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "воды",
+                    "slug": "vody",
+                    "notes": null,
+                    "value": "300",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "говядины",
+                    "slug": "govyadiny",
+                    "notes": null,
+                    "value": "220",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "3"
+                },
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "2",
+                    "type": "клубня",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "огурец",
+                    "slug": "ogurec",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "зеленого горошка",
+                    "slug": "zelenogo-goroshka",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "кинзы",
+                    "slug": "kinzy",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "укропа",
+                    "slug": "ukropa",
+                    "notes": null,
+                    "value": "1/4",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "зеленого лука",
+                    "slug": "zelenogo-luka",
+                    "notes": null,
+                    "value": "1/4",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить морковь, картофель, яйца, дать остыть, нарезать, добавить для разнообразия зеленый горошек, измельченные кубиками огурцы, посолить и перемешать.",
+            "image": null
+        },
+        {
+            "text": "Залить все по вкусу взбитым с водой холодным кефиром со щепоткой черного перца или квасом, всыпать измельченную зелень кинзы (на любителя), укропа и петрушки с зеленым луком.",
+            "image": null
+        },
+        {
+            "text": "Для мясоедов можно добавить отварную телятину, ветчину или колбасу, если окрошка с зеленым горошком готовится на квасе, то при подаче добавить в тарелки сметану.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Окрошка",
+            "slug": "okroshka"
+        },
+        {
+            "name": "Окрошка на квасе",
+            "slug": "okroshka-na-kvase"
+        },
+        {
+            "name": "Суп из говядины",
+            "slug": "sup-iz-govyadiny"
+        },
+        {
+            "name": "Холодные супы",
+            "slug": "holodnye-supy"
+        }
+    ]
+}

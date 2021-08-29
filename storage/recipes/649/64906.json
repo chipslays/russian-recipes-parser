@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/buterbrody-s-ikroj-mintaya-i-perepelinymi-yajcami/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Бутерброды с икрой минтая и перепелиными яйцами",
+    "description": "Недорогой рецепт со сметаной и зеленью. Быстрый и полезный завтрак.",
+    "note": "Готовую закуску украсить рубленым зеленым луком или веточками зелени.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f0/96be6b220403ff0_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/vLCfFaRy-cw?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яйца перепелиные",
+                    "slug": "yayca-perepelinye",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л. с горкой",
+                    "amount": null
+                },
+                {
+                    "name": "икра минтая",
+                    "slug": "ikra-mintaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб",
+                    "slug": "hleb",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Перемешать сметану с рубленой зеленью",
+            "image": null
+        },
+        {
+            "text": "Смесью намазать ломтики хлеба темных сортов.",
+            "image": null
+        },
+        {
+            "text": "Сверху выложить икру.",
+            "image": null
+        },
+        {
+            "text": "Отварить перепелиные яйца, очистить.",
+            "image": null
+        },
+        {
+            "text": "Натереть на терке или порубить.",
+            "image": null
+        },
+        {
+            "text": "Посыпать бутерброды.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды на скорую руку",
+            "slug": "buterbrody-na-skoruyu-ruku"
+        },
+        {
+            "name": "Бутерброды открытые",
+            "slug": "buterbrody-otkrytye"
+        },
+        {
+            "name": "Бутерброды с икрой",
+            "slug": "buterbrody-s-ikroy"
+        },
+        {
+            "name": "Бутерброды с яйцом",
+            "slug": "buterbrody-s-yaycom"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Холодные закуски",
+            "slug": "holodnye-zakuski"
+        }
+    ]
+}

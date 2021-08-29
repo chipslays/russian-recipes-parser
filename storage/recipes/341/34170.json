@@ -1,0 +1,207 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-nezhenka-s-kuricej-i-syrom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Неженка» с курицей и сыром",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/39/cc3b1b250176d39_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить грудку, дать остыть в бульоне, порезать кубиками, яйца мелко порубить, натереть крупно сыр, отдельно – отварную морковь, чеснок раздавить прессом или очень мелко натереть.",
+            "image": null
+        },
+        {
+            "text": "Перемешать рис с морковью, яйцами, мясом, всыпать сыр, добавить чеснок, подсолить, заправить салат «Неженка» майонезом. На плоское блюдо поставить кулинарное кольцо, заполнить салатом и убрать его, оформить верх салата зеленью.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат из моркови",
+            "slug": "salat-iz-morkovi"
+        },
+        {
+            "name": "Салат из моркови с чесноком",
+            "slug": "salat-iz-morkovi-s-chesnokom"
+        },
+        {
+            "name": "Салат из моркови с чесноком и майонезом",
+            "slug": "salat-iz-morkovi-s-chesnokom-i-mayonezom"
+        },
+        {
+            "name": "Салат из моркови с чесноком и сыром",
+            "slug": "salat-iz-morkovi-s-chesnokom-i-syrom"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с куриной грудкой",
+            "slug": "salat-s-kurinoy-grudkoy"
+        },
+        {
+            "name": "Салат с курицей",
+            "slug": "salat-s-kuricey"
+        },
+        {
+            "name": "Салат с курицей и морковью",
+            "slug": "salat-s-kuricey-i-morkovyu"
+        },
+        {
+            "name": "Салат с курицей и овощами",
+            "slug": "salat-s-kuricey-i-ovoschami"
+        },
+        {
+            "name": "Салат с курицей и сыром",
+            "slug": "salat-s-kuricey-i-syrom"
+        },
+        {
+            "name": "Салат с курицей, сыром и яйцом",
+            "slug": "salat-s-kuricey-syrom-i-yaycom"
+        },
+        {
+            "name": "Салат с рисом",
+            "slug": "salat-s-risom"
+        },
+        {
+            "name": "Салат с сыром и чесноком",
+            "slug": "salat-s-syrom-i-chesnokom"
+        },
+        {
+            "name": "Салат с твердым сыром",
+            "slug": "salat-s-tverdym-syrom"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салат с чесноком и майонезом",
+            "slug": "salat-s-chesnokom-i-mayonezom"
+        },
+        {
+            "name": "Салат с яйцом и морковью",
+            "slug": "salat-s-yaycom-i-morkovyu"
+        },
+        {
+            "name": "Салат с яйцом и сыром",
+            "slug": "salat-s-yaycom-i-syrom"
+        },
+        {
+            "name": "Салаты из круп",
+            "slug": "salaty-iz-krup"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        }
+    ]
+}

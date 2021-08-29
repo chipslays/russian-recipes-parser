@@ -1,0 +1,119 @@
+{
+    "source": "https://vkuso.ru/recipe/goroxovoe-pyure-s-zharenoj-kurochkoj/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Гороховое пюре с жареной курочкой",
+    "description": "Пюре, курятина и поджарка – настоящее богатство вкуса, домашняя еда, которую не заменит никакой общепит.",
+    "note": "Подавать гороховое пюре с кусочком курицы и поджаркой. Блюдо можно украсить зеленью, помидорами черри.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/1f/fa9c187624fa21f_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "курица",
+                    "slug": "kurica",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "4",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "горох колотый",
+                    "slug": "goroh-kolotiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "смесь перцев",
+                    "slug": "smes-percev",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Горох промывать до тех пор, пока вода не станет прозрачной. Лучше замочить продукт заранее, чтобы он быстрее приготовился.",
+            "image": null
+        },
+        {
+            "text": "Варить в подсоленной воде до готовности, затем пюрировать блендером.",
+            "image": null
+        },
+        {
+            "text": "Курицу разделать на кусочки, обжарить на масле с тертой морковью и луком, специями.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из бобовых",
+            "slug": "vtorye-blyuda-iz-bobovyh"
+        },
+        {
+            "name": "Гороховое пюре",
+            "slug": "gorohovoe-pyure"
+        },
+        {
+            "name": "Пюре",
+            "slug": "pyure"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        }
+    ]
+}

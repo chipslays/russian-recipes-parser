@@ -1,0 +1,211 @@
+{
+    "source": "https://vkuso.ru/recipe/limonnyj-salat-shhetka-s-zelenyu/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Лимонный Салат Щетка с зеленью",
+    "description": "Кисловатая заправка хорошо подчеркнет вкус овощей.",
+    "note": "Салат можно украсить дольками яблока, сбрызнутыми лимонным соком, чтобы не почернели, листьями зеленого салата.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a5/e8c29a91736c8a5_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/phWUneYUF8c?rel=0",
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 3 порции",
+            "list": [
+                {
+                    "name": "капуста белокочанная",
+                    "slug": "kapusta-belokochannaya",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "свекла",
+                    "slug": "svekla",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "листья салата",
+                    "slug": "listya-salata",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Капусту нарезать, помять.",
+            "image": null
+        },
+        {
+            "text": "Порвать хорошо вымытый салат руками.",
+            "image": null
+        },
+        {
+            "text": "Морковь и свеклу потереть.",
+            "image": null
+        },
+        {
+            "text": "Продукты смешать.",
+            "image": null
+        },
+        {
+            "text": "Полить оливковым маслом, лимонным соком.",
+            "image": null
+        },
+        {
+            "text": "Дать постоять для пропитывания.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Вегетарианские салаты",
+            "slug": "vegetarianskie-salaty"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетические салаты",
+            "slug": "dieticheskie-salaty"
+        },
+        {
+            "name": "Зеленые салаты",
+            "slug": "zelenye-salaty"
+        },
+        {
+            "name": "Легкий салат",
+            "slug": "legkiy-salat"
+        },
+        {
+            "name": "Овощные салаты",
+            "slug": "ovoschnye-salaty"
+        },
+        {
+            "name": "Постные блюда из капусты",
+            "slug": "postnye-blyuda-iz-kapusty"
+        },
+        {
+            "name": "Постные салаты",
+            "slug": "postnye-salaty"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из капусты",
+            "slug": "salat-iz-kapusty"
+        },
+        {
+            "name": "Салат из моркови",
+            "slug": "salat-iz-morkovi"
+        },
+        {
+            "name": "Салат из свежей капусты и моркови",
+            "slug": "salat-iz-svejey-kapusty-i-morkovi"
+        },
+        {
+            "name": "Салат из свеклы",
+            "slug": "salat-iz-svekly"
+        },
+        {
+            "name": "Салат из свеклы и моркови",
+            "slug": "salat-iz-svekly-i-morkovi"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салат Щетка",
+            "slug": "salat-schetka"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты из листьев салата",
+            "slug": "salaty-iz-listev-salata"
+        },
+        {
+            "name": "Салаты из сырых овощей",
+            "slug": "salaty-iz-syryh-ovoschey"
+        },
+        {
+            "name": "Специальное питание",
+            "slug": "specialnoe-pitanie"
+        },
+        {
+            "name": "Сыроедение",
+            "slug": "syroedenie"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

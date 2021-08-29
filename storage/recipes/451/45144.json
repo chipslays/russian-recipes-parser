@@ -1,0 +1,99 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnie-konfety-s-romom/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Домашние конфеты с ромом",
+    "description": null,
+    "note": "Дополнительно можно обвалять в орехах, какао-порошке или кокосовой стружке.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e5/4071cd4c6c8f5e5_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "печенье",
+                    "slug": "pechene",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко сгущенное",
+                    "slug": "moloko-sguschennoe",
+                    "notes": " (подслащенное)",
+                    "value": "170-180",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "140",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "какао-порошок",
+                    "slug": "kakao-poroshok",
+                    "notes": null,
+                    "value": "¾",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "ром",
+                    "slug": "rom",
+                    "notes": " (бренди/ликер)",
+                    "value": "¾",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "миндальный сироп",
+                    "slug": "mindalniy-sirop",
+                    "notes": " (ореховый/амаретто/кофейный)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Перемешать в миске сгущенку, размягченное масло, какао-порошок, алкоголь и сироп.",
+            "image": null
+        },
+        {
+            "text": "Добавить измельченное в крошку печенье (часть оставить), хорошо перемешать.",
+            "image": null
+        },
+        {
+            "text": "Скатать из массы небольшие шарики. Обвалять домашние конфеты с ромом в оставленной крошке, переложить на плоское блюдо, убрать на час или больше в холодильник.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерт со сгущенкой",
+            "slug": "desert-so-sguschenkoy"
+        },
+        {
+            "name": "Домашние конфеты",
+            "slug": "domashnie-konfety"
+        },
+        {
+            "name": "На десерт",
+            "slug": "na-desert"
+        }
+    ]
+}

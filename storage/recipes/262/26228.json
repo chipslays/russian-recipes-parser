@@ -1,0 +1,147 @@
+{
+    "source": "https://vkuso.ru/recipe/sendvich-s-kuricej-v-mede/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Сэндвич с курицей в меде",
+    "description": "Имя лондонского министра Монтегю, графа Сандвичского, увековечил рецепт закуски с двумя слоями хлеба и начинкой между ними. Сам граф известен тем, что руководил подготовкой экспедиции капитана Кука. Сэндвичи могут быть разного размера, большие принято есть на блюде с помощью ножа и вилки.",
+    "note": "Вместо черного молотого перца можно взять паприку.",
+    "cuisine": "Английская кухня",
+    "cuisine_slug": "angliyskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e4/955c701679f1be4_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриная грудка",
+                    "slug": "kurinaya-grudka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец красный молотый",
+                    "slug": "perec-krasniy-molotiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "листья салата",
+                    "slug": "listya-salata",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "хлеб",
+                    "slug": "hleb",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Разогреть сковороду с оливковым маслом или любым другим растительным без запаха, обжарить на среднем огне куриную грудку, соль, перец – по вкусу. На обжаривание одной стороны потребуется около семи минут, затем эту сторону смазать медом, перевернуть, смазать другую сторону, огонь увеличить.",
+            "image": null
+        },
+        {
+            "text": "Продолжать переворачивать, нужно, чтобы мясо впитало в себя максимум меда. Можно добавить немного воды. Приготовить сэндвич из двух кусков хлеба с готовой грудкой, листом зеленого салата и нарезанным помидором.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды с курицей",
+            "slug": "buterbrody-s-kuricey"
+        },
+        {
+            "name": "Бутерброды с помидорами",
+            "slug": "buterbrody-s-pomidorami"
+        },
+        {
+            "name": "Закрытые бутерброды",
+            "slug": "zakrytye-buterbrody"
+        },
+        {
+            "name": "Закуски из курицы",
+            "slug": "zakuski-iz-kuricy"
+        },
+        {
+            "name": "Курица с овощами",
+            "slug": "kurica-s-ovoschami"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сэндвич с курицей",
+            "slug": "sendvich-s-kuricey"
+        },
+        {
+            "name": "Сэндвичи",
+            "slug": "sendvichi"
+        }
+    ]
+}

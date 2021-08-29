@@ -1,0 +1,353 @@
+{
+    "source": "https://vkuso.ru/recipe/92062-mussovyj-tort-krasnyj-barxat-s-klyukvennym-konfi-v-glazuri/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Муссовый торт «Красный бархат» с клюквенным конфи в глазури",
+    "description": "Ставший классическим муссовый торт под зеркальной глазурью.",
+    "note": "Вместо красителя можно использовать свекольный сок, уксус и соду заменить разрыхлителем, использовать другие красные ягоды.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/10/868d832cb967310_660x440.jpg",
+    "difficulty": "Высокая",
+    "cooktime": "3 часа",
+    "preparetime": "6 часов",
+    "video": "https://www.youtube.com/embed/4_z9WW62MB4?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 8 порции",
+            "list": [
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "160",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "140",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "95",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кефир 3.2%",
+                    "slug": "kefir-3-2",
+                    "notes": " (пахта)",
+                    "value": "95",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "45",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "какао-порошок",
+                    "slug": "kakao-poroshok",
+                    "notes": null,
+                    "value": "5",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "уксус винный белый",
+                    "slug": "uksus-vinniy-beliy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "2.5",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ванилин",
+                    "slug": "vanilin",
+                    "notes": null,
+                    "value": "2",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "краситель пищевой красный",
+                    "slug": "krasitel-pischevoy-krasniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для конфи",
+            "list": [
+                {
+                    "name": "клюква",
+                    "slug": "klyukva",
+                    "notes": null,
+                    "value": "225",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "65",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "крахмал",
+                    "slug": "krahmal",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "желатин листовой",
+                    "slug": "jelatin-listovoy",
+                    "notes": null,
+                    "value": "6",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для мусса",
+            "list": [
+                {
+                    "name": "шампанское сухое",
+                    "slug": "shampanskoe-suhoe",
+                    "notes": " (шампанское полусухое)",
+                    "value": "170",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "130",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки жирные",
+                    "slug": "slivki-jirnye",
+                    "notes": null,
+                    "value": "130",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "желатин листовой",
+                    "slug": "jelatin-listovoy",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Испечь красный бисквит из сахарного песка, сырого куриного яйца, мягкого сливочного масла, растительного масла, муки, какао-порошка, соли, пищевой соды.",
+            "image": null
+        },
+        {
+            "text": "Добавить ванилин, белый винный уксус, жирный кефир или пахту, красный пищевой краситель.",
+            "image": null
+        },
+        {
+            "text": "Все ингредиенты можно просто перемешать чаше блендера, скорость – средняя.",
+            "image": null
+        },
+        {
+            "text": "Масса должна быть однородной, диаметр коржа – восемнадцать сантиметров.",
+            "image": null
+        },
+        {
+            "text": "Выпечку остудить, обернуть пищевой пленкой, поставить на ночь в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Разрезать на два коржа толщиной по одному сантиметру, диаметр – по шестнадцать сантиметров.",
+            "image": null
+        },
+        {
+            "text": "Приготовить конфи из клюквы: перебить ягоды в блендере в пюре, всыпать крахмал и сахар по вкусу, добавить листовой или порошковый желатин.",
+            "image": null
+        },
+        {
+            "text": "Массу заморозить в кулинарном кольце по размеру коржа.",
+            "image": null
+        },
+        {
+            "text": "В небольшом сотейнике прогреть шампанское с лимонным соком и сахаром.",
+            "image": null
+        },
+        {
+            "text": "Немного сахара растереть с сырыми желтками, массу заварить до густоты в горячем шампанском.",
+            "image": null
+        },
+        {
+            "text": "Жирные сливки взбить в пышную пену.",
+            "image": null
+        },
+        {
+            "text": "Поставить в холод.",
+            "image": null
+        },
+        {
+            "text": "Сварить сироп из остатков сахара и воды, ввести взбитые белки тонкой струйкой.",
+            "image": null
+        },
+        {
+            "text": "Половину получившейся меренги перемешать со взбитыми сливками, оставшуюся часть – с заварным кремом, приготовленном на шампанском.",
+            "image": null
+        },
+        {
+            "text": "Обе массы аккуратно перемешать.",
+            "image": null
+        },
+        {
+            "text": "Торт собрать в силиконовой форме или в кольце.",
+            "image": null
+        },
+        {
+            "text": "Влить треть мусса, следующий слой – корж, далее – еще треть мусса, ягодная масса-конфи, сверху – оставшийся мусс и второй корж.",
+            "image": null
+        },
+        {
+            "text": "Верхний корж вдавить в мусс.",
+            "image": null
+        },
+        {
+            "text": "Десерт заморозить и покрыть зеркальной глазурью белого цвета.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка с ягодами",
+            "slug": "vypechka-s-yagodami"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Красивый торт",
+            "slug": "krasiviy-tort"
+        },
+        {
+            "name": "Муссовый торт",
+            "slug": "mussoviy-tort"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничные торты",
+            "slug": "prazdnichnye-torty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Слоеный торт",
+            "slug": "sloeniy-tort"
+        },
+        {
+            "name": "Торт Красный бархат",
+            "slug": "tort-krasniy-barhat"
+        },
+        {
+            "name": "Торт на день рождения",
+            "slug": "tort-na-den-rojdeniya"
+        },
+        {
+            "name": "Торт с зеркальной глазурью",
+            "slug": "tort-s-zerkalnoy-glazuryu"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

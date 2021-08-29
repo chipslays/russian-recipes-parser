@@ -1,0 +1,163 @@
+{
+    "source": "https://vkuso.ru/recipe/slivochno-tykvennyj-krem-sup-s-kartofelem/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Сливочно-тыквенный крем-суп с картофелем",
+    "description": "Любой тыквенный суп – кладовая солнца, вкусов, ароматов, витаминное блюдо для долгой, холодной, снежной зимы.",
+    "note": "При подаче блюдо можно украсить отваренными креветками, домашними сухариками, зеленью петрушки и укропа.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/6b/a05e871c819206b_660x440.jpeg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/OWf9O9DgleE?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "тыква",
+                    "slug": "tykva",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "280",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки 33%",
+                    "slug": "slivki-33",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "120",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "80",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Порубить репчатый лук и чеснок, то и другое обжарить до появления золотистой корочки.",
+            "image": null
+        },
+        {
+            "text": "Нарезать тыкву, морковь, картофель.",
+            "image": null
+        },
+        {
+            "text": "Влить воду, варить до готовности под крышкой, время – около получаса.",
+            "image": null
+        },
+        {
+            "text": "Снять суп с огня, остудить, взбить при помощи блендера.",
+            "image": null
+        },
+        {
+            "text": "Добавить сливки, посолить.",
+            "image": null
+        },
+        {
+            "text": "Смесь довести до кипения на тихом огне.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Крем-суп",
+            "slug": "krem-sup"
+        },
+        {
+            "name": "Крем-суп из тыквы",
+            "slug": "krem-sup-iz-tykvy"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Сливочный суп",
+            "slug": "slivochniy-sup"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп со сливками",
+            "slug": "sup-so-slivkami"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Суп-пюре из тыквы",
+            "slug": "sup-pyure-iz-tykvy"
+        },
+        {
+            "name": "Суп-пюре картофельный",
+            "slug": "sup-pyure-kartofelniy"
+        },
+        {
+            "name": "Суп-пюре овощной",
+            "slug": "sup-pyure-ovoschnoy"
+        }
+    ]
+}

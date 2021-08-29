@@ -1,0 +1,163 @@
+{
+    "source": "https://vkuso.ru/recipe/zakuska-okroshka-po-russki/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Закуска «Окрошка» по-русски",
+    "description": null,
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ca/3205d040b3565ca_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мяса",
+                    "slug": "myasa",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "куриного филе",
+                    "slug": "kurinogo-file",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "свекла",
+                    "slug": "svekla",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "огурец соленый",
+                    "slug": "ogurec-soleniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "маринованная слива",
+                    "slug": "marinovannaya-sliva",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "квашеная капуста",
+                    "slug": "kvashenaya-kapusta",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "квас",
+                    "slug": "kvas",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Зажарить филе курицы и мясо, нарезать кубиками, нашинковать мелко лук, нарезать небольшими кубиками огурец и вареную свеклу.",
+            "image": null
+        },
+        {
+            "text": "Смешать аккуратно все ингредиенты и уложить горкой в салатник.",
+            "image": null
+        },
+        {
+            "text": "Закуска «Окрошка» по-русски перед подачей поливается смесью сметаны и кваса, сверху закуску украсить нарезанным зеленым луком, ломтиками маринованной сливы, выложить вокруг квашеную капусту.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Закуски из курицы",
+            "slug": "zakuski-iz-kuricy"
+        },
+        {
+            "name": "Закуски из мяса",
+            "slug": "zakuski-iz-myasa"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из капусты и огурцов",
+            "slug": "salat-iz-kapusty-i-ogurcov"
+        },
+        {
+            "name": "Салат из свеклы",
+            "slug": "salat-iz-svekly"
+        },
+        {
+            "name": "Салат с курицей",
+            "slug": "salat-s-kuricey"
+        },
+        {
+            "name": "Салат с курицей и капустой",
+            "slug": "salat-s-kuricey-i-kapustoy"
+        },
+        {
+            "name": "Салат с курицей и овощами",
+            "slug": "salat-s-kuricey-i-ovoschami"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с солеными огурцами",
+            "slug": "salat-s-solenymi-ogurcami"
+        },
+        {
+            "name": "Салаты со сметаной",
+            "slug": "salaty-so-smetanoy"
+        }
+    ]
+}

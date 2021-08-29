@@ -1,0 +1,195 @@
+{
+    "source": "https://vkuso.ru/recipe/kurinyj-sup-pyure-s-gribami-i-chechevicej/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Куриный суп-пюре с грибами и чечевицей",
+    "description": "Полезный обед, главное в этом супе – правильно приготовить чечевицу.",
+    "note": "Коричневую чечевицу варят 25 минут, оранжевую – полчаса, зеленую – 40 минут.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f0/77a9d4ce890d7f0_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бульон грибной",
+                    "slug": "bulon-gribnoy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чечевица",
+                    "slug": "chechevica",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Бобы промыть, влить воду, соотношение – один к двум.",
+            "image": null
+        },
+        {
+            "text": "Во время приготовления влить немного оливкового масла.",
+            "image": null
+        },
+        {
+            "text": "Другой способ – отварить чечевицу в грибном бульоне.",
+            "image": null
+        },
+        {
+            "text": "Шампиньоны обжарить.",
+            "image": null
+        },
+        {
+            "text": "На сливочном масле спассеровать морковь и лук, куриное филе.",
+            "image": null
+        },
+        {
+            "text": "Обжарку добавить в бульон, положить туда же картофель, соль, поперчить.",
+            "image": null
+        },
+        {
+            "text": "Приготовить пюре при помощи блендера.",
+            "image": null
+        },
+        {
+            "text": "Подать суп к столу с обжаренными грибами.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Грибной суп",
+            "slug": "gribnoy-sup"
+        },
+        {
+            "name": "Куриное филе с шампиньонами",
+            "slug": "kurinoe-file-s-shampinonami"
+        },
+        {
+            "name": "Куриный суп",
+            "slug": "kuriniy-sup"
+        },
+        {
+            "name": "Куриный суп-пюре",
+            "slug": "kuriniy-sup-pyure"
+        },
+        {
+            "name": "Суп из бобовых",
+            "slug": "sup-iz-bobovyh"
+        },
+        {
+            "name": "Суп из птицы",
+            "slug": "sup-iz-pticy"
+        },
+        {
+            "name": "Суп из чечевицы",
+            "slug": "sup-iz-chechevicy"
+        },
+        {
+            "name": "Суп из шампиньонов",
+            "slug": "sup-iz-shampinonov"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Суп-пюре грибной",
+            "slug": "sup-pyure-gribnoy"
+        },
+        {
+            "name": "Суп-пюре из чечевицы",
+            "slug": "sup-pyure-iz-chechevicy"
+        },
+        {
+            "name": "супы",
+            "slug": "supy"
+        }
+    ]
+}

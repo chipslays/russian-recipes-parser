@@ -1,0 +1,321 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnyaya-picca-na-belom-souse/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Домашняя пицца на белом соусе",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/84/f863c4368cd9684_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "800-900",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сыр моцарелла",
+                    "slug": "syr-mocarella",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сыр сливочный",
+                    "slug": "syr-slivochniy",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "1/4",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "перец болгарский красный",
+                    "slug": "perec-bolgarskiy-krasniy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "салями",
+                    "slug": "salyami",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "грибы",
+                    "slug": "griby",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "горчица",
+                    "slug": "gorchica",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Немного взбить сырые яйца, смешать с растительным маслом. Перемешать вместе сухие дрожжи, соль, сахарный песок, всыпать в яичную смесь. Подогретое молоко разбавить водой и также влить в смесь. Всыпать просеянную пшеничную муку, замесить тесто, оно должно быть мягким по консистенции.",
+            "image": null
+        },
+        {
+            "text": "Выложить в смазанную маслом миску, накрыть полотенцем, дать тесту постоять, оно должно подойти, увеличиться в объеме. Для соуса смешать сметану с майонезом, добавить готовую столовую горчицу, рубленый чеснок, мелко нарезанную свежую петрушку, укроп или базилик. Молотый перец – по вкусу, влить немного лимонного сока и перемешать.",
+            "image": null
+        },
+        {
+            "text": "На застеленный бумагой для выпечки противень выложить раскатанные лепешки для пиццы, их будет четыре штуки. На края положить сыр Моцарелла и завернуть внутрь, придавить. Наколоть коржи вилкой, смазать частью сметанно-майонезного соуса, посыпать тертым сыром.",
+            "image": null
+        },
+        {
+            "text": "На сыр выложить любые продукты для пиццы: репчатый лук, колбасу Салями, грибы, сладкий болгарский перец, помидоры. Посыпать оставшимся тертым сыром и запечь домашнюю пиццу на белом соусе в течение 15 – 18 минут. Вынуть готовую выпечку, нарезать на порции и подать с оставшимся соусом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Тесто домашнее",
+            "slug": "testo-domashnee"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Выпечка с колбасой",
+            "slug": "vypechka-s-kolbasoy"
+        },
+        {
+            "name": "Дрожжевая пицца",
+            "slug": "drojjevaya-picca"
+        },
+        {
+            "name": "Дрожжевое тесто для пиццы",
+            "slug": "drojjevoe-testo-dlya-piccy"
+        },
+        {
+            "name": "Начинки для пиццы",
+            "slug": "nachinki-dlya-piccy"
+        },
+        {
+            "name": "Пицца",
+            "slug": "picca"
+        },
+        {
+            "name": "Пицца в духовке",
+            "slug": "picca-v-duhovke"
+        },
+        {
+            "name": "Пицца с грибами",
+            "slug": "picca-s-gribami"
+        },
+        {
+            "name": "Пицца с грибами и сыром",
+            "slug": "picca-s-gribami-i-syrom"
+        },
+        {
+            "name": "Пицца с колбасой",
+            "slug": "picca-s-kolbasoy"
+        },
+        {
+            "name": "Пицца с колбасой и грибами",
+            "slug": "picca-s-kolbasoy-i-gribami"
+        },
+        {
+            "name": "Пицца с колбасой и сыром",
+            "slug": "picca-s-kolbasoy-i-syrom"
+        },
+        {
+            "name": "Пицца с колбасой, помидорами и сыром",
+            "slug": "picca-s-kolbasoy-pomidorami-i-syrom"
+        },
+        {
+            "name": "Пицца с моцареллой",
+            "slug": "picca-s-mocarelloy"
+        },
+        {
+            "name": "Пицца с помидорами",
+            "slug": "picca-s-pomidorami"
+        },
+        {
+            "name": "Пицца с помидорами и сыром",
+            "slug": "picca-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Пицца с сыром",
+            "slug": "picca-s-syrom"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        }
+    ]
+}

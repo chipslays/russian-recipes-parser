@@ -1,0 +1,176 @@
+{
+    "source": "https://vkuso.ru/recipe/biskvitnyj-rulet-s-brusnichno-tvorozhnym-kremom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Бисквитный рулет с бруснично-творожным кремом",
+    "description": "Брусника – растение-долгожитель. Ягода обладает огромным количеством полезных свойств, может храниться всю зиму без консервации: не плесневеет, не гниет, не прокисает.",
+    "note": "Рулет можно приготовить и с другими лесными ягодами.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e8/637511d666b80e8_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для бисквита",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана жирная",
+                    "slug": "smetana-jirnaya",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "брусника",
+                    "slug": "brusnika",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сырые яйца взбить с сахарным песком, добавить разрыхлитель, просеянную пшеничную муку и взбить вручную или с помощью блендера. Противень застелить бумагой и смазать растительным маслом. Вылить тесто тонким слоем в 3–5 мм, запечь в течение 15 минут при температуре 180 градусов.",
+            "image": null
+        },
+        {
+            "text": "Готовый бисквит перевернуть на влажное кухонное полотенце, бумагу убрать, корж закрутить вместе с тканью в рулет. Остудить. Для приготовления крема смешать творог со сметаной, всыпать сахарный песок, ягоды пареной брусники. Массу взбить с помощью блендера.",
+            "image": null
+        },
+        {
+            "text": "Осторожно раскрутить полотенце с рулетом, ткань убрать, смазать бисквит кремом, закрутить обратно. Готовую выпечку украсить остатками крема, тертым темным шоколадом. Дать бисквитному рулету постоять для пропитывания.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Бисквитный рулет",
+            "slug": "biskvitniy-rulet"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Выпечка с ягодами",
+            "slug": "vypechka-s-yagodami"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Детский праздник",
+            "slug": "detskiy-prazdnik"
+        },
+        {
+            "name": "Новогодняя выпечка",
+            "slug": "novogodnyaya-vypechka"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Рулеты из теста",
+            "slug": "rulety-iz-testa"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

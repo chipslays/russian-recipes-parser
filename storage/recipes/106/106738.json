@@ -1,0 +1,147 @@
+{
+    "source": "https://vkuso.ru/recipe/106738-slivochnyj-tykvennyj-sup-pyure-s-indejkoj/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Сливочный тыквенный суп-пюре с индейкой",
+    "description": "Сытный вариант с мясом птицы.",
+    "note": "Вместо индейки можно взять курицу.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ed/834099a7ea8dfed_660x440.jpeg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час 10 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "филе индейки",
+                    "slug": "file-indeyki",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "базилик сушеный",
+                    "slug": "bazilik-susheniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Тыкву очистить, нашинковать.",
+            "image": null
+        },
+        {
+            "text": "Нарезать очищенные клубни картофеля.",
+            "image": null
+        },
+        {
+            "text": "Отварить кусочки индейки до готовности, мясо вынуть.",
+            "image": null
+        },
+        {
+            "text": "Добавить тыкву, картофель, соль.",
+            "image": null
+        },
+        {
+            "text": "Варить до мягкости, приготовить пюре при помощи блендера.",
+            "image": null
+        },
+        {
+            "text": "Влить сливки, всыпать молотый базилик, размолоть массу блендером еще раз.",
+            "image": null
+        },
+        {
+            "text": "Довести до кипения, огонь погасить.",
+            "image": null
+        },
+        {
+            "text": "Покрошить отваренную индейку, всыпать свежую рубленую зелень.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Крем-суп из тыквы",
+            "slug": "krem-sup-iz-tykvy"
+        },
+        {
+            "name": "Сливочный суп",
+            "slug": "slivochniy-sup"
+        },
+        {
+            "name": "Суп из индейки",
+            "slug": "sup-iz-indeyki"
+        },
+        {
+            "name": "Суп из птицы",
+            "slug": "sup-iz-pticy"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Суп со сливками",
+            "slug": "sup-so-slivkami"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Суп-пюре из тыквы",
+            "slug": "sup-pyure-iz-tykvy"
+        },
+        {
+            "name": "Суп-пюре картофельный",
+            "slug": "sup-pyure-kartofelniy"
+        },
+        {
+            "name": "Тыквенный суп",
+            "slug": "tykvenniy-sup"
+        }
+    ]
+}

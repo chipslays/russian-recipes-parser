@@ -1,0 +1,155 @@
+{
+    "source": "https://vkuso.ru/recipe/shhi-russkie-s-grechkoj-i-govyadinoj/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Щи «Русские» с гречкой и говядиной",
+    "description": null,
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c2/3eb7246e59603c2_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "говядины на кости",
+                    "slug": "govyadiny-na-kosti",
+                    "notes": null,
+                    "value": "700",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "600",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "квашеной капусты",
+                    "slug": "kvashenoy-kapusty",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "гречки",
+                    "slug": "grechki",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "томатной пасты",
+                    "slug": "tomatnoy-pasty",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лавровых листа",
+                    "slug": "lavrovyh-lista",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "3"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Залить мясо холодной водой и поставить варить, дать закипеть и удалить пену.",
+            "image": null
+        },
+        {
+            "text": "Разрезать луковицу вдоль на две половинки, разогреть сухую сковороду и обуглить срез луковицы, положить в бульон и варить час, такая процедура придаст бульону еще больший аромат.",
+            "image": null
+        },
+        {
+            "text": "Посолить бульон и варить еще час, убрать с плиты, мясо вынуть и дать чуть остыть, включить на разогрев духовку до 180 градусов.",
+            "image": null
+        },
+        {
+            "text": "Очистить и порезать кубиками морковь, лук, картофель, обжарить лук с морковью, добавить в конце томатную пасту, перемешать и нагревать еще 2 минуты.",
+            "image": null
+        },
+        {
+            "text": "Вынуть из бульона лук, переложить тушеные овощи в кастрюлю, добавить крупу гречки, нашинкованную капусту, порезанное мясо, заправить перцем, солью, лавровым листом.",
+            "image": null
+        },
+        {
+            "text": "Закрыть плотно вместо крышки фольгой и отправить в горячую духовку, щи «Русские» с гречкой и говядиной будут готовы через полтора часа.",
+            "image": null
+        },
+        {
+            "text": "Разлить щи по подогретым тарелкам и добавить сметану, можно украсить зеленью.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Гречка с мясом",
+            "slug": "grechka-s-myasom"
+        },
+        {
+            "name": "Гречневый суп",
+            "slug": "grechneviy-sup"
+        },
+        {
+            "name": "Капуста с мясом",
+            "slug": "kapusta-s-myasom"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Суп из говядины",
+            "slug": "sup-iz-govyadiny"
+        },
+        {
+            "name": "Суп с капустой",
+            "slug": "sup-s-kapustoy"
+        },
+        {
+            "name": "Щи",
+            "slug": "schi"
+        },
+        {
+            "name": "Щи из квашеной капусты",
+            "slug": "schi-iz-kvashenoy-kapusty"
+        },
+        {
+            "name": "Щи с говядиной",
+            "slug": "schi-s-govyadinoy"
+        }
+    ]
+}

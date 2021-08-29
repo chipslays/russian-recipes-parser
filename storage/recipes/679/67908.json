@@ -1,0 +1,280 @@
+{
+    "source": "https://vkuso.ru/recipe/sloenyj-salat-podsolnux-s-kuricej-i-kukuruzoj/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Слоеный салат «Подсолнух» с курицей и кукурузой",
+    "description": "Сладковатый вариант известного блюда.",
+    "note": "Можно экспериментировать и с другими ингредиентами для украшения: рубленым укропом, петрушкой.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5a/fc6db2497b4495a_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "450",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кукуруза консервированная",
+                    "slug": "kukuruza-konservirovannaya",
+                    "notes": null,
+                    "value": "230",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "маслины",
+                    "slug": "masliny",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для украшения",
+            "list": [
+                {
+                    "name": "маслины",
+                    "slug": "masliny",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "чипсы",
+                    "slug": "chipsy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Репчатый лук и морковь мелко нарезать и спассеровать на растительном масле.",
+            "image": null
+        },
+        {
+            "text": "Отварить куриное филе, нарезать кубиками небольшого размера.",
+            "image": null
+        },
+        {
+            "text": "Свежий огурец нашинковать.",
+            "image": null
+        },
+        {
+            "text": "Отварить и натереть яйца.",
+            "image": null
+        },
+        {
+            "text": "Консервированные маслины разрезать пополам.",
+            "image": null
+        },
+        {
+            "text": "Выложить продукты слоями на тарелку: куриное филе, обжарка, огурцы, яйца, консервированная кукуруза.",
+            "image": null
+        },
+        {
+            "text": "Каждый ингредиент промазать майонезом, соль – по желанию.",
+            "image": null
+        },
+        {
+            "text": "Украсить блюдо маслинами вместо зерен, чипсы выложить в качестве лепестков.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Закуски на день рождения",
+            "slug": "zakuski-na-den-rojdeniya"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат из моркови",
+            "slug": "salat-iz-morkovi"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат Подсолнух",
+            "slug": "salat-podsolnuh"
+        },
+        {
+            "name": "Салат с консервированной кукурузой",
+            "slug": "salat-s-konservirovannoy-kukuruzoy"
+        },
+        {
+            "name": "Салат с куриной грудкой",
+            "slug": "salat-s-kurinoy-grudkoy"
+        },
+        {
+            "name": "Салат с куриным филе",
+            "slug": "salat-s-kurinym-file"
+        },
+        {
+            "name": "Салат с курицей",
+            "slug": "salat-s-kuricey"
+        },
+        {
+            "name": "Салат с курицей и кукурузой",
+            "slug": "salat-s-kuricey-i-kukuruzoy"
+        },
+        {
+            "name": "Салат с курицей и морковью",
+            "slug": "salat-s-kuricey-i-morkovyu"
+        },
+        {
+            "name": "Салат с курицей и овощами",
+            "slug": "salat-s-kuricey-i-ovoschami"
+        },
+        {
+            "name": "Салат с курицей и огурцом",
+            "slug": "salat-s-kuricey-i-ogurcom"
+        },
+        {
+            "name": "Салат с курицей и яйцом",
+            "slug": "salat-s-kuricey-i-yaycom"
+        },
+        {
+            "name": "Салат с курицей, огурцом и яйцом",
+            "slug": "salat-s-kuricey-ogurcom-i-yaycom"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с маслинами",
+            "slug": "salat-s-maslinami"
+        },
+        {
+            "name": "Салат с огурцом и яйцом",
+            "slug": "salat-s-ogurcom-i-yaycom"
+        },
+        {
+            "name": "Салат с оливками",
+            "slug": "salat-s-olivkami"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салат с чипсами",
+            "slug": "salat-s-chipsami"
+        },
+        {
+            "name": "Салат с яйцом и морковью",
+            "slug": "salat-s-yaycom-i-morkovyu"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с кукурузой",
+            "slug": "salaty-s-kukuruzoy"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты с мясом",
+            "slug": "salaty-s-myasom"
+        },
+        {
+            "name": "Слоеные салаты",
+            "slug": "sloenye-salaty"
+        },
+        {
+            "name": "Слоеный салат с курицей",
+            "slug": "sloeniy-salat-s-kuricey"
+        }
+    ]
+}

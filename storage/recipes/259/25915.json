@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/farshirovannye-yajca-s-syrom-parmezan/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Фаршированные яйца с сыром пармезан",
+    "description": "Почти традиционная закуска на нашем праздничном столе. Много вариантов начинки и разные варианты подачи позволяют сделать блюдо индивидуальным.",
+    "note": "Вместо ветчины в начинку можно добавить обжаренный и нарубленный бекон или колбасу, отваренную свиную или куриную печень, положить рубленый чеснок. Яичные «лодочки» выложить на листья зеленого салата, украсить половинками помидоров черри.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/8d/05648816dacb58d_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр пармезан",
+                    "slug": "syr-parmezan",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить яйца вкрутую, разрезать на половинки, вынуть желтки, растереть их с майонезом до однородности. Соль и перец – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Мелко порубить зеленый лук и ветчину, смешать с желтковой массой и тертым сыром пармезан. Выложить в половинки яиц, украсить зеленью петрушки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Блюда из яиц",
+            "slug": "blyuda-iz-yaic"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Закуски для фуршета",
+            "slug": "zakuski-dlya-fursheta"
+        },
+        {
+            "name": "Закуски из яиц",
+            "slug": "zakuski-iz-yaic"
+        },
+        {
+            "name": "Закуски на день рождения",
+            "slug": "zakuski-na-den-rojdeniya"
+        },
+        {
+            "name": "Закуски на скорую руку",
+            "slug": "zakuski-na-skoruyu-ruku"
+        },
+        {
+            "name": "Новогодние закуски",
+            "slug": "novogodnie-zakuski"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Праздничный стол на скорую руку",
+            "slug": "prazdnichniy-stol-na-skoruyu-ruku"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Фаршированные яйца",
+            "slug": "farshirovannye-yayca"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        },
+        {
+            "name": "Яйца с сыром",
+            "slug": "yayca-s-syrom"
+        }
+    ]
+}

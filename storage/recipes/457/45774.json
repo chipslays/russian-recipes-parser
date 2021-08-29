@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/xot-dogi-s-kartofelnoj-solomkoj/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Хот-доги с картофельной соломкой",
+    "description": "Домашняя быстрая еда, перекус, сохраняющий силы. Блюдо для тех, кто очень спешит.",
+    "note": "Закуску можно подать с любым напитком, который способен утолить жажду в жаркий день.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/14/d0c784e02086414_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "10 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/A9NxstV9gSI?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "булочки для хот-догов",
+                    "slug": "bulochki-dlya-hot-dogov",
+                    "notes": " (багет)",
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сосиски",
+                    "slug": "sosiski",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы маринованные",
+                    "slug": "ogurcy-marinovannye",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": " (кетчуп)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "листья салата",
+                    "slug": "listya-salata",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Булочки для хот-дога или багет надрезать вдоль не до конца. Подсушить их на сухой сковородке.",
+            "image": null
+        },
+        {
+            "text": "Картофель очистить и нарезать тонкой соломкой, выложить на сковороду с заранее прогретым растительным маслом. Посолить, поперчить. Обжарить до появления хрустящей румяной корочки.",
+            "image": null
+        },
+        {
+            "text": "На этой же сковороде обжарить сосиски.",
+            "image": null
+        },
+        {
+            "text": "Маринованные огурцы и мясопродукты выложить на листья зеленого салата, начинку поместить в разрез булочки.",
+            "image": null
+        },
+        {
+            "text": "Сверху – слой жареного картофеля и «сеточка» из майонеза.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды на природу",
+            "slug": "buterbrody-na-prirodu"
+        },
+        {
+            "name": "Бутерброды с огурцом",
+            "slug": "buterbrody-s-ogurcom"
+        },
+        {
+            "name": "Домашний фаст фуд",
+            "slug": "domashniy-fast-fud"
+        },
+        {
+            "name": "Хот-дог",
+            "slug": "hot-dog"
+        }
+    ]
+}

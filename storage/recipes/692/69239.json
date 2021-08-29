@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/sous-iz-syra-s-plesenyu-dlya-gurmanov/",
+    "category": "Соусы",
+    "category_slug": "sousy",
+    "title": "Соус из сыра с плесенью для гурманов",
+    "description": "Вариант для настоящих гурманов.",
+    "note": "Соус подать к столу в горячем виде.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/18/994bdd02a745618_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "160",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сыр с плесенью",
+                    "slug": "syr-s-plesenyu",
+                    "notes": null,
+                    "value": "110",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "смесь перцев",
+                    "slug": "smes-percev",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Растопить в сотейнике сливочное масло. Всыпать просеянную муку, массу взбивать венчиком, чтобы избежать образования комочков.",
+            "image": null
+        },
+        {
+            "text": "Когда соус станет светло-коричневым – влить горячее молоко.",
+            "image": null
+        },
+        {
+            "text": "Добавить сыр с голубой плесенью, соль, смесь перцев.",
+            "image": null
+        },
+        {
+            "text": "Прогревать и помешивать заправку до тех пор, пока сыр не растворится полностью.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Соус для макарон",
+            "slug": "sous-dlya-makaron"
+        },
+        {
+            "name": "Соус для пасты",
+            "slug": "sous-dlya-pasty"
+        },
+        {
+            "name": "Соус для спагетти",
+            "slug": "sous-dlya-spagetti"
+        },
+        {
+            "name": "Соус с сыром",
+            "slug": "sous-s-syrom"
+        },
+        {
+            "name": "Сырный соус",
+            "slug": "syrniy-sous"
+        }
+    ]
+}

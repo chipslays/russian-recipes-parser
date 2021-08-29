@@ -1,0 +1,91 @@
+{
+    "source": "https://vkuso.ru/recipe/syrnoe-zavarnoe-pechene-v-shokolade/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Сырное заварное печенье в шоколаде",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/59/50302acc3a2bd59_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "заварного теста",
+                    "slug": "zavarnogo-testa",
+                    "notes": null,
+                    "value": "600",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "твердого сыра",
+                    "slug": "tverdogo-syra",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шоколада",
+                    "slug": "shokolada",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сыр крупно натереть на терке, всыпать в готовое заварное тесто, перемешать.",
+            "image": null
+        },
+        {
+            "text": "В кондитерский мешок выложить тесто, на лист, смазанный маслом, выдавить его тонкими брусками.",
+            "image": null
+        },
+        {
+            "text": "Печь печенье в духовке при 180-200 градусах 15-20 минут.",
+            "image": null
+        },
+        {
+            "text": "Растопить шоколад, полить готовое печенье, дать остыть.",
+            "image": null
+        },
+        {
+            "text": "Когда выпечка остынет, подать сырное заварное печенье в шоколаде к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка с шоколадом",
+            "slug": "vypechka-s-shokoladom"
+        },
+        {
+            "name": "Печенье",
+            "slug": "pechene"
+        },
+        {
+            "name": "Печенье с шоколадом",
+            "slug": "pechene-s-shokoladom"
+        }
+    ]
+}

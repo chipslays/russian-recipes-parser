@@ -1,0 +1,95 @@
+{
+    "source": "https://vkuso.ru/recipe/klubnichnyj-marmelad-na-desert/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Клубничный мармелад на десерт",
+    "description": "Мармелад – сладость из детства. Похожие на осколки стекла разноцветные фигурки можно приготовить дома, самому, без использования кулинарных красителей, исключительно из натуральных продуктов.",
+    "note": "Можно остудить сладость в формочке большого диаметра, а потом нарезать кубиками или другими фигурками, посыпать сахарным песком.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b3/c4f66609902cdb3_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "клубника",
+                    "slug": "klubnika",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "15",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": " (сахарозаменитель)",
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Свежую или замороженную клубнику взбить с помощью блендера в пюре.",
+            "image": null
+        },
+        {
+            "text": "Отдельно в воде замочить желатин на полчаса.",
+            "image": null
+        },
+        {
+            "text": "Ягодное пюре прогреть на огне при постоянном помешивании, добавить по вкусу сахарный песок или сахарозаменитель.",
+            "image": null
+        },
+        {
+            "text": "Влить набухший желатин, перемешать, разлить в формочки. Украсить орешками или фруктами, поставить в холодильник.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерты для детей",
+            "slug": "deserty-dlya-detey"
+        },
+        {
+            "name": "Десерты с желатином",
+            "slug": "deserty-s-jelatinom"
+        },
+        {
+            "name": "Десерты с клубникой",
+            "slug": "deserty-s-klubnikoy"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Мармелад",
+            "slug": "marmelad"
+        }
+    ]
+}

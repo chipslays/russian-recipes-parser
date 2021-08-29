@@ -1,0 +1,107 @@
+{
+    "source": "https://vkuso.ru/recipe/kalya-iz-govyazhix-pochek/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Калья из говяжьих почек",
+    "description": null,
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/16/725e5401e3cc416_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "говяжьих почек",
+                    "slug": "govyajih-pochek",
+                    "notes": null,
+                    "value": "800",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "луковицы",
+                    "slug": "lukovicy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "соленых огурца",
+                    "slug": "solenyh-ogurca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1-2"
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Говяжьи почки вымыть, убрать сало и все лишнее, нарезать ломтиками.",
+            "image": null
+        },
+        {
+            "text": "Мелко порезать очищенный лук и огурцы.",
+            "image": null
+        },
+        {
+            "text": "В кастрюлю с водой сложить почки, отварить до полуготовности, затем добавить огурцы, лук, соль, перец и варить до полной готовности.",
+            "image": null
+        },
+        {
+            "text": "Подается калья из говяжьих почек заправленная сметаной.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетический суп",
+            "slug": "dieticheskiy-sup"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп для похудения",
+            "slug": "sup-dlya-pohudeniya"
+        },
+        {
+            "name": "Суп из говядины",
+            "slug": "sup-iz-govyadiny"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        }
+    ]
+}

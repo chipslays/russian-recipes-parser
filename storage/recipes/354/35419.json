@@ -1,0 +1,334 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnij-tort-snikers-s-orexovoj-nugoj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Домашний торт «Сникерс» с ореховой нугой",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/69/cb117c14ef43269_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "7",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "3/4",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "3/4",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для бисквита",
+            "list": [
+                {
+                    "name": "арахис жареный",
+                    "slug": "arahis-jareniy",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар ванильный",
+                    "slug": "sahar-vanilniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пакетик",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для ореховой нуги",
+            "list": [
+                {
+                    "name": "молоко сгущенное вареное",
+                    "slug": "moloko-sguschennoe-varenoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "арахис жареный",
+                    "slug": "arahis-jareniy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для крема",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "арахис",
+                    "slug": "arahis",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "какао",
+                    "slug": "kakao",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить ореховую нугу. Измельчить в блендере орехи и добавить к нуге. Подготовить пергамент, намазать сливочным маслом, постелить на разъемную формочку или формовочное кольцо по размеру тортика. Поставить нугу в морозилку часов на шесть, а желательно на ночь.",
+            "image": null
+        },
+        {
+            "text": "Сделать бисквит: отделить белки от желтков. Взбить желтки, сахар, масло и воду. Насыпать разрыхлитель, муку, какао, соль. Взбить белки до пиков. Постепенно подмешать белки к мучной массе до однородности. Намазать разъемную формочку сливочным маслом, положить тесто, отправить минут на пятьдесят в духовку, соблюдая температуру 180 градусов. Охладить бисквит, достать из формочки, разрезать на четыре одинаковые части.",
+            "image": null
+        },
+        {
+            "text": "Приготовить крем: взбить сливочное масло и сахарную пудру добела. Постепенно добавить вареную сгущенку, взбивать. Положить в крем жареные орехи, размешать.",
+            "image": null
+        },
+        {
+            "text": "Положить первый корж, намазать половиной орехового крема. Положить на крем второй корж, на него положить корж ореховой нуги. На него положить еще бисквит. Сверху намазать остальным кремом, накрыть  коржом.",
+            "image": null
+        },
+        {
+            "text": "Приготовить глазурь: растопить сливочное масло. Насыпать сахар и какао. Когда растворится сахар, положить сметану, размешать. Добавить орехи, покрыть глазурью торт, поставить торт «Сникерс» с ореховой нугой в холодильник минут на сорок.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Выпечка с медом",
+            "slug": "vypechka-s-medom"
+        },
+        {
+            "name": "Выпечка со сгущенкой",
+            "slug": "vypechka-so-sguschenkoy"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Красивый торт",
+            "slug": "krasiviy-tort"
+        },
+        {
+            "name": "Медовый торт",
+            "slug": "medoviy-tort"
+        },
+        {
+            "name": "Новогодний торт",
+            "slug": "novogodniy-tort"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Ореховый торт",
+            "slug": "orehoviy-tort"
+        },
+        {
+            "name": "Праздничные торты",
+            "slug": "prazdnichnye-torty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождественский торт",
+            "slug": "rojdestvenskiy-tort"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Торт на 14 февраля",
+            "slug": "tort-na-14-fevralya"
+        },
+        {
+            "name": "Торт на день рождения",
+            "slug": "tort-na-den-rojdeniya"
+        },
+        {
+            "name": "Торт с вареной сгущенкой",
+            "slug": "tort-s-varenoy-sguschenkoy"
+        },
+        {
+            "name": "Торт Сникерс",
+            "slug": "tort-snikers"
+        },
+        {
+            "name": "Торт со сгущенкой",
+            "slug": "tort-so-sguschenkoy"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

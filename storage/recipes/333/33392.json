@@ -1,0 +1,91 @@
+{
+    "source": "https://vkuso.ru/recipe/legkij-bananovyj-puding-v-parovarke/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Легкий банановый пудинг в пароварке",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/72/343e90a1c424272_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бананы",
+                    "slug": "banany",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "манная крупа",
+                    "slug": "mannaya-krupa",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Перемешать яйца с молоком, можно для простоты использовать блендер, всыпать манку, все вместе еще раз очень хорошо взбить.",
+            "image": null
+        },
+        {
+            "text": "Форму обложить кружочками банана, залить полученной смесью, установить в пароварку. готовить минут 40. Достать готовый банановый пудинг, остудить, порезать на порции и подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерт из бананов",
+            "slug": "desert-iz-bananov"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Манный пудинг",
+            "slug": "manniy-puding"
+        },
+        {
+            "name": "Пароварка",
+            "slug": "parovarka"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Пудинг",
+            "slug": "puding"
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "source": "https://vkuso.ru/recipe/krem-sup-so-shpinatom-i-syrom-filadelfiya/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Крем-суп со шпинатом и сыром филадельфия",
+    "description": "Оригинальное сочетание ингредиентов, для приготовления блюда понадобится сыр «Филадельфия».",
+    "note": "Суп украсить свежими листочками базилика.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b9/f802621341f2eb9_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бульон куриный",
+                    "slug": "bulon-kuriniy",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "шпинат",
+                    "slug": "shpinat",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сыр филадельфия",
+                    "slug": "syr-filadelfiya",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "цукини",
+                    "slug": "cukini",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "авокадо",
+                    "slug": "avokado",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "базилик",
+                    "slug": "bazilik",
+                    "notes": " (синий)",
+                    "value": "3",
+                    "type": "веточки",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "базилик сушеный",
+                    "slug": "bazilik-susheniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Прогреть сотейник, обжарить на оливковом масле мелко накрошенный кабачок цуккини, репчатый лук.",
+            "image": null
+        },
+        {
+            "text": "Добавить куриный бульон.",
+            "image": null
+        },
+        {
+            "text": "Положить шпинат, все вместе варить пять минут.",
+            "image": null
+        },
+        {
+            "text": "С помощью блендера сделать пюре.",
+            "image": null
+        },
+        {
+            "text": "Влить сливки и всыпать сухой базилик, перец, соль, нарезанный кусочками плод авокадо.",
+            "image": null
+        },
+        {
+            "text": "Суп разлить в тарелки.",
+            "image": null
+        },
+        {
+            "text": "Добавить сыр «Филадельфия», выложить его чайной ложкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Крем-суп",
+            "slug": "krem-sup"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Сливочный суп",
+            "slug": "slivochniy-sup"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из кабачков",
+            "slug": "sup-iz-kabachkov"
+        },
+        {
+            "name": "Суп из шпината",
+            "slug": "sup-iz-shpinata"
+        },
+        {
+            "name": "Суп со сливками",
+            "slug": "sup-so-slivkami"
+        },
+        {
+            "name": "супы",
+            "slug": "supy"
+        },
+        {
+            "name": "Сырный крем-суп",
+            "slug": "syrniy-krem-sup"
+        },
+        {
+            "name": "Сырный суп",
+            "slug": "syrniy-sup"
+        }
+    ]
+}

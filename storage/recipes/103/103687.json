@@ -1,0 +1,87 @@
+{
+    "source": "https://vkuso.ru/recipe/103687-ovsyanoe-moloko-iz-smesi-xlopev/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Овсяное молоко из смеси хлопьев",
+    "description": "Смесь хлопьев из пяти злаков можно купить в любом магазине.",
+    "note": "В напиток можно добавить корицу, мед, какао-порошок, ванилин.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/1f/e7a7b6d421c581f_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "700",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "хлопья 5 злаков",
+                    "slug": "hlopya-5-zlakov",
+                    "notes": null,
+                    "value": "15",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В емкость всыпать хлопья, залить водой, подождать до набухания.",
+            "image": null
+        },
+        {
+            "text": "Воду слить, массу отправить в миксер, долить кипяченую воду, взбить в течение минуты.",
+            "image": null
+        },
+        {
+            "text": "Состав отцедить.",
+            "image": null
+        },
+        {
+            "text": "Молоко взбить в миксере еще раз, процедить.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Низкокалорийные",
+            "slug": "nizkokaloriynye"
+        },
+        {
+            "name": "Овсяное молоко домашнее",
+            "slug": "ovsyanoe-moloko-domashnee"
+        },
+        {
+            "name": "ПП рецепты на каждый день",
+            "slug": "pp-recepty-na-kajdiy-den"
+        },
+        {
+            "name": "Специальное питание",
+            "slug": "specialnoe-pitanie"
+        }
+    ]
+}

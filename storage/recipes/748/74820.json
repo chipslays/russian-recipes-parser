@@ -1,0 +1,171 @@
+{
+    "source": "https://vkuso.ru/recipe/echpochmak-s-kuricej-v-lyubom-teste/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Эчпочмак с курицей в любом тесте",
+    "description": "Для приготовления пирожков вполне можно использовать куриное мясо. Лучший вариант – грудка или другие части тушки, где мало костей.",
+    "note": "Для приготовления пирожков можно использовать слоеное, песочное или дрожжевое тесто.",
+    "cuisine": "Татарская кухня",
+    "cuisine_slug": "tatarskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/31/1242125dccc8a31_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "тесто",
+                    "slug": "testo",
+                    "notes": " (любое)",
+                    "value": "600",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "бульон мясной",
+                    "slug": "bulon-myasnoy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Картофель очистить, нарезать кубиками.",
+            "image": null
+        },
+        {
+            "text": "Покрошить репчатый лук.",
+            "image": null
+        },
+        {
+            "text": "Вымыть куриное филе, нарезать кусочками по одному сантиметру.",
+            "image": null
+        },
+        {
+            "text": "Ингредиенты перемешать, поперчить и посолить.",
+            "image": null
+        },
+        {
+            "text": "Раскатать лепешки из теста, положить начинку, слепить треугольные пирожки.",
+            "image": null
+        },
+        {
+            "text": "Оставить отверстие для бульона.",
+            "image": null
+        },
+        {
+            "text": "Прогреть духовой шкаф до двухсот градусов.",
+            "image": null
+        },
+        {
+            "text": "Поставить пирожки для выпекания, через десять минут температуру уменьшить до 160 градусов.",
+            "image": null
+        },
+        {
+            "text": "Печь еще 10 минут, влить бульон в каждый пирожок.",
+            "image": null
+        },
+        {
+            "text": "Допечь изделия до полной готовности.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки без дрожжей",
+            "slug": "pirojki-bez-drojjey"
+        },
+        {
+            "name": "Пирожки в духовке",
+            "slug": "pirojki-v-duhovke"
+        },
+        {
+            "name": "Пирожки с картошкой",
+            "slug": "pirojki-s-kartoshkoy"
+        },
+        {
+            "name": "Пирожки с курицей",
+            "slug": "pirojki-s-kuricey"
+        },
+        {
+            "name": "Татарская выпечка",
+            "slug": "tatarskaya-vypechka"
+        },
+        {
+            "name": "Татарские пирожки",
+            "slug": "tatarskie-pirojki"
+        },
+        {
+            "name": "Эчпочмак",
+            "slug": "echpochmak"
+        }
+    ]
+}

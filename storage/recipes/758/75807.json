@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/klubnichno-vishnevyj-pirog-v-multivarke/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Клубнично-вишневый пирог в мультиварке",
+    "description": "Такой пирог часто ассоциируется с семейным застольем на Рождество.",
+    "note": "Готовый пирог посыпать сахарной пудрой.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/36/9e7306b44599236_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/rkX83Kj7Gj0?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "клубника",
+                    "slug": "klubnika",
+                    "notes": " (клубника замороженная)",
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вишня без косточек",
+                    "slug": "vishnya-bez-kostochek",
+                    "notes": " (вишня замороженная)",
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ванилин",
+                    "slug": "vanilin",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пакетик",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Взбить в глубокой емкости сахар и яйца. Лучше использовать блендер или миксер.",
+            "image": null
+        },
+        {
+            "text": "Всыпать пищевую соду и ванилин, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Муку добавить небольшими порциями.",
+            "image": null
+        },
+        {
+            "text": "Смазать форму кусочком сливочного масла, вылить тесто.",
+            "image": null
+        },
+        {
+            "text": "Свежие или размороженные ягоды вишни и клубники разложить поверх теста.",
+            "image": null
+        },
+        {
+            "text": "Емкость закрыть крышкой. Выставить режим «Выпечка» на час.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Бисквит в мультиварке",
+            "slug": "biskvit-v-multivarke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка в мультиварке",
+            "slug": "vypechka-v-multivarke"
+        },
+        {
+            "name": "Выпечка с вишней",
+            "slug": "vypechka-s-vishney"
+        },
+        {
+            "name": "Выпечка с клубникой",
+            "slug": "vypechka-s-klubnikoy"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в мультиварке",
+            "slug": "pirogi-v-multivarke"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Шарлотка",
+            "slug": "sharlotka"
+        },
+        {
+            "name": "Шарлотка без яблок",
+            "slug": "sharlotka-bez-yablok"
+        },
+        {
+            "name": "Шарлотка в мультиварке",
+            "slug": "sharlotka-v-multivarke"
+        },
+        {
+            "name": "Шарлотка с вишней",
+            "slug": "sharlotka-s-vishney"
+        },
+        {
+            "name": "Шарлотка с клубникой",
+            "slug": "sharlotka-s-klubnikoy"
+        }
+    ]
+}

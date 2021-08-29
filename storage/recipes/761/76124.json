@@ -1,0 +1,203 @@
+{
+    "source": "https://vkuso.ru/recipe/76124-chebureki-iz-kabachkov-s-myasnym-farshem-i-syrom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Чебуреки из кабачков с мясным фаршем и сыром",
+    "description": "Так вкусно, что не успеваю готовить! Просто идеальный ужин!Когда я впервые приготовила это блюдо \"Кабачковые чебуреки\" все были в восторге. Такое интересное и вкусное оно получается, что я теперь часто готовлю так. Расплавленный сыр и фарш внутри сочный и нежный, а кабачок придает потрясающий сладковатый вкус. В общем, это блюдо точно стоит приготовить.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/30/ec7cef5bb594a30_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/y3eZCWmizUY?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 3 порции",
+            "list": [
+                {
+                    "name": "мясной фарш",
+                    "slug": "myasnoy-farsh",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "110",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кабачки молодые",
+                    "slug": "kabachki-molodye",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Кабачки трем на мелкой терке, солим.",
+            "image": null
+        },
+        {
+            "text": "Лук мелко режем и тушим на сковороде с растительным маслом.",
+            "image": null
+        },
+        {
+            "text": "Выкладываем фарш, солим, перчим. Обжариваем до готовности.",
+            "image": null
+        },
+        {
+            "text": "Сок с кабачков - отжать. К кабачкам добавляем яйца, мелко порубленный чеснок, сметану, муку. Все перемешать.",
+            "image": null
+        },
+        {
+            "text": "На разогретую сковороду наливаем немного растительного масла и выкладываем немного теста. Разровнять. Выпекать 5 минут на слабом огне.",
+            "image": null
+        },
+        {
+            "text": "На половинку блина выкладываем фарш, сверху сыр (натертый на мелкой терке). Завернем другую сторону, обжарим до расплавления сыра. \r\nПриятного аппетита.",
+            "image": "https://vkuso.ru/data/cache/data/c9/b2d47e7e3a149c9_434x295_notrise.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Детский праздник",
+            "slug": "detskiy-prazdnik"
+        },
+        {
+            "name": "Жареные блюда",
+            "slug": "jarenye-blyuda"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Масленица",
+            "slug": "maslenica"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Пасха",
+            "slug": "pasha"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Свадьба",
+            "slug": "svadba"
+        },
+        {
+            "name": "Сковорода",
+            "slug": "skovoroda"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        },
+        {
+            "name": "Хэллоуин",
+            "slug": "hellouin"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

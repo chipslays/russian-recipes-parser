@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnij-burger-sytyj-dzho/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Домашний бургер «Сытый Джо»",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/bf/bef4c635dfe71bf_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "котлета для бургера",
+                    "slug": "kotleta-dlya-burgera",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "булочки",
+                    "slug": "bulochki",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук красный",
+                    "slug": "luk-krasniy",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "соус сырный",
+                    "slug": "sous-syrniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "кетчуп",
+                    "slug": "ketchup",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "листья салата",
+                    "slug": "listya-salata",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нагреть сковороду, обжарить до золотистой корочки булочку. Нижнюю часть промазать соусом Хайнц с сыром, а верхнюю – острым соусом.",
+            "image": null
+        },
+        {
+            "text": "На сырный соус положить зеленый листик салата вместе с тоненькими кружочками лука и помидоров. Теперь положить основной ингредиент – котлету из говяже-свиного фарша.",
+            "image": null
+        },
+        {
+            "text": "Для любителей острого посыпать перцем, накрыть пластинкой сыра и обжаренным яйцом (желток должен оставаться жидким). Завершить сборку бургера «Сытый Джо» булочкой, покрытой острым кетчупом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бургер",
+            "slug": "burger"
+        },
+        {
+            "name": "Гамбургер",
+            "slug": "gamburger"
+        },
+        {
+            "name": "Домашний фаст фуд",
+            "slug": "domashniy-fast-fud"
+        },
+        {
+            "name": "Мясо с сыром",
+            "slug": "myaso-s-syrom"
+        }
+    ]
+}

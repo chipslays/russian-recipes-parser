@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/okroshka-s-kolbasoj-na-kvase-klassicheskaya/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Окрошка с колбасой на квасе классическая",
+    "description": null,
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f2/a28e188d068c4f2_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кваса / воды",
+                    "slug": "kvasa-vody",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "вареной колбасы / мяса",
+                    "slug": "varenoy-kolbasy-myasa",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "зелёного лука",
+                    "slug": "zelenogo-luka",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "петрушки",
+                    "slug": "petrushki",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "укропа",
+                    "slug": "ukropa",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "редисок",
+                    "slug": "redisok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "10"
+                },
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "7",
+                    "type": "клубней",
+                    "amount": null
+                },
+                {
+                    "name": "яиц",
+                    "slug": "yaic",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "5"
+                },
+                {
+                    "name": "огурца",
+                    "slug": "ogurca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "4"
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сварить яйца и картофель, дать остыть, очистить, желтки порубить, картофель и белки нарезать на кубики.",
+            "image": null
+        },
+        {
+            "text": "Нашинковать редис кружочками, зелень порубить, колбасу и огурцы нарезать на кубики, огурцы также можно натереть на терке. Зеленый лук немного примять для появления сока. Все переложить в глубокую миску, посолить, аккуратно перемешать.",
+            "image": null
+        },
+        {
+            "text": "Разложить по тарелкам, залить хорошо охлажденным квасом, подавать окрошку с колбасой на квасе классическую со сметаной и измельченной зеленью. Вместо кваса можно использовать воду с лимонной кислотой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Классические рецепты",
+            "slug": "klassicheskie-recepty"
+        },
+        {
+            "name": "Классические супы",
+            "slug": "klassicheskie-supy"
+        },
+        {
+            "name": "Окрошка",
+            "slug": "okroshka"
+        },
+        {
+            "name": "Окрошка классическая",
+            "slug": "okroshka-klassicheskaya"
+        },
+        {
+            "name": "Окрошка на квасе",
+            "slug": "okroshka-na-kvase"
+        },
+        {
+            "name": "Суп с колбасой",
+            "slug": "sup-s-kolbasoy"
+        },
+        {
+            "name": "Холодные супы",
+            "slug": "holodnye-supy"
+        }
+    ]
+}

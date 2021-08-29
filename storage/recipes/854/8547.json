@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnee-pechene-na-kefire-s-varenem/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Домашнее печенье на кефире с вареньем",
+    "description": null,
+    "note": "Перед замешиванием теста сливочное масло, яйцо и кефир необходимо предварительно охладить.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d5/098d25cd80664d5_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "480",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1/3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "2/3",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "ванилин",
+                    "slug": "vanilin",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "варенье",
+                    "slug": "varene",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В просеянную муку всыпать соду, сахар, ванилин, добавить размягченное масло, порубить до образования  маслянистой крошки, влить охлажденный кефир и добавить желток яйца, замесить тесто, которое чуть-чуть будет липнуть к рукам, положить его на час в морозильную камеру холодильника.",
+            "image": null
+        },
+        {
+            "text": "Достать тесто, разделить на две равные части, одну раскатать, переложить на подготовленный противень. Смазать пласт любым густым вареньем, сгущенкой или джемом, прикрыть начинку вторым раскатанным пластом. Верх помазать слегка разболтанным белком или молоком.",
+            "image": null
+        },
+        {
+            "text": "Выпекать домашнее печенье на кефире с вареньем около получаса при температуре 180 градусов. Дать чуть остыть, разрезать на ромбы или квадраты, присыпать сахарной пудрой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка на кефире",
+            "slug": "vypechka-na-kefire"
+        },
+        {
+            "name": "Выпечка с вареньем",
+            "slug": "vypechka-s-varenem"
+        },
+        {
+            "name": "Печенье",
+            "slug": "pechene"
+        },
+        {
+            "name": "Печенье на кефире",
+            "slug": "pechene-na-kefire"
+        },
+        {
+            "name": "Печенье с вареньем",
+            "slug": "pechene-s-varenem"
+        }
+    ]
+}

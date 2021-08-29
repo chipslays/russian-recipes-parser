@@ -1,0 +1,163 @@
+{
+    "source": "https://vkuso.ru/recipe/kurinyj-krem-sup-s-kopchenoj-kosichkoj/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Куриный крем-суп с копченой косичкой",
+    "description": "Копчености меняют вкус блюда. Рецепт предлагает два варианта: либо использовать копченый сыр, либо обычный, но в паре с копченым окороком.",
+    "note": "Часть мяса можно не измельчать и добавить в тарелки перед подачей на стол.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/8f/49e6cf90e2e598f_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бульон куриный",
+                    "slug": "bulon-kuriniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр копченый",
+                    "slug": "syr-kopcheniy",
+                    "notes": " (косичка)",
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки 10%",
+                    "slug": "slivki-10",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук-порей",
+                    "slug": "luk-porey",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стебля",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Куриное филе промыть, положить в воду, варить на сильном огне.",
+            "image": null
+        },
+        {
+            "text": "После закипания огонь убавить, накрыть крышкой, оставить щель. Варить еще полчаса.",
+            "image": null
+        },
+        {
+            "text": "Добавить лук-порей, морковь, любые специи.",
+            "image": null
+        },
+        {
+            "text": "Если для приготовления используется целая куриная тушка, то на варку бульона понадобится два часа.",
+            "image": null
+        },
+        {
+            "text": "Отварить в готовом бульоне картофель.",
+            "image": null
+        },
+        {
+            "text": "На сливочном масле спассеровать лук-порей, куриное мясо.",
+            "image": null
+        },
+        {
+            "text": "Обжарку добавить в картофель, взбить массу блендером.",
+            "image": null
+        },
+        {
+            "text": "Подлить сливки, суп довести до кипения.",
+            "image": null
+        },
+        {
+            "text": "Блюдо подать с рубленой зеленью, белыми гренками, тертым копченым сыром-косичкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Крем-суп",
+            "slug": "krem-sup"
+        },
+        {
+            "name": "Куриный суп",
+            "slug": "kuriniy-sup"
+        },
+        {
+            "name": "Куриный суп-пюре",
+            "slug": "kuriniy-sup-pyure"
+        },
+        {
+            "name": "Сливочный суп",
+            "slug": "slivochniy-sup"
+        },
+        {
+            "name": "Суп из птицы",
+            "slug": "sup-iz-pticy"
+        },
+        {
+            "name": "Суп со сливками",
+            "slug": "sup-so-slivkami"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Сырный крем-суп",
+            "slug": "syrniy-krem-sup"
+        },
+        {
+            "name": "Сырный суп-пюре",
+            "slug": "syrniy-sup-pyure"
+        }
+    ]
+}

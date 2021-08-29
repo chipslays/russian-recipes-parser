@@ -1,0 +1,183 @@
+{
+    "source": "https://vkuso.ru/recipe/109367-salat-baxar-so-smetanoj/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Бахар» со сметаной",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b7/fe2d03c32e280b7_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "редис",
+                    "slug": "redis",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "зелень петрушки",
+                    "slug": "zelen-petrushki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "кинза",
+                    "slug": "kinza",
+                    "notes": " (кориандр)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень укропа",
+                    "slug": "zelen-ukropa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить картофель в кожуре, подождать, пока остынет, почистить, порезать на кружочки.",
+            "image": null
+        },
+        {
+            "text": "Сложить в плошку слоями картофель, порезанные огурчики, помидоры, редиску, посолить, поперчить, залить сметанкой.",
+            "image": null
+        },
+        {
+            "text": "Положить сверху отваренные яйца, порезанные на дольки, посыпать салат «Бахар» со сметаной измельченной зеленью.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Летние салаты",
+            "slug": "letnie-salaty"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат из помидоров",
+            "slug": "salat-iz-pomidorov"
+        },
+        {
+            "name": "Салат из редиски",
+            "slug": "salat-iz-rediski"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с картофелем",
+            "slug": "salat-s-kartofelem"
+        },
+        {
+            "name": "Салат с огурцом и яйцом",
+            "slug": "salat-s-ogurcom-i-yaycom"
+        },
+        {
+            "name": "Салат с помидорами и яйцами",
+            "slug": "salat-s-pomidorami-i-yaycami"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты из огурцов",
+            "slug": "salaty-iz-ogurcov"
+        },
+        {
+            "name": "Салаты из огурцов и помидоров",
+            "slug": "salaty-iz-ogurcov-i-pomidorov"
+        },
+        {
+            "name": "Салаты к шашлыку",
+            "slug": "salaty-k-shashlyku"
+        },
+        {
+            "name": "Салаты со сметаной",
+            "slug": "salaty-so-smetanoy"
+        }
+    ]
+}

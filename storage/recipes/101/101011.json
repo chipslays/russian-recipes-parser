@@ -1,0 +1,155 @@
+{
+    "source": "https://vkuso.ru/recipe/101011-miso-sup-s-risom-lososem-i-tuncom/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Мисо-суп с рисом, лососем и тунцом",
+    "description": "Отличное дополнение для ужина в японском стиле.",
+    "note": "Сверху суп можно присыпать кунжутом и добавить имбирь.",
+    "cuisine": "Японская кухня",
+    "cuisine_slug": "yaponskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/11/7534d3774754011_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час 30 минут",
+    "preparetime": "12 часов",
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "филе лосося",
+                    "slug": "file-lososya",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "водоросли нори",
+                    "slug": "vodorosli-nori",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пластинка",
+                    "amount": null
+                },
+                {
+                    "name": "соус соевый",
+                    "slug": "sous-soeviy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "тунец",
+                    "slug": "tunec",
+                    "notes": " (сушенный)",
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "кунжут",
+                    "slug": "kunjut",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мисо-паста",
+                    "slug": "miso-pasta",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "имбирь",
+                    "slug": "imbir",
+                    "notes": null,
+                    "value": "15",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Порезать лосось на кусочки, посолить, оставить на двенадцать часов.",
+            "image": null
+        },
+        {
+            "text": "Промыть рыбу и обжарить на гриле.",
+            "image": null
+        },
+        {
+            "text": "Отварить рис, смешать с лососем.",
+            "image": null
+        },
+        {
+            "text": "Нори нарезать мелкими кусочками, залить водой и довести до кипения.",
+            "image": null
+        },
+        {
+            "text": "Вмешать соевый соус, мисо-пасту, сушеный тунец.",
+            "image": null
+        },
+        {
+            "text": "Довести бульон до кипения еще раз, влить его в рис с лососем.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Мисо суп",
+            "slug": "miso-sup"
+        },
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Рыбный суп",
+            "slug": "rybniy-sup"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из лосося",
+            "slug": "sup-iz-lososya"
+        },
+        {
+            "name": "Суп с имбирем",
+            "slug": "sup-s-imbirem"
+        },
+        {
+            "name": "Супы с крупами",
+            "slug": "supy-s-krupami"
+        }
+    ]
+}

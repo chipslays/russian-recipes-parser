@@ -1,0 +1,175 @@
+{
+    "source": "https://vkuso.ru/recipe/103954-lukovyj-sup-s-belym-vinom-i-syrnymi-tostami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Луковый суп с белым вином и сырными тостами",
+    "description": "Упрощенный рецепт знаменитого французского лукового супа. Блюдо сытное, ароматное, с приятной луковой ноткой.",
+    "note": null,
+    "cuisine": "Французская кухня",
+    "cuisine_slug": "francuzskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/2b/5756024c5b7412b_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час 10 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "бульон куриный",
+                    "slug": "bulon-kuriniy",
+                    "notes": " (или говяжий)",
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вино белое сухое",
+                    "slug": "vino-beloe-suhoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука пшеничная",
+                    "slug": "muka-pshenichnaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "батон французский",
+                    "slug": "baton-francuzskiy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр эмменталь",
+                    "slug": "syr-emmental",
+                    "notes": " (тертый)",
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "тимьян сушеный",
+                    "slug": "timyan-susheniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Луковицы очистите и тонко нашинкуйте. Растопите масло на сковороде, добавьте лук и тушите до полного размягчения 15-20 минут. Добавьте сахар и муку, готовьте 3 минуты при помешивании.",
+            "image": null
+        },
+        {
+            "text": "Переложите лук в кастрюлю. Добавьте вино, бульон, соль и тимьян. Варите суп на умеренном огне под крышкой около 20 минут. Батон порежьте ломтиками, выложите на противень и запеките в разогретой до 200оС духовке до золотистого цвета.",
+            "image": null
+        },
+        {
+            "text": "Суп разлейте по огнеупорным горшочкам. Сверху положите ломтик хлеба, посыпьте сыром и поставьте в духовку, пока сыр не расплавится. Сразу же подайте к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В горшочках",
+            "slug": "v-gorshochkah"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Луковый суп",
+            "slug": "lukoviy-sup"
+        },
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп в горшочках",
+            "slug": "sup-v-gorshochkah"
+        },
+        {
+            "name": "Суп на говяжьем бульоне",
+            "slug": "sup-na-govyajem-bulone"
+        },
+        {
+            "name": "Суп на курином бульоне",
+            "slug": "sup-na-kurinom-bulone"
+        },
+        {
+            "name": "Суп на мясном бульоне",
+            "slug": "sup-na-myasnom-bulone"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Сырный суп",
+            "slug": "syrniy-sup"
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "source": "https://vkuso.ru/recipe/keks-s-krasnoj-ryboj-i-syrom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Кекс с красной рыбой и сыром",
+    "description": "Высота готового кекса должна получиться около 7-8 сантиметров и диаметр у основания – 19 сантиметров.",
+    "note": null,
+    "cuisine": "Европейская кухня",
+    "cuisine_slug": "evropeyskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/69/0def7cc3646be69_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "рыба слабосоленая",
+                    "slug": "ryba-slabosolenaya",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "крабовые палочки",
+                    "slug": "krabovye-palochki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "упаковка",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "4-5",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для крема",
+            "list": [
+                {
+                    "name": "сыр филадельфия",
+                    "slug": "syr-filadelfiya",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "8",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для украшения",
+            "list": [
+                {
+                    "name": "икра красная",
+                    "slug": "ikra-krasnaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Натереть по отдельности крабовые палочки, желтки и белки на терке (лучше мелкой). Подготовленную форму застелить пленкой. Рыбу необходимо нарезать небольшими полосками и выложить ею дно и стенки формы.",
+            "image": null
+        },
+        {
+            "text": "Крем: желатин намочить в воде (полстакана), дождаться, когда он разбухнет и растопить его на водяной бане, оставить остывать. Перемешать до однородной массы майонез, сметану и сыр. В эту смесь, непрерывно помешивая, влить желатин. Консистенцией крем должен быть, как густая сметана.",
+            "image": null
+        },
+        {
+            "text": "Укладывать слоями: крем, тертые желтки, крем, крабовые палочки, крем, тертые белки, крем, рис и крем. Отправить готовый кекс в холодильник на ночь. Достать из холодильника, накрыть плоской тарелкой и перевернуть кекс с красной рыбой и сыром на нее. Украсить красной икрой и зеленью.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Закуски из рыбы",
+            "slug": "zakuski-iz-ryby"
+        },
+        {
+            "name": "Закуски на день рождения",
+            "slug": "zakuski-na-den-rojdeniya"
+        },
+        {
+            "name": "Заливное",
+            "slug": "zalivnoe"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рыбные муссы",
+            "slug": "rybnye-mussy"
+        }
+    ]
+}

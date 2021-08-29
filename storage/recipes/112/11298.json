@@ -1,0 +1,132 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnij-pirog-s-lajmom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Домашний пирог с лаймом",
+    "description": "Полезный продукт, который способен успокаивать нервную систему, улучшать настроение и повышать иммунитет. Не закупайте лайм впрок – он легко портится и теряет при хранении аскорбиновую кислоту.",
+    "note": "При подаче пирог можно украсить взбитыми сливками и тонкими ломтиками свежего лайма, листочками мяты.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b7/eadb5317348d8b7_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "печенье",
+                    "slug": "pechene",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "35",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для основы",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лайм",
+                    "slug": "laym",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко сгущенное",
+                    "slug": "moloko-sguschennoe",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "банки",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для основы измельчить в крошку готовое печенье, удобнее это делать в полиэтиленовом пакете. Растопить сливочное масло с медом, все ингредиенты перемешать. Массу переложить в смазанную форму для выпечки, сформовать высокий бортик.",
+            "image": null
+        },
+        {
+            "text": "Для начинки: выжать сок из лаймов. Отдельно взбить яйцо и белок, влить сок и сгущенку. Смесь хорошо перемешать и вылить в форму. Печь в течение 25 – 30 минут при температуре 170 градусов. Середина пирога должна остаться мягкой. Готовый пирог с лаймом остудить и оставить в холодильнике на ночь.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка с медом",
+            "slug": "vypechka-s-medom"
+        },
+        {
+            "name": "Выпечка со сгущенкой",
+            "slug": "vypechka-so-sguschenkoy"
+        },
+        {
+            "name": "Медовый пирог",
+            "slug": "medoviy-pirog"
+        },
+        {
+            "name": "Открытый пирог",
+            "slug": "otkrytiy-pirog"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог со сгущенкой",
+            "slug": "pirog-so-sguschenkoy"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги с начинкой",
+            "slug": "pirogi-s-nachinkoy"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        }
+    ]
+}

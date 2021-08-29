@@ -1,0 +1,191 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-olive-s-varenoj-i-kopchenoj-kolbasoj/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат Оливье с вареной и копченой колбасой",
+    "description": "Доступный вариант: копченую колбасу можно заменить на ветчину.",
+    "note": "На торжественный стол блюдо можно подать в послойном варианте, продукты промазывать майонезом, украсить зеленью, как подскажет фантазия.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/30/c80ffebd0033530_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/20Fh8dFZecw?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "колбаса вареная",
+                    "slug": "kolbasa-varenaya",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "колбаса копченая",
+                    "slug": "kolbasa-kopchenaya",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "зеленый горошек консервированный",
+                    "slug": "zeleniy-goroshek-konservirovanniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "яйца вареные",
+                    "slug": "yayca-varenye",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы соленые",
+                    "slug": "ogurcy-solenye",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "картофель в мундире",
+                    "slug": "kartofel-v-mundire",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь вареная",
+                    "slug": "morkov-varenaya",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать кубиками копченую колбасу или ветчину, обычную вареную колбасу, вареные морковь и яйца.",
+            "image": null
+        },
+        {
+            "text": "Покрошить соленые огурцы.",
+            "image": null
+        },
+        {
+            "text": "Открыть банку с зеленым горошком, отцедить жидкость.",
+            "image": null
+        },
+        {
+            "text": "Ингредиенты перемешать, посолить, заправить майонезом «Провансаль».",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Оливье с колбасой",
+            "slug": "olive-s-kolbasoy"
+        },
+        {
+            "name": "Оливье с солеными огурцами",
+            "slug": "olive-s-solenymi-ogurcami"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат из вареной моркови",
+            "slug": "salat-iz-varenoy-morkovi"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат Оливье",
+            "slug": "salat-olive"
+        },
+        {
+            "name": "Салат Оливье с колбасой и солеными огурцами",
+            "slug": "salat-olive-s-kolbasoy-i-solenymi-ogurcami"
+        },
+        {
+            "name": "Салат с зеленым горошком",
+            "slug": "salat-s-zelenym-goroshkom"
+        },
+        {
+            "name": "Салат с картофелем",
+            "slug": "salat-s-kartofelem"
+        },
+        {
+            "name": "Салат с колбасой",
+            "slug": "salat-s-kolbasoy"
+        },
+        {
+            "name": "Салат с копченой колбасой",
+            "slug": "salat-s-kopchenoy-kolbasoy"
+        },
+        {
+            "name": "Салат с огурцом и яйцом",
+            "slug": "salat-s-ogurcom-i-yaycom"
+        },
+        {
+            "name": "Салат с солеными огурцами",
+            "slug": "salat-s-solenymi-ogurcami"
+        },
+        {
+            "name": "Салат с яйцом и морковью",
+            "slug": "salat-s-yaycom-i-morkovyu"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        }
+    ]
+}

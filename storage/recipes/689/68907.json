@@ -1,0 +1,119 @@
+{
+    "source": "https://vkuso.ru/recipe/blyudo-iz-zamorozhennyx-gribov-so-smetanoj/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Блюдо из замороженных грибов со сметаной",
+    "description": "Такое блюдо можно приготовить в любое время года, главное, чтобы главный ингредиент был в морозилке.",
+    "note": "При подаче блюдо можно посыпать любой зеленью.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/96/f5365f849554096_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "грибы замороженные",
+                    "slug": "griby-zamorojennye",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "40",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Выложить неразмороженные грибы на сковороду с заранее раскаленным маслом. Жарить от 5 до 7 минут. Сок должен выпариться.",
+            "image": null
+        },
+        {
+            "text": "Добавить нарезанный репчатый лук, жарить все вместе 4 минуты.",
+            "image": null
+        },
+        {
+            "text": "Блюдо полить сметаной и посолить по вкусу, довести до кипения, огонь убавить до минимального. Тушить 15 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Вторые блюда на скорую руку",
+            "slug": "vtorye-blyuda-na-skoruyu-ruku"
+        },
+        {
+            "name": "Гарнир из грибов",
+            "slug": "garnir-iz-gribov"
+        },
+        {
+            "name": "Гарнир к курице",
+            "slug": "garnir-k-kurice"
+        },
+        {
+            "name": "Гарниры",
+            "slug": "garniry"
+        },
+        {
+            "name": "Грибы в сметане",
+            "slug": "griby-v-smetane"
+        },
+        {
+            "name": "Жареные грибы",
+            "slug": "jarenye-griby"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сковорода",
+            "slug": "skovoroda"
+        }
+    ]
+}

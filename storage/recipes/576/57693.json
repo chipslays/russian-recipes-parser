@@ -1,0 +1,95 @@
+{
+    "source": "https://vkuso.ru/recipe/ryba-s-limonom-i-petrushkoj-v-folge/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Рыба с лимоном и петрушкой в фольге",
+    "description": "Простейший рецепт, в котором нет ничего лишнего: только рыба, зелень и лимонный сок. Процесс приготовления настолько прост, что с ним справится даже начинающий кулинар.",
+    "note": "Для приготовления годится любая белая рыба. Накрытая фольгой она останется сочной.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b1/ad2a8d5f6fc16b1_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "филе рыбы",
+                    "slug": "file-ryby",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "зелень петрушки",
+                    "slug": "zelen-petrushki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Противень застелить фольгой. Полить её лимонным соком, присыпать рубленой петрушкой.",
+            "image": null
+        },
+        {
+            "text": "Выложить рыбное филе, накрыть вторым листом фольги.",
+            "image": null
+        },
+        {
+            "text": "Печь в течение 15 – 20 минут при температуре 180 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из рыбы",
+            "slug": "vtorye-blyuda-iz-ryby"
+        },
+        {
+            "name": "Вторые блюда на скорую руку",
+            "slug": "vtorye-blyuda-na-skoruyu-ruku"
+        },
+        {
+            "name": "Рыба в духовке",
+            "slug": "ryba-v-duhovke"
+        },
+        {
+            "name": "Рыба в фольге",
+            "slug": "ryba-v-folge"
+        },
+        {
+            "name": "Рыба запеченная",
+            "slug": "ryba-zapechennaya"
+        },
+        {
+            "name": "Фольга",
+            "slug": "folga"
+        }
+    ]
+}

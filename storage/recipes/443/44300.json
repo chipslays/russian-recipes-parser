@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/syrnyj-sup-s-ovoshhami-i-krevetkami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Сырный суп с овощами и креветками",
+    "description": "Простой рецепт первого блюда для любителей сырных супов.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/3e/5b02d82c3878c3e_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "креветки",
+                    "slug": "krevetki",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сырок плавленый",
+                    "slug": "syrok-plavleniy",
+                    "notes": null,
+                    "value": "160",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный горошком",
+                    "slug": "perec-cherniy-goroshkom",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "веточка",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2",
+                    "type": "л",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Поставить на огонь воду в кастрюльке. Когда она закипит, положить замороженные креветки, насыпать соль, положить лавровый листик, перец горошком. Варить минут пять, когда бульон закипит – креветки готовы. Выловить креветки, процедить бульон, поставить на огонь.",
+            "image": null
+        },
+        {
+            "text": "Почистить картофель, порезать на средние кубики. Почистить и вымыть лук и морковь, порезать, как для первого блюда, например, на маленькие кусочки. Лук можно положить в целом виде. После этого выловить его и выбросить, если кто-то в семье не любит лук.",
+            "image": null
+        },
+        {
+            "text": "Положить в бульон картофель, лук, морковь. Варить минут пятнадцать на среднем огне, овощи должны стать мягкими.",
+            "image": null
+        },
+        {
+            "text": "Измельчить плавленые сырки: или порезать на кубики, или натереть. Положить сырки в кипящий бульон, размешать. Варить минут семь, сырки должны раствориться. Если необходимо, посолить.",
+            "image": null
+        },
+        {
+            "text": "Почистить отваренные креветки. Две штуки оставить с хвостиками, они станут украшением для готового блюда. Положить креветки в суп, позволить нагреться несколько минут.",
+            "image": null
+        },
+        {
+            "text": "Можно подавать сырный суп к столу, разлив его по тарелочкам и украсив креветками. Сверху посыпать измельченной петрушкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из морепродуктов",
+            "slug": "sup-iz-moreproduktov"
+        },
+        {
+            "name": "Суп с креветками",
+            "slug": "sup-s-krevetkami"
+        },
+        {
+            "name": "Суп с плавленым сыром",
+            "slug": "sup-s-plavlenym-syrom"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Сырный суп",
+            "slug": "syrniy-sup"
+        }
+    ]
+}

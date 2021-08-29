@@ -1,0 +1,243 @@
+{
+    "source": "https://vkuso.ru/recipe/86031-salat-zimnij-so-svekloj-i-ryboj/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Зимний» со свеклой и рыбой",
+    "description": "Свекла – настоящий кладезь витаминов, блюдо очень полезно для детей.",
+    "note": "Салат можно украсить веточками укропа.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/68/cad75a3dcc67d68_660x440.jpeg",
+    "difficulty": "Низкая",
+    "cooktime": "2 часа",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "филе рыбы",
+                    "slug": "file-ryby",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "свекла",
+                    "slug": "svekla",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы соленые",
+                    "slug": "ogurcy-solenye",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук",
+                    "slug": "luk",
+                    "notes": " (ялтинский)",
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "уксус",
+                    "slug": "uksus",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "йогурт",
+                    "slug": "yogurt",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "горчица зернистая",
+                    "slug": "gorchica-zernistaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень укропа",
+                    "slug": "zelen-ukropa",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Ялтинский лук замариновать в уксусе, посолить по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Морковь, свеклу и картофель отварить и нарезать кубиками.",
+            "image": null
+        },
+        {
+            "text": "Любую рыбу запечь в фольге, остудить и нарезать кубиками.",
+            "image": null
+        },
+        {
+            "text": "Для соуса перемешать натуральный йогурт, сметану, зернистую горчицу.",
+            "image": null
+        },
+        {
+            "text": "Массу взбить при помощи венчика.",
+            "image": null
+        },
+        {
+            "text": "Продукты перемешать, добавить соленые огурцы, заправить соусом.",
+            "image": null
+        },
+        {
+            "text": "Готовый салат охладить и подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Зимний салат",
+            "slug": "zimniy-salat"
+        },
+        {
+            "name": "Классические салаты",
+            "slug": "klassicheskie-salaty"
+        },
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новогодние салаты без майонеза",
+            "slug": "novogodnie-salaty-bez-mayoneza"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рыба на Новый год",
+            "slug": "ryba-na-noviy-god"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из моркови",
+            "slug": "salat-iz-morkovi"
+        },
+        {
+            "name": "Салат из свеклы",
+            "slug": "salat-iz-svekly"
+        },
+        {
+            "name": "Салат из свеклы и моркови",
+            "slug": "salat-iz-svekly-i-morkovi"
+        },
+        {
+            "name": "Салат с картофелем",
+            "slug": "salat-s-kartofelem"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с рыбой",
+            "slug": "salat-s-ryboy"
+        },
+        {
+            "name": "Салат с солеными огурцами",
+            "slug": "salat-s-solenymi-ogurcami"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без майонеза на праздничный стол",
+            "slug": "salaty-bez-mayoneza-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты со сметаной",
+            "slug": "salaty-so-smetanoy"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "source": "https://vkuso.ru/recipe/nezhnyj-slivochnyj-sous-s-syrom-chedder/",
+    "category": "Соусы",
+    "category_slug": "sousy",
+    "title": "Нежный сливочный соус с сыром чеддер",
+    "description": "Оригинальная заправка к макаронам, тушеным овощам, курице.",
+    "note": "Соус можно подать к столу отдельно от блюда.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f0/a008452a794c5f0_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр чеддер",
+                    "slug": "syr-chedder",
+                    "notes": null,
+                    "value": "170",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "2.5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сыр натереть на мелкой или средней терке.",
+            "image": null
+        },
+        {
+            "text": "Сливочное масло нарезать и растопить в сотейнике. Добавить муку высшего качества.",
+            "image": null
+        },
+        {
+            "text": "Прогревать массу на огне до изменения цвета.",
+            "image": null
+        },
+        {
+            "text": "Влить подогретое молоко. Соус прогревать до тех пор, пока он не загустеет.",
+            "image": null
+        },
+        {
+            "text": "Всыпать тертый сыр, помешивать массу венчиком.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Сливочный соус",
+            "slug": "slivochniy-sous"
+        },
+        {
+            "name": "Сливочный соус для макарон",
+            "slug": "slivochniy-sous-dlya-makaron"
+        },
+        {
+            "name": "Сливочный соус для пасты",
+            "slug": "slivochniy-sous-dlya-pasty"
+        },
+        {
+            "name": "Сливочный соус для спагетти",
+            "slug": "slivochniy-sous-dlya-spagetti"
+        },
+        {
+            "name": "Соус для курицы",
+            "slug": "sous-dlya-kuricy"
+        },
+        {
+            "name": "Соус для макарон",
+            "slug": "sous-dlya-makaron"
+        },
+        {
+            "name": "Соус для пасты",
+            "slug": "sous-dlya-pasty"
+        },
+        {
+            "name": "Соус для спагетти",
+            "slug": "sous-dlya-spagetti"
+        },
+        {
+            "name": "Соус с сыром",
+            "slug": "sous-s-syrom"
+        },
+        {
+            "name": "Сырный соус",
+            "slug": "syrniy-sous"
+        }
+    ]
+}

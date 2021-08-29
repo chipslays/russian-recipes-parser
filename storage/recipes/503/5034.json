@@ -1,0 +1,143 @@
+{
+    "source": "https://vkuso.ru/recipe/okroshka-s-oxotnichimi-kolbaskami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Окрошка с охотничьими колбасками",
+    "description": null,
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/3a/3d79798d0e6d93a_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "хлебного кваса",
+                    "slug": "hlebnogo-kvasa",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вареной колбасы",
+                    "slug": "varenoy-kolbasy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "охотничьи колбаски",
+                    "slug": "ohotnichi-kolbaski",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "редиса",
+                    "slug": "redisa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "огурец",
+                    "slug": "ogurec",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сварить яйца и картофель, нарезать небольшими кусочками. Разрезать охотничьи колбаски вдоль на 2 половины, а затем нарезать поперек на тоненькие кусочки. Вареную колбасу нарезать на кубики, очистить огурец от толстой шкурки и нарезать также.",
+            "image": null
+        },
+        {
+            "text": "Редис разрезать на четвертинки и каждую нашинковать, порубить укроп, нарезать мелко перья зеленого лука. Все аккуратно смешать, посолить, добавить майонез, размешать и залить хлебным квасом. Дать окрошке с охотничьими колбасками чуть постоять, разлить по тарелкам, добавить в каждую укроп.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Окрошка",
+            "slug": "okroshka"
+        },
+        {
+            "name": "Окрошка на квасе",
+            "slug": "okroshka-na-kvase"
+        },
+        {
+            "name": "Суп с колбасой",
+            "slug": "sup-s-kolbasoy"
+        },
+        {
+            "name": "Суп с копченостями",
+            "slug": "sup-s-kopchenostyami"
+        },
+        {
+            "name": "Суп с охотничьими колбасками",
+            "slug": "sup-s-ohotnichimi-kolbaskami"
+        },
+        {
+            "name": "Холодные супы",
+            "slug": "holodnye-supy"
+        }
+    ]
+}

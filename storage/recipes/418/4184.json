@@ -1,0 +1,188 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-s-kurinym-file-pekinskoj-kapustoj-i-percem/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат с куриным филе, пекинской капустой и перцем",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5c/aa69702e98f995c_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриного филе",
+                    "slug": "kurinogo-file",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "красного лука",
+                    "slug": "krasnogo-luka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "болгарский перец",
+                    "slug": "bolgarskiy-perec",
+                    "notes": null,
+                    "value": "1",
+                    "type": "красный",
+                    "amount": null
+                },
+                {
+                    "name": "болгарский перец",
+                    "slug": "bolgarskiy-perec",
+                    "notes": null,
+                    "value": "1",
+                    "type": "желтый",
+                    "amount": null
+                },
+                {
+                    "name": "зеленого лука",
+                    "slug": "zelenogo-luka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "пекинской капусты",
+                    "slug": "pekinskoy-kapusty",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "кочана",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для соуса",
+            "list": [
+                {
+                    "name": "сметаны",
+                    "slug": "smetany",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "горчицы",
+                    "slug": "gorchicy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснока",
+                    "slug": "chesnoka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "зубчик",
+                    "amount": null
+                },
+                {
+                    "name": "перец",
+                    "slug": "perec",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления соуса смешать сметану, соль, горчицу, молотый перец и чеснок.",
+            "image": null
+        },
+        {
+            "text": "Полукольцами нарезать репчатый лук, соломкой порезать красный и желтый перец, нашинковать китайскую капусту и зеленый лук, кубиками нарезать филе курицы.",
+            "image": null
+        },
+        {
+            "text": "Сложить подготовленные продукты в миску, перемешать, полить салат с куриным филе, пекинской капустой и перцем полученной заправкой и украсить измельченным зеленым луком.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Диетическая куриная грудка",
+            "slug": "dieticheskaya-kurinaya-grudka"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетические салаты",
+            "slug": "dieticheskie-salaty"
+        },
+        {
+            "name": "Овощные салаты",
+            "slug": "ovoschnye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из капусты с болгарским перцем",
+            "slug": "salat-iz-kapusty-s-bolgarskim-percem"
+        },
+        {
+            "name": "Салат из пекинской капусты",
+            "slug": "salat-iz-pekinskoy-kapusty"
+        },
+        {
+            "name": "Салат с курицей",
+            "slug": "salat-s-kuricey"
+        },
+        {
+            "name": "Салат с курицей и капустой",
+            "slug": "salat-s-kuricey-i-kapustoy"
+        },
+        {
+            "name": "Салат с курицей и овощами",
+            "slug": "salat-s-kuricey-i-ovoschami"
+        },
+        {
+            "name": "Салат с курицей и пекинской капустой",
+            "slug": "salat-s-kuricey-i-pekinskoy-kapustoy"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салаты со сметаной",
+            "slug": "salaty-so-smetanoy"
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "source": "https://vkuso.ru/recipe/zhulen-iz-moreproduktov-s-belym-vinom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Жульен из морепродуктов с белым вином",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a3/4774d2fb6e3e2a3_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "креветки",
+                    "slug": "krevetki",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мидии",
+                    "slug": "midii",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "семга",
+                    "slug": "semga",
+                    "notes": " (форель)",
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "рис вареный",
+                    "slug": "ris-vareniy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "50-100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб",
+                    "slug": "hleb",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для соуса",
+            "list": [
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": " (молоко)",
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вино белое сухое",
+                    "slug": "vino-beloe-suhoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Порезать соломкой семгу или форель, посыпать перцем, солью. Положить к рыбе рис, мидии, креветки. Перемешать.",
+            "image": null
+        },
+        {
+            "text": "Приготовить соус: в горячую посуду налить молоко или сливки. Довести до кипения, налить белое сухое вино, оливковое масло, перемешать, убрать с плиты.",
+            "image": null
+        },
+        {
+            "text": "Потереть сыр, положить в соус, размешать, поставить на маленький огонь. Мешать до однородности.",
+            "image": null
+        },
+        {
+            "text": "Взять булку хлеба круглой формы, срезать верх, вынуть всю мякоть. Получится емкость из хлеба. Положить в данную емкость рис с морепродуктами, залить соусом. Посыпать зеленью, накрыть верхушкой. Отправить жульен на 5-10 минут в духовку, соблюдать температуру 180 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Жюльен",
+            "slug": "jyulen"
+        },
+        {
+            "name": "Закуски из морепродуктов",
+            "slug": "zakuski-iz-moreproduktov"
+        },
+        {
+            "name": "Закуски с красной рыбой",
+            "slug": "zakuski-s-krasnoy-ryboy"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рис с креветками",
+            "slug": "ris-s-krevetkami"
+        },
+        {
+            "name": "Рис с морепродуктами",
+            "slug": "ris-s-moreproduktami"
+        },
+        {
+            "name": "Семга с сыром",
+            "slug": "semga-s-syrom"
+        }
+    ]
+}

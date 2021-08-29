@@ -1,0 +1,211 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-iz-gorbushi-s-morkovyu-i-gribami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат из горбуши с морковью и грибами",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/90/3cdd8f91de18590_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "горбуша",
+                    "slug": "gorbusha",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "грибы консервированные",
+                    "slug": "griby-konservirovannye",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "6",
+                    "type": "зубчиков",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Выложить слоями: консервированную горбушу, размятую вилкой, обжаренный лук, грибы. Крупно натертые вареные яйца, смешанные с измельченным чесноком. Обжаренную морковь. Все слои салата из горбуши пропитать майонезом. Посыпать измельченными желтками.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Салат из моркови",
+            "slug": "salat-iz-morkovi"
+        },
+        {
+            "name": "Салат из моркови с чесноком",
+            "slug": "salat-iz-morkovi-s-chesnokom"
+        },
+        {
+            "name": "Салат из моркови с чесноком и майонезом",
+            "slug": "salat-iz-morkovi-s-chesnokom-i-mayonezom"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с горбушей",
+            "slug": "salat-s-gorbushey"
+        },
+        {
+            "name": "Салат с грибами",
+            "slug": "salat-s-gribami"
+        },
+        {
+            "name": "Салат с красной рыбой",
+            "slug": "salat-s-krasnoy-ryboy"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салат с рыбными консервами",
+            "slug": "salat-s-rybnymi-konservami"
+        },
+        {
+            "name": "Салат с рыбой",
+            "slug": "salat-s-ryboy"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салат с чесноком и майонезом",
+            "slug": "salat-s-chesnokom-i-mayonezom"
+        },
+        {
+            "name": "Салат с яйцом и морковью",
+            "slug": "salat-s-yaycom-i-morkovyu"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Слоеные салаты",
+            "slug": "sloenye-salaty"
+        },
+        {
+            "name": "Слоеный салат с грибами",
+            "slug": "sloeniy-salat-s-gribami"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

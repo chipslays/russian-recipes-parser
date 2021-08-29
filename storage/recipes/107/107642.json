@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/107642-amerikanskij-xot-dog-s-kopchenymi-sosiskami/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Американский хот-дог с копчеными сосисками",
+    "description": "Более сложный вариант приготовления закуски, отличается от французского блюда количеством ингредиентов.",
+    "note": "Для приготовления блюда лучше использовать копченые сосиски.",
+    "cuisine": "Американская кухня",
+    "cuisine_slug": "amerikanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/80/3829764bd761980_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "15 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "булочки",
+                    "slug": "bulochki",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сосиски копченые",
+                    "slug": "sosiski-kopchenye",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "редис",
+                    "slug": "redis",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "листья салата",
+                    "slug": "listya-salata",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кетчуп",
+                    "slug": "ketchup",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "горчица",
+                    "slug": "gorchica",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Готовые булочки разрезать вдоль, выложить листья свежего салата и сосиски.",
+            "image": null
+        },
+        {
+            "text": "Выложить закуску в микроволновую печь на две минуты.",
+            "image": null
+        },
+        {
+            "text": "Свежий огурец и редиску нарезать тонкими ломтиками, украсить сосиску, сверху выдавить кетчуп, горчицу, майонез.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды на природу",
+            "slug": "buterbrody-na-prirodu"
+        },
+        {
+            "name": "Бутерброды с огурцом",
+            "slug": "buterbrody-s-ogurcom"
+        },
+        {
+            "name": "Домашний фаст фуд",
+            "slug": "domashniy-fast-fud"
+        },
+        {
+            "name": "Закуски для пикника",
+            "slug": "zakuski-dlya-piknika"
+        },
+        {
+            "name": "Хот-дог",
+            "slug": "hot-dog"
+        }
+    ]
+}

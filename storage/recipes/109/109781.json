@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/109781-smuzi-s-chernikoj-bananom-i-molokom/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Смузи с черникой, бананом и молоком",
+    "description": "Вкусный и полезный завтрак за 5 минут: )\r\nЧернику можно брать как свежую, так и замороженную.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/8d/bc9d094089fb18d_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "5 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/vBf_xEJvJqY?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 1 порцию",
+            "list": [
+                {
+                    "name": "черника",
+                    "slug": "chernika",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "бананы",
+                    "slug": "banany",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "грецкие орехи",
+                    "slug": "greckie-orehi",
+                    "notes": null,
+                    "value": "15",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "семена чиа",
+                    "slug": "semena-chia",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В чашу блендера выложить банан, добавить грецкий орех, семена чиа, чернику и молоко.",
+            "image": null
+        },
+        {
+            "text": "Взбить. По желанию можете добавить 1-2 ч.л. меда.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные коктейли",
+            "slug": "bezalkogolnye-kokteyli"
+        },
+        {
+            "name": "Блендер",
+            "slug": "blender"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Коктейли",
+            "slug": "kokteyli"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Смузи",
+            "slug": "smuzi"
+        },
+        {
+            "name": "Смузи для похудения",
+            "slug": "smuzi-dlya-pohudeniya"
+        },
+        {
+            "name": "Смузи с бананом",
+            "slug": "smuzi-s-bananom"
+        },
+        {
+            "name": "Фруктовые напитки",
+            "slug": "fruktovye-napitki"
+        }
+    ]
+}

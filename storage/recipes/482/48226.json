@@ -1,0 +1,103 @@
+{
+    "source": "https://vkuso.ru/recipe/sladkie-sendvichi-muravejnik/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Сладкие сэндвичи «Муравейник»",
+    "description": "Время приготовления – пять минут, дети – в восторге.",
+    "note": "Сэндвичи из печенья можно подать к столу с любым горячим напитком или с холодным молоком.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/47/0bc949969760647_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "5 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/4aGFA-D25A0?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "печенье песочное",
+                    "slug": "pechene-pesochnoe",
+                    "notes": null,
+                    "value": "8",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко сгущенное вареное",
+                    "slug": "moloko-sguschennoe-varenoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "орехи",
+                    "slug": "orehi",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по желанию"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сливочное мало и сгущенное молоко должны быть комнатной температуры. Порубить ножом очищенные орехи. Ингредиенты перемешать.",
+            "image": null
+        },
+        {
+            "text": "Промазать начинкой печенье квадратной или прямоугольной формы, накрыть сверху другим печеньем. Поставить в холодильник на полчаса.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерт на скорую руку",
+            "slug": "desert-na-skoruyu-ruku"
+        },
+        {
+            "name": "Десерт со сгущенкой",
+            "slug": "desert-so-sguschenkoy"
+        },
+        {
+            "name": "Десерты для детей",
+            "slug": "deserty-dlya-detey"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Закрытые бутерброды",
+            "slug": "zakrytye-buterbrody"
+        },
+        {
+            "name": "На десерт",
+            "slug": "na-desert"
+        },
+        {
+            "name": "Полдник",
+            "slug": "poldnik"
+        },
+        {
+            "name": "Простые рецепты для детей",
+            "slug": "prostye-recepty-dlya-detey"
+        },
+        {
+            "name": "Сэндвичи",
+            "slug": "sendvichi"
+        }
+    ]
+}

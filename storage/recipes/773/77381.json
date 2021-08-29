@@ -1,0 +1,171 @@
+{
+    "source": "https://vkuso.ru/recipe/77381-makarony-s-farshem-i-ovoshhami-na-skovorode/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Макароны с фаршем и овощами на сковороде",
+    "description": "Тот, кто жарил сырые макароны (не вареные) знают, что это вкусно, совершенно другой вкус приобретают макароны. Жареные макароны с мясом тушеные в овощном соусе. Макароны пропитываются соусом и овощным ароматом, никогда не слипнутся. Быстро и вкусно и ничего варить не надо.",
+    "note": null,
+    "cuisine": "Европейская кухня",
+    "cuisine_slug": "evropeyskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b3/f77eb299daa36b3_660x440.png",
+    "difficulty": "Низкая",
+    "cooktime": "35 минут",
+    "preparetime": "10 минут",
+    "video": "https://www.youtube.com/embed/6st1gVSiWhU?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 8 порции",
+            "list": [
+                {
+                    "name": "мясной фарш",
+                    "slug": "myasnoy-farsh",
+                    "notes": null,
+                    "value": "350",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "макароны",
+                    "slug": "makarony",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": " (любая)",
+                    "value": "1",
+                    "type": "горсть",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Лук, помидоры, перец, зелень - мелко нарезать. Морковь - натрем на крупной терке.",
+            "image": null
+        },
+        {
+            "text": "Лук и морковь обжарить на сковороде с растительным маслом. Добавить фарш,соль потушить.",
+            "image": null
+        },
+        {
+            "text": "Добавить болгарский перец,помидор и специи. Потушить еще 5 минут.",
+            "image": null
+        },
+        {
+            "text": "Всыпать сухие макароны. Хорошо все перемешать, долить горячей воды.Тушить еще 8 минут.",
+            "image": null
+        },
+        {
+            "text": "Посыпать все зеленью. Пусть все постоит еще 7 минут для впитывания соуса.\r\n\r\nПриятного аппетита.",
+            "image": "https://vkuso.ru/data/cache/data/b0/fee9b1fee506ab0_434x295_notrise.png"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из макарон",
+            "slug": "vtorye-blyuda-iz-makaron"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Вторые блюда из фарша",
+            "slug": "vtorye-blyuda-iz-farsha"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Макароны с мясом",
+            "slug": "makarony-s-myasom"
+        },
+        {
+            "name": "Макароны с фаршем",
+            "slug": "makarony-s-farshem"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Овощи на сковороде",
+            "slug": "ovoschi-na-skovorode"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сковорода",
+            "slug": "skovoroda"
+        },
+        {
+            "name": "Ужин из макарон",
+            "slug": "ujin-iz-makaron"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        }
+    ]
+}

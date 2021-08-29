@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/kurinyj-supchik-s-brokkoli-i-kartoshkoj/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Куриный супчик с брокколи и картошкой",
+    "description": "Очень простое первое блюдо с минимумом ингредиентов, ароматное и прозрачное.",
+    "note": "В суп можно добавить специи, рубленую зелень петрушки и укропа, кинзы.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/9e/bf7ccf218e98d9e_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "брокколи",
+                    "slug": "brokkoli",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "куриная грудка",
+                    "slug": "kurinaya-grudka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "4-5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": " (маленький)",
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Куриную грудку очистить от кожицы, отварить.",
+            "image": null
+        },
+        {
+            "text": "В бульон добавить нарезанный картофель, поварить пять минут.",
+            "image": null
+        },
+        {
+            "text": "Затем – капусту брокколи, разобранную на соцветия, измельченный репчатый лук и морковь.",
+            "image": null
+        },
+        {
+            "text": "Варить все вместе 10 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Картофельный суп",
+            "slug": "kartofelniy-sup"
+        },
+        {
+            "name": "Куриный суп",
+            "slug": "kuriniy-sup"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Суп из брокколи",
+            "slug": "sup-iz-brokkoli"
+        },
+        {
+            "name": "Суп из птицы",
+            "slug": "sup-iz-pticy"
+        },
+        {
+            "name": "Суп с капустой",
+            "slug": "sup-s-kapustoy"
+        },
+        {
+            "name": "Суп с куриной грудкой",
+            "slug": "sup-s-kurinoy-grudkoy"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        }
+    ]
+}

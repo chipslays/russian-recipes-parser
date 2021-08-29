@@ -1,0 +1,128 @@
+{
+    "source": "https://vkuso.ru/recipe/syrnaya-ulitka-v-souse/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Сырная улитка в соусе",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/9c/f351cfd7cbc869c_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "тесто для пиццы",
+                    "slug": "testo-dlya-piccy",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для соуса",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар/мед",
+                    "slug": "sahar-med",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мак",
+                    "slug": "mak",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соус вустерский",
+                    "slug": "sous-vusterskiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "горчица",
+                    "slug": "gorchica",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Разложить на поверхности теста кусочки ветчины, сыра, скатать в трубочку, нарезать на шайбы толщиной по 3 см, уложить в смазанную форму. Для соуса прогреть в кастрюльке масло с горчицей и медом, перемешать, залить в форму с сырной улиткой, поставить на час в холодильник, затем поставить на 25 минут в прогретую до 200 градусов духовку.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка с колбасой",
+            "slug": "vypechka-s-kolbasoy"
+        },
+        {
+            "name": "Выпечка с маком",
+            "slug": "vypechka-s-makom"
+        },
+        {
+            "name": "Выпечка с медом",
+            "slug": "vypechka-s-medom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

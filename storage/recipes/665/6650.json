@@ -1,0 +1,143 @@
+{
+    "source": "https://vkuso.ru/recipe/okroshka-s-redisom-i-svezhej-zelenyu/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Окрошка с редисом и свежей зеленью",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/21/31e7c9bb5387a21_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "вода минеральная",
+                    "slug": "voda-mineralnaya",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "колбаса вареная",
+                    "slug": "kolbasa-varenaya",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "редис",
+                    "slug": "redis",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить картофель в мундире, после чего корнеплоды почистить и нарезать кусочками. Отваренные вкрутую яйца почистить и нарезать кубиками, порезать колбасу некрупными кусочками.",
+            "image": null
+        },
+        {
+            "text": "Редис, огурцы и зелень помыть, порезать небольшими кубиками или кусочками. Сложить все подготовленные ингредиенты в большую посудину, посолить и залить либо квасом, либо заправкой из кефира и минералки (в соотношении 2:1).",
+            "image": null
+        },
+        {
+            "text": "Подается окрошка с редисом и свежей зеленью  порционно или в одной большой сервировочной емкости.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Окрошка",
+            "slug": "okroshka"
+        },
+        {
+            "name": "Окрошка на кефире",
+            "slug": "okroshka-na-kefire"
+        },
+        {
+            "name": "Окрошка с колбасой",
+            "slug": "okroshka-s-kolbasoy"
+        },
+        {
+            "name": "Суп с колбасой",
+            "slug": "sup-s-kolbasoy"
+        }
+    ]
+}

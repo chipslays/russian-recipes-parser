@@ -1,0 +1,200 @@
+{
+    "source": "https://vkuso.ru/recipe/bananovo-ovsyanye-bliny-bez-muki-s-vishnevym-sousom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Бананово-овсяные блины без муки с вишневым соусом",
+    "description": "Сладкий банан и кисловатая вишня – основные вкусы этого десерта.",
+    "note": "Десерт можно украсить мятой и кружочками банана.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/89/df057b96956c389_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бананы",
+                    "slug": "banany",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "овсяные хлопья",
+                    "slug": "ovsyanye-hlopya",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "корица молотая",
+                    "slug": "korica-molotaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для блинов",
+            "list": [
+                {
+                    "name": "вишня без косточек",
+                    "slug": "vishnya-bez-kostochek",
+                    "notes": null,
+                    "value": "280-300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "крахмал",
+                    "slug": "krahmal",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления соуса смешать в небольшом сотейнике вишню без косточек с водой, цедрой лимона, сахарным песком и крахмалом.",
+            "image": null
+        },
+        {
+            "text": "Закрыть смесь крышкой и прогревать в течение 5 – 10 минут до загустения, помешивать, огонь – средний.",
+            "image": null
+        },
+        {
+            "text": "Можно добавить еще немного воды, если соус получается слишком густым.",
+            "image": null
+        },
+        {
+            "text": "С помощью блендера приготовить тесто для блинов: перемешать сырые куриные яйца, очищенный банан, овсяные хлопья, немного корицы и разрыхлитель.",
+            "image": null
+        },
+        {
+            "text": "Взбить массу в течение минуты до однородного состояния.",
+            "image": null
+        },
+        {
+            "text": "Блины жарить на сковороде с двух сторон до золотистой корочки.",
+            "image": null
+        },
+        {
+            "text": "Подать с приготовленным вишневым соусом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блины",
+            "slug": "bliny"
+        },
+        {
+            "name": "Блины без дрожжей",
+            "slug": "bliny-bez-drojjey"
+        },
+        {
+            "name": "Блины без молока",
+            "slug": "bliny-bez-moloka"
+        },
+        {
+            "name": "Выпечка без муки",
+            "slug": "vypechka-bez-muki"
+        },
+        {
+            "name": "Выпечка с бананами",
+            "slug": "vypechka-s-bananami"
+        },
+        {
+            "name": "Выпечка с вишней",
+            "slug": "vypechka-s-vishney"
+        },
+        {
+            "name": "Выпечка с корицей",
+            "slug": "vypechka-s-koricey"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетические блины",
+            "slug": "dieticheskie-bliny"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Овсянка на завтрак",
+            "slug": "ovsyanka-na-zavtrak"
+        },
+        {
+            "name": "Овсяные блины",
+            "slug": "ovsyanye-bliny"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Специальное питание",
+            "slug": "specialnoe-pitanie"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

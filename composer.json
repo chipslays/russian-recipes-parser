@@ -1,0 +1,22 @@
+{
+    "name": "chipslays/recipes",
+    "description": "Russian database of recipes.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chipslays",
+            "email": "hello@chipslays.ru"
+        }
+    ],
+    "require": {
+        "chipslays/collection": "^1.1",
+        "imangazaliev/didom": "^1.18",
+        "illuminate/database": "^8.55"
+    },
+    "autoload": {
+        "psr-4": {
+            "Recipes\\": "src/"
+        }
+    }
+}

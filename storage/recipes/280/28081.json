@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/lotaringskij-pirog-s-kopchenym-salom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Лотарингский пирог с копченым салом",
+    "description": "Еще один рецепт изысканной французской выпечки, который также известен под именем «киш-лорен». Готовится как на песочной основе, так и на дрожжевом тесте. Блюдо можно подавать как на завтрак, так и на обед или ужин.",
+    "note": null,
+    "cuisine": "Французская кухня",
+    "cuisine_slug": "francuzskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/63/f266140c8cbcb63_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "тесто слоеное дрожжевое",
+                    "slug": "testo-sloenoe-drojjevoe",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сало копченое/ветчина",
+                    "slug": "salo-kopchenoe-vetchina",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сливки/молоко",
+                    "slug": "slivki-moloko",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Слоеное дрожжевое тесто предварительно разморозить, раскатать в лепешку толщиной полсантиметра. Выстелить противень бумагой для выпечки, выложить тесто. Сформовать небольшие бортики.",
+            "image": null
+        },
+        {
+            "text": "Для начинки взбить яйца со сливками, соль и перец – по вкусу. Нарезать сало и натереть твердый сыр. Выложить на корж сначала сало, затем сыр, залить яичной смесью. Бортики пригнуть внутрь, печь лотарингский пирог в духовке до готовности.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка из слоеного теста",
+            "slug": "vypechka-iz-sloenogo-testa"
+        },
+        {
+            "name": "Киш",
+            "slug": "kish"
+        },
+        {
+            "name": "Открытый пирог",
+            "slug": "otkrytiy-pirog"
+        },
+        {
+            "name": "Пирог на молоке",
+            "slug": "pirog-na-moloke"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги из слоеного теста",
+            "slug": "pirogi-iz-sloenogo-testa"
+        },
+        {
+            "name": "Пироги с сыром",
+            "slug": "pirogi-s-syrom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Французская выпечка",
+            "slug": "francuzskaya-vypechka"
+        }
+    ]
+}

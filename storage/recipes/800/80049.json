@@ -1,0 +1,183 @@
+{
+    "source": "https://vkuso.ru/recipe/paelya-s-kurinym-file-i-bolgarskim-percem/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Паэлья с куриным филе и болгарским перцем",
+    "description": "Сочная и нежная текстура этого блюда никого не оставит равнодушным.",
+    "note": "При подаче блюдо посыпать рубленым зеленым луком.",
+    "cuisine": "Испанская кухня",
+    "cuisine_slug": "ispanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d9/50bac98783631d9_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/e50c5LJTQyY?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бульон куриный",
+                    "slug": "bulon-kuriniy",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "рис длиннозерный",
+                    "slug": "ris-dlinnozerniy",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "зеленый горошек консервированный",
+                    "slug": "zeleniy-goroshek-konservirovanniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец болгарский красный",
+                    "slug": "perec-bolgarskiy-krasniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец болгарский желтый",
+                    "slug": "perec-bolgarskiy-jeltiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Растительное масло прогреть на сковороде, длиннозерный рис обжарить.",
+            "image": null
+        },
+        {
+            "text": "Влить бульон, посолить по вкусу, варить все вместе до выпаривания жидкости.",
+            "image": null
+        },
+        {
+            "text": "Нарезать кубиками куриное филе, заправить измельченным луком и специями.",
+            "image": null
+        },
+        {
+            "text": "Сладкий болгарский перец нарезать, пересыпать к мясу, жарить от семи до десяти минут.",
+            "image": null
+        },
+        {
+            "text": "Ингредиенты перемешать, всыпать консервированный горошек, прогреть до готовности.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Вторые блюда из риса",
+            "slug": "vtorye-blyuda-iz-risa"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Куриное филе с овощами",
+            "slug": "kurinoe-file-s-ovoschami"
+        },
+        {
+            "name": "Курица с болгарским перцем",
+            "slug": "kurica-s-bolgarskim-percem"
+        },
+        {
+            "name": "Курица с овощами",
+            "slug": "kurica-s-ovoschami"
+        },
+        {
+            "name": "Паэлья",
+            "slug": "paelya"
+        },
+        {
+            "name": "Паэлья с курицей",
+            "slug": "paelya-s-kuricey"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рис с курицей",
+            "slug": "ris-s-kuricey"
+        },
+        {
+            "name": "Ужин из куриного филе",
+            "slug": "ujin-iz-kurinogo-file"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        }
+    ]
+}

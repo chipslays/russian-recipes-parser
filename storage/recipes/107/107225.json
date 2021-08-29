@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/107225-pashtet-iz-avokado-s-krevetkami-i-yajcami/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Паштет из авокадо с креветками и яйцами",
+    "description": "Излюбленный плод ацтеков очень полезен и питателен, богат микроэлементами.",
+    "note": "Лимонный сок можно заменить соком лайма.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/6d/344b5e64338626d_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "креветки",
+                    "slug": "krevetki",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца вареные",
+                    "slug": "yayca-varenye",
+                    "notes": null,
+                    "value": "4-5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "авокадо",
+                    "slug": "avokado",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "бульон",
+                    "slug": "bulon",
+                    "notes": " (майонез домашний)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Мякоть авокадо натереть на терке или приготовить пюре при помощи вилки.",
+            "image": null
+        },
+        {
+            "text": "Порубить отваренные яйца.",
+            "image": null
+        },
+        {
+            "text": "Смесь посолить, добавить лимонный сок.",
+            "image": null
+        },
+        {
+            "text": "Отварить и остудить креветки, разрезать пополам, добавить в основную смесь.",
+            "image": null
+        },
+        {
+            "text": "Влить немного бульона или домашнего майонеза.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Закуски из морепродуктов",
+            "slug": "zakuski-iz-moreproduktov"
+        },
+        {
+            "name": "Закуски из яиц",
+            "slug": "zakuski-iz-yaic"
+        },
+        {
+            "name": "Паштет из авокадо",
+            "slug": "pashtet-iz-avokado"
+        },
+        {
+            "name": "Паштеты",
+            "slug": "pashtety"
+        }
+    ]
+}

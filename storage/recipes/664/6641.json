@@ -1,0 +1,103 @@
+{
+    "source": "https://vkuso.ru/recipe/rybnye-frikadelki-s-risom-na-paru/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Рыбные фрикадельки с рисом на пару",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c9/9159350a4b6f2c9_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "филе рыбы",
+                    "slug": "file-ryby",
+                    "notes": null,
+                    "value": "240",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сварить из воды и риса вязкую кашу, которую затем полностью остудить. Через мясорубку дважды пропустить рыбную мякоть вместе с рисом и измельченным чесноком . В получившуюся массу влить масло оливковое, посолить и поперчить ее по вкусу и тщательно все перемешать.",
+            "image": null
+        },
+        {
+            "text": "Сформовать из фарша небольшие шарики и готовить рыбные фрикадельки с рисом на пару до полной готовности. Готовые фрикадельки подавать с любимым гарниром, предварительно украсив их свежей зеленью.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из риса",
+            "slug": "vtorye-blyuda-iz-risa"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Пароварка",
+            "slug": "parovarka"
+        },
+        {
+            "name": "Рыба на пару",
+            "slug": "ryba-na-paru"
+        },
+        {
+            "name": "Фрикадельки",
+            "slug": "frikadelki"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "source": "https://vkuso.ru/recipe/107233-aromatnoe-salo-s-chesnokom-i-ukropom/",
+    "category": "Заготовки",
+    "category_slug": "zagotovki",
+    "title": "Ароматное сало с чесноком и укропом",
+    "description": "Идеальное сочетание основного продукта и специй.",
+    "note": "При подаче украсить веточками укропа.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/fe/529bd21423056fe_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/awLmq3-VNks?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 10 порции",
+            "list": [
+                {
+                    "name": "сало",
+                    "slug": "salo",
+                    "notes": " (несоленое)",
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "зелень укропа",
+                    "slug": "zelen-ukropa",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "6",
+                    "type": "зубчиков",
+                    "amount": null
+                },
+                {
+                    "name": "смесь перцев",
+                    "slug": "smes-percev",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Несоленое сало измельчить любым способом: пропустить через мясорубку или перемолоть в кухонном комбайне.",
+            "image": null
+        },
+        {
+            "text": "Порубить зелень укропа.",
+            "image": null
+        },
+        {
+            "text": "Пропустить очищенный чеснок через пресс.",
+            "image": null
+        },
+        {
+            "text": "Ингредиенты перемешать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Домашнее сало",
+            "slug": "domashnee-salo"
+        },
+        {
+            "name": "Заготовки из мяса",
+            "slug": "zagotovki-iz-myasa"
+        },
+        {
+            "name": "Сало с чесноком",
+            "slug": "salo-s-chesnokom"
+        }
+    ]
+}

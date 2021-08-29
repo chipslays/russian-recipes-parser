@@ -1,0 +1,87 @@
+{
+    "source": "https://vkuso.ru/recipe/sidr-iz-yablochnogo-soka-i-drozhzhej/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Сидр из яблочного сока и дрожжей",
+    "description": "Напиток можно приготовить из обычного магазинного яблочного сока.",
+    "note": "Сидр хранить в темном и прохладном месте.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/79/351d71fa928cd79_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яблочный сок",
+                    "slug": "yablochniy-sok",
+                    "notes": null,
+                    "value": "2.5",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В стерилизованную трехлитровую банку налить сок.",
+            "image": null
+        },
+        {
+            "text": "Отдельно сухие дрожжи залить теплой водой, оставить на 15 минут.",
+            "image": null
+        },
+        {
+            "text": "Забродивший продукт добавить в банку, поставить под затвор.",
+            "image": null
+        },
+        {
+            "text": "Оставить на неделю при комнатной температуре.",
+            "image": null
+        },
+        {
+            "text": "Напиток профильтровать, разлить в бутылки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Алкогольные напитки",
+            "slug": "alkogolnye-napitki"
+        },
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Праздничные коктейли и напитки",
+            "slug": "prazdnichnye-kokteyli-i-napitki"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Сидр домашний",
+            "slug": "sidr-domashniy"
+        },
+        {
+            "name": "Яблочный сидр",
+            "slug": "yablochniy-sidr"
+        }
+    ]
+}

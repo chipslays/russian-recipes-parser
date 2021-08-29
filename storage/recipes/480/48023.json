@@ -1,0 +1,207 @@
+{
+    "source": "https://vkuso.ru/recipe/sytnyj-kish-s-syrom-i-gribami/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Сытный киш с сыром и грибами",
+    "description": "Вариантов приготовления французского открытого пирога очень много, его готовят с простыми луковыми начинками и со сложным набором морепродуктов, сыров и мяса.",
+    "note": "Киш можно подать как горячим, так и холодным, украсить листочками свежей петрушки.",
+    "cuisine": "Французская кухня",
+    "cuisine_slug": "francuzskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/1a/53b030326daa01a_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "грибы",
+                    "slug": "griby",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "тесто слоеное",
+                    "slug": "testo-sloenoe",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный свежемолотый",
+                    "slug": "perec-cherniy-svejemolotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль морская",
+                    "slug": "sol-morskaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": " (для жарки)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Разморозить половину упаковки слоеного теста, купленного в магазине. Раскатать и выложить в форму для выпекания с высокими бортиками. В нескольких местах наколоть вилкой.",
+            "image": null
+        },
+        {
+            "text": "Духовой шкаф разогреть до 180 градусов.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления начинки нарезать зеленый и репчатый лук, натереть сыр на терке с крупной решеткой.",
+            "image": null
+        },
+        {
+            "text": "Репчатый лук обжарить на сливочном масле, добавить нарезанные грибы, перемешать, добавить морскую соль и поперчить, обжарить еще немного. Остудить.",
+            "image": null
+        },
+        {
+            "text": "Отдельно взболтать сырые куриные яйца со сливками.",
+            "image": null
+        },
+        {
+            "text": "Добавить в грибную массу зеленый лук, яичную массу, поперчить по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Начинку выложить в форму для запекания, поставить пирог в духовой шкаф на 30 – 40 минут. На поверхности должна образоваться золотистая корочка.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка из слоеного теста",
+            "slug": "vypechka-iz-sloenogo-testa"
+        },
+        {
+            "name": "Выпечка с сыром",
+            "slug": "vypechka-s-syrom"
+        },
+        {
+            "name": "Киш",
+            "slug": "kish"
+        },
+        {
+            "name": "Несладкая выпечка",
+            "slug": "nesladkaya-vypechka"
+        },
+        {
+            "name": "Несладкие пироги",
+            "slug": "nesladkie-pirogi"
+        },
+        {
+            "name": "Открытый пирог",
+            "slug": "otkrytiy-pirog"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог с луком и яйцом",
+            "slug": "pirog-s-lukom-i-yaycom"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги из слоеного теста",
+            "slug": "pirogi-iz-sloenogo-testa"
+        },
+        {
+            "name": "Пироги с грибами",
+            "slug": "pirogi-s-gribami"
+        },
+        {
+            "name": "Пироги с сыром",
+            "slug": "pirogi-s-syrom"
+        },
+        {
+            "name": "Полдник",
+            "slug": "poldnik"
+        },
+        {
+            "name": "Французская выпечка",
+            "slug": "francuzskaya-vypechka"
+        }
+    ]
+}

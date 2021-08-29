@@ -1,0 +1,195 @@
+{
+    "source": "https://vkuso.ru/recipe/ragu-iz-kabachkov-fasoli-i-pomidorov/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Рагу из кабачков, фасоли и помидоров",
+    "description": "Фасоль – своеобразная природная капсула, в которой собран огромный комплекс питательных веществ от белков до жиров, витаминов и минералов. Замечательный продукт, которым можно питаться долгое время, не испытывая проблем со здоровьем.",
+    "note": "Рагу можно посыпать кунжутными семечками, добавить сухие травы по вкусу.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/04/e9f59f8055f4804_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кабачки",
+                    "slug": "kabachki",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "фасоль консервированная",
+                    "slug": "fasol-konservirovannaya",
+                    "notes": " (отварная)",
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень петрушки",
+                    "slug": "zelen-petrushki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "перец чили",
+                    "slug": "perec-chili",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Крупный репчатый лук нарезать, спассеровать на сковороде с небольшим количеством воды.",
+            "image": null
+        },
+        {
+            "text": "Помидоры ошпарить, снять кожицу, мякоть натереть и добавить в лук.",
+            "image": null
+        },
+        {
+            "text": "Плоды кабачков нарезать кубиками, если они молодые, то кожицу можно не снимать. Положить в обжарку, добавить томатную пасту, перец чили и соль, тушить в течение 20 – 25 минут.",
+            "image": null
+        },
+        {
+            "text": "В готовое рагу переложить заранее отваренную или консервированную фасоль, рубленый чеснок и зелень петрушки и укропа – по вкусу. Тушить до готовности.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из бобовых",
+            "slug": "vtorye-blyuda-iz-bobovyh"
+        },
+        {
+            "name": "Вторые блюда из кабачков",
+            "slug": "vtorye-blyuda-iz-kabachkov"
+        },
+        {
+            "name": "Вторые блюда из овощей",
+            "slug": "vtorye-blyuda-iz-ovoschey"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Гарнир к курице",
+            "slug": "garnir-k-kurice"
+        },
+        {
+            "name": "Гарниры",
+            "slug": "garniry"
+        },
+        {
+            "name": "Кабачки с помидорами",
+            "slug": "kabachki-s-pomidorami"
+        },
+        {
+            "name": "Овощное рагу",
+            "slug": "ovoschnoe-ragu"
+        },
+        {
+            "name": "Овощной гарнир",
+            "slug": "ovoschnoy-garnir"
+        },
+        {
+            "name": "Постные блюда из кабачков",
+            "slug": "postnye-blyuda-iz-kabachkov"
+        },
+        {
+            "name": "Постные блюда из фасоли",
+            "slug": "postnye-blyuda-iz-fasoli"
+        },
+        {
+            "name": "Постный ужин",
+            "slug": "postniy-ujin"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рагу",
+            "slug": "ragu"
+        },
+        {
+            "name": "Рагу из кабачков",
+            "slug": "ragu-iz-kabachkov"
+        },
+        {
+            "name": "Ужин из кабачков",
+            "slug": "ujin-iz-kabachkov"
+        },
+        {
+            "name": "Ужин из овощей",
+            "slug": "ujin-iz-ovoschey"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

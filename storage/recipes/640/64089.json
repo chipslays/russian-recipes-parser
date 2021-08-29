@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/kukuruza-s-tushenymi-pomidorami/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Кукуруза с тушеными помидорами",
+    "description": "Блюдо быстро готовится, выглядит ярко и аппетитно. Для приготовления кушанья лучше использовать сладковатые плоды с насыщенным цветом и вкусом.",
+    "note": "При подаче посыпать блюдо нарезанным укропом и петрушкой, кинзой.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/30/bb705b02aa3e430_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кукуруза консервированная",
+                    "slug": "kukuruza-konservirovannaya",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Свежие помидоры надрезать, ошпарить, снять кожицу, разрезать плоды пополам, удалить семена, каждую половинку разделить на шесть-восемь частей, это зависит от величины овоща.",
+            "image": null
+        },
+        {
+            "text": "Мелко нарезать лук-репку, потушить с небольшим количеством воды, добавить помидоры, тушить, помешивая, в течение 10 – 15 минут.",
+            "image": null
+        },
+        {
+            "text": "Консервированную кукурузу прогреть в банке, жидкость отцедить через дуршлаг.",
+            "image": null
+        },
+        {
+            "text": "Перемешать теплые зернышки с помидорами, тушить вместе пять минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские вторые блюда",
+            "slug": "vegetarianskie-vtorye-blyuda"
+        },
+        {
+            "name": "Вторые блюда из овощей",
+            "slug": "vtorye-blyuda-iz-ovoschey"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Вторые блюда на скорую руку",
+            "slug": "vtorye-blyuda-na-skoruyu-ruku"
+        },
+        {
+            "name": "Гарнир к курице",
+            "slug": "garnir-k-kurice"
+        },
+        {
+            "name": "Гарнир к мясу",
+            "slug": "garnir-k-myasu"
+        },
+        {
+            "name": "Гарниры",
+            "slug": "garniry"
+        },
+        {
+            "name": "Овощной гарнир",
+            "slug": "ovoschnoy-garnir"
+        },
+        {
+            "name": "Постный ужин",
+            "slug": "postniy-ujin"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Тушеные блюда",
+            "slug": "tushenye-blyuda"
+        },
+        {
+            "name": "Тушеные овощи",
+            "slug": "tushenye-ovoschi"
+        },
+        {
+            "name": "Ужин из овощей",
+            "slug": "ujin-iz-ovoschey"
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "source": "https://vkuso.ru/recipe/afarar-s-zelenyu-i-syrom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Афарар с зеленью и сыром",
+    "description": "Вегетарианская пицца из лезгинской кухни. Быстро, просто и вкусно.",
+    "note": null,
+    "cuisine": "Кавказская кухня",
+    "cuisine_slug": "kavkazskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/3d/63ea31753b17c3d_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "¾",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "сыр мягкий",
+                    "slug": "syr-myagkiy",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "шпинат",
+                    "slug": "shpinat",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "кинза",
+                    "slug": "kinza",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Замесить тесто, накрыть, отставить минут на сорок. Вымыть и просушить зелень, крупно порезать, размешать. В зелень добавить яйцо, размешать.",
+            "image": null
+        },
+        {
+            "text": "Крупно потереть мягкий сыр, положить в зелень. Поделить тесто на кусочки. Раскатать тоненькие лепешки.",
+            "image": null
+        },
+        {
+            "text": "На одну сторону положить начинку, свернуть пополам, залепить. Отправить афарары с зеленью минут на пятнадцать в предварительно разогретую духовку.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Тесто домашнее",
+            "slug": "testo-domashnee"
+        },
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вегетарианская пицца",
+            "slug": "vegetarianskaya-picca"
+        },
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Начинки для пиццы",
+            "slug": "nachinki-dlya-piccy"
+        },
+        {
+            "name": "Пицца",
+            "slug": "picca"
+        },
+        {
+            "name": "Пицца без дрожжей",
+            "slug": "picca-bez-drojjey"
+        },
+        {
+            "name": "Пицца в духовке",
+            "slug": "picca-v-duhovke"
+        },
+        {
+            "name": "Пицца на скорую руку",
+            "slug": "picca-na-skoruyu-ruku"
+        },
+        {
+            "name": "Пицца с сыром",
+            "slug": "picca-s-syrom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Тесто для пиццы без дрожжей",
+            "slug": "testo-dlya-piccy-bez-drojjey"
+        },
+        {
+            "name": "Тесто для пиццы на воде",
+            "slug": "testo-dlya-piccy-na-vode"
+        }
+    ]
+}

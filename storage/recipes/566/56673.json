@@ -1,0 +1,204 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-stroganovskij-s-jogurtovym-sousom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Строгановский» с йогуртовым соусом",
+    "description": "По легенде салат назван в честь графа Строганова, большого любителя застолий и экспериментов в области кулинарии.",
+    "note": "Для заправки этого салата можно использовать растительное масло. Готовое блюдо посыпать рубленой зеленью петрушки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/6b/8e7cd14f42ed26b_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "говядина отварная",
+                    "slug": "govyadina-otvarnaya",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грибы маринованные",
+                    "slug": "griby-marinovannye",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий красный",
+                    "slug": "perec-sladkiy-krasniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": "6",
+                    "type": "перьев",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для соуса",
+            "list": [
+                {
+                    "name": "йогурт",
+                    "slug": "yogurt",
+                    "notes": null,
+                    "value": "&frac23;",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "хрен столовый",
+                    "slug": "hren-stoloviy",
+                    "notes": " (горчица)",
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить постную говядину, нарезать мясо тонкими полосками. Маринованные грибы нарезать брусочками.",
+            "image": null
+        },
+        {
+            "text": "Красный сладкий перец очистить от семян, вымыть, нарезать соломкой. Порезать перья зеленого лука, листья салата – по желанию. Все ингредиенты перемешать.",
+            "image": null
+        },
+        {
+            "text": "Для соуса смешать натуральный йогурт с хреном или готовой столовой горчицей, подлить лимонный сок, всыпать соль и молотый перец. Заправить салат полученным соусом, перемешать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетические салаты",
+            "slug": "dieticheskie-salaty"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат с говядиной",
+            "slug": "salat-s-govyadinoy"
+        },
+        {
+            "name": "Салат с говядиной и болгарским перцем",
+            "slug": "salat-s-govyadinoy-i-bolgarskim-percem"
+        },
+        {
+            "name": "Салат с грибами",
+            "slug": "salat-s-gribami"
+        },
+        {
+            "name": "Салат с йогуртом",
+            "slug": "salat-s-yogurtom"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с маринованными грибами",
+            "slug": "salat-s-marinovannymi-gribami"
+        },
+        {
+            "name": "Салат с мясом и грибами",
+            "slug": "salat-s-myasom-i-gribami"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без майонеза на праздничный стол",
+            "slug": "salaty-bez-mayoneza-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты на скорую руку",
+            "slug": "salaty-na-skoruyu-ruku"
+        },
+        {
+            "name": "Салаты с мясом",
+            "slug": "salaty-s-myasom"
+        }
+    ]
+}

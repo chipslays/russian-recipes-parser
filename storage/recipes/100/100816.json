@@ -1,0 +1,87 @@
+{
+    "source": "https://vkuso.ru/recipe/100816-prostoj-miso-sup-s-vakame-i-tofu/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Простой мисо-суп с вакаме и тофу",
+    "description": "Быстрый и легкий рецепт супа с сырным привкусом.",
+    "note": "Суп-мисо не хранится, его нужно съесть сразу. Вместо сыра тофу можно положить адыгейский сыр.",
+    "cuisine": "Японская кухня",
+    "cuisine_slug": "yaponskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/9f/8b8949db32d7c9f_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "20 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "300",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "тофу",
+                    "slug": "tofu",
+                    "notes": null,
+                    "value": "80",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мисо паста",
+                    "slug": "miso-pasta",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "водоросли вакаме",
+                    "slug": "vodorosli-vakame",
+                    "notes": null,
+                    "value": "7",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В кастрюлю положить сухие водоросли вакаме, варить до кипения.",
+            "image": null
+        },
+        {
+            "text": "Снять с огня, добавить пасту мисо, перемешивать до растворения.",
+            "image": null
+        },
+        {
+            "text": "Разлить суп в тарелки, положить кубики тофу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Мисо суп",
+            "slug": "miso-sup"
+        },
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        }
+    ]
+}

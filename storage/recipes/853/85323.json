@@ -1,0 +1,208 @@
+{
+    "source": "https://vkuso.ru/recipe/85323-salat-kozel-v-ogorode-s-balykom-i-granatom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Козел в огороде» с балыком и гранатом",
+    "description": "Интересное, яркое сочетание цвета и вкуса.",
+    "note": "В салат можно добавить сухарики. Лучше, если балык будет свиным.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ac/19f13eb9208ddac_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "20 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "балык свиной",
+                    "slug": "balyk-svinoy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "капуста",
+                    "slug": "kapusta",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "свекла вареная",
+                    "slug": "svekla-varenaya",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "зерна граната",
+                    "slug": "zerna-granata",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сухарики",
+                    "slug": "suhariki",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук-шалот",
+                    "slug": "luk-shalot",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": " (по желанию)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для маринада",
+            "list": [
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить маринад из лимонного сока, рубленой зелени, соли, сахарного песка, свежей зелени.",
+            "image": null
+        },
+        {
+            "text": "Лук-шалот нарезать полукольцами, положить его в мисочку с маринадом.",
+            "image": null
+        },
+        {
+            "text": "Разрезать гранат пополам, вынуть семена.",
+            "image": null
+        },
+        {
+            "text": "Нашинковать свежую белокочанную капусту, нарезать соломкой балык и вареную свеклу.",
+            "image": null
+        },
+        {
+            "text": "Продукты выложить на блюдо.",
+            "image": null
+        },
+        {
+            "text": "Майонез подать отдельно.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из вареной свеклы",
+            "slug": "salat-iz-varenoy-svekly"
+        },
+        {
+            "name": "Салат из капусты",
+            "slug": "salat-iz-kapusty"
+        },
+        {
+            "name": "Салат из свеклы",
+            "slug": "salat-iz-svekly"
+        },
+        {
+            "name": "Салат Козел в огороде",
+            "slug": "salat-kozel-v-ogorode"
+        },
+        {
+            "name": "Салат с капустой и сухариками",
+            "slug": "salat-s-kapustoy-i-suharikami"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с сухариками",
+            "slug": "salat-s-suharikami"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с гранатом",
+            "slug": "salaty-s-granatom"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты с фруктами",
+            "slug": "salaty-s-fruktami"
+        }
+    ]
+}

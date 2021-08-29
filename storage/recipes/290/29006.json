@@ -1,0 +1,180 @@
+{
+    "source": "https://vkuso.ru/recipe/sharlotka-iz-kapusty-s-bekonom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Шарлотка из капусты с беконом",
+    "description": null,
+    "note": "Для начинки капусту можно не ошпаривать и не варить, а обжарить на сливочном масле до полуготовности.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/17/d7eef599e2eeb17_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "капуста",
+                    "slug": "kapusta",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "1,5",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Дополнительно",
+            "list": [
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "бекон",
+                    "slug": "bekon",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "грибы",
+                    "slug": "griby",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Белокочанную или пекинскую капусту мелко порезать, немного перетереть руками, чтобы стала мягче и дала сок. Если белокочанная капуста жестковата, её можно предварительно залить кипятком на пять минут или поварить 10 минут при слабом кипении. Дать стечь воде, откинуть на дуршлаг. Для теста взбить сырые яйца с сахарным песком, солью и молотым перцем. Добавить пшеничную муку, просеянную вместе с разрыхлителем.",
+            "image": null
+        },
+        {
+            "text": "Тесто должно получиться полужидким. Перемешать тесто с капустой, выложить массу в смазанную маслом или застеленную бумагой форму для выпечки. Затянуть фольгой, печь в духовке в течение 40 минут при температуре 220 градусов. Фольгу снять, шарлотку из капусты допечь до образования румяной золотистой корочки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Быстрые пироги",
+            "slug": "bystrye-pirogi"
+        },
+        {
+            "name": "Быстрые пироги на скорую руку",
+            "slug": "bystrye-pirogi-na-skoruyu-ruku"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка на скорую руку",
+            "slug": "vypechka-na-skoruyu-ruku"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог с капустой",
+            "slug": "pirog-s-kapustoy"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги с начинкой",
+            "slug": "pirogi-s-nachinkoy"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Шарлотка",
+            "slug": "sharlotka"
+        },
+        {
+            "name": "Шарлотка в духовке",
+            "slug": "sharlotka-v-duhovke"
+        },
+        {
+            "name": "Шарлотка с капустой",
+            "slug": "sharlotka-s-kapustoy"
+        }
+    ]
+}

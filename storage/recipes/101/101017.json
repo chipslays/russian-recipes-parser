@@ -1,0 +1,103 @@
+{
+    "source": "https://vkuso.ru/recipe/101017-miso-sup-s-lapshoj-soba-i-vodoroslyami-vakame/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Мисо-суп с лапшой соба и водорослями вакаме",
+    "description": "Простой, быстрый и вкусный японский суп для любителей восточной кухни.",
+    "note": "Суп подать с луком-пореем и мидиями.",
+    "cuisine": "Японская кухня",
+    "cuisine_slug": "yaponskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/90/75dc49541a79290_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 1 порцию",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "тофу",
+                    "slug": "tofu",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "мисо-паста",
+                    "slug": "miso-pasta",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "водоросли вакаме",
+                    "slug": "vodorosli-vakame",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "бульон даши (даси)",
+                    "slug": "bulon-dashi-dasi",
+                    "notes": " (в порошке)",
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лапша гречневая",
+                    "slug": "lapsha-grechnevaya",
+                    "notes": " (соба)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Воду в кастрюле довести до кипения, всыпать порошок даси, перемешать, варить на среднем огне несколько минут.",
+            "image": null
+        },
+        {
+            "text": "Тофу нарезать кубиками, добавить в бульон вместе с заранее размоченными водорослями вакаме.",
+            "image": null
+        },
+        {
+            "text": "Влить разбавленный бульоном мисо, добавить собу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Мисо суп",
+            "slug": "miso-sup"
+        },
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "source": "https://vkuso.ru/recipe/jorkshirskie-pudingi-po-domashnemu/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Йоркширские пудинги по-домашнему",
+    "description": "Еще этот классический американский рецепт называют «Прыгающими булочками».",
+    "note": "Готовые булочки можно нафаршировать творожной начинкой с зеленью или любой другой начинкой.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e8/b23746170d42ae8_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/k5ZCH8rjJBk?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Замесить однородное жидкое тесто из молока, муки, яиц, сахара и соли. Поставить в холодильник на полчаса.",
+            "image": null
+        },
+        {
+            "text": "Разделить сливочное масло на шесть формочек, поставить в духовой шкаф, прогреть до закипания при температуре 220 градусов.",
+            "image": null
+        },
+        {
+            "text": "Быстро разлить тесто и вернуть в духовку. Температуру снизить на 20 градусов, через 15 минут – еще на 20. Еще через 10 минут огонь можно погасить.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Булочки",
+            "slug": "bulochki"
+        },
+        {
+            "name": "Булочки без дрожжей",
+            "slug": "bulochki-bez-drojjey"
+        },
+        {
+            "name": "Булочки на молоке",
+            "slug": "bulochki-na-moloke"
+        },
+        {
+            "name": "Выпечка на молоке",
+            "slug": "vypechka-na-moloke"
+        },
+        {
+            "name": "Домашние булочки",
+            "slug": "domashnie-bulochki"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Пудинги (несладкие)",
+            "slug": "pudingi-nesladkie"
+        }
+    ]
+}

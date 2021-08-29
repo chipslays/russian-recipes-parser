@@ -1,0 +1,225 @@
+{
+    "source": "https://vkuso.ru/recipe/109469-kartofelnye-bitochki-s-farshem-v-smetannom-souse/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Картофельные биточки с фаршем в сметанном соусе",
+    "description": "Нежные котлеты с фаршем в качестве начинки.",
+    "note": "Готовое блюдо украсить листочками свежей зелени.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a5/98ec9ef4ca9a7a5_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/GxnqAMr7MO4?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "7",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "фарш",
+                    "slug": "farsh",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "90",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "приправы",
+                    "slug": "pripravy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для панировки",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сухари панировочные",
+                    "slug": "suhari-panirovochnye",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для соуса",
+            "list": [
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень укропа",
+                    "slug": "zelen-ukropa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить картофель, порубить репчатый лук, спассеровать его на сковороде с маслом.",
+            "image": null
+        },
+        {
+            "text": "Добавить мясной фарш, приправы, перец, соль, жарить все продукты вместе.",
+            "image": null
+        },
+        {
+            "text": "Приготовить из картофеля пюре, добавить яйца и теплое молоко. Масса должна быть плотной.",
+            "image": null
+        },
+        {
+            "text": "Приготовить лепешки, выложить мясную начинку, края завернуть, залепить шов.",
+            "image": null
+        },
+        {
+            "text": "Обмакнуть биточки в яйцо, запанировать в сухарях.",
+            "image": null
+        },
+        {
+            "text": "Выложить на горячую сковороду.",
+            "image": null
+        },
+        {
+            "text": "Жарить с обеих сторон в масле.",
+            "image": null
+        },
+        {
+            "text": "Приготовить соус из рубленого укропа, чеснока, сметаны.",
+            "image": null
+        },
+        {
+            "text": "Массу перемешать при помощи блендера.",
+            "image": null
+        },
+        {
+            "text": "Полить биточки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Биточки",
+            "slug": "bitochki"
+        },
+        {
+            "name": "Биточки из фарша",
+            "slug": "bitochki-iz-farsha"
+        },
+        {
+            "name": "Вторые блюда из картофеля",
+            "slug": "vtorye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Вторые блюда из фарша",
+            "slug": "vtorye-blyuda-iz-farsha"
+        },
+        {
+            "name": "Картофельные биточки",
+            "slug": "kartofelnye-bitochki"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Картошка с фаршем",
+            "slug": "kartoshka-s-farshem"
+        },
+        {
+            "name": "Мясные биточки",
+            "slug": "myasnye-bitochki"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        }
+    ]
+}

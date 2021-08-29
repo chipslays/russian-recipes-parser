@@ -1,0 +1,172 @@
+{
+    "source": "https://vkuso.ru/recipe/muss-limonnyj-vostorg/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Мусс «Лимонный восторг»",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e2/b516d0625719ce2_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "110",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "¾",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "цедра лимона",
+                    "slug": "cedra-limona",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для взбитых сливок",
+            "list": [
+                {
+                    "name": "сливки жирные",
+                    "slug": "slivki-jirnye",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Залить желатин водой, дать постоять минут 10.",
+            "image": null
+        },
+        {
+            "text": "Растопить масло, убрать с плиты, всыпать сахар, лимонную цедру, подсолить, влить лимонный сок, перемешать, добавить желтки, взбить.",
+            "image": null
+        },
+        {
+            "text": "Смесь нагреть на малом огне, варить помешивая до загущения, но кипеть не давать.",
+            "image": null
+        },
+        {
+            "text": "Положить желатин, размешать, дать хорошо остыть.",
+            "image": null
+        },
+        {
+            "text": "Взбить блендером сахар и сливки до появления крепких пиков.",
+            "image": null
+        },
+        {
+            "text": "Половину смеси осторожно смешать с лимонным муссом, разложить по креманкам, сверху уложить оставшуюся часть сливок.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерты с желатином",
+            "slug": "deserty-s-jelatinom"
+        },
+        {
+            "name": "Мусс",
+            "slug": "muss"
+        },
+        {
+            "name": "На десерт",
+            "slug": "na-desert"
+        },
+        {
+            "name": "Новогодние десерты",
+            "slug": "novogodnie-deserty"
+        },
+        {
+            "name": "Праздничные десерты",
+            "slug": "prazdnichnye-deserty"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Фруктово-ягодные десерты",
+            "slug": "fruktovo-yagodnye-deserty"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

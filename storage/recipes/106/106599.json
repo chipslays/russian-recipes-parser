@@ -1,0 +1,107 @@
+{
+    "source": "https://vkuso.ru/recipe/106599-pashtet-iz-kurinoj-pecheni-so-slivkami-i-maslom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Паштет из куриной печени со сливками и маслом",
+    "description": "Закуска без овощей, нежная и насыщенная.",
+    "note": "Перед подачей закуску поставить в холодильник.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/bb/addac35bd4123bb_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/iFgPJtsvVz0?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 8 порции",
+            "list": [
+                {
+                    "name": "куриная печень",
+                    "slug": "kurinaya-pechen",
+                    "notes": null,
+                    "value": "550",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки жирные",
+                    "slug": "slivki-jirnye",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "½",
+                    "type": "пачки",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Куриную печень нарезать кусками, обжарить со всех сторон на жире на сильном огне.",
+            "image": null
+        },
+        {
+            "text": "Нагрев уменьшить, продукт потушить еще двенадцать или пятнадцать минут под крышкой.",
+            "image": null
+        },
+        {
+            "text": "Готовую печень поперчить, посолить по вкусу, добавить любимые специи.",
+            "image": null
+        },
+        {
+            "text": "Влить сливки, потушить несколько минут, обжарка должна загустеть.",
+            "image": null
+        },
+        {
+            "text": "Добавить мягкое сливочное масло, ингредиенты превратить в паштет блендером.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Куриный паштет",
+            "slug": "kuriniy-pashtet"
+        },
+        {
+            "name": "Мясной паштет",
+            "slug": "myasnoy-pashtet"
+        },
+        {
+            "name": "Паштет из куриной печени",
+            "slug": "pashtet-iz-kurinoy-pecheni"
+        },
+        {
+            "name": "Паштет из печени",
+            "slug": "pashtet-iz-pecheni"
+        },
+        {
+            "name": "Паштеты",
+            "slug": "pashtety"
+        }
+    ]
+}

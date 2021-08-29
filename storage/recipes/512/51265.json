@@ -1,0 +1,132 @@
+{
+    "source": "https://vkuso.ru/recipe/proteinovyj-blinnyj-tort-s-tvorozhnoj-nachinkoj/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Протеиновый блинный торт с творожной начинкой",
+    "description": "Блинный торт с клубнично-протеиновой начинкой, ингредиенты можно варьировать в зависимости от настроения и вкусовых предпочтений.",
+    "note": "В начинку можно добавить любые свежие или размороженные ягоды или фрукты, рубленые орехи.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5c/4de3301fddd2d5c_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "протеин шоколадный",
+                    "slug": "protein-shokoladniy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для блинчиков",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "протеин клубничный",
+                    "slug": "protein-klubnichniy",
+                    "notes": null,
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Смешать шоколадный протеин, белок, немного воды, добавить, по желанию, стевию.",
+            "image": null
+        },
+        {
+            "text": "Выпечь блинчики на сковороде с антипригарным покрытием.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления крема перемешать с помощью блендера клубничный протеин, творог, кефир.",
+            "image": null
+        },
+        {
+            "text": "Полученным кремом промазать готовые блины, верх украсить тертым темным шоколадом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блинный торт",
+            "slug": "blinniy-tort"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетические десерты",
+            "slug": "dieticheskie-deserty"
+        },
+        {
+            "name": "Диетический торт",
+            "slug": "dieticheskiy-tort"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        },
+        {
+            "name": "Творожный торт",
+            "slug": "tvorojniy-tort"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

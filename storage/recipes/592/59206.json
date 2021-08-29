@@ -1,0 +1,227 @@
+{
+    "source": "https://vkuso.ru/recipe/svinye-otbivnye-pod-shubkoj-v-duxovke/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Свиные отбивные под шубкой в духовке",
+    "description": "Котлеты в овощной «оболочке», оригинальное блюдо из простых продуктов.",
+    "note": "Подать блюдо можно с любым гарниром, салатом, нарезкой из свежих овощей, соленьями и маринадами.",
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/79/b3e3852786eab79_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "свинина",
+                    "slug": "svinina",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Свинину нарезать на тонкие ломтики, толщина не должна превышать один сантиметр, для этого понадобится очень острый нож. Отбить мясо молотком, посолить и поперчить по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Для шубы репчатый лук очистить, нарезать маленькими кубиками. Клубни картофеля также очистить от кожуры и натереть на крупной терке. Лишнюю жидкость слить.",
+            "image": null
+        },
+        {
+            "text": "Овощи смешать, вбить сырые куриные яйца, всыпать пшеничную муку, соль, перец, влить сметану, добавить давленый чеснок. Массу перемешать.",
+            "image": null
+        },
+        {
+            "text": "Налить в сковороду растительное масло. Отбивные обвалять в полученной смеси и жарить с двух сторон до готовности, должна образоваться золотистая корочка.",
+            "image": null
+        },
+        {
+            "text": "Почти готовые свиные отбивные под шубкой выложить в форму для запекания, намазать сметаной, печь в духовке в течение 15–20 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Вторые блюда из свинины",
+            "slug": "vtorye-blyuda-iz-svininy"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Картошка в духовке",
+            "slug": "kartoshka-v-duhovke"
+        },
+        {
+            "name": "Картошка с мясом в духовке",
+            "slug": "kartoshka-s-myasom-v-duhovke"
+        },
+        {
+            "name": "Мясо в духовке",
+            "slug": "myaso-v-duhovke"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Овощи на сковороде",
+            "slug": "ovoschi-na-skovorode"
+        },
+        {
+            "name": "Отбивные",
+            "slug": "otbivnye"
+        },
+        {
+            "name": "Отбивные в духовке",
+            "slug": "otbivnye-v-duhovke"
+        },
+        {
+            "name": "Отбивные из свинины",
+            "slug": "otbivnye-iz-svininy"
+        },
+        {
+            "name": "Отбивные из свинины в духовке",
+            "slug": "otbivnye-iz-svininy-v-duhovke"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Свинина в духовке",
+            "slug": "svinina-v-duhovke"
+        },
+        {
+            "name": "Свинина с картошкой",
+            "slug": "svinina-s-kartoshkoy"
+        },
+        {
+            "name": "Свинина с картошкой в духовке",
+            "slug": "svinina-s-kartoshkoy-v-duhovke"
+        },
+        {
+            "name": "Свинина с луком",
+            "slug": "svinina-s-lukom"
+        },
+        {
+            "name": "Свинина с овощами",
+            "slug": "svinina-s-ovoschami"
+        },
+        {
+            "name": "Сковорода",
+            "slug": "skovoroda"
+        },
+        {
+            "name": "Сочные отбивные из свинины на сковороде",
+            "slug": "sochnye-otbivnye-iz-svininy-na-skovorode"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из свинины",
+            "slug": "ujin-iz-svininy"
+        }
+    ]
+}

@@ -1,0 +1,283 @@
+{
+    "source": "https://vkuso.ru/recipe/pirog-s-nachinkoj-iz-kuricy-v-souse/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пирог с начинкой из курицы в соусе",
+    "description": null,
+    "note": "Чтобы пирог стал мягче, смазать его после приготовления сливочным маслом и ненадолго отставить.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/35/73fa27ce2411e35_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для опары",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для смазки",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соус бешамель",
+                    "slug": "sous-beshamel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "перец белый молотый",
+                    "slug": "perec-beliy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "мускатный орех",
+                    "slug": "muskatniy-oreh",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Положить в теплую воду сахар и дрожжи. Размешать и минут на пятнадцать оставить, чтобы дрожжи ожили. Положить масло, сметану, вбить яйцо, посыпать солью. Размешать венчиком. Медленно насыпать муку, замесить тесто. Подождать пока оно поднимется. Отварить курицу, порезать мясо кубиками. Приготовить соус «Бешамель»: растопить в сковороде сливочное масло.",
+            "image": null
+        },
+        {
+            "text": "Высыпать муку, хорошенько помешать, чтобы исчезли комочки, использовать деревянную лопатку. Налить горячее молоко или бульон, где варилось мясо небольшими порциями. Каждый раз размешивать, посыпать мускатным орехом, перцем, солью. Несколько минут поварить, после этого процедить, чтобы избавиться от комков, если они есть.",
+            "image": null
+        },
+        {
+            "text": "Соединить мясо, приготовленный соус и измельченную зелень. Выложить тесто на стол, посыпанный мукой, чуть-чуть помесить, разделить пополам, чтобы один кусочек был немного больше другого. Кусок, который побольше, положить в формочку, смазанную маслом и посыпанную мукой, распределить равномерно, сделать бортики, положить начинку, утрамбовать.",
+            "image": null
+        },
+        {
+            "text": "Растянуть кусок поменьше, уложить на начинку, защипнуть краешки, в середине сделать отверстие. Отставить минут на двадцать, чтобы расстоялся. Намазать молоком или желтком. Готовить пирог с начинкой из курицы в соусе  при температуре 180 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Выпечка с орехами",
+            "slug": "vypechka-s-orehami"
+        },
+        {
+            "name": "Закрытый пирог",
+            "slug": "zakrytiy-pirog"
+        },
+        {
+            "name": "Курник",
+            "slug": "kurnik"
+        },
+        {
+            "name": "Пирог на молоке",
+            "slug": "pirog-na-moloke"
+        },
+        {
+            "name": "Пирог с орехами",
+            "slug": "pirog-s-orehami"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги из дрожжевого теста",
+            "slug": "pirogi-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Пироги с курицей",
+            "slug": "pirogi-s-kuricey"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

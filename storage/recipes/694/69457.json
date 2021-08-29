@@ -1,0 +1,315 @@
+{
+    "source": "https://vkuso.ru/recipe/kus-kus-s-kuricej-ovoshhami-i-speciyami/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Кус-кус с курицей, овощами и специями",
+    "description": "Одно из популярнейших блюд в Марокко. Его можно готовить не только с курицей, но и с рыбой, и с бараниной. Для удобства приготовления требуется специальная кастрюля, в верхней части готовится кус-кус, а в нижней мясо с овощами. Но можно готовить мясо с овощами и в обычной, только кус-кусу нужна будет пароварка, выстланная фольгой с большим количеством дырочек, для прохождения пара. Кус-кус для приготовления лучше брать натуральный, который надо готовить над паром, а не тот, который надо заваривать кипятком. Это как воздушное домашнее пюре и картофельная «масса» из термостаканчика.",
+    "note": null,
+    "cuisine": "Марокканская кухня",
+    "cuisine_slug": "marokkanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ba/e13665e32f8daba_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "курица",
+                    "slug": "kurica",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кабачки",
+                    "slug": "kabachki",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кускус",
+                    "slug": "kuskus",
+                    "notes": null,
+                    "value": "3",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "редька",
+                    "slug": "redka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук-порей",
+                    "slug": "luk-porey",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сельдерей",
+                    "slug": "selderey",
+                    "notes": null,
+                    "value": "3",
+                    "type": "стебля",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": " (масло растительное)",
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "тыква",
+                    "slug": "tykva",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "нут",
+                    "slug": "nut",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "изюм",
+                    "slug": "izyum",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "гвоздика",
+                    "slug": "gvozdika",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный горошком",
+                    "slug": "perec-cherniy-goroshkom",
+                    "notes": null,
+                    "value": "6-8",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кумин",
+                    "slug": "kumin",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "паприка",
+                    "slug": "paprika",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": " (для кускус)",
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "орегано",
+                    "slug": "oregano",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "куркума",
+                    "slug": "kurkuma",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "кориандр",
+                    "slug": "koriandr",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мускатный орех",
+                    "slug": "muskatniy-oreh",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "имбирь молотый",
+                    "slug": "imbir-molotiy",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Порезать курицу на куски, срезать жир.",
+            "image": null
+        },
+        {
+            "text": "Сельдерей нарезать кубиками, порей – полукольцами, лук – кубиками.",
+            "image": null
+        },
+        {
+            "text": "Все сложить в одну кастрюлю, приправить специями, перемешать, залить водой, влить 3 ст. л. масла, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Варить под крышкой, нагрев уменьшить до среднего, когда вода закипит.",
+            "image": null
+        },
+        {
+            "text": "За время варки приготовить кус-кус: засыпать в миску, залить подсоленной водой, добавить ст. л. масла, оставить набухать (около 7 минут).",
+            "image": null
+        },
+        {
+            "text": "Потом переместить в пароварку, осторожно сделать углубления пальцем, готовить около получаса.",
+            "image": null
+        },
+        {
+            "text": "Подготовить и очистить морковь, редьку, кабачки.",
+            "image": null
+        },
+        {
+            "text": "Тыкву порезать брусочками.",
+            "image": null
+        },
+        {
+            "text": "Остальные овощи четвертинками (пополам, а потом каждую на части), кусочки должны быть примерно одного размера.",
+            "image": null
+        },
+        {
+            "text": "Первой отправить в кастрюлю морковь, далее, через минут 5 – редька, потом, через 5 минут – кабачки и тыкву, варить под крышкой.",
+            "image": null
+        },
+        {
+            "text": "Кус-кус пересыпать в таз, размешать до исчезновения всех кусочков, даже самых маленьких.",
+            "image": null
+        },
+        {
+            "text": "Добавить сливочное масло, размешать еще раз.",
+            "image": null
+        },
+        {
+            "text": "Когда он остынет перетереть с небольшим усилием между ладонями примерно 5 минут.",
+            "image": null
+        },
+        {
+            "text": "Вернуть кус-кус в пароварку.",
+            "image": null
+        },
+        {
+            "text": "На большое широкое блюдо выложить кус-кус с курицей, овощами и специями.",
+            "image": null
+        },
+        {
+            "text": "Кус-кус уложить по центру горкой, вокруг него овощи, а сверху куски курицы.",
+            "image": null
+        },
+        {
+            "text": "Отдельно подать бульон, разлив его по пиалам.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из бобовых",
+            "slug": "vtorye-blyuda-iz-bobovyh"
+        },
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Вторые блюда с тыквой",
+            "slug": "vtorye-blyuda-s-tykvoy"
+        },
+        {
+            "name": "Курица с кабачками",
+            "slug": "kurica-s-kabachkami"
+        },
+        {
+            "name": "Курица с овощами",
+            "slug": "kurica-s-ovoschami"
+        }
+    ]
+}

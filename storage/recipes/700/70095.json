@@ -1,0 +1,95 @@
+{
+    "source": "https://vkuso.ru/recipe/klassicheskij-maslyanyj-krem-so-sgushhenkoj-i-vanilinom/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Классический масляный крем со сгущенкой и ванилином",
+    "description": "Недорогой, популярный крем.",
+    "note": "Крем можно использовать для приготовления торта, пирожного, вафельных трубочек, печенья.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d0/e5353e60263afd0_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/pk-MUKAtM7U?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пачка",
+                    "amount": null
+                },
+                {
+                    "name": "молоко сгущенное",
+                    "slug": "moloko-sguschennoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "сахар ванильный",
+                    "slug": "sahar-vanilniy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "пакетика",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Подержать сливочное масло при комнатной температуре.",
+            "image": null
+        },
+        {
+            "text": "Взбить масло при помощи блендера или миксера в пышную массу.",
+            "image": null
+        },
+        {
+            "text": "Добавить ванильный сахар из пакетика.",
+            "image": null
+        },
+        {
+            "text": "Ингредиенты еще раз взбить.",
+            "image": null
+        },
+        {
+            "text": "Влить сгущенку небольшими порциями.",
+            "image": null
+        },
+        {
+            "text": "Масса будет густеть и станет еще более пышной.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Крем",
+            "slug": "krem"
+        },
+        {
+            "name": "Крем для пирожных",
+            "slug": "krem-dlya-pirojnyh"
+        },
+        {
+            "name": "Крем для торта",
+            "slug": "krem-dlya-torta"
+        },
+        {
+            "name": "Крем из сгущенки",
+            "slug": "krem-iz-sguschenki"
+        },
+        {
+            "name": "Масляный крем",
+            "slug": "maslyaniy-krem"
+        }
+    ]
+}

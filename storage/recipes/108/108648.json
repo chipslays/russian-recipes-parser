@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/108648-salat-s-kuricej-i-redkoj-po-uzbekski/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат с курицей и редькой по-узбекски",
+    "description": "Зеленая редька популярна не только в России, но и в странах Азии.",
+    "note": "Чтобы сделать вкус блюда более ярким, в салат можно добавить чеснок и молотый красный перец.",
+    "cuisine": "Узбекская кухня",
+    "cuisine_slug": "uzbekskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/68/67f0c601adfc168_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час 15 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/DwkbapOpwVQ?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "курица",
+                    "slug": "kurica",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "редька зеленая",
+                    "slug": "redka-zelenaya",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук белый",
+                    "slug": "luk-beliy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить курицу или другое мясо, остудить, разобрать руками на волокна.",
+            "image": null
+        },
+        {
+            "text": "Зеленую редьку очистить, натереть, добавить к мясу.",
+            "image": null
+        },
+        {
+            "text": "Репчатый лук нарезать полукольцами, обжарить на сковороде.",
+            "image": null
+        },
+        {
+            "text": "Добавить в салат в горячем виде. Хорошо перемешать.",
+            "image": null
+        },
+        {
+            "text": "Блюдо посолить по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Приготовить заправку из равных частей майонеза и сметаны.",
+            "image": null
+        },
+        {
+            "text": "Перемешать салат еще раз.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат с курицей",
+            "slug": "salat-s-kuricey"
+        },
+        {
+            "name": "Салат с курицей и овощами",
+            "slug": "salat-s-kuricey-i-ovoschami"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салаты из редьки",
+            "slug": "salaty-iz-redki"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты со сметаной",
+            "slug": "salaty-so-smetanoy"
+        }
+    ]
+}

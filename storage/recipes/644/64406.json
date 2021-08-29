@@ -1,0 +1,175 @@
+{
+    "source": "https://vkuso.ru/recipe/sup-gaspacho-s-sousom-tabasko/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Суп Гаспачо с соусом Табаско",
+    "description": "Легкий холодный суп родом из Испании. Подают его охлажденным с дроблеными кусочками льда, но перед подачей обязательно надо настоять часа 3-4.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e5/4a072551e1311e5_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/DUQns8l-8ks?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "томатный сок",
+                    "slug": "tomatniy-sok",
+                    "notes": null,
+                    "value": "750",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "460",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "уксус винный красный",
+                    "slug": "uksus-vinniy-krasniy",
+                    "notes": null,
+                    "value": "80",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "40",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кинза",
+                    "slug": "kinza",
+                    "notes": null,
+                    "value": "½",
+                    "type": "кружки",
+                    "amount": null
+                },
+                {
+                    "name": "соус Табаско",
+                    "slug": "sous-tabasko",
+                    "notes": null,
+                    "value": "5",
+                    "type": "капель",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Помидоры поместить в кипяток, а потом сразу окатить холодной водой, очистить от шкурки.",
+            "image": null
+        },
+        {
+            "text": "Половину из них мелко нарезать.",
+            "image": null
+        },
+        {
+            "text": "Порезать огурец, сложить кусочки в чашу блендера, измельчить, поперчить, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Нашинковать мелко кинзу, перемешать с томатным соком, добавить масло с уксусом и табаско, хорошо перемешать.",
+            "image": null
+        },
+        {
+            "text": "Остатки овощей нашинковать на мелкие кусочки, перемешать все с томатом, если надо, то подсолить.",
+            "image": null
+        },
+        {
+            "text": "Убрать суп Гаспачо с соусом Табаско в холодильник настояться.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Гаспачо",
+            "slug": "gaspacho"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Постный овощной суп",
+            "slug": "postniy-ovoschnoy-sup"
+        },
+        {
+            "name": "Постный суп",
+            "slug": "postniy-sup"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Холодные супы",
+            "slug": "holodnye-supy"
+        }
+    ]
+}

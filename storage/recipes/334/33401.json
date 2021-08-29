@@ -1,0 +1,184 @@
+{
+    "source": "https://vkuso.ru/recipe/kolcevoj-pirog-s-vishnej-na-kefire/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Кольцевой пирог с вишней на кефире",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/54/902c351de6afa54_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "маргарин",
+                    "slug": "margarin",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "5",
+                    "type": "стаканов",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "вишня без косточек",
+                    "slug": "vishnya-bez-kostochek",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Перемешать пищевую соду с пшеничной мукой, перетереть массу руками в крошку с охлажденным и нарезанным маргарином. Влить кефир, замесить тесто, сделать это быстро, чтобы масса не успела согреться. Положить тесто на час в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Часть теста отделить, раскатать в тонкий пласт прямоугольной формы. Нарезать его на полоски, ширина – 8 мм, можно сделать это с помощью ножа для пиццы. Разложить на каждой полоске вишенки без косточек, близко друг к другу, посыпать ягоды сахаром. Защипнуть края теста.",
+            "image": null
+        },
+        {
+            "text": "Готовые «трубочки» свернуть «улитками», каждую соединить со следующей, в единую полоску, одновременно сворачивая в спираль. Делать это нужно уже на застеленном бумагой противне или в форме из силикона. Печь кольцевой пирог с вишней при температуре 180 градусов в течение получаса. При подаче выпечку посыпать сахарной пудрой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка для детей",
+            "slug": "vypechka-dlya-detey"
+        },
+        {
+            "name": "Выпечка на кефире",
+            "slug": "vypechka-na-kefire"
+        },
+        {
+            "name": "Выпечка на маргарине",
+            "slug": "vypechka-na-margarine"
+        },
+        {
+            "name": "Выпечка с вишней",
+            "slug": "vypechka-s-vishney"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Детский праздник",
+            "slug": "detskiy-prazdnik"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог без яиц",
+            "slug": "pirog-bez-yaic"
+        },
+        {
+            "name": "Пирог на кефире",
+            "slug": "pirog-na-kefire"
+        },
+        {
+            "name": "Пирог на кефире в духовке",
+            "slug": "pirog-na-kefire-v-duhovke"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги с вишней",
+            "slug": "pirogi-s-vishney"
+        },
+        {
+            "name": "Пироги с фруктами",
+            "slug": "pirogi-s-fruktami"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Сладкие пироги",
+            "slug": "sladkie-pirogi"
+        }
+    ]
+}

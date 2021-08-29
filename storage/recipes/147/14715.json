@@ -1,0 +1,156 @@
+{
+    "source": "https://vkuso.ru/recipe/pirozhki-na-smetane-s-plavlenym-syrom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пирожки на сметане с плавленым сыром",
+    "description": "Первый плавленый сыр появился в 1911 году. Его придумали два швейцарца, ученые - пищевики, Вальтер Гербер и Фриц Штеттлер, работавшие на оборонную промышленность. Добавка солей лимонной кислоты не давала портиться этому продукту.",
+    "note": "Вместо обжаренного репчатого лука в начинку можно добавить свежий рубленый зеленый лук.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/02/35bbb08e6a2b702_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "3",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "сыр плавленый",
+                    "slug": "syr-plavleniy",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "головки",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Замесить тесто из пшеничной муки, растопленного сливочного масла, соды, погашенной уксусом или лимонным соком, и густой сметаны. Замесить и оставить на полчаса для набухания клейковины.",
+            "image": null
+        },
+        {
+            "text": "Порубить и обжарить репчатый лук, натереть плавленые сырки и смешать с яйцами. Все ингредиенты перемешать. Сформовать небольшие пирожки любой формы. Уложить пирожки с плавленым сыром на смазанный противень и выпечь до готовности.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка с сыром",
+            "slug": "vypechka-s-syrom"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Несладкая выпечка",
+            "slug": "nesladkaya-vypechka"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки без дрожжей",
+            "slug": "pirojki-bez-drojjey"
+        },
+        {
+            "name": "Пирожки в духовке",
+            "slug": "pirojki-v-duhovke"
+        },
+        {
+            "name": "Пирожки с зеленым луком и яйцом",
+            "slug": "pirojki-s-zelenym-lukom-i-yaycom"
+        },
+        {
+            "name": "Пирожки с луком",
+            "slug": "pirojki-s-lukom"
+        },
+        {
+            "name": "Пирожки с сыром",
+            "slug": "pirojki-s-syrom"
+        },
+        {
+            "name": "Пирожки с яйцом",
+            "slug": "pirojki-s-yaycom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "source": "https://vkuso.ru/recipe/uxa-s-sudakom-i-kuricej/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Уха с судаком и курицей",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ee/8803b262d86b6ee_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "судак",
+                    "slug": "sudak",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "курица",
+                    "slug": "kurica",
+                    "notes": null,
+                    "value": "300-500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный горошком",
+                    "slug": "perec-cherniy-goroshkom",
+                    "notes": null,
+                    "value": "6-7",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Помыть курицу, снять кожу, положить в объемную кастрюлю, залить водой, дать закипеть, уменьшить нагрев, варить пока мясо не будет готово.",
+            "image": null
+        },
+        {
+            "text": "Порезать картофель и морковь на небольшие кубики, луковицу – пополам, корни петрушки – ломтиками.",
+            "image": null
+        },
+        {
+            "text": "Вынуть курицу, добавить в бульон овощи, дать закипеть, уменьшить нагрев, варить четверть часа, присолить.",
+            "image": null
+        },
+        {
+            "text": "Положить нарезанное на куски филе судака в кастрюлю с овощами, сдобрить лавровым листом и горошинами черного перца, проварить треть часа до готовности рыбы.",
+            "image": null
+        },
+        {
+            "text": "Для пикантности в уху с судаком и курицей можно добавить пару столовых ложек белого вина. Достать лук, перец, лавровый лист. Разлить дымящуюся уху по тарелкам, присыпать порубленным укропом и подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Рыбный суп",
+            "slug": "rybniy-sup"
+        },
+        {
+            "name": "Уха",
+            "slug": "uha"
+        },
+        {
+            "name": "Уха из судака",
+            "slug": "uha-iz-sudaka"
+        }
+    ]
+}

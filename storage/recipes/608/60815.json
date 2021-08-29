@@ -1,0 +1,247 @@
+{
+    "source": "https://vkuso.ru/recipe/sloenaya-kurica-s-brokkoli/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Слоеная курица с брокколи",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c2/5cbb42e6c5043c2_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "210",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "брокколи",
+                    "slug": "brokkoli",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "йогурт натуральный",
+                    "slug": "yogurt-naturalniy",
+                    "notes": null,
+                    "value": "6",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соус соевый",
+                    "slug": "sous-soeviy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "горчица дижонская",
+                    "slug": "gorchica-dijonskaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Капусту залить водой, посолить, отварить до готовности, можно использовать как свежий, так и замороженный продукт.",
+            "image": null
+        },
+        {
+            "text": "Жидкость слить, измельчить в пюре с помощью блендера.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления соуса перемешать домашний натуральный йогурт, дижонскую горчицу и соевый соус. По желанию добавить перец и соль.",
+            "image": null
+        },
+        {
+            "text": "Куриное филе разрезать на две части вдоль, отбить через пищевую пленку, посолить и поперчить.",
+            "image": null
+        },
+        {
+            "text": "Треть соуса перемешать с овощным пюре.",
+            "image": null
+        },
+        {
+            "text": "Одну отбивную переложить в форму для запекания, промазать полученным соусом, пюре распределить сверху.",
+            "image": null
+        },
+        {
+            "text": "Накрыть блюдо сверху оставшейся отбивной, залить остатками соуса.",
+            "image": null
+        },
+        {
+            "text": "Духовку разогреть до температуры 200 градусов, запекать кушанье в течение 30 – 40 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Горячие блюда на день рождения",
+            "slug": "goryachie-blyuda-na-den-rojdeniya"
+        },
+        {
+            "name": "Горячие блюда на праздничный стол",
+            "slug": "goryachie-blyuda-na-prazdnichniy-stol"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Диетическая куриная грудка",
+            "slug": "dieticheskaya-kurinaya-grudka"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Запеченное куриное филе",
+            "slug": "zapechennoe-kurinoe-file"
+        },
+        {
+            "name": "Запеченные блюда",
+            "slug": "zapechennye-blyuda"
+        },
+        {
+            "name": "Куриное филе в духовке",
+            "slug": "kurinoe-file-v-duhovke"
+        },
+        {
+            "name": "Куриное филе в соусе",
+            "slug": "kurinoe-file-v-souse"
+        },
+        {
+            "name": "Куриное филе с овощами",
+            "slug": "kurinoe-file-s-ovoschami"
+        },
+        {
+            "name": "Куриные отбивные",
+            "slug": "kurinye-otbivnye"
+        },
+        {
+            "name": "Курица в духовке",
+            "slug": "kurica-v-duhovke"
+        },
+        {
+            "name": "Курица на Новый Год",
+            "slug": "kurica-na-noviy-god"
+        },
+        {
+            "name": "Курица с капустой",
+            "slug": "kurica-s-kapustoy"
+        },
+        {
+            "name": "Курица с овощами",
+            "slug": "kurica-s-ovoschami"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Отбивные",
+            "slug": "otbivnye"
+        },
+        {
+            "name": "Отбивные в духовке",
+            "slug": "otbivnye-v-duhovke"
+        },
+        {
+            "name": "Отбивные из куриного филе",
+            "slug": "otbivnye-iz-kurinogo-file"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Птица на Новый год",
+            "slug": "ptica-na-noviy-god"
+        },
+        {
+            "name": "Ужин из капусты",
+            "slug": "ujin-iz-kapusty"
+        },
+        {
+            "name": "Ужин из куриного филе",
+            "slug": "ujin-iz-kurinogo-file"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

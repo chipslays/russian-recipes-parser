@@ -1,0 +1,171 @@
+{
+    "source": "https://vkuso.ru/recipe/bulochki-achma-k-chayu/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Булочки «Ачма» к чаю",
+    "description": "У каждой хозяйки имеется свой рецепт дрожжевого теста. Но хочется иметь рецепт универсального теста, которое подходит для булочек, пирожков и сладких пирогов. Это тот самый рецепт! Тесто всегда получается пышное, а выпечка воздушная.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/df/783ebdd47a7f7df_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100-150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "10-30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "5",
+                    "type": "стаканов",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "кунжут",
+                    "slug": "kunjut",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "изюм",
+                    "slug": "izyum",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В теплом молоке развести дрожжи, сахар и щепотку соли. Оставить в теплом месте на 30 минут, пока опара не увеличится в 2 раза. Когда в тесте образуется «воронка», значит, опара готова. Добавить стакан подсолнечного масла и просеянную муку. Вымешивать до однородного состояния. Тесто поставить в теплое место, чтобы оно поднялось.",
+            "image": null
+        },
+        {
+            "text": "Пока подходит тесто, следует замочить изюм горячей водой, затем просушить. Взять небольшую часть теста, раскатать в пласт, смазать растопленным сливочным маслом и посыпать изюмом. Скатать в рулет и нарезать острым ножом на небольшие кусочки.",
+            "image": null
+        },
+        {
+            "text": "Противень смазать растительным маслом, выложить булочки. Каждую смазать взбитым яйцом и посыпать кунжутом. Оставить на противне в теплом месте на 20-30 минут, чтобы булочки «подошли». Затем противень поставить в горячую духовку на 30 минут. Пышные булочки «Ачма» с румяной корочкой готовы.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Булочки",
+            "slug": "bulochki"
+        },
+        {
+            "name": "Булочки на молоке",
+            "slug": "bulochki-na-moloke"
+        },
+        {
+            "name": "Булочки с изюмом",
+            "slug": "bulochki-s-izyumom"
+        },
+        {
+            "name": "Булочки с кунжутом",
+            "slug": "bulochki-s-kunjutom"
+        },
+        {
+            "name": "Булочки с сахаром",
+            "slug": "bulochki-s-saharom"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка для детей",
+            "slug": "vypechka-dlya-detey"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка с изюмом",
+            "slug": "vypechka-s-izyumom"
+        },
+        {
+            "name": "Домашние булочки",
+            "slug": "domashnie-bulochki"
+        },
+        {
+            "name": "Дрожжевые булочки",
+            "slug": "drojjevye-bulochki"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        }
+    ]
+}

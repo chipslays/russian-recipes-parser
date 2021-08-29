@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/103796-brusketta-s-cherri-i-tvorozhnym-syrom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Брускетта с черри и творожным сыром",
+    "description": "Простые теплые бутерброды для завтрака.",
+    "note": "Бутерброды украсить целыми листочками базилика.",
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f4/92785eb1ea853f4_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "15 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "багет",
+                    "slug": "baget",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры черри",
+                    "slug": "pomidory-cherri",
+                    "notes": null,
+                    "value": "6-8",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр творожный",
+                    "slug": "syr-tvorojniy",
+                    "notes": null,
+                    "value": "4-5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соус песто",
+                    "slug": "sous-pesto",
+                    "notes": null,
+                    "value": "4-5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "листья базилика",
+                    "slug": "listya-bazilika",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Хлеб нарезать, побрызгать оливковым маслом, запечь в духовом шкафу при температуре 170 градусов.",
+            "image": null
+        },
+        {
+            "text": "Помидоры черри разрезать пополам.",
+            "image": null
+        },
+        {
+            "text": "Ломтики багета смазать творожным сыром и готовым соусом «Песто».",
+            "image": null
+        },
+        {
+            "text": "Выложить помидоры.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Брускетта",
+            "slug": "brusketta"
+        },
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды в дорогу",
+            "slug": "buterbrody-v-dorogu"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды на природу",
+            "slug": "buterbrody-na-prirodu"
+        },
+        {
+            "name": "Бутерброды на скорую руку",
+            "slug": "buterbrody-na-skoruyu-ruku"
+        },
+        {
+            "name": "Бутерброды открытые",
+            "slug": "buterbrody-otkrytye"
+        },
+        {
+            "name": "Бутерброды с помидорами",
+            "slug": "buterbrody-s-pomidorami"
+        },
+        {
+            "name": "Бутерброды с помидорами и сыром",
+            "slug": "buterbrody-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Бутерброды с творожным сыром",
+            "slug": "buterbrody-s-tvorojnym-syrom"
+        },
+        {
+            "name": "Закуски на скорую руку",
+            "slug": "zakuski-na-skoruyu-ruku"
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "source": "https://vkuso.ru/recipe/sytnyj-kystybyj-s-kartofelem-i-lukom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Сытный кыстыбый с картофелем и луком",
+    "description": null,
+    "note": null,
+    "cuisine": "Татарская кухня",
+    "cuisine_slug": "tatarskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5c/30705768d59845c_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50-70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "3",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "картофельное пюре",
+                    "slug": "kartofelnoe-pyure",
+                    "notes": null,
+                    "value": "1,5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Обжарить нашинкованный кольцами лук в масле до изменения цвета, мелко порезать перья зеленого лука, смешать все с картофельным пюре. Просеять в большую миску муку с добавлением растительного масла и соли, залить кипятком, быстро перемешать до образования комка теста. Дать массе слегка остыть, вымесить тесто, дать ему постоять около получаса.",
+            "image": null
+        },
+        {
+            "text": "Раскатать из теста лепешки, соответствующие по диаметру сковороде, проколоть в нескольких местах вилкой, чтобы они при выпекании не вдувались, выпекать до появления коричневатых пятен на сухой сковороде с обеих сторон.",
+            "image": null
+        },
+        {
+            "text": "На готовые и еще горячие лепешки размазать слой картофельной начинки, так, чтобы она занимала только половину площади, прикрыть второй половиной лепешки, смазать маслом, подать кыстыбый с картофелем и луком к столу пока горячие.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка с луком",
+            "slug": "vypechka-s-lukom"
+        },
+        {
+            "name": "Картофельные лепешки",
+            "slug": "kartofelnye-lepeshki"
+        },
+        {
+            "name": "Лепешки",
+            "slug": "lepeshki"
+        },
+        {
+            "name": "Лепешки без дрожжей",
+            "slug": "lepeshki-bez-drojjey"
+        },
+        {
+            "name": "Лепешки на воде и муке",
+            "slug": "lepeshki-na-vode-i-muke"
+        },
+        {
+            "name": "Лепешки на воде и муке на сковороде",
+            "slug": "lepeshki-na-vode-i-muke-na-skovorode"
+        },
+        {
+            "name": "Лепешки на сковороде",
+            "slug": "lepeshki-na-skovorode"
+        },
+        {
+            "name": "Татарская выпечка",
+            "slug": "tatarskaya-vypechka"
+        }
+    ]
+}

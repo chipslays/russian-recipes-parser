@@ -1,0 +1,95 @@
+{
+    "source": "https://vkuso.ru/recipe/108800-yablochno-bananovyj-smuzi-s-molokom/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Яблочно-банановый смузи с молоком",
+    "description": "Напиток для любителей корицы: «норму» продукта, указанную в рецепте, можно превысить.",
+    "note": "Ломтики для украшения напитка лучше сбрызнуть лимонным соком: они не почернеют.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ec/e3d760d9199d9ec_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "10 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "молоко 1%",
+                    "slug": "moloko-1",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "бананы",
+                    "slug": "banany",
+                    "notes": " (замороженные)",
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "корица молотая",
+                    "slug": "korica-molotaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "С замороженных бананов снять кожуру, нарезать кусочками, сложить в блендер.",
+            "image": null
+        },
+        {
+            "text": "С яблок снять кожуру, мякоть нарезать небольшими кусочками и тоже положить в блендер.",
+            "image": null
+        },
+        {
+            "text": "Добавить молотую корицу, молоко, взбить до однородного состояния.",
+            "image": null
+        },
+        {
+            "text": "Смузи разлить в бокалы, украсить дольками яблок, присыпать корицей.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные коктейли",
+            "slug": "bezalkogolnye-kokteyli"
+        },
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Напитки с молоком",
+            "slug": "napitki-s-molokom"
+        },
+        {
+            "name": "Смузи",
+            "slug": "smuzi"
+        },
+        {
+            "name": "Смузи с бананом",
+            "slug": "smuzi-s-bananom"
+        }
+    ]
+}

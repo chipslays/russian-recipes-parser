@@ -1,0 +1,107 @@
+{
+    "source": "https://vkuso.ru/recipe/xrustyashhij-baton-s-chesnokom-i-syrom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Хрустящий батон с чесноком и сыром",
+    "description": "Простая и оригинальная закуска на скорую руку. Количество ингредиентов для начинки можно менять на свое усмотрение.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a4/b2f670d5af569a4_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "батон",
+                    "slug": "baton",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр пармезан",
+                    "slug": "syr-parmezan",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить начинку: мелко потереть сыр, чесночок, измельчить петрушку. Размешать, положить в смесь мягкое сливочное масло. Перемешать.",
+            "image": null
+        },
+        {
+            "text": "Порезать батон по диагонали, насквозь не прорезать. Надрезы заполнить начинкой. Завернуть закуску в фольгу, отправить минут на двадцать в духовку, соблюдать температуру 200 градусов.",
+            "image": null
+        },
+        {
+            "text": "Открыть фольгу, отправить батон с чесноком и сыром еще минут на пять в духовку.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Горячие закуски",
+            "slug": "goryachie-zakuski"
+        },
+        {
+            "name": "Закуски на скорую руку",
+            "slug": "zakuski-na-skoruyu-ruku"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Праздничный стол на скорую руку",
+            "slug": "prazdnichniy-stol-na-skoruyu-ruku"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

@@ -1,0 +1,196 @@
+{
+    "source": "https://vkuso.ru/recipe/myasnye-kyofte-v-souse/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Мясные кёфте в соусе",
+    "description": null,
+    "note": null,
+    "cuisine": "Турецкая кухня",
+    "cuisine_slug": "tureckaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/61/4f0484c3e15fc61_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мясной фарш",
+                    "slug": "myasnoy-farsh",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "грецкие орехи",
+                    "slug": "greckie-orehi",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "зубчик",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "кунжут",
+                    "slug": "kunjut",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для соуса",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "паприка",
+                    "slug": "paprika",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Обжарить на сухой сковороде орехи. После этого 1/2 часть мелко натереть, остальные измельчить скалкой (не очень мелко). Перемешать фарш, посыпать солью, положить орехи, измельченный лук, чеснок, приправы (паприку и четыре вида перцев), сырое яйцо. Размешать. На тридцать минут поставить в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Намочить водой руки, сделать из фарша девять колобков (кёфте). Высыпать на тарелку кунжут и хорошенько обвалять в нем кёфте. Смазать формочку растительным маслом, выложить колобки. Приготовить соус: насыпать в молоко муку, посыпать паприкой и солью по вкусу. Взбивать, пока не исчезнут комки. Вылить соус на кёфте.",
+            "image": null
+        },
+        {
+            "text": "Готовить минут сорок при температуре двести градусов. Чтобы была румяная корочка, за пять минут до приготовления можно включить режим «Гриль». На гарнир отварить стручковую зеленую фасоль, откинуть на дуршлаг. Посыпать паприкой, солью и любыми приправами. Обжарить на масле. В принципе гарнир к мясным кёфте в соусе может быть любым.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Котлеты",
+            "slug": "kotlety"
+        },
+        {
+            "name": "Котлеты в духовке",
+            "slug": "kotlety-v-duhovke"
+        },
+        {
+            "name": "Котлеты из баранины",
+            "slug": "kotlety-iz-baraniny"
+        },
+        {
+            "name": "Котлеты из говядины",
+            "slug": "kotlety-iz-govyadiny"
+        },
+        {
+            "name": "Котлеты из фарша",
+            "slug": "kotlety-iz-farsha"
+        },
+        {
+            "name": "Мясные котлеты",
+            "slug": "myasnye-kotlety"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

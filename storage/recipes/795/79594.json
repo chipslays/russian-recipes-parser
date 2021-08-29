@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/syrniki-s-mankoj-i-smetanoj-na-paru/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Сырники с манкой и сметаной на пару",
+    "description": "Нежные изделия, настоящая домашняя еда.",
+    "note": "Блюдо подать с растопленным на пару шоколадом, джемом, медом или густой сметаной.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/39/4e104370eaf8639_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пачка",
+                    "amount": null
+                },
+                {
+                    "name": "манная крупа",
+                    "slug": "mannaya-krupa",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "на кончике",
+                    "type": "ножа",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Перемешать творог со сметаной, манной крупой.",
+            "image": null
+        },
+        {
+            "text": "Вбить сырое куриное яйцо, добавить соль и сахарный песок.",
+            "image": null
+        },
+        {
+            "text": "Использовать кухонный комбайн или блендер.",
+            "image": null
+        },
+        {
+            "text": "Сформовать лепешки или шарики, по желанию творожную массу можно выложить в силиконовые формочки для выпечки.",
+            "image": null
+        },
+        {
+            "text": "Решетку или чашу мультиварки смазать маслом, поместить изделия.",
+            "image": null
+        },
+        {
+            "text": "Время приготовления – 20 минут.",
+            "image": null
+        },
+        {
+            "text": "В тесто можно добавить любимые ягоды, нарезанные фрукты.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без муки",
+            "slug": "vypechka-bez-muki"
+        },
+        {
+            "name": "Выпечка в мультиварке",
+            "slug": "vypechka-v-multivarke"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "На пару",
+            "slug": "na-paru"
+        },
+        {
+            "name": "На пару в мультиварке",
+            "slug": "na-paru-v-multivarke"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сырники",
+            "slug": "syrniki"
+        },
+        {
+            "name": "Сырники без муки",
+            "slug": "syrniki-bez-muki"
+        },
+        {
+            "name": "Сырники в мультиварке",
+            "slug": "syrniki-v-multivarke"
+        },
+        {
+            "name": "Сырники на пару",
+            "slug": "syrniki-na-paru"
+        },
+        {
+            "name": "Сырники с манкой",
+            "slug": "syrniki-s-mankoy"
+        },
+        {
+            "name": "Сырники со сметаной",
+            "slug": "syrniki-so-smetanoy"
+        }
+    ]
+}

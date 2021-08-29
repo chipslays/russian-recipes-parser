@@ -1,0 +1,139 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-druzhba/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Дружба»",
+    "description": "Простой и сытный салат можно приготовить за пару минут с использованием недорогих продуктов. В салате «дружат» вкусные продукты, сочетаясь в прекрасный красивый салат на закуску.",
+    "note": "Для подачи использовать форму для салата, чтобы аккуратно выложить его на тарелку. Красочный салат станет украшением праздничного стола, его вкус оценят гости и Ваш кошелек.",
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/fc/e78a9077ebf2dfc_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "зеленый горошек",
+                    "slug": "zeleniy-goroshek",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сырок плавленый",
+                    "slug": "syrok-plavleniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "колбаса копченая",
+                    "slug": "kolbasa-kopchenaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления салата «Дружба» необходимо сделать 2 омлета из яиц, поджарив их на сливочном масле. Затем омлеты нарезать на тонкие полоски. Свежий огурец порезать тонкой соломкой.",
+            "image": null
+        },
+        {
+            "text": "Сырок и копченую колбасу нарезать маленькими кубиками. Соединить все ингредиенты, добавить консервированный горошек. Салат промазать майонезом. Выложить в салатник и подать на стол.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с зеленым горошком",
+            "slug": "salat-s-zelenym-goroshkom"
+        },
+        {
+            "name": "Салат с колбасой",
+            "slug": "salat-s-kolbasoy"
+        },
+        {
+            "name": "Салат с копченой колбасой",
+            "slug": "salat-s-kopchenoy-kolbasoy"
+        },
+        {
+            "name": "Салат с огурцом и сыром",
+            "slug": "salat-s-ogurcom-i-syrom"
+        },
+        {
+            "name": "Салат с огурцом и яйцом",
+            "slug": "salat-s-ogurcom-i-yaycom"
+        },
+        {
+            "name": "Салат с яйцом и сыром",
+            "slug": "salat-s-yaycom-i-syrom"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        }
+    ]
+}

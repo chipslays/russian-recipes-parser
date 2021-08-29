@@ -1,0 +1,151 @@
+{
+    "source": "https://vkuso.ru/recipe/risovaya-zapekanka-s-kukuruzoj-krevetkami-i-syrom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Рисовая запеканка с кукурузой, креветками и сыром",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d5/366f1e62edb77d5_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кукуруза консервированная",
+                    "slug": "kukuruza-konservirovannaya",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "креветки",
+                    "slug": "krevetki",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В подсоленной воде до полной готовности отварить рис, положить в него масло сливочное.",
+            "image": null
+        },
+        {
+            "text": "Добавить к рису отваренные креветки, консервированную кукурузу, натертый сыр и рубленую зелень.",
+            "image": null
+        },
+        {
+            "text": "Немного взбить яйца вместе с молоком и специями, перелить получившуюся массу к рису и перемешать.",
+            "image": null
+        },
+        {
+            "text": "Выложить готовую рисовую массу в форму для выпечки или в формочки для кексов и отправить в духовку.",
+            "image": null
+        },
+        {
+            "text": "Выпекается рисовая запеканка с кукурузой, креветками и сыром при 200 градусах в течение 20 минут, после чего охлаждается и достается из формы.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из риса",
+            "slug": "vtorye-blyuda-iz-risa"
+        },
+        {
+            "name": "Запеканки",
+            "slug": "zapekanki"
+        },
+        {
+            "name": "Запеканки с сыром",
+            "slug": "zapekanki-s-syrom"
+        },
+        {
+            "name": "Креветки с овощами",
+            "slug": "krevetki-s-ovoschami"
+        },
+        {
+            "name": "Морепродукты с овощами",
+            "slug": "moreprodukty-s-ovoschami"
+        },
+        {
+            "name": "Рис с креветками",
+            "slug": "ris-s-krevetkami"
+        },
+        {
+            "name": "Рис с кукурузой",
+            "slug": "ris-s-kukuruzoy"
+        },
+        {
+            "name": "Рис с морепродуктами",
+            "slug": "ris-s-moreproduktami"
+        }
+    ]
+}

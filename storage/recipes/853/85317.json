@@ -1,0 +1,200 @@
+{
+    "source": "https://vkuso.ru/recipe/85317-salat-kozel-v-ogorode-s-vetchinoj-i-pekinskoj-kapustoj/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Козел в огороде» с ветчиной и пекинской капустой",
+    "description": "Чаще всего такой салат готовят с мясом, но его с успехом можно заменить на ветчину.",
+    "note": "Соус можно подать в небольшой мисочке.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d9/3f2928211c031d9_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "20 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/M8DcOV5Rraw?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "капуста пекинская",
+                    "slug": "kapusta-pekinskaya",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для заправки",
+            "list": [
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень укропа",
+                    "slug": "zelen-ukropa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень петрушки",
+                    "slug": "zelen-petrushki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сладкие болгарские перцы вымыть, удалить семенные камеры, мякоть нарезать тонкой соломкой.",
+            "image": null
+        },
+        {
+            "text": "Нарезать пекинскую капусту.",
+            "image": null
+        },
+        {
+            "text": "Нарезать дольками томаты, ветчину и свежие огурцы также соломкой.",
+            "image": null
+        },
+        {
+            "text": "Выложить продукты по кругу.",
+            "image": null
+        },
+        {
+            "text": "Свежую зелень порубить, соединить со сметаной и майонезом.",
+            "image": null
+        },
+        {
+            "text": "Соус вылить в центр тарелки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из капусты",
+            "slug": "salat-iz-kapusty"
+        },
+        {
+            "name": "Салат из капусты и огурцов",
+            "slug": "salat-iz-kapusty-i-ogurcov"
+        },
+        {
+            "name": "Салат из капусты с болгарским перцем",
+            "slug": "salat-iz-kapusty-s-bolgarskim-percem"
+        },
+        {
+            "name": "Салат из пекинской капусты",
+            "slug": "salat-iz-pekinskoy-kapusty"
+        },
+        {
+            "name": "Салат из помидоров",
+            "slug": "salat-iz-pomidorov"
+        },
+        {
+            "name": "Салат Козел в огороде",
+            "slug": "salat-kozel-v-ogorode"
+        },
+        {
+            "name": "Салат с ветчиной",
+            "slug": "salat-s-vetchinoy"
+        },
+        {
+            "name": "Салат с пекинской капустой и ветчиной",
+            "slug": "salat-s-pekinskoy-kapustoy-i-vetchinoy"
+        },
+        {
+            "name": "Салаты из огурцов",
+            "slug": "salaty-iz-ogurcov"
+        },
+        {
+            "name": "Салаты из огурцов и помидоров",
+            "slug": "salaty-iz-ogurcov-i-pomidorov"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с болгарским перцем",
+            "slug": "salaty-s-bolgarskim-percem"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты со сметаной",
+            "slug": "salaty-so-smetanoy"
+        }
+    ]
+}

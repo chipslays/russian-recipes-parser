@@ -1,0 +1,192 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnij-pirog-s-zamorozhennoj-vishnej/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Домашний пирог с замороженной вишней",
+    "description": "Простая и вкусная выпечка, в рецепте можно использовать любые ягоды.",
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/7b/1e0082e3567ce7b_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "маргарин",
+                    "slug": "margarin",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "ванилин",
+                    "slug": "vanilin",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "вишня замороженная",
+                    "slug": "vishnya-zamorojennaya",
+                    "notes": null,
+                    "value": "450",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Взбить масло, сахар, вбить яйца, налить кефир, насыпать муку, разрыхлитель, ванилин.",
+            "image": null
+        },
+        {
+            "text": "Вылить тесто в формочку, намазанную маслом, положить ягоды сверху (можно замороженные), посыпать сверху сахаром.",
+            "image": null
+        },
+        {
+            "text": "Готовить пирог с вишней минут тридцать, соблюдать температуру 200 градусов. Позволить остыть в формочке, по желанию украсить сливками.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Быстрые пироги на скорую руку",
+            "slug": "bystrye-pirogi-na-skoruyu-ruku"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка на маргарине",
+            "slug": "vypechka-na-margarine"
+        },
+        {
+            "name": "Выпечка с вишней",
+            "slug": "vypechka-s-vishney"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог на кефире",
+            "slug": "pirog-na-kefire"
+        },
+        {
+            "name": "Пирог на кефире в духовке",
+            "slug": "pirog-na-kefire-v-duhovke"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги с вишней",
+            "slug": "pirogi-s-vishney"
+        },
+        {
+            "name": "Пироги с ягодами",
+            "slug": "pirogi-s-yagodami"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Праздничный стол на скорую руку",
+            "slug": "prazdnichniy-stol-na-skoruyu-ruku"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

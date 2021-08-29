@@ -1,0 +1,147 @@
+{
+    "source": "https://vkuso.ru/recipe/bystraya-picca-iz-kabachka/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Быстрая пицца из кабачка",
+    "description": "Оригинальное решение: вместо обычного теста для пиццы использовать кабачковое. В такой выпечке меньше калорий, блюдо могут позволить себе люди, пристально следящие за своим весом.",
+    "note": "Подать горячую выпечку к столу можно со сметаной.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/92/cad3c5ecf610e92_660x440.jpeg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кабачки",
+                    "slug": "kabachki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Натереть на терке кабачок, отжать лишнюю жидкость. Добавить сырые яйца, всыпать зелень, муку, разрыхлитель. Массу посолить и поперчить по вкусу, хорошо перемешать. Выложить «тесто» в смазанную маслом форму.",
+            "image": null
+        },
+        {
+            "text": "Тонко нарезать спелые помидоры, выложить на пирог. Смазать чуть взбитым желтком. Печь при температуре 180 градусов до готовности. Посыпать быструю пиццу из кабачка тертым твердым сыром и зеленью.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка с зеленью",
+            "slug": "vypechka-s-zelenyu"
+        },
+        {
+            "name": "Домашняя пицца",
+            "slug": "domashnyaya-picca"
+        },
+        {
+            "name": "Пицца",
+            "slug": "picca"
+        },
+        {
+            "name": "Пицца в духовке",
+            "slug": "picca-v-duhovke"
+        },
+        {
+            "name": "Пицца из кабачков",
+            "slug": "picca-iz-kabachkov"
+        },
+        {
+            "name": "Пицца с помидорами",
+            "slug": "picca-s-pomidorami"
+        },
+        {
+            "name": "Пицца с сыром",
+            "slug": "picca-s-syrom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

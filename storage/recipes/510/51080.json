@@ -1,0 +1,165 @@
+{
+    "source": "https://vkuso.ru/recipe/proteinovo-kofejnyj-tiramisu/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Протеиново-кофейный тирамису",
+    "description": "Белковый вариант всемирно известного десерта для тех, кто предпочитает правильное питание.",
+    "note": "Блюдо можно дополнительно украсить половинками клубники вместе с листочками, налить на блюдо немного растопленного шоколада в виде «сеточки».",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/45/cf5edbddc5fe145_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кофе эспрессо",
+                    "slug": "kofe-espresso",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "чашки",
+                    "amount": null
+                },
+                {
+                    "name": "творог обезжиренный",
+                    "slug": "tvorog-obezjirenniy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "протеин сывороточный",
+                    "slug": "protein-syvorotochniy",
+                    "notes": " (шоколадный)",
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "4-5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "какао-порошок",
+                    "slug": "kakao-poroshok",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для крема",
+            "list": [
+                {
+                    "name": "творог обезжиренный",
+                    "slug": "tvorog-obezjirenniy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "протеин сывороточный",
+                    "slug": "protein-syvorotochniy",
+                    "notes": " (ванильный)",
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для украшения",
+            "list": [
+                {
+                    "name": "какао-порошок",
+                    "slug": "kakao-poroshok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Смешать яичные белки, сывороточный протеин, какао-порошок, обезжиренный творог. Массу взбить в течение пяти-шести минут.",
+            "image": null
+        },
+        {
+            "text": "Смесь поместить в антипригарную форму с тонкими стенками. Печь в предварительно нагретом духовом шкафу в течение 15 минут при температуре 170 градусов. Пирог охладить.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления крема взбить обезжиренный творог с сывороточным протеиновым порошком.",
+            "image": null
+        },
+        {
+            "text": "Выпечку разделить на пять частей, покрошить её в креманки или бокалы для десерта.",
+            "image": null
+        },
+        {
+            "text": "Залить готовым кофе, подождать, пока кусочки пирога не пропитаются.",
+            "image": null
+        },
+        {
+            "text": "Сверху выложить творожно-протеиновый крем.",
+            "image": null
+        },
+        {
+            "text": "Блюдо можно подать на стол сразу или на ночь поставить в холодильник. При подаче на стол посыпать десерт какао-порошком.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "На десерт",
+            "slug": "na-desert"
+        },
+        {
+            "name": "Новогодние десерты",
+            "slug": "novogodnie-deserty"
+        },
+        {
+            "name": "Праздничные десерты",
+            "slug": "prazdnichnye-deserty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        },
+        {
+            "name": "Тирамису",
+            "slug": "tiramisu"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        },
+        {
+            "name": "Шоколадный десерт",
+            "slug": "shokoladniy-desert"
+        }
+    ]
+}

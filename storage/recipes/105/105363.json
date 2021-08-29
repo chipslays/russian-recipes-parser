@@ -1,0 +1,191 @@
+{
+    "source": "https://vkuso.ru/recipe/105363-buterbrody-s-kolbasoj-i-syrom-v-lavashe/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Бутерброды с колбасой и сыром в лаваше",
+    "description": "Вкуснейшие, быстрые и аппетитно хрустящие бутерброды на завтрак – замечательное начало дня! Маленькая хитрость: начинку надо выкладывать тонким слоем.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/bc/7565549f26883bc_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "колбаса",
+                    "slug": "kolbasa",
+                    "notes": null,
+                    "value": "100-200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лаваш тонкий",
+                    "slug": "lavash-tonkiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый",
+                    "slug": "syr-plavleniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "упаковка",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Из яиц поджарить тонкий омлет.",
+            "image": null
+        },
+        {
+            "text": "Лаваш промазать сыром, присыпать мелко порезанной колбасой, уложить колечки помидора, посыпать ровным слоем зелени, закончить омлетом.",
+            "image": null
+        },
+        {
+            "text": "Все разложить в виде тонкой полосы, отступив от края.",
+            "image": null
+        },
+        {
+            "text": "Прикрыть начинку лавашем, завернуть, порезать на квадраты.",
+            "image": null
+        },
+        {
+            "text": "Разогреть сухую сковороду, обжарить бутерброды с колбасой и сыром в лаваше с двух сторон до хрустящей корочки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды в дорогу",
+            "slug": "buterbrody-v-dorogu"
+        },
+        {
+            "name": "Бутерброды из лаваша",
+            "slug": "buterbrody-iz-lavasha"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды на природу",
+            "slug": "buterbrody-na-prirodu"
+        },
+        {
+            "name": "Бутерброды с колбасой",
+            "slug": "buterbrody-s-kolbasoy"
+        },
+        {
+            "name": "Бутерброды с колбасой и сыром",
+            "slug": "buterbrody-s-kolbasoy-i-syrom"
+        },
+        {
+            "name": "Бутерброды с плавленым сыром",
+            "slug": "buterbrody-s-plavlenym-syrom"
+        },
+        {
+            "name": "Бутерброды с помидорами",
+            "slug": "buterbrody-s-pomidorami"
+        },
+        {
+            "name": "Бутерброды с помидорами и сыром",
+            "slug": "buterbrody-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Бутерброды с яйцом",
+            "slug": "buterbrody-s-yaycom"
+        },
+        {
+            "name": "Горячие бутерброды",
+            "slug": "goryachie-buterbrody"
+        },
+        {
+            "name": "Горячие бутерброды на сковороде",
+            "slug": "goryachie-buterbrody-na-skovorode"
+        },
+        {
+            "name": "Горячие бутерброды с колбасой и сыром",
+            "slug": "goryachie-buterbrody-s-kolbasoy-i-syrom"
+        },
+        {
+            "name": "Горячие бутерброды с помидорами и сыром",
+            "slug": "goryachie-buterbrody-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Горячие бутерброды с сыром",
+            "slug": "goryachie-buterbrody-s-syrom"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Закуски из лаваша",
+            "slug": "zakuski-iz-lavasha"
+        },
+        {
+            "name": "Лаваш с сыром",
+            "slug": "lavash-s-syrom"
+        },
+        {
+            "name": "Лаваш с сыром и яйцом",
+            "slug": "lavash-s-syrom-i-yaycom"
+        },
+        {
+            "name": "Лаваш с яйцом",
+            "slug": "lavash-s-yaycom"
+        }
+    ]
+}

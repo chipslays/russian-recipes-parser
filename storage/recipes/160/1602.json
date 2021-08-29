@@ -1,0 +1,184 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-kartofelnyj-pod-sousom-po-tatarski/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат картофельный под соусом по-татарски",
+    "description": null,
+    "note": null,
+    "cuisine": "Татарская кухня",
+    "cuisine_slug": "tatarskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ad/fda1aba930362ad_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "клубня",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "3-4"
+                },
+                {
+                    "name": "головки репчатого лука",
+                    "slug": "golovki-repchatogo-luka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1-2"
+                }
+            ]
+        },
+        {
+            "name": "Для соуса",
+            "list": [
+                {
+                    "name": "майонеза",
+                    "slug": "mayoneza",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметаны",
+                    "slug": "smetany",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сыра",
+                    "slug": "syra",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "огурец соленый",
+                    "slug": "ogurec-soleniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "чеснока",
+                    "slug": "chesnoka",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Картофель отварить в слегка подсоленной воде «в мундире», яйца сварить вкрутую, лук замариновать.",
+            "image": null
+        },
+        {
+            "text": "Отварной картофель очистить от кожуры и потереть на мелкой терке, яйца также натереть на терке или мелко покрошить, лук нарезать очень мелко, а также мелко порезать соленый огурец.",
+            "image": null
+        },
+        {
+            "text": "Приготовить татарский соус, для этого смешать сметану, майонез, тертый на мелкой терке твердый сыр, нарезанный соленый огурец, измельченный чеснок, добавить зелень по собственному вкусу.",
+            "image": null
+        },
+        {
+            "text": "Выкладывать салат слоями в салатницу, первый слой – отварной тертый картофель, второй слой – мелко нарезанный маринованный лук, третий слой – тертые отварные яйца.",
+            "image": null
+        },
+        {
+            "text": "Сверху залить салат соусом, слегка подлить по краям растительного масла, поставить салат картофельный под соусом по-татарски в холодильник на 2-3 часа, дать настояться, перед подачей на стол украсить свежей зеленью.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Картофельный салат",
+            "slug": "kartofelniy-salat"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с картофелем",
+            "slug": "salat-s-kartofelem"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с огурцом и сыром",
+            "slug": "salat-s-ogurcom-i-syrom"
+        },
+        {
+            "name": "Салат с огурцом и яйцом",
+            "slug": "salat-s-ogurcom-i-yaycom"
+        },
+        {
+            "name": "Салат с солеными огурцами",
+            "slug": "salat-s-solenymi-ogurcami"
+        },
+        {
+            "name": "Салат с сыром и чесноком",
+            "slug": "salat-s-syrom-i-chesnokom"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салат с чесноком и майонезом",
+            "slug": "salat-s-chesnokom-i-mayonezom"
+        },
+        {
+            "name": "Салат с яйцом и сыром",
+            "slug": "salat-s-yaycom-i-syrom"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты на скорую руку",
+            "slug": "salaty-na-skoruyu-ruku"
+        },
+        {
+            "name": "Салаты со сметаной",
+            "slug": "salaty-so-smetanoy"
+        },
+        {
+            "name": "Слоеные салаты",
+            "slug": "sloenye-salaty"
+        }
+    ]
+}

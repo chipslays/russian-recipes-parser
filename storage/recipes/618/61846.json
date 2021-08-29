@@ -1,0 +1,231 @@
+{
+    "source": "https://vkuso.ru/recipe/nastoyashhij-sup-gulyash-iz-govyadiny-po-vengerski/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Настоящий суп-гуляш из говядины по-венгерски",
+    "description": null,
+    "note": null,
+    "cuisine": "Венгерская кухня",
+    "cuisine_slug": "vengerskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/fa/0615397fc0245fa_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "говядина",
+                    "slug": "govyadina",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец болгарский зеленый",
+                    "slug": "perec-bolgarskiy-zeleniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "паприка сладкая",
+                    "slug": "paprika-sladkaya",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "тмин",
+                    "slug": "tmin",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "свиной жир",
+                    "slug": "svinoy-jir",
+                    "notes": " (для жарки)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Подготовить продукты. Порезать лук, пожарить на свином жире до золотистого оттенка.",
+            "image": null
+        },
+        {
+            "text": "Порезать мясо на куски.",
+            "image": null
+        },
+        {
+            "text": "Положить в трехлитровую кастрюлю лук, мясо и паприку.",
+            "image": null
+        },
+        {
+            "text": "Размешать, готовить на тихом огне, пока сок от мяса не испарится.",
+            "image": null
+        },
+        {
+            "text": "Положить чеснок, тмин, налить воду. Тушить, пока мясо не приготовится.",
+            "image": null
+        },
+        {
+            "text": "Порезать на кубики картофель, томат и перец.",
+            "image": null
+        },
+        {
+            "text": "Положить овощи к мясу.",
+            "image": null
+        },
+        {
+            "text": "Размешать, налить воду или бульон.",
+            "image": null
+        },
+        {
+            "text": "Количество воды зависит от того, какой будет гуляш: густой или жидкий.",
+            "image": null
+        },
+        {
+            "text": "Варить настоящий суп-гуляш из говядины по-венгерски, пока овощи не приготовятся.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из говядины",
+            "slug": "vtorye-blyuda-iz-govyadiny"
+        },
+        {
+            "name": "Вторые блюда из картофеля",
+            "slug": "vtorye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Говядина с овощами",
+            "slug": "govyadina-s-ovoschami"
+        },
+        {
+            "name": "Говядина тушеная",
+            "slug": "govyadina-tushenaya"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Свинина с овощами",
+            "slug": "svinina-s-ovoschami"
+        },
+        {
+            "name": "Свинина с помидорами",
+            "slug": "svinina-s-pomidorami"
+        },
+        {
+            "name": "Суп-гуляш",
+            "slug": "sup-gulyash"
+        },
+        {
+            "name": "Тушеная картошка в кастрюле",
+            "slug": "tushenaya-kartoshka-v-kastryule"
+        },
+        {
+            "name": "Тушеная картошка с мясом",
+            "slug": "tushenaya-kartoshka-s-myasom"
+        },
+        {
+            "name": "Тушеная свинина с картошкой",
+            "slug": "tushenaya-svinina-s-kartoshkoy"
+        },
+        {
+            "name": "Тушеное мясо",
+            "slug": "tushenoe-myaso"
+        },
+        {
+            "name": "Тушеные блюда",
+            "slug": "tushenye-blyuda"
+        },
+        {
+            "name": "Ужин из говядины",
+            "slug": "ujin-iz-govyadiny"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из свинины",
+            "slug": "ujin-iz-svininy"
+        }
+    ]
+}

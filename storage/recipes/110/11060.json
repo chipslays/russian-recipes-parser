@@ -1,0 +1,188 @@
+{
+    "source": "https://vkuso.ru/recipe/francuzskij-tart-limonnyj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Французский тарт лимонный",
+    "description": "Легенда гласит, что тарт появился по ошибке. Стряпуха отвлеклась и забыла о том, что на плите у нее стоят яблоки с сахаром. Они уже начали подгорать, пришлось накрыть начинку тестом и отправить в печь. Звали девушку Стефания Татен, а эта история произошла в 1898 году в городе Ламот-Бёврон.",
+    "note": "Блюдо можно украсить тонкими ломтиками лимона и листочками мяты.",
+    "cuisine": "Французская кухня",
+    "cuisine_slug": "francuzskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f3/1db5c7f05cf4bf3_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "80",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1,25",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "цедра лимона",
+                    "slug": "cedra-limona",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для основы",
+            "list": [
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": "110",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "цедра лимона",
+                    "slug": "cedra-limona",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сок лимона",
+                    "slug": "sok-limona",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "1,25",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "молоко сгущенное",
+                    "slug": "moloko-sguschennoe",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для основы перемешать вручную или в кухонном комбайне просеянную муку вместе с охлажденным и натертым маслом, сырыми яйцами, цедрой лимона. Скатать тесто в шар. Завернуть в пищевую пленку и поставить в холодильник на полчаса.",
+            "image": null
+        },
+        {
+            "text": "Разогреть духовку до 190 градусов, в форму для выпечки положить тонко раскатанное тесто, сформовать бортики. Наколоть корж вилкой, закрыть бумагой и всыпать сухой горох, фасоль или рис. Печь 15 минут, крупу или бобовые вынуть, корж допечь еще в течение пяти минут, уменьшив температуру до 150 градусов.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления начинки смешать яйца, сахарную пудру, сок и цедру лимонов, сгущенное молоко, сливки. Массу поцедить и вылить на основу для тарта. Печь 30 – 40 минут. При подаче французский лимонный тарт посыпать сахарной пудрой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка с фруктами",
+            "slug": "vypechka-s-fruktami"
+        },
+        {
+            "name": "Выпечка со сгущенкой",
+            "slug": "vypechka-so-sguschenkoy"
+        },
+        {
+            "name": "Лимонный пирог",
+            "slug": "limonniy-pirog"
+        },
+        {
+            "name": "Национальные пироги",
+            "slug": "nacionalnye-pirogi"
+        },
+        {
+            "name": "Пирог со сгущенкой",
+            "slug": "pirog-so-sguschenkoy"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги с начинкой",
+            "slug": "pirogi-s-nachinkoy"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Сладкие пироги",
+            "slug": "sladkie-pirogi"
+        },
+        {
+            "name": "Тарт",
+            "slug": "tart"
+        },
+        {
+            "name": "Французская выпечка",
+            "slug": "francuzskaya-vypechka"
+        }
+    ]
+}

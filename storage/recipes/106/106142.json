@@ -1,0 +1,207 @@
+{
+    "source": "https://vkuso.ru/recipe/106142-cvetaevskaya-sharlotka-so-smetanoj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Цветаевская шарлотка со сметаной",
+    "description": "Всемирно известная поэтесса потчевала гостей особым пирогом, рецепт которого сохранился до наших дней.",
+    "note": "Готовый пирог можно украсить листочками мяты и посыпать пудрой.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c8/4ad310d68f550c8_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "50 минут",
+    "preparetime": "30 минут",
+    "video": "https://www.youtube.com/embed/1RFQmCLLNMg?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В емкость всыпать соду или разрыхлитель, мягкое сливочное масло и муку.",
+            "image": null
+        },
+        {
+            "text": "Перемешать руками в крошку.",
+            "image": null
+        },
+        {
+            "text": "Влить сметану, перемешать массу еще раз.",
+            "image": null
+        },
+        {
+            "text": "Обернуть тесто в пищевую пленку и убрать в холод на полчаса.",
+            "image": null
+        },
+        {
+            "text": "Очистить кислые яблоки, удалить сердцевину, мякоть нарезать ломтиками.",
+            "image": null
+        },
+        {
+            "text": "Побрызгать лимонным соком.",
+            "image": null
+        },
+        {
+            "text": "Форму застелить пергаментом, выложить тесто так, чтобы сформировать бортики.",
+            "image": null
+        },
+        {
+            "text": "Разместить начинку из яблок.",
+            "image": null
+        },
+        {
+            "text": "Остатки сметаны взбить с сахарным песком, всыпать муку.",
+            "image": null
+        },
+        {
+            "text": "Массой покрыть начинку.",
+            "image": null
+        },
+        {
+            "text": "Выставить температуру в духовке в 180 градусов, время приготовления – двадцать минут.",
+            "image": null
+        },
+        {
+            "text": "На подрумянивание – еще двадцать минут, температура – 140 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Выпечка с фруктами",
+            "slug": "vypechka-s-fruktami"
+        },
+        {
+            "name": "Выпечка с яблоками",
+            "slug": "vypechka-s-yablokami"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог без яиц",
+            "slug": "pirog-bez-yaic"
+        },
+        {
+            "name": "Пирог с яблоками",
+            "slug": "pirog-s-yablokami"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Шарлотка",
+            "slug": "sharlotka"
+        },
+        {
+            "name": "Шарлотка без яиц",
+            "slug": "sharlotka-bez-yaic"
+        },
+        {
+            "name": "Шарлотка в духовке",
+            "slug": "sharlotka-v-duhovke"
+        },
+        {
+            "name": "Шарлотка на сметане",
+            "slug": "sharlotka-na-smetane"
+        },
+        {
+            "name": "Шарлотка пышная с яблоками в духовке",
+            "slug": "sharlotka-pyshnaya-s-yablokami-v-duhovke"
+        },
+        {
+            "name": "Шарлотка с яблоками",
+            "slug": "sharlotka-s-yablokami"
+        },
+        {
+            "name": "Яблоки в духовке",
+            "slug": "yabloki-v-duhovke"
+        }
+    ]
+}

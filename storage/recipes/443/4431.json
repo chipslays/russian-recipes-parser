@@ -1,0 +1,199 @@
+{
+    "source": "https://vkuso.ru/recipe/azu-iz-govyadiny-po-tatarski-v-multivarke/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Азу из говядины по-татарски в мультиварке",
+    "description": null,
+    "note": null,
+    "cuisine": "Татарская кухня",
+    "cuisine_slug": "tatarskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/cf/7bb9c3180fc21cf_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "700",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "говядины",
+                    "slug": "govyadiny",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "соленых огурца",
+                    "slug": "solenyh-ogurca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "бульона",
+                    "slug": "bulona",
+                    "notes": null,
+                    "value": "1-1,5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "чеснока",
+                    "slug": "chesnoka",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "томатной пасты",
+                    "slug": "tomatnoy-pasty",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "приправа для мяса",
+                    "slug": "priprava-dlya-myasa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать говядину на небольшие кусочки, переложить в чашу мультиварки, выставить режим «Выпечка» и готовить 20 минут, добавить нашинкованный лук и порезанную мелко морковь, готовить еще 6 минут, режим не переключать.",
+            "image": null
+        },
+        {
+            "text": "Добавить измельченный прессом чеснок, томатную пасту, любимую приправу для мяса, посолить, переключить режим на «Тушение» и готовить 30 минут.",
+            "image": null
+        },
+        {
+            "text": "Порезать картофель на крупные кубики, а соленые огурцы кружочками, пересыпать их к овощам и мясу, залить бульоном, тушить азу из говядины по-татарски в мультиварке до готовности 1,5 часа.",
+            "image": null
+        },
+        {
+            "text": "Это простое, но очень вкусное блюдо для домашнего воскресного обеда.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из говядины",
+            "slug": "vtorye-blyuda-iz-govyadiny"
+        },
+        {
+            "name": "Вторые блюда из картофеля",
+            "slug": "vtorye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Говядина в мультиварке",
+            "slug": "govyadina-v-multivarke"
+        },
+        {
+            "name": "Говядина с овощами",
+            "slug": "govyadina-s-ovoschami"
+        },
+        {
+            "name": "Говядина тушеная",
+            "slug": "govyadina-tushenaya"
+        },
+        {
+            "name": "Картошка в мультиварке",
+            "slug": "kartoshka-v-multivarke"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Картошка с мясом в мультиварке",
+            "slug": "kartoshka-s-myasom-v-multivarke"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Мясо в мультиварке",
+            "slug": "myaso-v-multivarke"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Тушеное мясо",
+            "slug": "tushenoe-myaso"
+        },
+        {
+            "name": "Тушеное мясо в мультиварке",
+            "slug": "tushenoe-myaso-v-multivarke"
+        },
+        {
+            "name": "Тушеные блюда",
+            "slug": "tushenye-blyuda"
+        },
+        {
+            "name": "Ужин в мультиварке",
+            "slug": "ujin-v-multivarke"
+        },
+        {
+            "name": "Ужин из говядины",
+            "slug": "ujin-iz-govyadiny"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

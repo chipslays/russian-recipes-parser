@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/fruktovyj-desert-s-morozhenym-i-sgushhenkoj/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Фруктовый десерт с мороженым и сгущенкой",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/bc/816f7a42671c4bc_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мороженого пломбир",
+                    "slug": "morojenogo-plombir",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мандарина",
+                    "slug": "mandarina",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "яблока",
+                    "slug": "yabloka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "груши",
+                    "slug": "grushi",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "банана",
+                    "slug": "banana",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "печенья «Юбилейное»",
+                    "slug": "pechenya-yubileynoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "4"
+                },
+                {
+                    "name": "сгущенного молока",
+                    "slug": "sguschennogo-moloka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сметаны",
+                    "slug": "smetany",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать мелко фрукты, размять мороженое, смешать с измельченным печеньем.",
+            "image": null
+        },
+        {
+            "text": "Смешать сгущенное молоко и сметану.",
+            "image": null
+        },
+        {
+            "text": "Выложить фруктовый десерт в высокие стаканы слоями: чередуя слои фруктов с мороженым.",
+            "image": null
+        },
+        {
+            "text": "Залить фрукты молочно-сметанной смесью, убрать в морозилку на 20 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерт из бананов",
+            "slug": "desert-iz-bananov"
+        },
+        {
+            "name": "Десерт со сгущенкой",
+            "slug": "desert-so-sguschenkoy"
+        },
+        {
+            "name": "Десерты из яблок",
+            "slug": "deserty-iz-yablok"
+        },
+        {
+            "name": "Домашнее мороженое",
+            "slug": "domashnee-morojenoe"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        }
+    ]
+}

@@ -1,0 +1,273 @@
+{
+    "source": "https://vkuso.ru/recipe/85461-sup-s-lapshoj-i-svininoj-tonkacu-ramen/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Суп с лапшой и свининой Тонкацу Рамен",
+    "description": "Японский суп на наваристом бульоне из свиных костей и сладковатой нежной свининой Чашу",
+    "note": null,
+    "cuisine": "Японская кухня",
+    "cuisine_slug": "yaponskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f7/99eae34761857f7_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/XzmrjJE-Gnw?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "свиные кости",
+                    "slug": "svinye-kosti",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "3",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "имбирь",
+                    "slug": "imbir",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "8",
+                    "type": "зубчиков",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для бульона",
+            "list": [
+                {
+                    "name": "свиная шея",
+                    "slug": "svinaya-sheya",
+                    "notes": " (или грудинка)",
+                    "value": "800",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "410",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "соус соевый",
+                    "slug": "sous-soeviy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "мирин",
+                    "slug": "mirin",
+                    "notes": null,
+                    "value": "60",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "саке",
+                    "slug": "sake",
+                    "notes": null,
+                    "value": "60",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "лук-порей",
+                    "slug": "luk-porey",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "имбирь",
+                    "slug": "imbir",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Свинина Чашу",
+            "list": [
+                {
+                    "name": "бульон",
+                    "slug": "bulon",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "свинина",
+                    "slug": "svinina",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лапша яичная",
+                    "slug": "lapsha-yaichnaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "пророщенный маш",
+                    "slug": "proroschenniy-mash",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соус соевый",
+                    "slug": "sous-soeviy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соус рыбный",
+                    "slug": "sous-rybniy",
+                    "notes": null,
+                    "value": "6",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соус",
+                    "slug": "sous",
+                    "notes": " (от свинины Чашу)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Бульон:\r\n\r\nСвиные кости замочить в холодной воде на 1 час.\r\nЧерез час слить воду, промыть кости.\r\nПереложить в кастрюлю и залить водой так, чтобы вода была выше костей на 3-5 см.\r\nПоставить кастрюлю на сильный огонь. После того, как вода закипит варить 10 мин убирая пенку.\r\nЧерез 10 минут слить воду, промыть кости в холодной воде и помыть кастрюлю.\r\nЗатем переложить кости в чистую кастрюлю, залить холодной водой на 3-5 см выше костей, добавить лук репчатый, лук зеленый, имбирь и чеснок. \r\nДовести до кипения, убавить огонь до средне-слабого, накрыть крышкой.\r\nВарить 6-12 часов, периодически перемешивать. (Я варила 6 часов в кастрюле, затем переместила все в мультиварку и оставила на ночь в режиме подогрев)\r\nПроцедить готовый бульон.",
+            "image": null
+        },
+        {
+            "text": "Свинина Чашу:\r\n\r\nСвинину закрутить в рулет и затянуть ниткой. \r\nОбжарить в сильно разогретой сковороде с 1 ст.л. масла со всех сторон. \r\nВ кастрюлю добавить воду, саке, мирин, соевый соус, сахар, имбирь и лук порей. \r\nПоставить кастрюлю на огонь, довести до кипения. \r\nСвинину положить в соус, накрыть фольгой, готовить 10 минут. \r\nЧерез 10 минут перевернуть мясо, убавить огонь до минимума, накрыть фольгой и крышкой. \r\nГотовить 2 часа, переворачивая свинину каждые 15-20 минут. \r\nУбрать кастрюлю с огня и дать остыть, затем убрать в холодильник минимум на 6 часов (лучше всего оставить на ночь). \r\nПеред подачей убрать все нитки, нарезать свинину кружочками и по желанию обжарить 30 сек на сильном огне. \r\nСоус от свинины процедить, он нам понадобиться для бульона.",
+            "image": null
+        },
+        {
+            "text": "Рамен:\r\nБульон:\r\nВ костный бульон добавить рыбный соус и половину соуса от свинины чашу, перемешать.\r\n\r\nДля рамена:\r\nОтварить соевые ростки в кипящей воде в течении 1 мин, затем промыть в холодной воде.\r\nОтварить лапшу и промыть ее под холодной водой.\r\nНарезать мелко зеленый лук, разрезать яйцо пополам.",
+            "image": null
+        },
+        {
+            "text": "Сборка:\r\nВ большую миску положите лапшу, сверху уложите свинину Чашу, соевые ростки, яйцо.\r\nПолейте сверху бульоном, посыпьте зеленым луком, долейте соевый соус по вкусу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп из свинины",
+            "slug": "sup-iz-svininy"
+        },
+        {
+            "name": "Суп с имбирем",
+            "slug": "sup-s-imbirem"
+        },
+        {
+            "name": "Суп с лапшой",
+            "slug": "sup-s-lapshoy"
+        },
+        {
+            "name": "Суп с макаронами",
+            "slug": "sup-s-makaronami"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Японский суп",
+            "slug": "yaponskiy-sup"
+        }
+    ]
+}

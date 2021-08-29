@@ -1,0 +1,115 @@
+{
+    "source": "https://vkuso.ru/recipe/grecheskij-sous-caciki-na-jogurte/",
+    "category": "Соусы",
+    "category_slug": "sousy",
+    "title": "Греческий соус «Цацики» на йогурте",
+    "description": null,
+    "note": "Если вы хотите сделать соус жиже или гуще, то можно добавить больше или меньше йогурта.",
+    "cuisine": "Греческая кухня",
+    "cuisine_slug": "grecheskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/cf/aef77986f5479cf_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "йогурт натуральный",
+                    "slug": "yogurt-naturalniy",
+                    "notes": null,
+                    "value": "300",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "корнишоны соленые",
+                    "slug": "kornishony-solenye",
+                    "notes": null,
+                    "value": "3-5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "зубчик",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Огурцы нарезать на мелкие кубики. В чесночном прессе раздавить чеснок. Мелко порубить ножом зелень. Смешать все продукты в миске, посолить и поперчить по вкусу. Оставить соус настояться на ночь в холодильнике. Греческий соус «Цацики» на йогурте подавать к мясным, рыбным или овощным блюдам.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Дзадзики (цацики)",
+            "slug": "dzadziki-caciki"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Соус для шашлыка",
+            "slug": "sous-dlya-shashlyka"
+        },
+        {
+            "name": "Соус из йогурта",
+            "slug": "sous-iz-yogurta"
+        },
+        {
+            "name": "Соус к рыбе",
+            "slug": "sous-k-rybe"
+        },
+        {
+            "name": "Соусы для салатов",
+            "slug": "sousy-dlya-salatov"
+        },
+        {
+            "name": "Соусы к мясу",
+            "slug": "sousy-k-myasu"
+        }
+    ]
+}

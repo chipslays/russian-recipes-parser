@@ -1,0 +1,155 @@
+{
+    "source": "https://vkuso.ru/recipe/molochnyj-supchik-s-vermishelyu-v-multivarke/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Молочный супчик с вермишелью в мультиварке",
+    "description": "Варится он не просто, а очень просто, особенно, если есть кнопка «Молочная каша».",
+    "note": "Вместо четырех стаканов молока, можно взять два стакана воды и два стакана молока.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ce/8ba59679abb16ce_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/EDOnyegXDYs?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "4",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "вермишель",
+                    "slug": "vermishel",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "3",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сложить ингредиенты в чашу, залить молоком, закрыть мультиварку, запустить необходимый режим.",
+            "image": null
+        },
+        {
+            "text": "Если нет опции \"Молочная каша\", необходимо довести до кипения молоко в любом режиме (суп, жарка, мультиповар).",
+            "image": null
+        },
+        {
+            "text": "Заправить его вермишелью, подсолить, добавить масло с сахаром, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Варить минут 7 на режиме «Мультиповар».",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Детские блюда из макаронных изделий",
+            "slug": "detskie-blyuda-iz-makaronnyh-izdeliy"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Детский завтрак",
+            "slug": "detskiy-zavtrak"
+        },
+        {
+            "name": "Детский суп",
+            "slug": "detskiy-sup"
+        },
+        {
+            "name": "Детский ужин",
+            "slug": "detskiy-ujin"
+        },
+        {
+            "name": "Молочный суп",
+            "slug": "molochniy-sup"
+        },
+        {
+            "name": "Молочный суп с вермишелью",
+            "slug": "molochniy-sup-s-vermishelyu"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Простые рецепты для детей",
+            "slug": "prostye-recepty-dlya-detey"
+        },
+        {
+            "name": "Рецепты для детей в мультиварке",
+            "slug": "recepty-dlya-detey-v-multivarke"
+        },
+        {
+            "name": "Сладкие супы",
+            "slug": "sladkie-supy"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп в мультиварке",
+            "slug": "sup-v-multivarke"
+        },
+        {
+            "name": "Суп с вермишелью",
+            "slug": "sup-s-vermishelyu"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Ужин в мультиварке",
+            "slug": "ujin-v-multivarke"
+        }
+    ]
+}

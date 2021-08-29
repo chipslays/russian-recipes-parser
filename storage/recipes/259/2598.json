@@ -1,0 +1,195 @@
+{
+    "source": "https://vkuso.ru/recipe/ragu-iz-svininy-s-kartofelem-i-percem-chili/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Рагу из свинины с картофелем и перцем чили",
+    "description": null,
+    "note": null,
+    "cuisine": "Американская кухня",
+    "cuisine_slug": "amerikanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/df/fcd1dc155bc45df_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "900",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "свинины",
+                    "slug": "svininy",
+                    "notes": null,
+                    "value": "600",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "куриного бульона",
+                    "slug": "kurinogo-bulona",
+                    "notes": null,
+                    "value": "4",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "чеснока",
+                    "slug": "chesnoka",
+                    "notes": null,
+                    "value": "4",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "лайм",
+                    "slug": "laym",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "растительного масла",
+                    "slug": "rastitelnogo-masla",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "красный перец чили",
+                    "slug": "krasniy-perec-chili",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "паприки",
+                    "slug": "papriki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать подготовленную свинину небольшими кубиками, посолить, поперчить, дать постоять.",
+            "image": null
+        },
+        {
+            "text": "Порезать крупными кусками очищенный картофель и залить холодной водой.",
+            "image": null
+        },
+        {
+            "text": "Отжать из мяса лишнюю жидкость и обжарить (постоянно помешивая) в сильно разогретом масле 10 минут, вынуть мясо.",
+            "image": null
+        },
+        {
+            "text": "Если при жарке образовалось много жира, то его надо почти весь слить, нашинковать мелко лук и обжарить 5 минут в оставшемся жире, добавить измельченный перец чили без семян, паприку, чеснок, обжарить еще 3 минуты.",
+            "image": null
+        },
+        {
+            "text": "Добавить к зажарке мясо, картофель, залить бульоном и на среднем огне кипятить до мягкости картофеля, рагу необходимо периодически перемешивать.",
+            "image": null
+        },
+        {
+            "text": "Перед подачей в рагу из свинины с картофелем и перцем чили выжать сок из целого лайма, поперчить, посолить и размешать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из картофеля",
+            "slug": "vtorye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Вторые блюда из свинины",
+            "slug": "vtorye-blyuda-iz-svininy"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Курица с картошкой",
+            "slug": "kurica-s-kartoshkoy"
+        },
+        {
+            "name": "Мясо на Новый год",
+            "slug": "myaso-na-noviy-god"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Рагу",
+            "slug": "ragu"
+        },
+        {
+            "name": "Рагу из свинины",
+            "slug": "ragu-iz-svininy"
+        },
+        {
+            "name": "Рагу из свинины с картошкой",
+            "slug": "ragu-iz-svininy-s-kartoshkoy"
+        },
+        {
+            "name": "Свинина на Новый год",
+            "slug": "svinina-na-noviy-god"
+        },
+        {
+            "name": "Свинина с картошкой",
+            "slug": "svinina-s-kartoshkoy"
+        },
+        {
+            "name": "Свинина с овощами",
+            "slug": "svinina-s-ovoschami"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из свинины",
+            "slug": "ujin-iz-svininy"
+        }
+    ]
+}

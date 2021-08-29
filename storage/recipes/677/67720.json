@@ -1,0 +1,192 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-s-bekonom-avokado-i-shpinatom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат с беконом, авокадо и шпинатом",
+    "description": "Оригинальный салат с экзотическими ингредиентами.",
+    "note": "Для приготовления салата лучше использовать коричневый сахар.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e9/2e59257769103e9_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "фасоль стручковая зеленая",
+                    "slug": "fasol-struchkovaya-zelenaya",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шпинат",
+                    "slug": "shpinat",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "бекон",
+                    "slug": "bekon",
+                    "notes": null,
+                    "value": "8",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "авокадо",
+                    "slug": "avokado",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук-шалот",
+                    "slug": "luk-shalot",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для заправки",
+            "list": [
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "уксус бальзамический",
+                    "slug": "uksus-balzamicheskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "зубчик",
+                    "amount": null
+                },
+                {
+                    "name": "масло кунжутное",
+                    "slug": "maslo-kunjutnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар коричневый",
+                    "slug": "sahar-korichneviy",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Кусочки бекона обжарить на гриле, затем охладить и порезать небольшими кубиками.",
+            "image": null
+        },
+        {
+            "text": "Зеленую фасоль в стручках отварить в кипятке, время – от трех до пяти минут.",
+            "image": null
+        },
+        {
+            "text": "Быстро охладить в воде.",
+            "image": null
+        },
+        {
+            "text": "Переложить в салатницу.",
+            "image": null
+        },
+        {
+            "text": "Добавить шпинат, нарезанный лук-шалот, кубики мякоти авокадо.",
+            "image": null
+        },
+        {
+            "text": "Приготовить заправку из толченого с сахаром чеснока, бальзамического уксуса, кунжутного и оливкового масла.",
+            "image": null
+        },
+        {
+            "text": "Перемешать до однородности и заправить основную массу.",
+            "image": null
+        },
+        {
+            "text": "Соль – по вкусу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат с авокадо",
+            "slug": "salat-s-avokado"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салат с фасолью",
+            "slug": "salat-s-fasolyu"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салат со стручковой фасолью",
+            "slug": "salat-so-struchkovoy-fasolyu"
+        },
+        {
+            "name": "Салат со шпинатом",
+            "slug": "salat-so-shpinatom"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты к шашлыку",
+            "slug": "salaty-k-shashlyku"
+        },
+        {
+            "name": "Салаты с беконом",
+            "slug": "salaty-s-bekonom"
+        },
+        {
+            "name": "Салаты с фруктами",
+            "slug": "salaty-s-fruktami"
+        }
+    ]
+}

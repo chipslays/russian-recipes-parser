@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/lodochki-iz-svezhix-ogurcov-s-tvorogom-i-chesnokom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Лодочки из свежих огурцов с творогом и чесноком",
+    "description": "Интересная закуска для будней и праздников. Немного фантазии – и лодочки отправятся в плаванье.",
+    "note": "Для детского стола на лодочки можно поставить паруса из тонких ломтиков все того же огурца, роль мачты сыграет зубочистка.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/fe/982eb66752936fe_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "10 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/w28jdFVALS4?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "зубчик",
+                    "amount": null
+                },
+                {
+                    "name": "зелень свежая",
+                    "slug": "zelen-svejaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Свежие огурцы разрезать пополам, вынуть сердцевину.",
+            "image": null
+        },
+        {
+            "text": "Отжать от мякоти сок, перемешать ее с измельченной зеленью,  творогом, чесноком.",
+            "image": null
+        },
+        {
+            "text": "Массой наполнить огурцы.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Закуски из овощей",
+            "slug": "zakuski-iz-ovoschey"
+        },
+        {
+            "name": "Закуски на скорую руку",
+            "slug": "zakuski-na-skoruyu-ruku"
+        },
+        {
+            "name": "Закуски с творогом",
+            "slug": "zakuski-s-tvorogom"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Праздничный стол на скорую руку",
+            "slug": "prazdnichniy-stol-na-skoruyu-ruku"
+        }
+    ]
+}

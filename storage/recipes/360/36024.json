@@ -1,0 +1,176 @@
+{
+    "source": "https://vkuso.ru/recipe/picca-gavajskaya-po-domashnemu/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пицца «Гавайская» по-домашнему",
+    "description": null,
+    "note": null,
+    "cuisine": "Гавайская кухня",
+    "cuisine_slug": "gavayskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/85/e4ce971b7598b85_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "500-550",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "7-10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ананасы консервированные",
+                    "slug": "ananasy-konservirovannye",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кетчуп/паста томатная",
+                    "slug": "ketchup-pasta-tomatnaya",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Залить дрожжи теплым молоком, всыпать сахар, перемешать, убрать в тепло, дать опаре подняться. Разболтать с солью яйца, влить растительное масло, подсолить, хорошо перемешать, объединить с опарой. Всыпать муку, вымесить тесто, прикрыть пленкой, убрать в тепло на полчаса. Включить для прогрева до 180 градусов духовку.",
+            "image": null
+        },
+        {
+            "text": "Порезать ветчину на кубиками или соломкой, сыр мелко натереть.скатать из теста круглую лепешку, смазать форму, переложить в нее тесто. Смазать поверхность томатной пастой, разложить ананасы с ветчиной, присыпать сыром. Выпекать пиццу «Гавайская» около 25 минут, сразу подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Тесто домашнее",
+            "slug": "testo-domashnee"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Гавайская пицца",
+            "slug": "gavayskaya-picca"
+        },
+        {
+            "name": "Домашняя пицца",
+            "slug": "domashnyaya-picca"
+        },
+        {
+            "name": "Дрожжевая пицца",
+            "slug": "drojjevaya-picca"
+        },
+        {
+            "name": "Дрожжевое тесто для пиццы",
+            "slug": "drojjevoe-testo-dlya-piccy"
+        },
+        {
+            "name": "Пицца",
+            "slug": "picca"
+        },
+        {
+            "name": "Пицца в духовке",
+            "slug": "picca-v-duhovke"
+        },
+        {
+            "name": "Пицца с ананасами",
+            "slug": "picca-s-ananasami"
+        },
+        {
+            "name": "Пицца с ветчиной",
+            "slug": "picca-s-vetchinoy"
+        },
+        {
+            "name": "Пицца с сыром",
+            "slug": "picca-s-syrom"
+        }
+    ]
+}

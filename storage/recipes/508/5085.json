@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/shashlyk-iz-kuricy-v-multivarke/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Шашлык из курицы в мультиварке",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/36/f43336444e9e736_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриного филе",
+                    "slug": "kurinogo-file",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "оливкового масла",
+                    "slug": "olivkovogo-masla",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соевого соуса",
+                    "slug": "soevogo-sousa",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "меда",
+                    "slug": "meda",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснока",
+                    "slug": "chesnoka",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "пряности (хмели-сунели, прованские травы)",
+                    "slug": "pryanosti-hmeli-suneli-provanskie-travy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Смешать для маринада мед с оливковым маслом, чесноком и соевым соусом, посолить, всыпать пряности и хорошо перемешать.",
+            "image": null
+        },
+        {
+            "text": "Порезать филе курицы небольшими кусочками, переложить в миску, залить маринадом, прикрыть пленкой, дать постоять на холоде 1 час, а лучше около трех.",
+            "image": null
+        },
+        {
+            "text": "Нарезать лук кольцами (покрупнее), насадить на шпажки поочередно с мясом, положить в чашу мультиварки, полить маринадом. Задать режим «Жарка» или «Выпечка». Шашлык их курицы в мультиварке будет готов минут через 40-50. Мясо получается мягким и сочным, подать с кетчупом, свежими огурцами, помидорами и зеленью.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Курица с медом",
+            "slug": "kurica-s-medom"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Ужин в мультиварке",
+            "slug": "ujin-v-multivarke"
+        },
+        {
+            "name": "Ужин из куриного филе",
+            "slug": "ujin-iz-kurinogo-file"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Шашлык",
+            "slug": "shashlyk"
+        }
+    ]
+}

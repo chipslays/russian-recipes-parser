@@ -1,0 +1,83 @@
+{
+    "source": "https://vkuso.ru/recipe/koktejl-zhiranet-na-kefire/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Коктейль «Жиранет» на кефире",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/9c/a5f991b9ffbfd9c_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кефир 1%",
+                    "slug": "kefir-1",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "корица",
+                    "slug": "korica",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "имбирь",
+                    "slug": "imbir",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец красный молотый",
+                    "slug": "perec-krasniy-molotiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Перемешать все ингредиенты, вылить в высокий бокал, подать сразу к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные коктейли",
+            "slug": "bezalkogolnye-kokteyli"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Коктейли",
+            "slug": "kokteyli"
+        },
+        {
+            "name": "Молочный коктейль",
+            "slug": "molochniy-kokteyl"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

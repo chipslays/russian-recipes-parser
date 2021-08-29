@@ -1,0 +1,140 @@
+{
+    "source": "https://vkuso.ru/recipe/kinder-molochnyj-lomtik-po-domashnemu/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Киндер «Молочный ломтик» по-домашнему",
+    "description": null,
+    "note": "Маскарпоне можно заменить протертым творогом.",
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/51/af83361cbda1c51_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "какао",
+                    "slug": "kakao",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для крема",
+            "list": [
+                {
+                    "name": "сыр маскарпоне",
+                    "slug": "syr-maskarpone",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко сгущенное",
+                    "slug": "moloko-sguschennoe",
+                    "notes": null,
+                    "value": "80",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко сухое",
+                    "slug": "moloko-suhoe",
+                    "notes": null,
+                    "value": "80",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления бисквита одно яйцо и один дополнительный желток взбить с сахарным песком до пышной пены и увеличения объема массы в два-три раза. Всыпать просеянную муку и какао, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Отдельно взбить оставшийся белок со щепоткой соли, массу ввести в тесто. Небольшой противень застелить бумагой для выпекания. Вылить тесто, печь 10 – 12 минут при температуре 210 градусов, до готовности. Бисквит охладить, разрезать на два коржа острым ножом.",
+            "image": null
+        },
+        {
+            "text": "Для крема, взбить сыр маскарпоне со сгущенным молоком до образования однородной массы, добавить сухое молоко, перемешать. Прослоить кремом коржи, прижать и разрезать киндер «Молочный ломтик» по-домашнему на порции.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бисквитное пирожное",
+            "slug": "biskvitnoe-pirojnoe"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка со сгущенкой",
+            "slug": "vypechka-so-sguschenkoy"
+        },
+        {
+            "name": "Десерт со сгущенкой",
+            "slug": "desert-so-sguschenkoy"
+        },
+        {
+            "name": "Другие десерты",
+            "slug": "drugie-deserty"
+        },
+        {
+            "name": "Пирожное со сгущенкой",
+            "slug": "pirojnoe-so-sguschenkoy"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Шоколадное пирожное",
+            "slug": "shokoladnoe-pirojnoe"
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/108532-sharlotka-s-yablokami-v-kruzhke/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Шарлотка с яблоками в кружке",
+    "description": "В обычной кружке можно испечь настоящий, вкусный и нежный десерт. Емкость заполнять наполовину.",
+    "note": "В десерт можно добавить мед или изюм, цукаты, любые сезонные ягоды.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/63/d94c1adaa281a63_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "15 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/Zt7wpFNzq8o?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "125",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "½",
+                    "type": "пакетика",
+                    "amount": null
+                },
+                {
+                    "name": "корица молотая",
+                    "slug": "korica-molotaya",
+                    "notes": null,
+                    "value": "2",
+                    "type": "щепотки",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Вбить яйцо в миску, всыпать сахарный песок, затем муку и разрыхлитель.",
+            "image": null
+        },
+        {
+            "text": "Очистить и нарезать яблоки мелкими кубиками, посыпать молотой корицей, сбрызнуть лимонным соком.",
+            "image": null
+        },
+        {
+            "text": "Выложить в тесто.",
+            "image": null
+        },
+        {
+            "text": "Кружки смазать маслом, выложить тесто ложкой, емкости должны быть заполнены наполовину.",
+            "image": null
+        },
+        {
+            "text": "Время выпекания в микроволновой печи – пять минут. Готовность проверить зубочисткой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка в микроволновке",
+            "slug": "vypechka-v-mikrovolnovke"
+        },
+        {
+            "name": "Выпечка с корицей",
+            "slug": "vypechka-s-koricey"
+        },
+        {
+            "name": "Выпечка с фруктами",
+            "slug": "vypechka-s-fruktami"
+        },
+        {
+            "name": "Выпечка с яблоками",
+            "slug": "vypechka-s-yablokami"
+        },
+        {
+            "name": "Микроволновка",
+            "slug": "mikrovolnovka"
+        },
+        {
+            "name": "Шарлотка",
+            "slug": "sharlotka"
+        },
+        {
+            "name": "Шарлотка в микроволновке",
+            "slug": "sharlotka-v-mikrovolnovke"
+        },
+        {
+            "name": "Шарлотка с яблоками",
+            "slug": "sharlotka-s-yablokami"
+        },
+        {
+            "name": "Яблоки в микроволновке",
+            "slug": "yabloki-v-mikrovolnovke"
+        }
+    ]
+}

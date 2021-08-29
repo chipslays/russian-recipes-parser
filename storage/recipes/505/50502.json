@@ -1,0 +1,92 @@
+{
+    "source": "https://vkuso.ru/recipe/rafaello-iz-kivi-meda-i-kokosovoj-struzhki/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Рафаэлло из киви, меда и кокосовой стружки",
+    "description": "Хорошая альтернатива всемирно известным конфетам с любимым орешком внутри. Десерт лишь внешне похож на настоящие конфеты, но полезен и прост в приготовлении.",
+    "note": "В середину конфет можно положить по «сюрпризу» в виде орешка или кусочка мармелада.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c6/8c76ac3e90893c6_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кокосовая стружка",
+                    "slug": "kokosovaya-strujka",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "киви",
+                    "slug": "kivi",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для обсыпки",
+            "list": [
+                {
+                    "name": "кокосовая стружка",
+                    "slug": "kokosovaya-strujka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Киви очистить, разрезать пополам, выложить в блендер, перемолоть с мёдом, кокосовой стружкой. Масса должна получиться однородной.",
+            "image": null
+        },
+        {
+            "text": "Слепить шарики из готовой смеси размером с грецкий орех, обвалять в стружке.",
+            "image": null
+        },
+        {
+            "text": "«Конфеты» положить в разовые бумажные формочки и поставить в холодильник на несколько часов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерты для детей",
+            "slug": "deserty-dlya-detey"
+        },
+        {
+            "name": "Домашние конфеты",
+            "slug": "domashnie-konfety"
+        },
+        {
+            "name": "На десерт",
+            "slug": "na-desert"
+        },
+        {
+            "name": "Рафаэлло",
+            "slug": "rafaello"
+        }
+    ]
+}

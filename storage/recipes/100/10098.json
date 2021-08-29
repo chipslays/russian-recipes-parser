@@ -1,0 +1,75 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnij-syr-iz-smetany-i-moloka/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Домашний сыр из сметаны и молока",
+    "description": "Никакое магазинное блюдо не заменит домашний аналог. Добавки в массу, похожую по консистенции на брынзу, создадут новые вкусы. Выберите то, что понравится именно вам и вашим домашним.",
+    "note": "Вместо зелени можно использовать рубленые грецкие орехи, порезанные оливки, китайский чеснок, паприку.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d4/0d9d59cabbb7fd4_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Подсолить молоко и вскипятить, следить, чтобы не «убежало». Отдельно смешать сметану с яйцами и осторожно влить в кипящее молоко. Варить смесь в течение 2 – 3 минут.",
+            "image": null
+        },
+        {
+            "text": "Должны образоваться крупные хлопья, на этой стадии приготовления можно добавить рубленый укроп или кинзу. Варить 3–4 минуты, постоянно помешивая.",
+            "image": null
+        },
+        {
+            "text": "Выложить сырную массу в сито или марлю, отцедить. Поставить под груз и охладить домашний сыр в холодильнике в течение 12 часов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Сыр домашний",
+            "slug": "syr-domashniy"
+        }
+    ]
+}

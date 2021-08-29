@@ -1,0 +1,87 @@
+{
+    "source": "https://vkuso.ru/recipe/armyanskij-lavash-s-nachinkoj-iz-vetchiny-i-syra/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Армянский лаваш с начинкой из ветчины и сыра",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/57/1b5742c10fad057_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "ветчина/колбаса",
+                    "slug": "vetchina-kolbasa",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лаваш армянский",
+                    "slug": "lavash-armyanskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кетчуп",
+                    "slug": "ketchup",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Развернуть лист армянского лаваша, разделить на две части, положить на каждую половину начинку из сыра и ветчины (можно заменить на колбасу), свернуть, как больше нравится.",
+            "image": null
+        },
+        {
+            "text": "Разогреть сковороду, обжарить лаваш с ветчиной и сыром с одной и другой стороны до расплавления твердого сыра, разрезать пополам, подать вместе с острым кетчупом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Горячие закуски",
+            "slug": "goryachie-zakuski"
+        },
+        {
+            "name": "Закуски из лаваша",
+            "slug": "zakuski-iz-lavasha"
+        },
+        {
+            "name": "Лаваш с начинкой",
+            "slug": "lavash-s-nachinkoy"
+        },
+        {
+            "name": "Лаваш с сыром",
+            "slug": "lavash-s-syrom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

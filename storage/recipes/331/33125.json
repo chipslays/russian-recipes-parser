@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-so-svezhej-morkovyu-i-govyazhej-pechenyu/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат со свежей морковью и говяжьей печенью",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/6e/b7d084e09f7b26e_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "говяжья печень",
+                    "slug": "govyajya-pechen",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы соленые",
+                    "slug": "ogurcy-solenye",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Порезать печень на тоненькие брусочки, обжарить. Порезать соломкой лук и морковь, пожарить. Соединить печень, огурчики, лук с морковью, измельченный чесночок, яйцо, посыпать перцем и солью. Заправить салат с печенью майонезом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат из моркови",
+            "slug": "salat-iz-morkovi"
+        },
+        {
+            "name": "Салат из моркови с чесноком",
+            "slug": "salat-iz-morkovi-s-chesnokom"
+        },
+        {
+            "name": "Салат из моркови с чесноком и майонезом",
+            "slug": "salat-iz-morkovi-s-chesnokom-i-mayonezom"
+        },
+        {
+            "name": "Салат из свежей моркови",
+            "slug": "salat-iz-svejey-morkovi"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с огурцом и яйцом",
+            "slug": "salat-s-ogurcom-i-yaycom"
+        },
+        {
+            "name": "Салат с печенью",
+            "slug": "salat-s-pechenyu"
+        },
+        {
+            "name": "Салат с печенью и морковью",
+            "slug": "salat-s-pechenyu-i-morkovyu"
+        },
+        {
+            "name": "Салат с печенью, морковью и луком",
+            "slug": "salat-s-pechenyu-morkovyu-i-lukom"
+        },
+        {
+            "name": "Салат с солеными огурцами",
+            "slug": "salat-s-solenymi-ogurcami"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салат с чесноком и майонезом",
+            "slug": "salat-s-chesnokom-i-mayonezom"
+        },
+        {
+            "name": "Салат с яйцом и морковью",
+            "slug": "salat-s-yaycom-i-morkovyu"
+        },
+        {
+            "name": "Салаты с говяжьей печенью",
+            "slug": "salaty-s-govyajey-pechenyu"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты с маринованными огурцами",
+            "slug": "salaty-s-marinovannymi-ogurcami"
+        }
+    ]
+}

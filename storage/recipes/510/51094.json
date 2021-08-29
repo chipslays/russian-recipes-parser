@@ -1,0 +1,191 @@
+{
+    "source": "https://vkuso.ru/recipe/belkovyj-yablochno-yagodnyj-pirog/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Белковый яблочно-ягодный пирог",
+    "description": "Рецепт адаптирован для микроволновой печи. Блюдо готовится быстро, выглядит ярко и аппетитно.",
+    "note": "Готовый десерт можно полить фруктовым или ягодным сиропом, украсить целыми ягодами вишни или черешни.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/6d/9c34ef776d3966d_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "ягоды свежие",
+                    "slug": "yagody-svejie",
+                    "notes": " (без косточек)",
+                    "value": "2-3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "корица молотая",
+                    "slug": "korica-molotaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "ванилин",
+                    "slug": "vanilin",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Яблоко нарезать кусочками, выложить в форму с высокими бортиками.",
+            "image": null
+        },
+        {
+            "text": "Печь в микроволновой печи, начинка не должна доходить до краев чаши.",
+            "image": null
+        },
+        {
+            "text": "К яблокам добавить любые любимые ягоды, все посыпать сахарным песком и молотой корицей.",
+            "image": null
+        },
+        {
+            "text": "Отдельно взбить яичные белки с ванилином и разрыхлителем.",
+            "image": null
+        },
+        {
+            "text": "Залить смесью фрукты, накрыть крышкой форму и поставить в микроволновку на три-четыре минуты.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Быстрые пироги",
+            "slug": "bystrye-pirogi"
+        },
+        {
+            "name": "Быстрые пироги на скорую руку",
+            "slug": "bystrye-pirogi-na-skoruyu-ruku"
+        },
+        {
+            "name": "Быстрый пирог с яблоками",
+            "slug": "bystriy-pirog-s-yablokami"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка в микроволновке",
+            "slug": "vypechka-v-mikrovolnovke"
+        },
+        {
+            "name": "Выпечка на скорую руку",
+            "slug": "vypechka-na-skoruyu-ruku"
+        },
+        {
+            "name": "Выпечка с корицей",
+            "slug": "vypechka-s-koricey"
+        },
+        {
+            "name": "Выпечка с фруктами",
+            "slug": "vypechka-s-fruktami"
+        },
+        {
+            "name": "Выпечка с яблоками",
+            "slug": "vypechka-s-yablokami"
+        },
+        {
+            "name": "Выпечка с ягодами",
+            "slug": "vypechka-s-yagodami"
+        },
+        {
+            "name": "Кекс в микроволновке",
+            "slug": "keks-v-mikrovolnovke"
+        },
+        {
+            "name": "Мелкая выпечка",
+            "slug": "melkaya-vypechka"
+        },
+        {
+            "name": "Микроволновка",
+            "slug": "mikrovolnovka"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог с яблоками",
+            "slug": "pirog-s-yablokami"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги с фруктами",
+            "slug": "pirogi-s-fruktami"
+        },
+        {
+            "name": "Пироги с ягодами",
+            "slug": "pirogi-s-yagodami"
+        },
+        {
+            "name": "Полдник",
+            "slug": "poldnik"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Сладкие пироги",
+            "slug": "sladkie-pirogi"
+        }
+    ]
+}

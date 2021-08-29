@@ -1,0 +1,179 @@
+{
+    "source": "https://vkuso.ru/recipe/110146-kapustnyak-so-struchkovoj-fasolyu-na-kurinom-bulone/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Капустняк со стручковой фасолью на курином бульоне",
+    "description": "Густой и наваристый суп на курином бульоне.",
+    "note": "Подавать суп на стол горячим, добавить свежую зелень.",
+    "cuisine": "Украинская кухня",
+    "cuisine_slug": "ukrainskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/dd/a020bf157e065dd_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "куриный суповой набор",
+                    "slug": "kuriniy-supovoy-nabor",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "фасоль стручковая",
+                    "slug": "fasol-struchkovaya",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "капуста белокочанная",
+                    "slug": "kapusta-belokochannaya",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "пшено",
+                    "slug": "psheno",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сварить куриный бульон из супового набора. Время варки – сорок минут.",
+            "image": null
+        },
+        {
+            "text": "По вкусу добавить соль и луковицу.",
+            "image": null
+        },
+        {
+            "text": "В готовый суп добавить картофель, пшенную крупу, варить все вместе десять минут.",
+            "image": null
+        },
+        {
+            "text": "Обжарить тертую морковь и накрошенный лук отдельно, на сковороде.",
+            "image": null
+        },
+        {
+            "text": "Нашинковать свежую белокочанную капусту, пересыпать в суп вместе со стручковой фасолью.",
+            "image": null
+        },
+        {
+            "text": "Варить пятнадцать минут. Досолить, если нужно.",
+            "image": null
+        },
+        {
+            "text": "Перелить обжарку, поперчить, всыпать рубленую зелень. Варить пять минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Капустняк",
+            "slug": "kapustnyak"
+        },
+        {
+            "name": "Куриный суп",
+            "slug": "kuriniy-sup"
+        },
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Суп из бобовых",
+            "slug": "sup-iz-bobovyh"
+        },
+        {
+            "name": "Суп из птицы",
+            "slug": "sup-iz-pticy"
+        },
+        {
+            "name": "Суп с капустой",
+            "slug": "sup-s-kapustoy"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Суп с фасолью",
+            "slug": "sup-s-fasolyu"
+        },
+        {
+            "name": "Супы с крупами",
+            "slug": "supy-s-krupami"
+        }
+    ]
+}

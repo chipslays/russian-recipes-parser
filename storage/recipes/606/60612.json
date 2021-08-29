@@ -1,0 +1,175 @@
+{
+    "source": "https://vkuso.ru/recipe/burrito-s-kurinym-file-i-fasolyu-v-lavashe/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Буррито с куриным филе и фасолью в лаваше",
+    "description": "Жгучее мексиканское блюдо, перевод с испанского – «ослик». Начинка может быть самой разнообразной: рубленое мясо, рис, авокадо, помидоры, пережаренные бобы, сыр.",
+    "note": "При подаче буррито можно украсить веточками зелени, помидорами черри.",
+    "cuisine": "Мексиканская кухня",
+    "cuisine_slug": "meksikanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/90/e0469a601c03990_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": null,
+                    "value": "80",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук",
+                    "slug": "luk",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соус чили",
+                    "slug": "sous-chili",
+                    "notes": " (паста чили)",
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лаваш тонкий",
+                    "slug": "lavash-tonkiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "фасоль консервированная",
+                    "slug": "fasol-konservirovannaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать репчатый лук кубиками, обжарить на растительном масле до прозрачности.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/c8/a2d3f240e36d0c8_434x295.jpg"
+        },
+        {
+            "text": "Филе курицы нарезать кубиками небольшого размера, добавить в луковую обжарку, прогревать, помешивая.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/63/078e19568201263_434x295.jpg"
+        },
+        {
+            "text": "Добавить в смесь готовую фасоль и соус чили по вкусу.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/da/10f324e29487bda_434x295.jpg"
+        },
+        {
+            "text": "Нарезать кубиками сладкий болгарский перец, положить в основную массу.",
+            "image": null
+        },
+        {
+            "text": "Томатная паста, соль, перец, лимонный сок – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Выложить начинку на листы лаваша, свернуть конвертами, сухие края можно обрезать.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/d4/643af61ad0b28d4_434x295.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Буррито",
+            "slug": "burrito"
+        },
+        {
+            "name": "Домашний фаст фуд",
+            "slug": "domashniy-fast-fud"
+        },
+        {
+            "name": "Закуски из курицы",
+            "slug": "zakuski-iz-kuricy"
+        },
+        {
+            "name": "Закуски из лаваша",
+            "slug": "zakuski-iz-lavasha"
+        },
+        {
+            "name": "Лаваш с курицей",
+            "slug": "lavash-s-kuricey"
+        },
+        {
+            "name": "Лаваш с начинкой",
+            "slug": "lavash-s-nachinkoy"
+        },
+        {
+            "name": "Мексиканская закуска",
+            "slug": "meksikanskaya-zakuska"
+        },
+        {
+            "name": "Фасоль с мясом",
+            "slug": "fasol-s-myasom"
+        }
+    ]
+}

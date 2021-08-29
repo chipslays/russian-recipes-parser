@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/90457-chesnochnye-grenki-iz-batona-s-plavlenym-syrom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Чесночные гренки из батона с плавленым сыром",
+    "description": "Закуску можно подать к праздничному столу.",
+    "note": "Дополнить закуску соленьями, консервами, зеленью и свежими овощами, колбасой.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/16/fdb0d2e7e637e16_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "25 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "батон",
+                    "slug": "baton",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца вареные",
+                    "slug": "yayca-varenye",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый ломтевой",
+                    "slug": "syr-plavleniy-lomtevoy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Пшеничный батон разрезать на кусочки небольшого размера, обжарить с одной стороны на масле.",
+            "image": null
+        },
+        {
+            "text": "Обжаренную сторону натереть чесноком.",
+            "image": null
+        },
+        {
+            "text": "Отваренные куриные яйца и охлажденный плавленый сыр натереть на терке.",
+            "image": null
+        },
+        {
+            "text": "Массу посолить по вкусу, добавить специи, майонез.",
+            "image": null
+        },
+        {
+            "text": "Пасту выложить на обжаренную сторону гренок, украсить веточками зелени.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Гренки",
+            "slug": "grenki"
+        },
+        {
+            "name": "Гренки из батона",
+            "slug": "grenki-iz-batona"
+        },
+        {
+            "name": "Гренки с сыром",
+            "slug": "grenki-s-syrom"
+        },
+        {
+            "name": "Гренки с чесноком",
+            "slug": "grenki-s-chesnokom"
+        },
+        {
+            "name": "Гренки с яйцом",
+            "slug": "grenki-s-yaycom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

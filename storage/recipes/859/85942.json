@@ -1,0 +1,231 @@
+{
+    "source": "https://vkuso.ru/recipe/85942-salat-sugrob-s-kuricej-i-svezhim-ogurcom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Сугроб» с курицей и свежим огурцом",
+    "description": "Летний вкус зимнему салату придадут свежие огурцы, зелень.",
+    "note": "По желанию блюдо можно украсить консервированным зеленым горошком.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/dc/6a2302027d2f0dc_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/bubVnPqUyHo?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить яйца, куриное мясо, картофель.",
+            "image": null
+        },
+        {
+            "text": "Репчатый лук и мясо нарезать длинными тонкими полосками. Обжарить.",
+            "image": null
+        },
+        {
+            "text": "Натереть картофель, яйца разрезать пополам, огурец нашинковать соломкой.",
+            "image": null
+        },
+        {
+            "text": "Порубить ножом зелень и чеснок, перемешать с майонезом и желтками.",
+            "image": null
+        },
+        {
+            "text": "Половинки белков нафаршировать желтковой массой.",
+            "image": null
+        },
+        {
+            "text": "Выложить слоями: мясную обжарку, картофель, огурцы, яйца.",
+            "image": null
+        },
+        {
+            "text": "Слои промазать майонезом.",
+            "image": null
+        },
+        {
+            "text": "Салат посыпать тертым сыром.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новогодний салат с курицей",
+            "slug": "novogodniy-salat-s-kuricey"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат Cугроб",
+            "slug": "salat-cugrob"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с картофелем",
+            "slug": "salat-s-kartofelem"
+        },
+        {
+            "name": "Салат с куриным филе",
+            "slug": "salat-s-kurinym-file"
+        },
+        {
+            "name": "Салат с курицей",
+            "slug": "salat-s-kuricey"
+        },
+        {
+            "name": "Салат с курицей и овощами",
+            "slug": "salat-s-kuricey-i-ovoschami"
+        },
+        {
+            "name": "Салат с курицей и огурцом",
+            "slug": "salat-s-kuricey-i-ogurcom"
+        },
+        {
+            "name": "Салат с курицей и сыром",
+            "slug": "salat-s-kuricey-i-syrom"
+        },
+        {
+            "name": "Салат с курицей и яйцом",
+            "slug": "salat-s-kuricey-i-yaycom"
+        },
+        {
+            "name": "Салат с курицей, огурцом и яйцом",
+            "slug": "salat-s-kuricey-ogurcom-i-yaycom"
+        },
+        {
+            "name": "Салат с курицей, сыром и яйцом",
+            "slug": "salat-s-kuricey-syrom-i-yaycom"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с огурцом и сыром",
+            "slug": "salat-s-ogurcom-i-syrom"
+        },
+        {
+            "name": "Салат с сыром и чесноком",
+            "slug": "salat-s-syrom-i-chesnokom"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салат с чесноком и майонезом",
+            "slug": "salat-s-chesnokom-i-mayonezom"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        },
+        {
+            "name": "Слоеные салаты",
+            "slug": "sloenye-salaty"
+        },
+        {
+            "name": "Слоеный салат с курицей",
+            "slug": "sloeniy-salat-s-kuricey"
+        },
+        {
+            "name": "Слоеный салат с курицей и сыром",
+            "slug": "sloeniy-salat-s-kuricey-i-syrom"
+        }
+    ]
+}

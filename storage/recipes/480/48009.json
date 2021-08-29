@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/laxanorizo-s-tomatnym-sokom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Лаханоризо с томатным соком",
+    "description": "Легкое вегетарианское блюдо с малознакомым названием родом из Греции. Удачное сочетание простых продуктов, кушанье можно подавать как в горячем, так и в холодном виде.",
+    "note": "При подаче посыпать блюдо зеленью петрушки, украсить ломтиками тонко нарезанного лимона.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/8c/7dd827a17af118c_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "капуста белокочанная",
+                    "slug": "kapusta-belokochannaya",
+                    "notes": null,
+                    "value": "500-800",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "рис бурый",
+                    "slug": "ris-buriy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "томатный сок",
+                    "slug": "tomatniy-sok",
+                    "notes": null,
+                    "value": "100-500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нашинковать белокочанную капусту. Репчатый лук нарезать крупными кубиками, морковь – кружками.",
+            "image": null
+        },
+        {
+            "text": "На сковороде с антипригарным покрытием прогреть оба ингредиента. Масло не требуется, можно подлить немного воды или томатного сока.",
+            "image": null
+        },
+        {
+            "text": "Всыпать рубленый зеленый лук. Добавить капусту, тушить на максимальном огне до легкого золотисто-коричневого оттенка. Массу помешивать, чтобы продукты не пригорели. В процессе приготовления можно подлить еще немного томатного сока, всыпать любимые специи. Огонь уменьшить до минимума.",
+            "image": null
+        },
+        {
+            "text": "Добавить бурый рис, подлить воду или все тот же томатный сок. Тушить блюдо под крышкой до полной готовности риса.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские вторые блюда",
+            "slug": "vegetarianskie-vtorye-blyuda"
+        },
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Вторые блюда из капусты",
+            "slug": "vtorye-blyuda-iz-kapusty"
+        },
+        {
+            "name": "Вторые блюда из риса",
+            "slug": "vtorye-blyuda-iz-risa"
+        },
+        {
+            "name": "Гарнир из риса",
+            "slug": "garnir-iz-risa"
+        },
+        {
+            "name": "Гарнир к курице",
+            "slug": "garnir-k-kurice"
+        },
+        {
+            "name": "Гарниры",
+            "slug": "garniry"
+        },
+        {
+            "name": "Постные блюда из капусты",
+            "slug": "postnye-blyuda-iz-kapusty"
+        },
+        {
+            "name": "Постные блюда из риса",
+            "slug": "postnye-blyuda-iz-risa"
+        },
+        {
+            "name": "Постный ужин",
+            "slug": "postniy-ujin"
+        },
+        {
+            "name": "Ужин из капусты",
+            "slug": "ujin-iz-kapusty"
+        }
+    ]
+}

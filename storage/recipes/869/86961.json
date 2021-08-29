@@ -1,0 +1,204 @@
+{
+    "source": "https://vkuso.ru/recipe/86961-klassicheskij-olive-v-vide-myshi/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Классический «Оливье» в виде мыши",
+    "description": "Оригинальная подача всем известного салата, без которого Новый год просто не наступит.",
+    "note": "Другой вариант: уши и хвост можно сделать из отваренного вкрутую яйца.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/fc/26e6d8d2515f4fc_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/nNeNCt0pspo?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "колбаса",
+                    "slug": "kolbasa",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "зеленый горошек консервированный",
+                    "slug": "zeleniy-goroshek-konservirovanniy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4-5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы соленые",
+                    "slug": "ogurcy-solenye",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для украшения",
+            "list": [
+                {
+                    "name": "маслины",
+                    "slug": "masliny",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Картофель и морковь отварить, нарезать одинаковыми кубиками.",
+            "image": null
+        },
+        {
+            "text": "Отварить куриные яйца вкрутую и так же нарезать кубиками.",
+            "image": null
+        },
+        {
+            "text": "Измельчить соленые огурцы, колбасу.",
+            "image": null
+        },
+        {
+            "text": "Все ингредиенты перемешать.",
+            "image": null
+        },
+        {
+            "text": "Добавить консервированный зеленый горошек, рассол отцедить.",
+            "image": null
+        },
+        {
+            "text": "Готовый салат заправить по вкусу майонезом, посолить, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Сформовать мышку. Ножки, хвост, уши, усы сделать из колбасы. Для глаз использовать маслины, зеленый горошек или перец.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Год крысы",
+            "slug": "god-krysy"
+        },
+        {
+            "name": "Классические рецепты",
+            "slug": "klassicheskie-recepty"
+        },
+        {
+            "name": "Классические салаты",
+            "slug": "klassicheskie-salaty"
+        },
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Оливье классический",
+            "slug": "olive-klassicheskiy"
+        },
+        {
+            "name": "Оливье с колбасой",
+            "slug": "olive-s-kolbasoy"
+        },
+        {
+            "name": "Оливье с солеными огурцами",
+            "slug": "olive-s-solenymi-ogurcami"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат из моркови",
+            "slug": "salat-iz-morkovi"
+        },
+        {
+            "name": "Салат Оливье",
+            "slug": "salat-olive"
+        },
+        {
+            "name": "Салат Оливье с колбасой и солеными огурцами",
+            "slug": "salat-olive-s-kolbasoy-i-solenymi-ogurcami"
+        },
+        {
+            "name": "Салат с зеленым горошком",
+            "slug": "salat-s-zelenym-goroshkom"
+        },
+        {
+            "name": "Салат с картофелем",
+            "slug": "salat-s-kartofelem"
+        },
+        {
+            "name": "Салат с колбасой",
+            "slug": "salat-s-kolbasoy"
+        },
+        {
+            "name": "Салат с солеными огурцами",
+            "slug": "salat-s-solenymi-ogurcami"
+        },
+        {
+            "name": "Салат с яйцом и морковью",
+            "slug": "salat-s-yaycom-i-morkovyu"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        }
+    ]
+}

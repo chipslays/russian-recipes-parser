@@ -1,0 +1,175 @@
+{
+    "source": "https://vkuso.ru/recipe/85356-spagetti-s-kuricej-pomidorami-cherri-i-bazilikom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Спагетти с курицей, помидорами черри и базиликом",
+    "description": "Паста со свежим базиликом, томатами черри и курицей! Ужин, для тех у кого мало времени!",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5b/a2442d66735985b_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/m8n6BAkiFc0?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "спагетти",
+                    "slug": "spagetti",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры черри",
+                    "slug": "pomidory-cherri",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр полутвердый",
+                    "slug": "syr-polutverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "базилик свежий",
+                    "slug": "bazilik-svejiy",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "орегано сушеный",
+                    "slug": "oregano-susheniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный",
+                    "slug": "perec-cherniy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Курицу нарезать крупными кусочками, базилик (5 гр) мелко нарезать. На растительном масле обжарить 7 минут, перемешивая, добавив соль, перец и орегано (сушеный).",
+            "image": null
+        },
+        {
+            "text": "В отдельной сковородке обжарить помидорки черри разрезанный на пополам и чеснок пропущенный через пресс, 5 минут, перемешивая.",
+            "image": null
+        },
+        {
+            "text": "Помидоры соединить с курицей и добавить отваренные спагетти, добавить немного воды в которой варились спагетти.",
+            "image": null
+        },
+        {
+            "text": "Мелко нарезать оставшийся базилик, потереть сыр и перемешать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Вторые блюда из макарон",
+            "slug": "vtorye-blyuda-iz-makaron"
+        },
+        {
+            "name": "Куриное филе с помидорами",
+            "slug": "kurinoe-file-s-pomidorami"
+        },
+        {
+            "name": "Куриное филе с помидорами и сыром",
+            "slug": "kurinoe-file-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Паста",
+            "slug": "pasta"
+        },
+        {
+            "name": "Паста с курицей",
+            "slug": "pasta-s-kuricey"
+        },
+        {
+            "name": "Паста с сыром",
+            "slug": "pasta-s-syrom"
+        },
+        {
+            "name": "Спагетти",
+            "slug": "spagetti"
+        },
+        {
+            "name": "Спагетти с курицей",
+            "slug": "spagetti-s-kuricey"
+        },
+        {
+            "name": "Спагетти с сыром",
+            "slug": "spagetti-s-syrom"
+        },
+        {
+            "name": "Ужин из куриного филе",
+            "slug": "ujin-iz-kurinogo-file"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из макарон",
+            "slug": "ujin-iz-makaron"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        }
+    ]
+}

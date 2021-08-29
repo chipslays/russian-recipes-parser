@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnyaya-kartofelnaya-zapekanka-s-farshem/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Домашняя картофельная запеканка с фаршем",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/aa/addcd8c8f97e3aa_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мясной фарш",
+                    "slug": "myasnoy-farsh",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "5-6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сварить предварительно очищенный картофель, приготовить пока он варится мясную прослойку. Лук нашинковать мелкими кубиками, довести в разогретом масле до красивого цвета, добавить в сковороду размороженный фарш, тщательно обжарить, во время приготовления несколько раз перемешать.",
+            "image": null
+        },
+        {
+            "text": "Слить из кастрюли с картофелем отвар, хорошо размять с добавлением сырого яйца, подогретого молока и сливочного масла до однородного пюре без комочков, подсолить, размешать. Для выпекания можно использовать глубокую сковороду.",
+            "image": null
+        },
+        {
+            "text": "Переложить в нее часть картофеля (около половины), далее ровным слоем положить фарш, прикрыть остатками картофеля. Пару яиц и чуть – чуть сливок взбить, равномерно полить запеканку, присыпать рубленой зеленью и сыром. Поставить домашнюю картофельную запеканку с фаршем запекаться в духовой шкаф на треть часа при 200 градусах.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Запеканки",
+            "slug": "zapekanki"
+        },
+        {
+            "name": "Запеканки с сыром",
+            "slug": "zapekanki-s-syrom"
+        },
+        {
+            "name": "Запеканки с фаршем",
+            "slug": "zapekanki-s-farshem"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Картошка с сыром",
+            "slug": "kartoshka-s-syrom"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Мясо с сыром",
+            "slug": "myaso-s-syrom"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

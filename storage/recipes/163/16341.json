@@ -1,0 +1,135 @@
+{
+    "source": "https://vkuso.ru/recipe/burrito-po-meksikanski-s-syrom-i-vetchinoj/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "«Буррито» по-мексикански с сыром и ветчиной",
+    "description": "«Буррито» в переводе с испанского языка – «ослик». Мексиканское блюдо, состоящее из мягкой пшеничной лепешки, «тортильи», в которую завернута начинка: мясной фарш, жареные бобы, помидоры, рис, сыр, авокадо.",
+    "note": "Буррито можно хранить в морозильной камере, обернув пергаментом или фольгой. При необходимости – разогреть в микроволновой печи в течение трех минут.",
+    "cuisine": "Мексиканская кухня",
+    "cuisine_slug": "meksikanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/de/1e123ef583d7ade_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "30",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лаваш тонкий",
+                    "slug": "lavash-tonkiy",
+                    "notes": null,
+                    "value": "16",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец болгарский зеленый",
+                    "slug": "perec-bolgarskiy-zeleniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Мелко нарезать зеленый перец и обжарить на сливочном масле в течение нескольких минут. Добавить нарезанную ветчину, еще немного обжарить, затем всыпать рубленую зелень петрушки и взбитые яйца.",
+            "image": null
+        },
+        {
+            "text": "Прогревать, помешивая, до готовности. На каждую тортилью или лаваш выложить готовый омлет, посыпать тертым сыром и завернуть рулетом. «Буррито» по-мексикански с сыром и ветчиной подать горячим.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Буррито",
+            "slug": "burrito"
+        },
+        {
+            "name": "Домашний фаст фуд",
+            "slug": "domashniy-fast-fud"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Закуски из лаваша",
+            "slug": "zakuski-iz-lavasha"
+        },
+        {
+            "name": "Лаваш с начинкой",
+            "slug": "lavash-s-nachinkoy"
+        },
+        {
+            "name": "Лаваш с сыром",
+            "slug": "lavash-s-syrom"
+        },
+        {
+            "name": "Лаваш с сыром и яйцом",
+            "slug": "lavash-s-syrom-i-yaycom"
+        },
+        {
+            "name": "Лаваш с яйцом",
+            "slug": "lavash-s-yaycom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рулет из лаваша",
+            "slug": "rulet-iz-lavasha"
+        },
+        {
+            "name": "Сырный рулет",
+            "slug": "syrniy-rulet"
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "source": "https://vkuso.ru/recipe/106378-buzhenina-iz-kuricy-v-gorchichnom-souse/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Буженина из курицы в горчичном соусе",
+    "description": "Буженину можно приготовить дома не только из свинины или говядины, но и из куриного мяса.",
+    "note": "Блюдо подать с белым полусладким вином.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/42/6a37653b559e242_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час 20 минут",
+    "preparetime": "1 час 30 минут",
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 3 порции",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "горчица сладкая",
+                    "slug": "gorchica-sladkaya",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "уксус бальзамический",
+                    "slug": "uksus-balzamicheskiy",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "приправа для курицы",
+                    "slug": "priprava-dlya-kuricy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соус соевый",
+                    "slug": "sous-soeviy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Вымыть куриное филе, удалить лишний жир и пленки.",
+            "image": null
+        },
+        {
+            "text": "Приготовить пряную смесь из чеснока, пропущенного через пресс, сладкой горчицы, соевого соуса и бальзамического уксуса, приправ для куриного мяса. Соль – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Выложить мясо в соус на полтора часа.",
+            "image": null
+        },
+        {
+            "text": "Продукт завернуть в лист фольги, поставить на час в духовку, температура запекания – 180 градусов.",
+            "image": null
+        },
+        {
+            "text": "Нежную буженину нарезать на порции.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Запеченное куриное филе",
+            "slug": "zapechennoe-kurinoe-file"
+        },
+        {
+            "name": "Запеченные блюда",
+            "slug": "zapechennye-blyuda"
+        },
+        {
+            "name": "Куриная грудка в духовке",
+            "slug": "kurinaya-grudka-v-duhovke"
+        },
+        {
+            "name": "Куриное филе в духовке",
+            "slug": "kurinoe-file-v-duhovke"
+        },
+        {
+            "name": "Куриное филе в соусе",
+            "slug": "kurinoe-file-v-souse"
+        },
+        {
+            "name": "Курица в духовке",
+            "slug": "kurica-v-duhovke"
+        },
+        {
+            "name": "Курица в кисло-сладком соусе",
+            "slug": "kurica-v-kislo-sladkom-souse"
+        },
+        {
+            "name": "Курица в маринаде",
+            "slug": "kurica-v-marinade"
+        },
+        {
+            "name": "Курица в соевом соусе",
+            "slug": "kurica-v-soevom-souse"
+        },
+        {
+            "name": "Курица в соусе",
+            "slug": "kurica-v-souse"
+        },
+        {
+            "name": "Курица в фольге",
+            "slug": "kurica-v-folge"
+        },
+        {
+            "name": "Курица с чесноком",
+            "slug": "kurica-s-chesnokom"
+        },
+        {
+            "name": "Курица с чесноком в духовке",
+            "slug": "kurica-s-chesnokom-v-duhovke"
+        },
+        {
+            "name": "Ужин из куриного филе",
+            "slug": "ujin-iz-kurinogo-file"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Фольга",
+            "slug": "folga"
+        }
+    ]
+}

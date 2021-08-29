@@ -1,0 +1,203 @@
+{
+    "source": "https://vkuso.ru/recipe/bifarshe-s-lukom-i-syrom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Бифарше с луком и сыром",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/8f/0b83c2decb5578f_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "фарш",
+                    "slug": "farsh",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить из очищенного картофеля подсоленное пюре с молоком и сливочным маслом, дать остыть.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/7b/fe3f3193c0fb17b_434x295.jpg"
+        },
+        {
+            "text": "Из лука и мяса приготовить фарш, обжарить его на масле, сыр натереть.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/6d/27636a8e456ed6d_434x295.jpg"
+        },
+        {
+            "text": "У формы смазать бока и дно маслом, уложить слой пюре, на него – фарш.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/06/cae8584ff7db506_434x295.jpg"
+        },
+        {
+            "text": "Присыпать сыром, прикрыть слоем пюре.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/ee/8710cfb026706ee_434x295.jpg"
+        },
+        {
+            "text": "Разболтать яйцо, смазать верх бифарше, отправить форму на полчаса в духовку, разогретую до 180 градусов. Подавать к столу со сметаной и зеленью.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/6d/9ef2dafe5a08e6d_434x295.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из картофеля",
+            "slug": "vtorye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Запеканки",
+            "slug": "zapekanki"
+        },
+        {
+            "name": "Запеканки с сыром",
+            "slug": "zapekanki-s-syrom"
+        },
+        {
+            "name": "Запеканки с фаршем",
+            "slug": "zapekanki-s-farshem"
+        },
+        {
+            "name": "Картофельная запеканка",
+            "slug": "kartofelnaya-zapekanka"
+        },
+        {
+            "name": "Картофельная запеканка с фаршем",
+            "slug": "kartofelnaya-zapekanka-s-farshem"
+        },
+        {
+            "name": "Картошка в духовке",
+            "slug": "kartoshka-v-duhovke"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Картошка с мясом в духовке",
+            "slug": "kartoshka-s-myasom-v-duhovke"
+        },
+        {
+            "name": "Картошка с сыром",
+            "slug": "kartoshka-s-syrom"
+        },
+        {
+            "name": "Картошка с сыром в духовке",
+            "slug": "kartoshka-s-syrom-v-duhovke"
+        },
+        {
+            "name": "Картошка с фаршем в духовке",
+            "slug": "kartoshka-s-farshem-v-duhovke"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Мясо с сыром",
+            "slug": "myaso-s-syrom"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

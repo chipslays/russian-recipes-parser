@@ -1,0 +1,83 @@
+{
+    "source": "https://vkuso.ru/recipe/106329-ezhevichnoe-varene-po-polski/",
+    "category": "Заготовки",
+    "category_slug": "zagotovki",
+    "title": "Ежевичное варенье по-польски",
+    "description": "Хорошее варенье не требует спешки. Награда – вкусный продукт, который долго хранится.",
+    "note": "Такое варенье можно подавать к чаю, использовать его для приготовления десертов или украшения выпечки.",
+    "cuisine": "Польская кухня",
+    "cuisine_slug": "polskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/3e/751f54aa1c1e63e_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "31 час",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "ежевика",
+                    "slug": "ejevika",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "стакана",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сироп из сахара и воды довести до кипения, выложить заранее промытые ягоды, дать закипеть.",
+            "image": null
+        },
+        {
+            "text": "Огонь выключить, оставить на 10 – 12 часов для пропитывания.",
+            "image": null
+        },
+        {
+            "text": "Еще раз проварить в течение 15 минут, оставить еще на 10 – 12 часов.",
+            "image": null
+        },
+        {
+            "text": "Процедуру повторить еще раз.",
+            "image": null
+        },
+        {
+            "text": "Готовое варенье перелить в стерильные банки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Варенье",
+            "slug": "varene"
+        },
+        {
+            "name": "Варенье из ежевики",
+            "slug": "varene-iz-ejeviki"
+        },
+        {
+            "name": "Варенье из ягод",
+            "slug": "varene-iz-yagod"
+        }
+    ]
+}

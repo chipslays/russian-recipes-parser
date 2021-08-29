@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/81993-amsterdamskij-buterbrod-s-seldyu-i-kornishonami/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Амстердамский бутерброд с сельдью и корнишонами",
+    "description": "Популярное блюдо, продающееся в очередях в специальных киосках столицы Голландии.",
+    "note": "В бутерброды можно добавить листья зеленого салата.",
+    "cuisine": "Голландская кухня",
+    "cuisine_slug": "gollandskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/93/d151f77535a9f93_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "15 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "филе сельди",
+                    "slug": "file-seldi",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "корнишоны маринованные",
+                    "slug": "kornishony-marinovannye",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "булочки",
+                    "slug": "bulochki",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сладкий лук нарезать мелкими кубиками.",
+            "image": null
+        },
+        {
+            "text": "Маринованные корнишоны нарезать длинными полосками.",
+            "image": null
+        },
+        {
+            "text": "Продолговатые булочки с хрустящей корочкой разрезать вдоль так, чтобы они не разделились до конца.",
+            "image": null
+        },
+        {
+            "text": "На каждую половину выложить по половинке селедочного филе, накрыть огурцом и луком.",
+            "image": null
+        },
+        {
+            "text": "Сэндвичи закрыть, разрезать на несколько порций и подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды в дорогу",
+            "slug": "buterbrody-v-dorogu"
+        },
+        {
+            "name": "Бутерброды на природу",
+            "slug": "buterbrody-na-prirodu"
+        },
+        {
+            "name": "Бутерброды на скорую руку",
+            "slug": "buterbrody-na-skoruyu-ruku"
+        },
+        {
+            "name": "Бутерброды с огурцом",
+            "slug": "buterbrody-s-ogurcom"
+        },
+        {
+            "name": "Бутерброды с рыбой",
+            "slug": "buterbrody-s-ryboy"
+        },
+        {
+            "name": "Бутерброды с селедкой",
+            "slug": "buterbrody-s-seledkoy"
+        },
+        {
+            "name": "Закрытые бутерброды",
+            "slug": "zakrytye-buterbrody"
+        },
+        {
+            "name": "Закуски для пикника",
+            "slug": "zakuski-dlya-piknika"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сэндвичи",
+            "slug": "sendvichi"
+        },
+        {
+            "name": "Холодные закуски",
+            "slug": "holodnye-zakuski"
+        }
+    ]
+}

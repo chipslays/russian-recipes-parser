@@ -1,0 +1,195 @@
+{
+    "source": "https://vkuso.ru/recipe/korolevskaya-vatrushka-s-tvorozhno-limonnoj-nachinkoj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Королевская ватрушка с творожно-лимонной начинкой",
+    "description": "Немного обновленный рецепт известной выпечки.",
+    "note": "Готовую выпечку можно украсить любыми свежими ягодами.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d8/24e64a5005fa6d8_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/ALrBnGm2EeI?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар ванильный",
+                    "slug": "sahar-vanilniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "крахмал",
+                    "slug": "krahmal",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Лимон очистить, нарезать, добавить сахарный песок, всыпать крахмал и сварить кисель.",
+            "image": null
+        },
+        {
+            "text": "Перемешать муку с разрыхлителем, добавить сахар, тертое масло, перетереть в крошку.",
+            "image": null
+        },
+        {
+            "text": "В три четверти смеси добавить немного воды и замесить тесто. Сформовать основание, поставить в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Перемешать творожную массу с обычным и ванильным сахаром, вбить яйца.",
+            "image": null
+        },
+        {
+            "text": "На охлажденное основание выложить кисель с лимоном, творог и оставшуюся крошку.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Ватрушки",
+            "slug": "vatrushki"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка с фруктами",
+            "slug": "vypechka-s-fruktami"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Детский день рождения",
+            "slug": "detskiy-den-rojdeniya"
+        },
+        {
+            "name": "Королевская ватрушка",
+            "slug": "korolevskaya-vatrushka"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Сладкие пироги",
+            "slug": "sladkie-pirogi"
+        },
+        {
+            "name": "Творожный пирог",
+            "slug": "tvorojniy-pirog"
+        },
+        {
+            "name": "Хэллоуин",
+            "slug": "hellouin"
+        }
+    ]
+}

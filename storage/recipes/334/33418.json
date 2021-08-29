@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/poleznyj-garnir-iz-brokkoli-i-morkovi/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Полезный гарнир из брокколи и моркови",
+    "description": "Белки, которые содержатся в брокколи, по питательным свойствам можно сравнить с белками мяса. При этом на переработку продукта организм тратит больше калорий, чем получает от его употребления. Овощ для тех, кто хочет похудеть.",
+    "note": "Такой гарнир можно подать к мясу или котлетам, рыбным стейкам, дичи.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/3d/d2caf1acec26b3d_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "брокколи",
+                    "slug": "brokkoli",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "фасоль стручковая",
+                    "slug": "fasol-struchkovaya",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "чеснок",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Тщательно вымыть брокколи, стручковую фасоль, мелкую морковь, пучок петрушки. Капусту разобрать на соцветия. В кипящую воду положить фасоль и морковь, варить до готовности, в течение 10 минут. В другой кастрюле отварить брокколи, опускать в кипяток, через 7–10 минут вынуть. Вода должна быть подсоленной.",
+            "image": null
+        },
+        {
+            "text": "Морковь выложить в тарелку, фасоль и капусту откинуть на дуршлаг и окатить ледяной водой. У фасоли отрезать «хвостики» и разрезать стручки на несколько частей. Нагреть в сковороде оливковое масло, выдавить в него чеснок, прогреть, убавить огонь. Выложить овощи, перемешать, жарить две-три минуты. Петрушку мелко нарезать. Переложить овощи в глубокую посуду, посолить по вкусу, добавить зелень петрушки, свежий лимонный сок. Перемешать и подать гарнир из брокколи и моркови к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские вторые блюда",
+            "slug": "vegetarianskie-vtorye-blyuda"
+        },
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Вторые блюда из овощей",
+            "slug": "vtorye-blyuda-iz-ovoschey"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Гарнир к курице",
+            "slug": "garnir-k-kurice"
+        },
+        {
+            "name": "Гарниры",
+            "slug": "garniry"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Овощной гарнир",
+            "slug": "ovoschnoy-garnir"
+        },
+        {
+            "name": "Постные блюда из капусты",
+            "slug": "postnye-blyuda-iz-kapusty"
+        },
+        {
+            "name": "Постные блюда из фасоли",
+            "slug": "postnye-blyuda-iz-fasoli"
+        },
+        {
+            "name": "Постный ужин",
+            "slug": "postniy-ujin"
+        },
+        {
+            "name": "Праздничные гарниры",
+            "slug": "prazdnichnye-garniry"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ужин из капусты",
+            "slug": "ujin-iz-kapusty"
+        },
+        {
+            "name": "Ужин из овощей",
+            "slug": "ujin-iz-ovoschey"
+        }
+    ]
+}

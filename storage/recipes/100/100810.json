@@ -1,0 +1,183 @@
+{
+    "source": "https://vkuso.ru/recipe/100810-miso-sup-so-svininoj-i-gribami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Мисо-суп со свининой и грибами",
+    "description": "Питательное и ароматное блюдо, отличный вариант для семейного ужина.",
+    "note": "При подаче посыпать суп зеленым луком или мелко нарезанным луком-шалотом, семенами кунжута.",
+    "cuisine": "Японская кухня",
+    "cuisine_slug": "yaponskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/0a/507300a1d11de0a_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час 30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "филе свинины",
+                    "slug": "file-svininy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "бульон",
+                    "slug": "bulon",
+                    "notes": " (даси)",
+                    "value": "1.75",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "тофу",
+                    "slug": "tofu",
+                    "notes": null,
+                    "value": "140",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грибы шиитаке",
+                    "slug": "griby-shiitake",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук-шалот",
+                    "slug": "luk-shalot",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "пастернак",
+                    "slug": "pasternak",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "дайкон",
+                    "slug": "daykon",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мисо паста",
+                    "slug": "miso-pasta",
+                    "notes": null,
+                    "value": "4.5",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "семена кунжута",
+                    "slug": "semena-kunjuta",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "конняку",
+                    "slug": "konnyaku",
+                    "notes": null,
+                    "value": "½",
+                    "type": "пакетика",
+                    "amount": null
+                },
+                {
+                    "name": "масло кунжутное",
+                    "slug": "maslo-kunjutnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Свиное мясо нарезать небольшими кусочками.",
+            "image": null
+        },
+        {
+            "text": "Очистить и нарезать корень пастернака или гобо.",
+            "image": null
+        },
+        {
+            "text": "Если используется второй продукт, то залить холодной водой.",
+            "image": null
+        },
+        {
+            "text": "Дайкон покрошить кубиками со стороной в полтора сантиметра.",
+            "image": null
+        },
+        {
+            "text": "Удалить ножки у грибов шиитаке, шляпки разрезать на четыре части.",
+            "image": null
+        },
+        {
+            "text": "Коннияку залить кипятком на минуту, выложить на сито, остудить.",
+            "image": null
+        },
+        {
+            "text": "Разрезать продукт на четыре части, а затем поперек – на ломтики.",
+            "image": null
+        },
+        {
+            "text": "Налить в кастрюлю кунжутное масло, прогреть до появления дымка.",
+            "image": null
+        },
+        {
+            "text": "Свинину обжарить, добавить пастернак, дайкон, коннияку, грибы.",
+            "image": null
+        },
+        {
+            "text": "Влить бульон даси, суп довести до кипения, варить на тихом огне пятнадцать минут.",
+            "image": null
+        },
+        {
+            "text": "Мисо пасту перемешать с небольшим количеством супа, влить в основное блюдо.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Грибной суп",
+            "slug": "gribnoy-sup"
+        },
+        {
+            "name": "Мисо суп",
+            "slug": "miso-sup"
+        },
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп из свинины",
+            "slug": "sup-iz-svininy"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        }
+    ]
+}

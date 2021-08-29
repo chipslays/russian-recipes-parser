@@ -1,0 +1,160 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-iz-kapusty-s-pomidorami-i-kolbasoj/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат из капусты с помидорами и колбасой",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/1d/94e197727a4a41d_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "капуста",
+                    "slug": "kapusta",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "колбаса копченая",
+                    "slug": "kolbasa-kopchenaya",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сухарики",
+                    "slug": "suhariki",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "веточки",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для заправки",
+            "list": [
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Порезать белокочанную капусту тоненькой соломкой, пекинскую полосками не более 1 сантиметра. Перед добавлением белокочанную капусту посолить и помять руками, чтобы она стала сочной. Из помидора вырезать серединку, порезать на небольшие ломтики. Почистить луковицу, порезать на тоненькие полукольца. Колбасу порезать соломкой.",
+            "image": null
+        },
+        {
+            "text": "Подготовленные ингредиенты положить в емкость, заправить майонезом, посыпать перцем, солью, размешать. Если сухарики будут использоваться магазинные, то можно не солить. Перед подачей салат из капусты с помидорами и колбасой отправить минут на двадцать в холодильник. Посыпать измельченной петрушкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из капусты",
+            "slug": "salat-iz-kapusty"
+        },
+        {
+            "name": "Салат из помидоров",
+            "slug": "salat-iz-pomidorov"
+        },
+        {
+            "name": "Салат с капустой и сухариками",
+            "slug": "salat-s-kapustoy-i-suharikami"
+        },
+        {
+            "name": "Салат с колбасой",
+            "slug": "salat-s-kolbasoy"
+        },
+        {
+            "name": "Салат с копченой колбасой",
+            "slug": "salat-s-kopchenoy-kolbasoy"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с сухариками",
+            "slug": "salat-s-suharikami"
+        },
+        {
+            "name": "Салат с сухариками и колбасой",
+            "slug": "salat-s-suharikami-i-kolbasoy"
+        },
+        {
+            "name": "Салат с сухариками и копченой колбасой",
+            "slug": "salat-s-suharikami-i-kopchenoy-kolbasoy"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        }
+    ]
+}

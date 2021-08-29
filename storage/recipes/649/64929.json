@@ -1,0 +1,155 @@
+{
+    "source": "https://vkuso.ru/recipe/zakuska-s-ikroj-mojvy-i-plavlenym-syrom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Закуска с икрой мойвы и плавленым сыром",
+    "description": "Бюджетный вариант закуски.",
+    "note": "Для приготовления лучше использовать икру с соусом, это придаст сочность и пикантность готовому блюду.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/93/e9c93dd4347ff93_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/ahi6Cp61JPo?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "хлеб ржаной",
+                    "slug": "hleb-rjanoy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ломтик",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ломтик",
+                    "amount": null
+                },
+                {
+                    "name": "икра мойвы в белом соусе",
+                    "slug": "ikra-moyvy-v-belom-souse",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л. с горкой",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый",
+                    "slug": "syr-plavleniy",
+                    "notes": " (со вкусом трав)",
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Плавленый сыр со вкусом трав смешать с измельченным чесноком.",
+            "image": null
+        },
+        {
+            "text": "Смесью намазать темный хлеб.",
+            "image": null
+        },
+        {
+            "text": "Второй слой – икра, сверху – помидоры и зелень.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды на скорую руку",
+            "slug": "buterbrody-na-skoruyu-ruku"
+        },
+        {
+            "name": "Бутерброды открытые",
+            "slug": "buterbrody-otkrytye"
+        },
+        {
+            "name": "Бутерброды с икрой",
+            "slug": "buterbrody-s-ikroy"
+        },
+        {
+            "name": "Бутерброды с плавленым сыром",
+            "slug": "buterbrody-s-plavlenym-syrom"
+        },
+        {
+            "name": "Бутерброды с помидорами",
+            "slug": "buterbrody-s-pomidorami"
+        },
+        {
+            "name": "Бутерброды с помидорами и сыром",
+            "slug": "buterbrody-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Бутерброды с сыром и чесноком",
+            "slug": "buterbrody-s-syrom-i-chesnokom"
+        },
+        {
+            "name": "Бутерброды с черным хлебом",
+            "slug": "buterbrody-s-chernym-hlebom"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Праздничный стол на скорую руку",
+            "slug": "prazdnichniy-stol-na-skoruyu-ruku"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Холодные закуски",
+            "slug": "holodnye-zakuski"
+        }
+    ]
+}

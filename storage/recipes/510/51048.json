@@ -1,0 +1,151 @@
+{
+    "source": "https://vkuso.ru/recipe/belaya-ryba-zapechennaya-s-pomidorami-i-maslinami/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Белая рыба, запеченная с помидорами и маслинами",
+    "description": "Для приготовления блюда можно взять любую белую рыбу с кожей, например, треску. Не самый благородный вид под влиянием остальных ингредиентов приобретет изысканность и средиземноморский кулинарный акцент.",
+    "note": "Специи для приготовления блюда можно использовать любые, например, итальянские травы, молотую паприку.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/16/7059efa107ee716_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "филе белой рыбы",
+                    "slug": "file-beloy-ryby",
+                    "notes": null,
+                    "value": "600",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры черри",
+                    "slug": "pomidory-cherri",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "маслины",
+                    "slug": "masliny",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кедровые орехи",
+                    "slug": "kedrovye-orehi",
+                    "notes": null,
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "базилик свежий",
+                    "slug": "bazilik-svejiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "горсть",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Филе с кожей натереть солью и молотым перцем, обжарить на оливковом масле на большой сковороде, кожа должна быть сверху.",
+            "image": null
+        },
+        {
+            "text": "После появления румяной корочки переложить продукт в форму для выпекания, кожа – внизу. Помидоры черри разрезать пополам, выложить на филе.",
+            "image": null
+        },
+        {
+            "text": "Так же порезать черные маслины без косточек, выложить поверх помидор, посыпать очищенными кедровыми орешками. Приправить специями по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Поставить форму в духовой шкаф, печь в течение 12 – 15 минут.",
+            "image": null
+        },
+        {
+            "text": "Перед подачей посыпать блюдо горстью свежего рубленого базилика, разложить в тарелки, сбрызнуть оливковым маслом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из рыбы",
+            "slug": "vtorye-blyuda-iz-ryby"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Рыба в духовке",
+            "slug": "ryba-v-duhovke"
+        },
+        {
+            "name": "Рыба запеченная",
+            "slug": "ryba-zapechennaya"
+        },
+        {
+            "name": "Рыба с овощами",
+            "slug": "ryba-s-ovoschami"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

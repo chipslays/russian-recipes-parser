@@ -1,0 +1,123 @@
+{
+    "source": "https://vkuso.ru/recipe/84262-varene-iz-cherniki-s-romom-i-medom/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Варенье из черники с ромом и медом",
+    "description": "Вкусный микс из черники, крыжовника, малины и лесной земляники.",
+    "note": "Варенье-микс можно использовать для приготовления сладких бутербродов.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c0/58e04cafb27f2c0_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час 30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "земляника",
+                    "slug": "zemlyanika",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "черника",
+                    "slug": "chernika",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "крыжовник",
+                    "slug": "kryjovnik",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "малина",
+                    "slug": "malina",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "ром",
+                    "slug": "rom",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Ягоды промыть и откинуть на дуршлаг.",
+            "image": null
+        },
+        {
+            "text": "Всыпать в кастрюлю, размять толкушкой до появления сока.",
+            "image": null
+        },
+        {
+            "text": "Прогреть, ввести мед небольшими порциями.",
+            "image": null
+        },
+        {
+            "text": "Варить полчаса, пенку снимать, массу помешивать.",
+            "image": null
+        },
+        {
+            "text": "Варенье снять с огня, влить ром и расфасовать готовый продукт в банки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Варенье",
+            "slug": "varene"
+        },
+        {
+            "name": "Варенье без сахара",
+            "slug": "varene-bez-sahara"
+        },
+        {
+            "name": "Варенье из земляники",
+            "slug": "varene-iz-zemlyaniki"
+        },
+        {
+            "name": "Варенье из крыжовника",
+            "slug": "varene-iz-kryjovnika"
+        },
+        {
+            "name": "Варенье из малины",
+            "slug": "varene-iz-maliny"
+        },
+        {
+            "name": "Варенье из черники",
+            "slug": "varene-iz-cherniki"
+        },
+        {
+            "name": "Варенье из ягод",
+            "slug": "varene-iz-yagod"
+        }
+    ]
+}

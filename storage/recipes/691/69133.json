@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/borshh-s-shhavelem-i-shpinatom-na-kurinom-bulone/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Борщ с щавелем и шпинатом на курином бульоне",
+    "description": "Чаще всего зелёный борщ варят только со щавелем. Но при некоторых болезнях щавель противопоказан, поэтому хорошей альтернативой станет добавление шпината, который смягчит кислоту щавеля.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/7a/22d6b371bef7b7a_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/1Ll1H08BvhU?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бульон куриный",
+                    "slug": "bulon-kuriniy",
+                    "notes": null,
+                    "value": "2.5",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "сливки 10-20%",
+                    "slug": "slivki-10-20",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "щавель",
+                    "slug": "schavel",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шпинат",
+                    "slug": "shpinat",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "зелень укропа",
+                    "slug": "zelen-ukropa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Очистить и нарезать овощи.",
+            "image": null
+        },
+        {
+            "text": "Закипятить бульон.",
+            "image": null
+        },
+        {
+            "text": "Добавить овощную нарезку, варить до мягкости картофеля.",
+            "image": null
+        },
+        {
+            "text": "В это время помыть шпинат и щавель.",
+            "image": null
+        },
+        {
+            "text": "Черешки щавеля и шпината мелко порубить,",
+            "image": null
+        },
+        {
+            "text": "Листья нашинковать на полоски.",
+            "image": null
+        },
+        {
+            "text": "Засыпать зелень к овощам в кастрюлю, проварить ещё 5 минут.",
+            "image": null
+        },
+        {
+            "text": "Влить сливки, посолить по вкусу и поперчить.",
+            "image": null
+        },
+        {
+            "text": "Через пару минут убрать кастрюлю с плиты.",
+            "image": null
+        },
+        {
+            "text": "Оставить борщ с щавелем и шпинатом на курином бульоне под крышкой на четверть часа.",
+            "image": null
+        },
+        {
+            "text": "При подаче посыпать порубленным укропом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Борщ",
+            "slug": "borsch"
+        },
+        {
+            "name": "Борщ без капусты",
+            "slug": "borsch-bez-kapusty"
+        },
+        {
+            "name": "Борщ без мяса",
+            "slug": "borsch-bez-myasa"
+        },
+        {
+            "name": "Борщ без свеклы",
+            "slug": "borsch-bez-svekly"
+        },
+        {
+            "name": "Борщ с курицей",
+            "slug": "borsch-s-kuricey"
+        },
+        {
+            "name": "Борщ со щавелем",
+            "slug": "borsch-so-schavelem"
+        },
+        {
+            "name": "Зеленый борщ",
+            "slug": "zeleniy-borsch"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп со сливками",
+            "slug": "sup-so-slivkami"
+        },
+        {
+            "name": "Щавелевый суп",
+            "slug": "schaveleviy-sup"
+        }
+    ]
+}

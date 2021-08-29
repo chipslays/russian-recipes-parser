@@ -1,0 +1,403 @@
+{
+    "source": "https://vkuso.ru/recipe/tort-tigris-s-citrusovymi/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Торт «Тигрис» с цитрусовыми",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d2/0c5fe7bdc9bc1d2_660x440.jpg",
+    "difficulty": "Высокая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "цедра мандарина",
+                    "slug": "cedra-mandarina",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мандарины",
+                    "slug": "mandariny",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "апельсин",
+                    "slug": "apelsin",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "кумкваты",
+                    "slug": "kumkvaty",
+                    "notes": null,
+                    "value": "1",
+                    "type": "горсть",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Цитрусовые в сиропе",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад черный горький",
+                    "slug": "shokolad-cherniy-gorkiy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар коричневый",
+                    "slug": "sahar-korichneviy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "фундук",
+                    "slug": "funduk",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для коржа брауни",
+            "list": [
+                {
+                    "name": "миндаль молотый",
+                    "slug": "mindal-molotiy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "цедра мандарина",
+                    "slug": "cedra-mandarina",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "какао-порошок",
+                    "slug": "kakao-poroshok",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "краситель пищевой оранжевый",
+                    "slug": "krasitel-pischevoy-oranjeviy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "капля",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для миндального бисквита джаконда",
+            "list": [
+                {
+                    "name": "мандариновый сок",
+                    "slug": "mandarinoviy-sok",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "апельсиновый сок",
+                    "slug": "apelsinoviy-sok",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад черный горький",
+                    "slug": "shokolad-cherniy-gorkiy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "маракуйя",
+                    "slug": "marakuyya",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для мусса",
+            "list": [
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "апельсиновый сок",
+                    "slug": "apelsinoviy-sok",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "цитрусовый сироп",
+                    "slug": "citrusoviy-sirop",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления цитрусовых в сиропе нарезать тонкими ломтиками апельсин, мандарин, кумкваты. Добавить тертую цедру, сахарный песок, стакан воды. Смесь довести до кипения, варить до полупрозрачности долек. Цедру откинуть на сито или дуршлаг, а фруктовые дольки обсушить на бумажном листе.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления коржа брауни сливочное масло и шоколад растопить на водяной бане. Сырые яйца взбить с коричневым сахарным песком, перемешать с шоколадной смесью, всыпать пшеничную муку, фундук и две трети сваренных кумкватов. Осторожно перемешать, движениями снизу вверх. Разъемную форму смазать маслом, вылить тесто, печь в течение получаса при температуре 200 градусов. Остудить корж в форме.",
+            "image": null
+        },
+        {
+            "text": "Приготовить миндальный бисквит джоконда: взбить сырые яйца в пышную массу, добавить просеянную пшеничную муку, молотый миндаль и растопленное сливочное масло. Массу осторожно перемешать. Белки взбить отдельно, осторожно вмешать в основную массу. Разделить её на две половины: в одну добавить какао-порошок, в другую – немного пищевого красителя оранжевого цвета и цедру.",
+            "image": null
+        },
+        {
+            "text": "Застелить противень бумагой, выложить тесто полосками, с помощью кондитерского мешка, печь при 200 градусах в течение 20 минут. Полоски остудить. Они не должны быть пересушенными, иначе могут сломаться при сгибании.",
+            "image": null
+        },
+        {
+            "text": "Для мусса растопить черный шоколад. Всыпать цедру, отваренную в сахарном сиропе, выложить смесь на бумагу, дать застыть и поломать на кусочки. Замочить в части апельсинового сока желатин. Оставшийся сок смешать с сахаром и мякотью маракуйи, прогреть почти до кипения, добавить желатиновую смесь. Охладить до состояния киселя, взбивать с помощью миксера, скорость должна быть максимальной, в течение 15 минут. В готовый мусс положить кусочки шоколада.",
+            "image": null
+        },
+        {
+            "text": "Корж брауни выровнять ножом, выложить в форму. По краю поставить бортик из бисквита, в середину торта вылить мусс. Блюдо поставить в холодильник для полного застывания.",
+            "image": null
+        },
+        {
+            "text": "Для желе замочить желатин в соке, сироп, оставшийся от варки цитрусовых, нагреть до кипения, влить в желатиновую массу, проварить до полного растворения. Дольки фруктов выложить на торт «Тигрис», смазать кисточкой апельсиновым желе, дать застыть.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Апельсиновые торты",
+            "slug": "apelsinovye-torty"
+        },
+        {
+            "name": "Бисквитный торт",
+            "slug": "biskvitniy-tort"
+        },
+        {
+            "name": "Выпечка с апельсинами",
+            "slug": "vypechka-s-apelsinami"
+        },
+        {
+            "name": "Выпечка с шоколадом",
+            "slug": "vypechka-s-shokoladom"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Красивый торт",
+            "slug": "krasiviy-tort"
+        },
+        {
+            "name": "Муссовый торт",
+            "slug": "mussoviy-tort"
+        },
+        {
+            "name": "Новогодний торт",
+            "slug": "novogodniy-tort"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничные торты",
+            "slug": "prazdnichnye-torty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождественский торт",
+            "slug": "rojdestvenskiy-tort"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Торт брауни",
+            "slug": "tort-brauni"
+        },
+        {
+            "name": "Торт на день рождения",
+            "slug": "tort-na-den-rojdeniya"
+        },
+        {
+            "name": "Торт с желе",
+            "slug": "tort-s-jele"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        },
+        {
+            "name": "Торты с фруктами",
+            "slug": "torty-s-fruktami"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

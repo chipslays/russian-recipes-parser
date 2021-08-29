@@ -1,0 +1,284 @@
+{
+    "source": "https://vkuso.ru/recipe/kurinye-rulety-s-morkovno-syrnoj-nachinkoj/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Куриные рулеты с морковно-сырной начинкой",
+    "description": "Рулеты с румяной корочкой и оранжевой морковной начинкой.",
+    "note": "Куриные рулеты с начинкой можно подать в нарезанном виде на листьях зеленого салата, как закуску, или в качестве основного блюда с подходящим и любимым гарниром.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f9/3fa84b67f20b3f9_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриная грудка",
+                    "slug": "kurinaya-grudka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": " (средняя)",
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "50-70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "йогурт",
+                    "slug": "yogurt",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень петрушки",
+                    "slug": "zelen-petrushki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Мясо разрезать на тонкие пластинки, немного отбить, посолить и поперчить, дать полежать и пропитаться специями.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления начинки натереть на крупной терке очищенную морковь, добавить в массу тертый сыр, рубленую зелень петрушки, пропущенный через пресс чеснок.",
+            "image": null
+        },
+        {
+            "text": "Смесь перемешать, добавить йогурт, соль.",
+            "image": null
+        },
+        {
+            "text": "Начинку завернуть в куриные филе, закрепить нитками или зубочистками.",
+            "image": null
+        },
+        {
+            "text": "Обжарить рулеты до образования золотистой корочки, нитки снять.",
+            "image": null
+        },
+        {
+            "text": "Уложить изделия на противень или в сковороду, влить немного куриного бульона или воды, запечь в духовке в течение 30 – 40 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Горячие блюда на день рождения",
+            "slug": "goryachie-blyuda-na-den-rojdeniya"
+        },
+        {
+            "name": "Горячие блюда на праздничный стол",
+            "slug": "goryachie-blyuda-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Горячие закуски",
+            "slug": "goryachie-zakuski"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Закуски из курицы",
+            "slug": "zakuski-iz-kuricy"
+        },
+        {
+            "name": "Закуски из птицы",
+            "slug": "zakuski-iz-pticy"
+        },
+        {
+            "name": "Закуски на день рождения",
+            "slug": "zakuski-na-den-rojdeniya"
+        },
+        {
+            "name": "Куриная грудка в духовке",
+            "slug": "kurinaya-grudka-v-duhovke"
+        },
+        {
+            "name": "Куриный рулет",
+            "slug": "kuriniy-rulet"
+        },
+        {
+            "name": "Курица в духовке",
+            "slug": "kurica-v-duhovke"
+        },
+        {
+            "name": "Курица на Новый Год",
+            "slug": "kurica-na-noviy-god"
+        },
+        {
+            "name": "Курица с овощами",
+            "slug": "kurica-s-ovoschami"
+        },
+        {
+            "name": "Курица с сыром",
+            "slug": "kurica-s-syrom"
+        },
+        {
+            "name": "Курица с чесноком в духовке",
+            "slug": "kurica-s-chesnokom-v-duhovke"
+        },
+        {
+            "name": "Мясо с сыром",
+            "slug": "myaso-s-syrom"
+        },
+        {
+            "name": "Новогодние закуски",
+            "slug": "novogodnie-zakuski"
+        },
+        {
+            "name": "Отбивные из куриного филе",
+            "slug": "otbivnye-iz-kurinogo-file"
+        },
+        {
+            "name": "Отбивные с сыром",
+            "slug": "otbivnye-s-syrom"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Птица на Новый год",
+            "slug": "ptica-na-noviy-god"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Рулет из куриной грудки",
+            "slug": "rulet-iz-kurinoy-grudki"
+        },
+        {
+            "name": "Рулетики с начинкой",
+            "slug": "ruletiki-s-nachinkoy"
+        },
+        {
+            "name": "Рулеты",
+            "slug": "rulety"
+        },
+        {
+            "name": "Рулеты на Новый год",
+            "slug": "rulety-na-noviy-god"
+        },
+        {
+            "name": "Свадьба",
+            "slug": "svadba"
+        },
+        {
+            "name": "Сырный рулет",
+            "slug": "syrniy-rulet"
+        },
+        {
+            "name": "Ужин из куриной грудки",
+            "slug": "ujin-iz-kurinoy-grudki"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

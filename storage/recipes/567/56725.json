@@ -1,0 +1,345 @@
+{
+    "source": "https://vkuso.ru/recipe/pirog-s-cyplenkom-i-shampinonami/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пирог с цыпленком и шампиньонами",
+    "description": "Роскошный, сытный пирог с ароматной начинкой. За стол с таким блюдом с удовольствием соберется вся семья.",
+    "note": "При подаче нарезать пирог на порции, украсить веточками зелени.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/06/741d5890a57ff06_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": " (теплая)",
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для опары",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "300-400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "филе цыпленка",
+                    "slug": "file-cyplenka",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "бульон куриный",
+                    "slug": "bulon-kuriniy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "приправы",
+                    "slug": "pripravy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В теплую воду добавить сухие дрожжи и сахарный песок, оставить на 15 минут.",
+            "image": null
+        },
+        {
+            "text": "Филе курицы отварить в течение 20 минут с солью и перцем.",
+            "image": null
+        },
+        {
+            "text": "В опару добавить яичный желток, сметану, размягченное сливочное масло и соль, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Постепенно, порциями, всыпать пшеничную муку. Замесить тесто, оно должно быть однородным, мягким и эластичным, легко тянуться.",
+            "image": null
+        },
+        {
+            "text": "Скатать в шар, накрыть тканью, поставить в тепло на час.",
+            "image": null
+        },
+        {
+            "text": "Отваренное куриное мясо нарезать мелкими кубиками.",
+            "image": null
+        },
+        {
+            "text": "Свежие грибы вымыть, очистить, нарезать дольками.",
+            "image": null
+        },
+        {
+            "text": "Можно использовать консервированный продукт, в этом случае нужно слить маринад.",
+            "image": null
+        },
+        {
+            "text": "Измельчить зелень петрушки.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления соуса растопить в глубокой сковороде сливочное масло, всыпать муку и перемешать, комочки разбить.",
+            "image": null
+        },
+        {
+            "text": "Влить куриный бульон и молоко, еще раз перемешать, прогревать в течение двух минут до загустения.",
+            "image": null
+        },
+        {
+            "text": "Добавить курицу, грибы и зелень, посолить, поперчить.",
+            "image": null
+        },
+        {
+            "text": "Кроме петрушки можно добавить орегано и базилик.",
+            "image": null
+        },
+        {
+            "text": "Поднявшееся тесто разделить на две части: большую и меньшую. Большую часть раскатать на присыпанной мукой поверхности, выложить в форму, смазанную маслом и также присыпанную мукой. Края растянуть, сформовать бортики.",
+            "image": null
+        },
+        {
+            "text": "Выложить начинку, утрамбовать.",
+            "image": null
+        },
+        {
+            "text": "Меньшую часть теста раскатать в лепешку, положить сверху, скрепить края.",
+            "image": null
+        },
+        {
+            "text": "В центре сделать дырочки для выхода пара. Поверхность смазать молоком или желтком.",
+            "image": null
+        },
+        {
+            "text": "Печь в заранее разогретой духовке, время – от 30 до 40 минут, температура – 180 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Тесто домашнее",
+            "slug": "testo-domashnee"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Дрожжевое тесто",
+            "slug": "drojjevoe-testo"
+        },
+        {
+            "name": "Закрытый пирог",
+            "slug": "zakrytiy-pirog"
+        },
+        {
+            "name": "Куриное филе с грибами",
+            "slug": "kurinoe-file-s-gribami"
+        },
+        {
+            "name": "Курица с грибами",
+            "slug": "kurica-s-gribami"
+        },
+        {
+            "name": "Курник",
+            "slug": "kurnik"
+        },
+        {
+            "name": "Курник с курицей",
+            "slug": "kurnik-s-kuricey"
+        },
+        {
+            "name": "Начинки для пирогов",
+            "slug": "nachinki-dlya-pirogov"
+        },
+        {
+            "name": "Несладкая выпечка",
+            "slug": "nesladkaya-vypechka"
+        },
+        {
+            "name": "Несладкие пироги",
+            "slug": "nesladkie-pirogi"
+        },
+        {
+            "name": "Пирог на молоке",
+            "slug": "pirog-na-moloke"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги из дрожжевого теста",
+            "slug": "pirogi-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Пироги с грибами",
+            "slug": "pirogi-s-gribami"
+        },
+        {
+            "name": "Пироги с курицей",
+            "slug": "pirogi-s-kuricey"
+        },
+        {
+            "name": "Пироги с начинкой",
+            "slug": "pirogi-s-nachinkoy"
+        },
+        {
+            "name": "Тесто для пирога",
+            "slug": "testo-dlya-piroga"
+        },
+        {
+            "name": "тесто домашнее",
+            "slug": "testo-domashnee"
+        }
+    ]
+}

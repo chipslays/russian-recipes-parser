@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/karasi-v-smetane-na-aerogrile/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Караси в сметане на аэрогриле",
+    "description": "Два основных подвида карася, которые существуют в природе: серебряный и золотой карась. Именно из золотого или красного карася японцы вывели аквариумную золотую рыбку.",
+    "note": "Блюдо можно подать с тонко нарезанным лимоном и зеленью укропа.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/9c/5c52deebf25719c_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "карась",
+                    "slug": "karas",
+                    "notes": null,
+                    "value": "6-7",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Рыбу почистить, выпотрошить, промыть проточной водой и обсушить полотенцем. Тушки обвалять в муке с солью. Жарить на сливочном масле до образования румяной корочки.",
+            "image": null
+        },
+        {
+            "text": "Переложить в другую сковороду без масла и залить сметаной. Тушить караси в сметане в аэрогриле при высокой температуре в течение 10 – 15 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Аэрогриль",
+            "slug": "aerogril"
+        },
+        {
+            "name": "Вторые блюда из рыбы",
+            "slug": "vtorye-blyuda-iz-ryby"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рыба в сметане",
+            "slug": "ryba-v-smetane"
+        },
+        {
+            "name": "Рыба на гриле",
+            "slug": "ryba-na-grile"
+        },
+        {
+            "name": "Тушеная рыба",
+            "slug": "tushenaya-ryba"
+        },
+        {
+            "name": "Тушеные блюда",
+            "slug": "tushenye-blyuda"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "source": "https://vkuso.ru/recipe/klassicheskij-kofe-latte-po-domashnemu/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Классический кофе латте по-домашнему",
+    "description": "Без кофемашины можно приготовить вкуснейший латте в домашних условиях. Пошаговый рецепт поможет в создании правильного напитка итальянского латте и латте макиато. Рецепт рассчитан на порцию для двух человек.",
+    "note": null,
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a4/35fbf008abc24a4_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "300",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "150",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "кофе молотый",
+                    "slug": "kofe-molotiy",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "корица молотая/шоколад",
+                    "slug": "korica-molotaya-shokolad",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления кофе латте без кофемашины, необходимо сварить кофе в турке. Для этого, 4 ложки молотого кофе всыпать в турку и залить холодной водой. Варить на сильном огне не мешая.",
+            "image": null
+        },
+        {
+            "text": "Когда пенка начнет подниматься, выключить. Можно приготовить растворимый кофе, но вкус будет другим. Молоко подогреть до комнатной температуры. Половину молока взбить в пенку, воспользовавшись блендером.",
+            "image": null
+        },
+        {
+            "text": "Формы для латте наполовину заполнить кофе, затем аккуратно влить молоко и украсить молочной пенкой. Сверху классический кофе латте по-домашнему притрусить молотой корицей или тертым шоколадом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "Классические рецепты",
+            "slug": "klassicheskie-recepty"
+        },
+        {
+            "name": "Кофе и кофейные напитки",
+            "slug": "kofe-i-kofeynye-napitki"
+        },
+        {
+            "name": "Кофе с молоком",
+            "slug": "kofe-s-molokom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

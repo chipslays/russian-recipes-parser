@@ -1,0 +1,115 @@
+{
+    "source": "https://vkuso.ru/recipe/103538-zakuska-na-krekerax-s-krabovymi-palochkami-syrom-i-yajcom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Закуска на крекерах с крабовыми палочками, сыром и яйцом",
+    "description": "Закуска на крекерах отлично подойдет на праздничном столе!",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5a/fea3610016d6d5a_660x440.jpeg",
+    "difficulty": "Низкая",
+    "cooktime": "15 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/7vLokh9WuAE?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 20 порции",
+            "list": [
+                {
+                    "name": "яйца куриные",
+                    "slug": "yayca-kurinye",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый",
+                    "slug": "syr-plavleniy",
+                    "notes": " (пастобразный)",
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "крабовые палочки",
+                    "slug": "krabovye-palochki",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": "5",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "крекеры",
+                    "slug": "krekery",
+                    "notes": " (соленые)",
+                    "value": "1",
+                    "type": "пакетик",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В чашу блендера сложить вареные яйца, сыр, крабовые палочки, укроп и сметану. Измельчить.",
+            "image": null
+        },
+        {
+            "text": "Выложить измельченную массу в кондитерский мешок и при помощи мешка выложить на крекер смесь.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Закуски для фуршета",
+            "slug": "zakuski-dlya-fursheta"
+        },
+        {
+            "name": "Закуски из крабовых палочек",
+            "slug": "zakuski-iz-krabovyh-palochek"
+        },
+        {
+            "name": "Закуски из морепродуктов",
+            "slug": "zakuski-iz-moreproduktov"
+        },
+        {
+            "name": "Закуски из сыра",
+            "slug": "zakuski-iz-syra"
+        },
+        {
+            "name": "Закуски из яиц",
+            "slug": "zakuski-iz-yaic"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

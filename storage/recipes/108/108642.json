@@ -1,0 +1,135 @@
+{
+    "source": "https://vkuso.ru/recipe/108642-salat-iz-redki-s-yablokami-i-chernoslivom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат из редьки с яблоками и черносливом",
+    "description": "Оригинальный и вкусный салат из недорогих продуктов.",
+    "note": "По желанию в салат добавить рубленые грецкие орехи.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/fa/dcd63f751dac1fa_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "15 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 3 порции",
+            "list": [
+                {
+                    "name": "яблоки кислые",
+                    "slug": "yabloki-kislye",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "редька зеленая",
+                    "slug": "redka-zelenaya",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чернослив",
+                    "slug": "chernosliv",
+                    "notes": null,
+                    "value": "1",
+                    "type": "горсть",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": " (майонез)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Чернослив замочить в холодной воде, жидкость слить, сухофрукты подсушить.",
+            "image": null
+        },
+        {
+            "text": "Очистить зеленую редьку, удалить сердцевину, натереть на терке.",
+            "image": null
+        },
+        {
+            "text": "Плоды яблок также измельчить на терке.",
+            "image": null
+        },
+        {
+            "text": "Пропустить через пресс давленый чеснок.",
+            "image": null
+        },
+        {
+            "text": "Ингредиенты перемешать, посолить, заправить майонезом или сметаной.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты из редьки",
+            "slug": "salaty-iz-redki"
+        },
+        {
+            "name": "Салаты с фруктами",
+            "slug": "salaty-s-fruktami"
+        },
+        {
+            "name": "Салаты с черносливом",
+            "slug": "salaty-s-chernoslivom"
+        },
+        {
+            "name": "Салаты с яблоками",
+            "slug": "salaty-s-yablokami"
+        },
+        {
+            "name": "Салаты со сметаной",
+            "slug": "salaty-so-smetanoy"
+        }
+    ]
+}

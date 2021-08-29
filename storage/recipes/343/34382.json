@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/tonkij-lavash-s-krabovymi-palochkami-i-yajcom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Тонкий лаваш с крабовыми палочками и яйцом",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b1/d02607af4c237b1_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "лаваш",
+                    "slug": "lavash",
+                    "notes": null,
+                    "value": "3",
+                    "type": "листа",
+                    "amount": null
+                },
+                {
+                    "name": "крабовые палочки",
+                    "slug": "krabovye-palochki",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Пластины лаваша порезать нарезать по размерам сковороды,  разогреть на среднем огне сковороду со сливочным маслом. Кусочки лаваша обмакнуть в миску с подсоленной водой, дать ей стечь, выложить на сковороду, дать подрумяниться.",
+            "image": null
+        },
+        {
+            "text": "Вылить на лаваш яйцо, быстро размазать его по поверхности, дать немного схватится белку, присыпать измельченными крабовыми палочками, а затем сыром. Осторожно перевернуть лаваш вниз сыром, прожарить  лаваш с крабовыми палочками до пышности.",
+            "image": null
+        },
+        {
+            "text": "После прожарки яйца и расплавления сыра убрать блюдо с огня, свернуть конвертом или в рулет, присыпать нарубленной зеленью.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Закуски из лаваша",
+            "slug": "zakuski-iz-lavasha"
+        },
+        {
+            "name": "Лаваш с крабовыми палочками",
+            "slug": "lavash-s-krabovymi-palochkami"
+        },
+        {
+            "name": "Лаваш с начинкой",
+            "slug": "lavash-s-nachinkoy"
+        },
+        {
+            "name": "Лаваш с сыром",
+            "slug": "lavash-s-syrom"
+        },
+        {
+            "name": "Лаваш с сыром и яйцом",
+            "slug": "lavash-s-syrom-i-yaycom"
+        },
+        {
+            "name": "Лаваш с яйцом",
+            "slug": "lavash-s-yaycom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

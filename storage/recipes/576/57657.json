@@ -1,0 +1,180 @@
+{
+    "source": "https://vkuso.ru/recipe/francuzskie-ponchiki-k-zavtraku/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Французские пончики к завтраку",
+    "description": null,
+    "note": null,
+    "cuisine": "Французская кухня",
+    "cuisine_slug": "francuzskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f1/88c989932d6b2f1_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "2.25",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мускатный орех",
+                    "slug": "muskatniy-oreh",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для посыпки",
+            "list": [
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "корица",
+                    "slug": "korica",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Включить духовку, прогреть чуть ниже 180 градусов, взбить масло с сахарным песком в воздушную массу, добавить яйца, тщательно перемешать, всыпать просеянную и перемешанную с разрыхлителем, мускатным орехом и солью муку, добавить молоко, вымесить тесто.",
+            "image": null
+        },
+        {
+            "text": "Заполнить им формочки до половины объема. Выпекать французские пончики минут 20. В блюдце перемешать сахар и корицу, осторожно вынуть пончики, окунуть верхушку каждого в масло, а затем в сахарную смесь.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка на молоке",
+            "slug": "vypechka-na-moloke"
+        },
+        {
+            "name": "Выпечка с корицей",
+            "slug": "vypechka-s-koricey"
+        },
+        {
+            "name": "Выпечка с орехами",
+            "slug": "vypechka-s-orehami"
+        },
+        {
+            "name": "Детский завтрак",
+            "slug": "detskiy-zavtrak"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Меню школьника",
+            "slug": "menyu-shkolnika"
+        },
+        {
+            "name": "Пончики",
+            "slug": "ponchiki"
+        },
+        {
+            "name": "Пончики без дрожжей",
+            "slug": "ponchiki-bez-drojjey"
+        },
+        {
+            "name": "Пончики на молоке",
+            "slug": "ponchiki-na-moloke"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Французская выпечка",
+            "slug": "francuzskaya-vypechka"
+        }
+    ]
+}

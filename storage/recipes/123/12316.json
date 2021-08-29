@@ -1,0 +1,92 @@
+{
+    "source": "https://vkuso.ru/recipe/kolbasa-s-syrom-v-klyare/",
+    "category": null,
+    "category_slug": null,
+    "title": "Колбаса с сыром в кляре",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/67/053c710e2862267_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "колбаса",
+                    "slug": "kolbasa",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для кляра",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить не жидкий кляр: смешать яйцо с мукой и молоком, размешать. Молоко добавлять постепенно, пока не получится необходимая консистенция.",
+            "image": null
+        },
+        {
+            "text": "Колбасу с сыром порезать порциями. Окунуть в кляр. Обжарить со всех сторон на растительном масле. Каждую отдельную порцию украсить майонезом, смешанным с чесноком или любым другим соусом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В кляре",
+            "slug": "v-klyare"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

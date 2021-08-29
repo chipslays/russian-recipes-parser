@@ -1,0 +1,107 @@
+{
+    "source": "https://vkuso.ru/recipe/103814-letnij-persikovyj-limonad/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Летний персиковый лимонад",
+    "description": "Яркий, вкусный персиковый лимонад для жаркого лета",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/73/86f1e2f31983573_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/LT1GlDxl7WY?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 1 порцию",
+            "list": [
+                {
+                    "name": "персики",
+                    "slug": "persiki",
+                    "notes": null,
+                    "value": "450",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "120",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": " (для персикового пюре)",
+                    "value": "450",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": " (для лимонада)",
+                    "value": "800",
+                    "type": "мл",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Персики нарезать кубиками, выложить в кастрюлю, добавить сахар и воду, варить на среднем огне 5-7 минут, измельчить с помощью блендера в пюре, дать остыть",
+            "image": null
+        },
+        {
+            "text": "Из 2-х лимонов выжать сок, процедить через сито.",
+            "image": null
+        },
+        {
+            "text": "Остывшее персиковое пюре процедить через сито.",
+            "image": null
+        },
+        {
+            "text": "В графин влить персиковую смесь, лимонный сок и воду, хорошо перемешать.\r\nПодавать в стаканах со льдом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Лимонад",
+            "slug": "limonad"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Фруктовые напитки",
+            "slug": "fruktovye-napitki"
+        },
+        {
+            "name": "Холодильник",
+            "slug": "holodilnik"
+        }
+    ]
+}

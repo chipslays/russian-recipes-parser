@@ -1,0 +1,71 @@
+{
+    "source": "https://vkuso.ru/recipe/107010-domashnij-tvorog-iz-moloka-s-kefirom/",
+    "category": "Молочные продукты домашние",
+    "category_slug": "molochnye-produkty-domashnie",
+    "title": "Домашний творог из молока с кефиром",
+    "description": "Продукт быстро готовится, полезен, не содержит вредных добавок.",
+    "note": "Другой способ – прогреть смесь на сильном огне, затем уменьшить его до минимального.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ea/f6b47cb0bc876ea_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "25 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В кастрюлю влить кефир и молоко, поставить на тихий огонь, прогревать до тех пор, пока не отделится прозрачная сыворотка.",
+            "image": null
+        },
+        {
+            "text": "Продукт оставить постоять на 10 минут, процедить.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Детский завтрак",
+            "slug": "detskiy-zavtrak"
+        },
+        {
+            "name": "ПП завтрак",
+            "slug": "pp-zavtrak"
+        },
+        {
+            "name": "Творог домашний",
+            "slug": "tvorog-domashniy"
+        },
+        {
+            "name": "Творог из кефира",
+            "slug": "tvorog-iz-kefira"
+        },
+        {
+            "name": "Творог из молока",
+            "slug": "tvorog-iz-moloka"
+        }
+    ]
+}

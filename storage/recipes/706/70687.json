@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/gorbusha-s-zelenyu-v-slivochnom-souse/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Горбуша с зеленью в сливочном соусе",
+    "description": "Сочная и аппетитная рыба для обеда или ужина.",
+    "note": "На гарнир можно приготовить картофель или отваренный рис.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d2/97cb24d81cc0ad2_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": "20 минут",
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сливки жирные",
+                    "slug": "slivki-jirnye",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "филе горбуши",
+                    "slug": "file-gorbushi",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "прованские травы",
+                    "slug": "provanskie-travy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "приправа для рыбы",
+                    "slug": "priprava-dlya-ryby",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Горбушу натереть смесью соли и сушеных трав, оставить в холоде на 20 минут.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления соуса перемешать жирные сливки с приправами и рубленой зеленью.",
+            "image": null
+        },
+        {
+            "text": "Выложить продукт на противень, залить сливками.",
+            "image": null
+        },
+        {
+            "text": "Соус должен почти полностью покрыть куски.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления лучше использовать противень с антипригарным покрытием. Время тушения – полчаса.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из рыбы",
+            "slug": "vtorye-blyuda-iz-ryby"
+        },
+        {
+            "name": "Горбуша в духовке",
+            "slug": "gorbusha-v-duhovke"
+        },
+        {
+            "name": "Горбуша запеченная",
+            "slug": "gorbusha-zapechennaya"
+        },
+        {
+            "name": "Запеченные блюда",
+            "slug": "zapechennye-blyuda"
+        },
+        {
+            "name": "Рыба в духовке",
+            "slug": "ryba-v-duhovke"
+        },
+        {
+            "name": "Рыба запеченная",
+            "slug": "ryba-zapechennaya"
+        },
+        {
+            "name": "Рыба под маринадом",
+            "slug": "ryba-pod-marinadom"
+        }
+    ]
+}

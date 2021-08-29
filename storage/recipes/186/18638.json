@@ -1,0 +1,195 @@
+{
+    "source": "https://vkuso.ru/recipe/tradicionnyj-ovoshhnoj-gaspacho/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Традиционный овощной гаспачо",
+    "description": null,
+    "note": null,
+    "cuisine": "Испанская кухня",
+    "cuisine_slug": "ispanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/1b/6de257a4fbaf71b_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "перец болгарский красный",
+                    "slug": "perec-bolgarskiy-krasniy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец чили",
+                    "slug": "perec-chili",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "батон",
+                    "slug": "baton",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "уксус",
+                    "slug": "uksus",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "тимьян",
+                    "slug": "timyan",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Хорошенько вымыть и просушить все овощи. Поместить помидоры в кипяток секунд на 15, снять кожицу, убрать семена. Почистить перец, огурец и порезать овощи на маленькие кубики.",
+            "image": null
+        },
+        {
+            "text": "Очистить и измельчить чеснок. Мякоть белого хлеба также нарезать на кубики. Положить подготовленные ингредиенты в большую емкость. Отдельно растолочь тимьян и добавить в овощи.",
+            "image": null
+        },
+        {
+            "text": "Перемешать, посолить. Добавить уксус и лимонный сок. Измельчить все овощи в блендере и протереть через ситечко. Влить в традиционный овощной гаспачо оливковое масло. Разлить суп по тарелкам и кушать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Веганство",
+            "slug": "veganstvo"
+        },
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Гаспачо",
+            "slug": "gaspacho"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетический суп",
+            "slug": "dieticheskiy-sup"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Постные рецепты",
+            "slug": "postnye-recepty"
+        },
+        {
+            "name": "Постный овощной суп",
+            "slug": "postniy-ovoschnoy-sup"
+        },
+        {
+            "name": "Постный суп",
+            "slug": "postniy-sup"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп для похудения",
+            "slug": "sup-dlya-pohudeniya"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Супы на скорую руку",
+            "slug": "supy-na-skoruyu-ruku"
+        },
+        {
+            "name": "Холодные супы",
+            "slug": "holodnye-supy"
+        }
+    ]
+}

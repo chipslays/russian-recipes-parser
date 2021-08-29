@@ -1,0 +1,132 @@
+{
+    "source": "https://vkuso.ru/recipe/ochen-prostoj-i-vkusnyj-limonnyj-rulet/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Очень простой и вкусный лимонный рулет",
+    "description": "Ароматная и несложная выпечка к чаю.",
+    "note": "При подаче рулет нарезать, по желанию посыпать сахарной пудрой.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ad/17b8dd018f1c5ad_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "35 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/gcs5puia6E4?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 8 порции",
+            "list": [
+                {
+                    "name": "молоко сгущенное",
+                    "slug": "moloko-sguschennoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Перемешать сырые яйца, муку, сгущенное молоко, всыпать пищевую соду. Ингредиенты хорошо перемешать.",
+            "image": null
+        },
+        {
+            "text": "Противень застелить пергаментом, смазать маслом, вылить тесто, печь корж в течение 25 минут при температуре от 180 градусов.",
+            "image": null
+        },
+        {
+            "text": "Для начинки натереть лимоны, добавить сахар.",
+            "image": null
+        },
+        {
+            "text": "Нанести начинку на корж и с помощью бумаги свернуть его в рулет.",
+            "image": null
+        },
+        {
+            "text": "Изделие уплотнить, завернуть вместе с бумагой в полотенце и положить в холодильник на ночь.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка с фруктами",
+            "slug": "vypechka-s-fruktami"
+        },
+        {
+            "name": "Выпечка со сгущенкой",
+            "slug": "vypechka-so-sguschenkoy"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Рулеты из теста",
+            "slug": "rulety-iz-testa"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Сладкий рулет",
+            "slug": "sladkiy-rulet"
+        }
+    ]
+}

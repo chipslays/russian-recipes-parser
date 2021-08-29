@@ -1,0 +1,155 @@
+{
+    "source": "https://vkuso.ru/recipe/omlet-s-gribochkami-i-syrom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Омлет с грибочками и сыром",
+    "description": "Ароматный омлет с летними лесными нотами. Для его приготовления можно использовать любые грибы.",
+    "note": "К омлету  с грибочками и сыром можно подать нарезку из свежих или малосольных огурцов, зелень, в зимнее время – домашние соленья или маринады.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/53/5e9d4719ddeba53_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "грибы",
+                    "slug": "griby",
+                    "notes": " (шампиньоны или опята)",
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца куриные",
+                    "slug": "yayca-kurinye",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень укропа",
+                    "slug": "zelen-ukropa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Свежие или размороженные шампиньоны или опята нарезать и обжарить в сковороде на растительном масле.",
+            "image": null
+        },
+        {
+            "text": "Очистить и нарезать репчатый лук, добавить его в грибы, прогревать вместе до готовности, соль – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Белки отделить от желтков, первые взбить с помощью миксера, вторые размять. То и другое соединить, подлить молоко, посолить и перемешать.",
+            "image": null
+        },
+        {
+            "text": "Залить готовой смесью луково-грибную обжарку, прогреть в течение трех-пяти минут на среднем огне, накрыть крышкой еще на одну минуту.",
+            "image": null
+        },
+        {
+            "text": "Натереть на мелкой терке твердый сыр, вымыть немного зелени укропа, измельчить. Готовое блюдо посыпать сверху зеленью и сыром.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блюда из яиц",
+            "slug": "blyuda-iz-yaic"
+        },
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Омлет",
+            "slug": "omlet"
+        },
+        {
+            "name": "Омлет на завтрак",
+            "slug": "omlet-na-zavtrak"
+        },
+        {
+            "name": "Омлет на сковороде",
+            "slug": "omlet-na-skovorode"
+        },
+        {
+            "name": "Омлет с грибами",
+            "slug": "omlet-s-gribami"
+        },
+        {
+            "name": "Омлет с молоком",
+            "slug": "omlet-s-molokom"
+        },
+        {
+            "name": "Омлет с молоком на сковороде",
+            "slug": "omlet-s-molokom-na-skovorode"
+        },
+        {
+            "name": "Омлет с сыром",
+            "slug": "omlet-s-syrom"
+        },
+        {
+            "name": "Сковорода",
+            "slug": "skovoroda"
+        }
+    ]
+}

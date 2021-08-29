@@ -1,0 +1,183 @@
+{
+    "source": "https://vkuso.ru/recipe/lapsha-vok-s-govyadinoj-i-baklazhanami/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Лапша вок с говядиной и баклажанами",
+    "description": "Для блюда понадобится качественная говяжья вырезка.",
+    "note": "Подать к столу блюдо можно с зеленью кинзы или сельдерея, посыпать кунжутом.",
+    "cuisine": "Азиатская кухня",
+    "cuisine_slug": "aziatskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/6d/a3258b1d18cf26d_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/LHMsI6NlOpw?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "лапша удон",
+                    "slug": "lapsha-udon",
+                    "notes": " (лапша соба)",
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "говядина",
+                    "slug": "govyadina",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "баклажаны",
+                    "slug": "baklajany",
+                    "notes": " (цукини)",
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соус соевый",
+                    "slug": "sous-soeviy",
+                    "notes": null,
+                    "value": "70",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Говядину нарезать полосками, залить соевым соусом.",
+            "image": null
+        },
+        {
+            "text": "Положить нарезанный репчатый лук, черный перец. Часть соуса оставить.",
+            "image": null
+        },
+        {
+            "text": "Время маринования – полчаса.",
+            "image": null
+        },
+        {
+            "text": "Нарезать соломкой кабачок цуккини или баклажан, помидоры, морковь, репчатый лук.",
+            "image": null
+        },
+        {
+            "text": "Отварить лапшу соба.",
+            "image": null
+        },
+        {
+            "text": "Разогреть сковороду, обжарить говядину, добавить овощи, огонь убавить.",
+            "image": null
+        },
+        {
+            "text": "Смесь помешивать, пока продукты не станут мягкими.",
+            "image": null
+        },
+        {
+            "text": "Положить лапшу, влить соевый соус.",
+            "image": null
+        },
+        {
+            "text": "Все вместе тушить пять минут на тихом огне.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из говядины",
+            "slug": "vtorye-blyuda-iz-govyadiny"
+        },
+        {
+            "name": "Вторые блюда из макарон",
+            "slug": "vtorye-blyuda-iz-makaron"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Говядина с овощами",
+            "slug": "govyadina-s-ovoschami"
+        },
+        {
+            "name": "Китайская лапша",
+            "slug": "kitayskaya-lapsha"
+        },
+        {
+            "name": "Лапша вок",
+            "slug": "lapsha-vok"
+        },
+        {
+            "name": "Лапша с овощами",
+            "slug": "lapsha-s-ovoschami"
+        },
+        {
+            "name": "Макароны с мясом",
+            "slug": "makarony-s-myasom"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Мясо с овощами",
+            "slug": "myaso-s-ovoschami"
+        },
+        {
+            "name": "Ужин из баклажанов",
+            "slug": "ujin-iz-baklajanov"
+        },
+        {
+            "name": "Ужин из говядины",
+            "slug": "ujin-iz-govyadiny"
+        },
+        {
+            "name": "Ужин из макарон",
+            "slug": "ujin-iz-makaron"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

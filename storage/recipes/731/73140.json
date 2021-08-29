@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/file-ryby-s-sousom-tabasko-na-paru/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Филе рыбы с соусом Табаско на пару",
+    "description": null,
+    "note": "В качестве гарнира можно использовать рис.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/bd/49f9e1477b775bd_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "филе рыбы",
+                    "slug": "file-ryby",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кетчуп",
+                    "slug": "ketchup",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соус Табаско",
+                    "slug": "sous-tabasko",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Филе трески или форели нарезать порционными кусочками.",
+            "image": null
+        },
+        {
+            "text": "Выжать лимонный сок.",
+            "image": null
+        },
+        {
+            "text": "Перемешать соус «Кетчуп», «Табаско» и свежий сок.",
+            "image": null
+        },
+        {
+            "text": "Рыбу посолить по вкусу и оставить в готовом маринаде на два часа.",
+            "image": null
+        },
+        {
+            "text": "Приготовить рыбу в пароварке в течение 10 – 15 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из рыбы",
+            "slug": "vtorye-blyuda-iz-ryby"
+        },
+        {
+            "name": "Вторые блюда на скорую руку",
+            "slug": "vtorye-blyuda-na-skoruyu-ruku"
+        },
+        {
+            "name": "На пару",
+            "slug": "na-paru"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рыба на пару",
+            "slug": "ryba-na-paru"
+        },
+        {
+            "name": "Рыба под маринадом",
+            "slug": "ryba-pod-marinadom"
+        }
+    ]
+}

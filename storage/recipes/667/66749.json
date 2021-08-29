@@ -1,0 +1,171 @@
+{
+    "source": "https://vkuso.ru/recipe/tykvennyj-sup-pyure-s-kurinym-file-i-bekonom/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Тыквенный суп-пюре с куриным филе и беконом",
+    "description": "Блюдо – наслаждение разными вкусами и текстурами. Сытный вариант традиционного супа.",
+    "note": "Готовый суп украсить рубленой петрушкой и сметаной.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/8f/842f8d7001ff88f_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бульон куриный",
+                    "slug": "bulon-kuriniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "тыква",
+                    "slug": "tykva",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "бекон копченый",
+                    "slug": "bekon-kopcheniy",
+                    "notes": null,
+                    "value": "130",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень петрушки",
+                    "slug": "zelen-petrushki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать кусочками мякоть тыквы, морковь и куриное филе.",
+            "image": null
+        },
+        {
+            "text": "Измельчить репчатый лук.",
+            "image": null
+        },
+        {
+            "text": "Мясо и лук обжарить в кастрюле на тихом огне в течение пяти или семи минут на оливковом масле.",
+            "image": null
+        },
+        {
+            "text": "Добавить тыкву и морковь, влить заранее приготовленный куриный бульон.",
+            "image": null
+        },
+        {
+            "text": "Все вместе варить 20 минут, соль – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Приготовить пюре при помощи блендера и еще немного прогреть.",
+            "image": null
+        },
+        {
+            "text": "Тонкие, прозрачные ломтики копченого бекона обжарить до хрустящей корочки.",
+            "image": null
+        },
+        {
+            "text": "Положить в тарелки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Куриный суп",
+            "slug": "kuriniy-sup"
+        },
+        {
+            "name": "Куриный суп-пюре",
+            "slug": "kuriniy-sup-pyure"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп из птицы",
+            "slug": "sup-iz-pticy"
+        },
+        {
+            "name": "Суп с копченостями",
+            "slug": "sup-s-kopchenostyami"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Суп-пюре из тыквы",
+            "slug": "sup-pyure-iz-tykvy"
+        }
+    ]
+}

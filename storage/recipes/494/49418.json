@@ -1,0 +1,151 @@
+{
+    "source": "https://vkuso.ru/recipe/tomatnyj-gaspacho-so-sladkim-percem-i-ogurcom/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Томатный гаспачо со сладким перцем и огурцом",
+    "description": "Убыстрить приготовление томатного холодного супа поможет верный кухонный помощник – блендер.",
+    "note": "К блюду можно подать ветчину или сосиски, жареное мясо, отбивные котлеты, острый сыр, брынзу, соус «Песто», любую зелень. Вегетарианский вариант – тосты из черного хлеба, натертые чесноком.",
+    "cuisine": "Испанская кухня",
+    "cuisine_slug": "ispanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c1/83a8edb025b42c1_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 1 порцию",
+            "list": [
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "уксус бальзамический",
+                    "slug": "uksus-balzamicheskiy",
+                    "notes": " (соус бальзамический)",
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный свежемолотый",
+                    "slug": "perec-cherniy-svejemolotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Томаты, свежий огурец, сладкий перец и чеснок измельчить с помощью блендера до однородной консистенции.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/13/962a2444ae7ed13_434x295.jpg"
+        },
+        {
+            "text": "Влить бальзамический уксус и оливковое масло. Соль и перец – по вкусу.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/e6/9df808acbb837e6_434x295.jpg"
+        },
+        {
+            "text": "Все еще раз хорошо перемешать блендером, по желанию добавить зелень базилика или петрушки.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/c9/81dd0b7adf97fc9_434x295.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Гаспачо",
+            "slug": "gaspacho"
+        },
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Постный овощной суп",
+            "slug": "postniy-ovoschnoy-sup"
+        },
+        {
+            "name": "Постный суп",
+            "slug": "postniy-sup"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Суп-пюре томатный",
+            "slug": "sup-pyure-tomatniy"
+        },
+        {
+            "name": "Томатный суп",
+            "slug": "tomatniy-sup"
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "source": "https://vkuso.ru/recipe/yablochno-kefirnyj-koktejl-s-medom-i-koricej/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Яблочно-кефирный коктейль с медом и корицей",
+    "description": "Утренний или дневной коктейль, наполненный витаминами. Напиток быстро утолит голод.",
+    "note": "Ломтики яблок для украшения нужно сбрызнуть лимонным соком, чтобы они не почернели.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f1/00adea3d89058f1_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "150",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "корица молотая",
+                    "slug": "korica-molotaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Вымыть яблоки, очистить от кожуры, удалить семенные камеры.",
+            "image": null
+        },
+        {
+            "text": "Натереть мякоть на терке или измельчить в пюре с помощью блендера.",
+            "image": null
+        },
+        {
+            "text": "Залить массу охлажденным кефиром, взбить с помощью миксера.",
+            "image": null
+        },
+        {
+            "text": "Добавить в коктейль молотую корицу и мёд, еще раз взбить.",
+            "image": null
+        },
+        {
+            "text": "При подаче разлить полученную смесь в бокалы, украсить ломтиками яблок.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные коктейли",
+            "slug": "bezalkogolnye-kokteyli"
+        },
+        {
+            "name": "Детские коктейли",
+            "slug": "detskie-kokteyli"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Коктейли",
+            "slug": "kokteyli"
+        },
+        {
+            "name": "Напитки для детей",
+            "slug": "napitki-dlya-detey"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

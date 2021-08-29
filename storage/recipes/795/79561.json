@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-so-svekloj-xrenom-i-chesnokom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат со свеклой, хреном и чесноком",
+    "description": "Полезный салат против простуды, его лучше готовить в межсезонье.",
+    "note": "В весеннее время в такой салат можно добавлять зеленый лук, черемшу.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c6/48d54bea933bbc6_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "свекла",
+                    "slug": "svekla",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "хрен тертый",
+                    "slug": "hren-tertiy",
+                    "notes": null,
+                    "value": "1.5-2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "120",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить свеклу, время – от 35 до 40 минут.",
+            "image": null
+        },
+        {
+            "text": "Другой способ – запечь корнеплод в духовке.",
+            "image": null
+        },
+        {
+            "text": "Измельчить хрен, раздавить чеснок, ингредиенты добавить в свеклу.",
+            "image": null
+        },
+        {
+            "text": "Соль – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Салат можно заправить нежирной сметаной.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Овощные салаты",
+            "slug": "ovoschnye-salaty"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из свеклы",
+            "slug": "salat-iz-svekly"
+        },
+        {
+            "name": "Салат из свеклы с чесноком",
+            "slug": "salat-iz-svekly-s-chesnokom"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты на скорую руку",
+            "slug": "salaty-na-skoruyu-ruku"
+        },
+        {
+            "name": "Салаты со сметаной",
+            "slug": "salaty-so-smetanoy"
+        }
+    ]
+}

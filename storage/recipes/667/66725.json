@@ -1,0 +1,183 @@
+{
+    "source": "https://vkuso.ru/recipe/elementarnyj-tykvennyj-sup-s-muskatnym-orexom/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Элементарный тыквенный суп с мускатным орехом",
+    "description": "Радовать себя вкусными супами из этого овоща можно и зимой: нарезанные кубики тыквы хорошо хранятся в замороженном виде. Простейшее блюдо, которое может приготовить себе даже начинающий кулинар.",
+    "note": "Легче всего очистить тыкву, если сначала разрезать ее на сегменты, а потом обработать каждый из них.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/28/931e7a9e233b428_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "тыква",
+                    "slug": "tykva",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "400",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мускатный орех молотый",
+                    "slug": "muskatniy-oreh-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Тыкву тщательно вымыть при помощи щетки, вынуть семена, мякоть нарезать кусочками по два или три сантиметра.",
+            "image": null
+        },
+        {
+            "text": "Репчатый лук и морковь почистить и мелко нарезать.",
+            "image": null
+        },
+        {
+            "text": "Сначала обжарить лук в течение пяти минут на растительном масле, массу помешивать.",
+            "image": null
+        },
+        {
+            "text": "Добавить морковь, обжарить до румянца.",
+            "image": null
+        },
+        {
+            "text": "Овощи снять с огня.",
+            "image": null
+        },
+        {
+            "text": "Выложить нарезанную мякоть тыквы в кастрюлю, залить водой, довести до кипения под крышкой, варить до размягчения тыквы на небольшом огне.",
+            "image": null
+        },
+        {
+            "text": "В конце приготовления посолить и поперчить, приправить щепотью муската.",
+            "image": null
+        },
+        {
+            "text": "Добавить обжарку, взбить погружным блендером в пюре.",
+            "image": null
+        },
+        {
+            "text": "Положить кусочек сливочного масла, прогреть, помешивая, до первых признаков закипания.",
+            "image": null
+        },
+        {
+            "text": "При подаче сбрызнуть суп жирными сливками, украсить листочками зелени.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп со сливками",
+            "slug": "sup-so-slivkami"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Суп-пюре из тыквы",
+            "slug": "sup-pyure-iz-tykvy"
+        },
+        {
+            "name": "Суп-пюре овощной",
+            "slug": "sup-pyure-ovoschnoy"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Тыквенный суп",
+            "slug": "tykvenniy-sup"
+        }
+    ]
+}

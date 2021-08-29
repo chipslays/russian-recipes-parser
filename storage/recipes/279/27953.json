@@ -1,0 +1,152 @@
+{
+    "source": "https://vkuso.ru/recipe/tulumba-po-turecki-na-desert/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Тулумба по-турецки на десерт",
+    "description": "Блюдо турецкой и балканской кухни, сладость из заварного теста, пропитанная сиропом с добавлением лимонного или апельсинового сока.",
+    "note": "Если в доме не оказалось сахарной пудры, то её можно приготовить самостоятельно, растерев обычный сахарный песок в ступке или измельчить в муку при помощи кофемолки. Чтобы блюдо посыпать равномерно, лучше использовать мелкое сито.",
+    "cuisine": "Турецкая кухня",
+    "cuisine_slug": "tureckaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/3c/039d31fe77d713c_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "220",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "маргарин",
+                    "slug": "margarin",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1/4",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "120",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "120",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить сироп из воды с сахарным песком, варить 15 – 20 минут, помешивать. Охладить, добавить концентрированный лимонный сок. В воду положить маргарин, довести до кипения, посолить по вкусу. Всыпать муку, хорошо перемешать, снять с огня. Втереть все яйца поочередно, вымесить до гладкости.",
+            "image": null
+        },
+        {
+            "text": "Переложить тесто в кондитерский шприц и отсадить «колбаски» по пять сантиметров длиной. На сковороде нагреть растительное масло, обжарить тулумбы до румяного цвета, встряхивая сковороду. Готовую выпечку перемешать с остывшим сахарным сиропом, выложить тулумбу на блюдо горкой или стопочкой и подать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Детский день рождения",
+            "slug": "detskiy-den-rojdeniya"
+        },
+        {
+            "name": "Детский праздник",
+            "slug": "detskiy-prazdnik"
+        },
+        {
+            "name": "Другие десерты",
+            "slug": "drugie-deserty"
+        },
+        {
+            "name": "Новогодние десерты",
+            "slug": "novogodnie-deserty"
+        },
+        {
+            "name": "Праздничные десерты",
+            "slug": "prazdnichnye-deserty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

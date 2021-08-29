@@ -1,0 +1,195 @@
+{
+    "source": "https://vkuso.ru/recipe/uzbekskij-plov-iz-baraniny-v-kazane-s-barbarisom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Узбекский плов из баранины в казане с барбарисом",
+    "description": "Правильно приготовленное блюдо из правильных продуктов.",
+    "note": "Перед подачей плов по-узбекски перемешать.",
+    "cuisine": "Узбекская кухня",
+    "cuisine_slug": "uzbekskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/9e/703726f9c3a729e_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/SC-iKO9bxFA?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "баранина",
+                    "slug": "baranina",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "жир курдючный",
+                    "slug": "jir-kurdyuchniy",
+                    "notes": null,
+                    "value": "0.7",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "перец острый сушеный",
+                    "slug": "perec-ostriy-susheniy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "барбарис сушеный",
+                    "slug": "barbaris-susheniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "семена кориандра",
+                    "slug": "semena-koriandra",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Баранину нарезать кусочками средней величины.",
+            "image": null
+        },
+        {
+            "text": "Рис промыть.",
+            "image": null
+        },
+        {
+            "text": "Нашинковать полукольцами репчатый лук, нарезать брусками морковь, очистить чеснок.",
+            "image": null
+        },
+        {
+            "text": "Разогреть курдючный жир, обжарить целую очищенную луковицу до черного цвета, удалить ее из казана.",
+            "image": null
+        },
+        {
+            "text": "Всыпать овощи, обжарить до румяного цвета, добавить сушеный барбарис, кориандр, мясо.",
+            "image": null
+        },
+        {
+            "text": "Убавить огонь до среднего, влить кипящую воду, положить острый перец.",
+            "image": null
+        },
+        {
+            "text": "Потомить один час.",
+            "image": null
+        },
+        {
+            "text": "Насыпать рис, влить подсоленный кипяток, уровень должен быть выше продуктов на палец.",
+            "image": null
+        },
+        {
+            "text": "Тушить до впитывания влаги.",
+            "image": null
+        },
+        {
+            "text": "Положить чеснок, в рисе сделать отверстия, оставить на тихом огне на 25 минут под крышкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Вторые блюда из риса",
+            "slug": "vtorye-blyuda-iz-risa"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Плов",
+            "slug": "plov"
+        },
+        {
+            "name": "Плов в казане",
+            "slug": "plov-v-kazane"
+        },
+        {
+            "name": "Плов из баранины",
+            "slug": "plov-iz-baraniny"
+        },
+        {
+            "name": "Плов с мясом",
+            "slug": "plov-s-myasom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рис с мясом",
+            "slug": "ris-s-myasom"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Узбекский плов",
+            "slug": "uzbekskiy-plov"
+        }
+    ]
+}

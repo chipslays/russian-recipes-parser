@@ -1,0 +1,191 @@
+{
+    "source": "https://vkuso.ru/recipe/84874-salat-pikantnyj-s-kalmarami-i-greckimi-orexami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Пикантный» с кальмарами и грецкими орехами",
+    "description": "Оригинальный вкус блюда из обычных ингредиентов. Хороший вариант для случая «гости на пороге».",
+    "note": "Перед приготовлением тушку кальмара нужно освободить от несъедобных частей. Если возиться не хочется – лучше купить филе.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a6/155bddedc7cf0a6_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "50 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кальмары",
+                    "slug": "kalmary",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "250-300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грецкие орехи",
+                    "slug": "greckie-orehi",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "4-5",
+                    "type": "зубчиков",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить шампиньоны в подсоленной воде, так же поступить с кальмарами.",
+            "image": null
+        },
+        {
+            "text": "Продукты остудить и нашинковать соломкой, компоненты соединить.",
+            "image": null
+        },
+        {
+            "text": "Натереть твердый сыр, измельчить грецкие орехи, раздавить прессом чеснок.",
+            "image": null
+        },
+        {
+            "text": "Добавить сметану и майонез, растереть до однородности.",
+            "image": null
+        },
+        {
+            "text": "Заправить смесью салат, хорошо перемешать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат с грецкими орехами",
+            "slug": "salat-s-greckimi-orehami"
+        },
+        {
+            "name": "Салат с грибами",
+            "slug": "salat-s-gribami"
+        },
+        {
+            "name": "Салат с кальмарами",
+            "slug": "salat-s-kalmarami"
+        },
+        {
+            "name": "Салат с кальмарами и грибами",
+            "slug": "salat-s-kalmarami-i-gribami"
+        },
+        {
+            "name": "Салат с кальмарами и сыром",
+            "slug": "salat-s-kalmarami-i-syrom"
+        },
+        {
+            "name": "Салат с орехами",
+            "slug": "salat-s-orehami"
+        },
+        {
+            "name": "Салат с сыром и чесноком",
+            "slug": "salat-s-syrom-i-chesnokom"
+        },
+        {
+            "name": "Салат с твердым сыром",
+            "slug": "salat-s-tverdym-syrom"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салат с чесноком и майонезом",
+            "slug": "salat-s-chesnokom-i-mayonezom"
+        },
+        {
+            "name": "Салат с шампиньонами",
+            "slug": "salat-s-shampinonami"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты из морепродуктов",
+            "slug": "salaty-iz-moreproduktov"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        }
+    ]
+}

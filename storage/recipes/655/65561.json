@@ -1,0 +1,191 @@
+{
+    "source": "https://vkuso.ru/recipe/zalivnoj-osetr-po-klassicheski/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Заливной осетр по-классически",
+    "description": "Заливной осетр – роскошное блюдо для праздничного стола.",
+    "note": "Густота отвара зависит от количества рыбных отходов.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c4/a6c908bf5dbc2c4_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/GX8PLrO9tcQ?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "филе осетра",
+                    "slug": "file-osetra",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "осетр",
+                    "slug": "osetr",
+                    "notes": " (головы и хвосты)",
+                    "value": "½",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "фасоль стручковая зеленая",
+                    "slug": "fasol-struchkovaya-zelenaya",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "водка",
+                    "slug": "vodka",
+                    "notes": null,
+                    "value": "150",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец душистый горошком",
+                    "slug": "perec-dushistiy-goroshkom",
+                    "notes": null,
+                    "value": "5-10",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": "несколько",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сварить бульон из филе и обрезков (головы, хвосты).",
+            "image": null
+        },
+        {
+            "text": "Добавить лавровый лист, душистый перец, морковь, зеленую фасоль, соль.",
+            "image": null
+        },
+        {
+            "text": "Варить полтора часа.",
+            "image": null
+        },
+        {
+            "text": "В конце приготовления влить водку.",
+            "image": null
+        },
+        {
+            "text": "Рыбу, морковь и фасоль вытащить.",
+            "image": null
+        },
+        {
+            "text": "Морковь нарезать любыми фигурками, осетра – кусочками.",
+            "image": null
+        },
+        {
+            "text": "Отвар процедить.",
+            "image": null
+        },
+        {
+            "text": "В посуду для заливного выложить филе и все остальные ингредиенты в произвольном порядке, залить бульоном.",
+            "image": null
+        },
+        {
+            "text": "Оставить в холоде для застывания.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "закуски",
+            "slug": "zakuski"
+        },
+        {
+            "name": "Закуски из рыбы",
+            "slug": "zakuski-iz-ryby"
+        },
+        {
+            "name": "Заливная рыба",
+            "slug": "zalivnaya-ryba"
+        },
+        {
+            "name": "Заливное",
+            "slug": "zalivnoe"
+        },
+        {
+            "name": "Заливное на Новый Год",
+            "slug": "zalivnoe-na-noviy-god"
+        },
+        {
+            "name": "Классические рецепты",
+            "slug": "klassicheskie-recepty"
+        },
+        {
+            "name": "Новогодние закуски",
+            "slug": "novogodnie-zakuski"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рыба на Новый год",
+            "slug": "ryba-na-noviy-god"
+        },
+        {
+            "name": "Холодные закуски",
+            "slug": "holodnye-zakuski"
+        }
+    ]
+}

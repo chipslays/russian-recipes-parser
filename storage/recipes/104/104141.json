@@ -1,0 +1,183 @@
+{
+    "source": "https://vkuso.ru/recipe/104141-sladkaya-kolbaska-iz-pechenya-s-tvorogom-i-suxofruktami/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Сладкая колбаска из печенья с творогом и сухофруктами",
+    "description": "Полезное лакомство, которое по достоинству оценят дети, десерт подойдет в качестве дополнения к чаю.",
+    "note": "В основную массу можно добавить йогурт, кефир, сметану.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d1/7ac1251a38da6d1_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "5 часов",
+    "preparetime": "20 минут",
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 10 порции",
+            "list": [
+                {
+                    "name": "печенье",
+                    "slug": "pechene",
+                    "notes": " (сдобное)",
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "творог 5-9%",
+                    "slug": "tvorog-5-9",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пачка",
+                    "amount": null
+                },
+                {
+                    "name": "сухофрукты",
+                    "slug": "suhofrukty",
+                    "notes": " (курага, чернослив, изюм)",
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "½",
+                    "type": "пачки",
+                    "amount": null
+                },
+                {
+                    "name": "цукаты",
+                    "slug": "cukaty",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "клюква сушеная",
+                    "slug": "klyukva-sushenaya",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грецкие орехи",
+                    "slug": "greckie-orehi",
+                    "notes": null,
+                    "value": "1",
+                    "type": "горсть",
+                    "amount": null
+                },
+                {
+                    "name": "какао-порошок",
+                    "slug": "kakao-poroshok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Курагу, изюм, чернослив замочить на двадцать минут в холодной воде, промыть, залить кипящей водой на пять минут.",
+            "image": null
+        },
+        {
+            "text": "Орехи, сухофрукты и цукаты измельчить, ягоды сушеной клюквы положить целиком.",
+            "image": null
+        },
+        {
+            "text": "Творог протереть через сито.",
+            "image": null
+        },
+        {
+            "text": "Печенье растолочь в ступке, перемешать крошки с какао-порошком. Ингредиенты перемешать до получения однородной массы.",
+            "image": null
+        },
+        {
+            "text": "Сформовать небольшой рулет, обернуть его в пленку, поставить в холод на четыре или шесть часов.",
+            "image": null
+        },
+        {
+            "text": "Перед подачей посыпать десерт сахарной пудрой",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка с орехами",
+            "slug": "vypechka-s-orehami"
+        },
+        {
+            "name": "Выпечка с сухофруктами",
+            "slug": "vypechka-s-suhofruktami"
+        },
+        {
+            "name": "Выпечка с ягодами",
+            "slug": "vypechka-s-yagodami"
+        },
+        {
+            "name": "Печенье",
+            "slug": "pechene"
+        },
+        {
+            "name": "Печенье без выпечки",
+            "slug": "pechene-bez-vypechki"
+        },
+        {
+            "name": "Печенье с орехами",
+            "slug": "pechene-s-orehami"
+        },
+        {
+            "name": "Печенье с сухофруктами",
+            "slug": "pechene-s-suhofruktami"
+        },
+        {
+            "name": "Печенье с сухофруктами и орехами",
+            "slug": "pechene-s-suhofruktami-i-orehami"
+        },
+        {
+            "name": "Сладкая колбаска",
+            "slug": "sladkaya-kolbaska"
+        },
+        {
+            "name": "Творожное печенье",
+            "slug": "tvorojnoe-pechene"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        },
+        {
+            "name": "Шоколадная колбаса",
+            "slug": "shokoladnaya-kolbasa"
+        }
+    ]
+}

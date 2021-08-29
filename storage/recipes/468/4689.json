@@ -1,0 +1,123 @@
+{
+    "source": "https://vkuso.ru/recipe/pechene-tvorozhnye-sladkie-ugolki/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Печенье «Творожные сладкие уголки»",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ef/5e2cf5baf86e0ef_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творога",
+                    "slug": "tvoroga",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "маргарина",
+                    "slug": "margarina",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахара",
+                    "slug": "sahara",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "разрыхлителя",
+                    "slug": "razryhlitelya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В большой миске смешать мягкий или  хорошо растертый творог, маргарин сахар и яйца, муку с разрыхлителем смешать отдельно и подмешать ее в творожную массу.",
+            "image": null
+        },
+        {
+            "text": "Перемешивать массу до тех пор, пока тесто не получится упругим.",
+            "image": null
+        },
+        {
+            "text": "В тонкий пласт раскатать получившееся тесто, а чтобы во время раскатки оно не прилипало к скалке, ее необходимо периодически посыпать мукой.",
+            "image": null
+        },
+        {
+            "text": "Из тестяного пласта вырезать желаемое количество кругов, каждый из которых сложить пополам, далее все круги необходимо еще раз сложить пополам и переложить на противень.",
+            "image": null
+        },
+        {
+            "text": "Выпекаются печенье «Творожные сладкие уголки» в духовке при 180 градусах 25-30 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка на маргарине",
+            "slug": "vypechka-na-margarine"
+        },
+        {
+            "name": "Печенье",
+            "slug": "pechene"
+        },
+        {
+            "name": "Печенье на маргарине",
+            "slug": "pechene-na-margarine"
+        },
+        {
+            "name": "Творожное печенье",
+            "slug": "tvorojnoe-pechene"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        }
+    ]
+}

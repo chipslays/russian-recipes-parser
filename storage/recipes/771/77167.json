@@ -1,0 +1,151 @@
+{
+    "source": "https://vkuso.ru/recipe/rassolnik-s-perlovkoj-po-russki-v-multivarke/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Рассольник с перловкой по-русски в мультиварке",
+    "description": "Главные аргументы в пользу такого приготовления – сокращение времени и простота действий.",
+    "note": "Подать рассольник можно со сметаной и мелко нашинкованной зеленью.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/01/43841cca42e8701_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2.5",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "мясо",
+                    "slug": "myaso",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы маринованные",
+                    "slug": "ogurcy-marinovannye",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перловая крупа",
+                    "slug": "perlovaya-krupa",
+                    "notes": null,
+                    "value": "1",
+                    "type": "горсть",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Маринованные огурцы, лук и морковь нашинковать и обжарить в режиме «Выпечка» в течение 20 минут.",
+            "image": null
+        },
+        {
+            "text": "Добавить заранее замоченную перловку, картофель, мясо.",
+            "image": null
+        },
+        {
+            "text": "Влить воду, выставить режим «Тушение» на два часа.",
+            "image": null
+        },
+        {
+            "text": "За несколько минут до окончания приготовления суп приправить специями.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Перловка в мультиварке",
+            "slug": "perlovka-v-multivarke"
+        },
+        {
+            "name": "Рассольник",
+            "slug": "rassolnik"
+        },
+        {
+            "name": "Рассольник домашний",
+            "slug": "rassolnik-domashniy"
+        },
+        {
+            "name": "Рассольник с перловой крупой",
+            "slug": "rassolnik-s-perlovoy-krupoy"
+        },
+        {
+            "name": "Суп в мультиварке",
+            "slug": "sup-v-multivarke"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Суп с перловкой",
+            "slug": "sup-s-perlovkoy"
+        },
+        {
+            "name": "Супы с крупами",
+            "slug": "supy-s-krupami"
+        }
+    ]
+}

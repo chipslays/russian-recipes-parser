@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/omlet-s-zelenyu-shpinata-i-semgoj/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Омлет с зеленью шпината и семгой",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/62/e53e185c65e8e62_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "шпинат замороженный",
+                    "slug": "shpinat-zamorojenniy",
+                    "notes": " (листовой)",
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "семга слабосоленая",
+                    "slug": "semga-slabosolenaya",
+                    "notes": null,
+                    "value": "16",
+                    "type": "кусочков",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": " (масло сливочное)",
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Прогреть сковороду налить масло, положить зелень шпината, несколько раз перевернуть, чтобы его разморозить, прогреть еще 15 минут до испарения воды.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/e1/fa48f709392cfe1_434x295.jpg"
+        },
+        {
+            "text": "Взбить до однородного состояния подсоленное молоко и яйцо.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/84/ee7f55f6a1eec84_434x295.jpg"
+        },
+        {
+            "text": "Приподнять шпинат лопаточкой залить под него немного яичной смеси, остальную вылить сверху, накрыть сковороду крышкой, готовить омлет с зеленью шпината и семгой еще 5 минут.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/9d/f0b3b2c224abb9d_434x295.jpg"
+        },
+        {
+            "text": "Разложить горячий омлет по тарелкам, добавить на каждую по кусочку семги.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/62/e53e185c65e8e62_434x295.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Блюда из яиц",
+            "slug": "blyuda-iz-yaic"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Омлет",
+            "slug": "omlet"
+        },
+        {
+            "name": "Омлет на завтрак",
+            "slug": "omlet-na-zavtrak"
+        },
+        {
+            "name": "Омлет на сковороде",
+            "slug": "omlet-na-skovorode"
+        },
+        {
+            "name": "Омлет с молоком на сковороде",
+            "slug": "omlet-s-molokom-na-skovorode"
+        },
+        {
+            "name": "Омлет со шпинатом",
+            "slug": "omlet-so-shpinatom"
+        },
+        {
+            "name": "Сковорода",
+            "slug": "skovoroda"
+        }
+    ]
+}

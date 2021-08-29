@@ -1,0 +1,91 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnee-sgushhennoe-moloko-v-xlebopechke/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Домашнее сгущенное молоко в хлебопечке",
+    "description": "Неожиданный способ приготовления продукта. Важно, чтобы в хлебопечке имелся режим «Джем».",
+    "note": "Продукт перелить в банку, использовать по мере надобности.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/42/ff101154e9d2e42_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "350",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В кастрюлю влить молоко, всыпать сахар и щепотку пищевой соды.",
+            "image": null
+        },
+        {
+            "text": "Массу перемешать, поставить на плиту и прогреть, до кипения не доводить.",
+            "image": null
+        },
+        {
+            "text": "Перелить массу в хлебопечку, выставить режим «Джем». Запустить режим два или три раза, все зависит от мощности прибора.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерты для детей",
+            "slug": "deserty-dlya-detey"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Другие десерты",
+            "slug": "drugie-deserty"
+        },
+        {
+            "name": "Крем",
+            "slug": "krem"
+        },
+        {
+            "name": "Крем для торта",
+            "slug": "krem-dlya-torta"
+        },
+        {
+            "name": "Сгущенка домашняя",
+            "slug": "sguschenka-domashnyaya"
+        },
+        {
+            "name": "Хлебопечка",
+            "slug": "hlebopechka"
+        }
+    ]
+}

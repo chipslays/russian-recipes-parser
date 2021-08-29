@@ -1,0 +1,195 @@
+{
+    "source": "https://vkuso.ru/recipe/kabachkovye-korzinki-s-kuricej-i-syrom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Кабачковые корзинки с курицей и сыром",
+    "description": "Интересная закуска в «корзиночках», которые выпекаются без муки, из тертого кабачка.",
+    "note": "Блюдо можно подать в бумажных, одноразовых, корзиночках, украсить помидорами черри, листьями зеленого салата.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/49/7b8d9a654d76249_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кабачки",
+                    "slug": "kabachki",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Кабачки очистить от кожицы и семян, натереть на крупной терке. Лишнюю жидкость отжать, добавить яйцо, соль, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Мелкими кубиками нарезать куриное филе, посолить, посыпать любимыми специями, обжарить на оливковом масле в течение пяти минут.",
+            "image": null
+        },
+        {
+            "text": "Массу из кабачков распределить ровным слоем по стенкам и дну формочек из силикона. В центр поместить куриное филе, посыпать его тертым сыром.",
+            "image": null
+        },
+        {
+            "text": "Поставить закуску запекаться при температуре 200 градусов в течение получаса.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из кабачков",
+            "slug": "vtorye-blyuda-iz-kabachkov"
+        },
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Горячие закуски",
+            "slug": "goryachie-zakuski"
+        },
+        {
+            "name": "Диетическая куриная грудка",
+            "slug": "dieticheskaya-kurinaya-grudka"
+        },
+        {
+            "name": "Закуска из кабачков",
+            "slug": "zakuska-iz-kabachkov"
+        },
+        {
+            "name": "Закуски из курицы",
+            "slug": "zakuski-iz-kuricy"
+        },
+        {
+            "name": "Запеченное куриное филе",
+            "slug": "zapechennoe-kurinoe-file"
+        },
+        {
+            "name": "Кабачки с сыром",
+            "slug": "kabachki-s-syrom"
+        },
+        {
+            "name": "Куриное филе в духовке",
+            "slug": "kurinoe-file-v-duhovke"
+        },
+        {
+            "name": "Куриное филе с овощами",
+            "slug": "kurinoe-file-s-ovoschami"
+        },
+        {
+            "name": "Курица в духовке",
+            "slug": "kurica-v-duhovke"
+        },
+        {
+            "name": "Курица с кабачками",
+            "slug": "kurica-s-kabachkami"
+        },
+        {
+            "name": "Курица с овощами",
+            "slug": "kurica-s-ovoschami"
+        },
+        {
+            "name": "Курица с сыром",
+            "slug": "kurica-s-syrom"
+        },
+        {
+            "name": "Мясо с сыром",
+            "slug": "myaso-s-syrom"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Ужин из кабачков",
+            "slug": "ujin-iz-kabachkov"
+        },
+        {
+            "name": "Ужин из куриного филе",
+            "slug": "ujin-iz-kurinogo-file"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

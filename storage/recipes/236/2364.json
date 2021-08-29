@@ -1,0 +1,132 @@
+{
+    "source": "https://vkuso.ru/recipe/parizhskij-baton-v-duxovke/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "«Парижский» батон в духовке",
+    "description": null,
+    "note": null,
+    "cuisine": "Французская кухня",
+    "cuisine_slug": "francuzskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a3/327e38945fb76a3_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "240",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "воды",
+                    "slug": "vody",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахара",
+                    "slug": "sahara",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соли",
+                    "slug": "soli",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "360",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "воды",
+                    "slug": "vody",
+                    "notes": null,
+                    "value": "300",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сухих дрожжей",
+                    "slug": "suhih-drojjey",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовит опару: смешать муку, сухие дрожжи, и теплую воду, опару оставить на 4-5 часов.",
+            "image": null
+        },
+        {
+            "text": "Для теста смешать муку с сахаром, солью и водой, тесто смешать с опарой и оставить для расстойки на 3 часа в миске, смазанной растительным маслом.",
+            "image": null
+        },
+        {
+            "text": "Через 3 часа, тесто разделить на две части, из которых сформировать 2 батона и оставить их еще на 2 часа, затем на батонах сделать надрезы ножом наискосок и смазать батоны водой.",
+            "image": null
+        },
+        {
+            "text": "«Парижские» батоны выпекаются в духовке, разогретой за 2 часа с кирпичами или камнями для выпечки, в течение 30 минут, после выпечки батоны получаются мягкими с хрустящей корочкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Постная выпечка",
+            "slug": "postnaya-vypechka"
+        },
+        {
+            "name": "Постный хлеб",
+            "slug": "postniy-hleb"
+        },
+        {
+            "name": "Французская выпечка",
+            "slug": "francuzskaya-vypechka"
+        },
+        {
+            "name": "Хлеб домашний",
+            "slug": "hleb-domashniy"
+        }
+    ]
+}

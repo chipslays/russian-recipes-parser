@@ -1,0 +1,139 @@
+{
+    "source": "https://vkuso.ru/recipe/appetitnye-grenki-s-pomidorami-i-syrom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Аппетитные гренки с помидорами и сыром",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/25/fa5961cebf6a025_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "багет",
+                    "slug": "baget",
+                    "notes": null,
+                    "value": "3",
+                    "type": "куска",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Порезать хлеб, порубить укроп, смешать молоко и яйцо, подсолить, всыпать зелень, поперчить, хорошо перемешать вилкой, но лучше венчиком.",
+            "image": null
+        },
+        {
+            "text": "Положить хлеб во взбитую смесь, дать немного полежать для пропитки, разогреть сковороду с маслом, обжарить гренки.",
+            "image": null
+        },
+        {
+            "text": "Снять гренки со сковороды, положить на каждый кусочек по колечку мясистого помидора и присыпать перчиком.",
+            "image": null
+        },
+        {
+            "text": "Посыпать сырной стружкой, поставить аппетитные гренки с помидором и сыром под гриль, подождать до расплавления сыра.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Гренки",
+            "slug": "grenki"
+        },
+        {
+            "name": "Гренки из батона",
+            "slug": "grenki-iz-batona"
+        },
+        {
+            "name": "Гренки из батона с яйцом и молоком",
+            "slug": "grenki-iz-batona-s-yaycom-i-molokom"
+        },
+        {
+            "name": "Гренки с сыром",
+            "slug": "grenki-s-syrom"
+        },
+        {
+            "name": "Гренки с яйцом",
+            "slug": "grenki-s-yaycom"
+        },
+        {
+            "name": "Гренки с яйцом и молоком",
+            "slug": "grenki-s-yaycom-i-molokom"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "source": "https://vkuso.ru/recipe/107221-tigrovye-krevetki-vo-frityurnice/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Тигровые креветки во фритюрнице",
+    "description": "«Быстрое» блюдо из нескольких ингредиентов.",
+    "note": "Подать на листьях зеленого салата.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/14/998d3f61b592f14_660x440.png",
+    "difficulty": "Средняя",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "креветки тигровые",
+                    "slug": "krevetki-tigrovye",
+                    "notes": null,
+                    "value": "10-12",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Всыпать муку в воду, перемешать венчиком, посолить.",
+            "image": null
+        },
+        {
+            "text": "Вскипятить масло во фритюрнице, выложить морепродукты в кляре.",
+            "image": null
+        },
+        {
+            "text": "Время жарки – от пяти до семи минут, в зависимости от размера креветок.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "В кляре",
+            "slug": "v-klyare"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Закуски из морепродуктов",
+            "slug": "zakuski-iz-moreproduktov"
+        },
+        {
+            "name": "Закуски на день рождения",
+            "slug": "zakuski-na-den-rojdeniya"
+        },
+        {
+            "name": "Закуски с креветками",
+            "slug": "zakuski-s-krevetkami"
+        },
+        {
+            "name": "Креветки в кляре",
+            "slug": "krevetki-v-klyare"
+        },
+        {
+            "name": "Морепродукты в кляре",
+            "slug": "moreprodukty-v-klyare"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Фритюр",
+            "slug": "frityur"
+        }
+    ]
+}

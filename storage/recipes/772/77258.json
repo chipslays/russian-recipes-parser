@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/rassolnik-s-kopchenoj-kuricej-i-kolbasoj/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Рассольник с копченой курицей и колбасой",
+    "description": "Оригинальный рецепт с добавлением копченой колбасы и лапши.",
+    "note": "По желанию в такой рассольник можно добавить томатную пасту, фасоль, острый стручковый перец-чили. Подать с ржаными сухариками, натертыми чесноком, сметаной.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/06/2a97ab5e50c6406_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бульон овощной",
+                    "slug": "bulon-ovoschnoy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "колбаса копченая",
+                    "slug": "kolbasa-kopchenaya",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "курица копченая",
+                    "slug": "kurica-kopchenaya",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы маринованные",
+                    "slug": "ogurcy-marinovannye",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лапша",
+                    "slug": "lapsha",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нашинковать лук и морковь, обжарить, всыпать в кипяток.",
+            "image": null
+        },
+        {
+            "text": "Добавить поочередно: нарезанный кубиками картофель, маринованные огурцы, копченую колбасу, копченую курицу, лапшу.",
+            "image": null
+        },
+        {
+            "text": "За три минуты до подачи приправить блюдо специями.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Куриный суп",
+            "slug": "kuriniy-sup"
+        },
+        {
+            "name": "Куриный суп с лапшой",
+            "slug": "kuriniy-sup-s-lapshoy"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рассольник",
+            "slug": "rassolnik"
+        },
+        {
+            "name": "Рассольник домашний",
+            "slug": "rassolnik-domashniy"
+        },
+        {
+            "name": "Рассольник с колбасой",
+            "slug": "rassolnik-s-kolbasoy"
+        },
+        {
+            "name": "Рассольник с курицей",
+            "slug": "rassolnik-s-kuricey"
+        },
+        {
+            "name": "Суп из птицы",
+            "slug": "sup-iz-pticy"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        }
+    ]
+}

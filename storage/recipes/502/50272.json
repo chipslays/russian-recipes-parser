@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/zakusochnyj-rulet-s-gribami-syrom-i-pomidorami/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Закусочный рулет с грибами, сыром и помидорами",
+    "description": "Оригинальное блюдо, неожиданное сочетание нежного теста и начинки с ароматом леса.",
+    "note": "Для приготовления блюда можно использовать любые грибы, но предпочтительнее – белые.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/52/efe5d316eaa5e52_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/jQKphi5TA7k?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "грибы свежие",
+                    "slug": "griby-svejie",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "зубчик",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Белки и желтки разделить. Первые взбить со щепоткой соли, вторые – с солью и перцем. То и другое можно сделать при помощи миксера.",
+            "image": null
+        },
+        {
+            "text": "Ингредиенты соединить, всыпать муку, вымешать, выложить на пергамент. Время выпекания – 10 минут, температура – 165 градусов.",
+            "image": null
+        },
+        {
+            "text": "Измельчить чеснок, нарезать лук, обжарить вместе. Добавить грибы, прогреть, в последнюю очередь положить помидоры. Прожарить до готовности.",
+            "image": null
+        },
+        {
+            "text": "Выложить грибную начинку на готовый омлет, посыпать тертым сыром, аккуратно свернуть рулетом, нарезать поперек.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блюда из яиц",
+            "slug": "blyuda-iz-yaic"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Закуски из грибов",
+            "slug": "zakuski-iz-gribov"
+        },
+        {
+            "name": "Закуски из яиц",
+            "slug": "zakuski-iz-yaic"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рулет из омлета",
+            "slug": "rulet-iz-omleta"
+        },
+        {
+            "name": "Рулет с грибами",
+            "slug": "rulet-s-gribami"
+        },
+        {
+            "name": "Рулеты",
+            "slug": "rulety"
+        },
+        {
+            "name": "Сырный рулет",
+            "slug": "syrniy-rulet"
+        },
+        {
+            "name": "Яичный рулет",
+            "slug": "yaichniy-rulet"
+        }
+    ]
+}

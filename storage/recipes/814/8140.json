@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/sous-dlya-zharenogo-myasa-chimichurri/",
+    "category": "Соусы",
+    "category_slug": "sousy",
+    "title": "Соус для жареного мяса «Чимичурри»",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/56/8d1c50623edd556_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кинза",
+                    "slug": "kinza",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "уксус винный белый",
+                    "slug": "uksus-vinniy-beliy",
+                    "notes": null,
+                    "value": "10",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "4",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "лук красный",
+                    "slug": "luk-krasniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "перец чили",
+                    "slug": "perec-chili",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1 шт."
+                },
+                {
+                    "name": "горчица черная французская",
+                    "slug": "gorchica-chernaya-francuzskaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Зелень мелко порубить, пропустить чеснок через пресс, красный лук мелко нашинковать, перец чили мелко порезать.",
+            "image": null
+        },
+        {
+            "text": "Все подготовленные ингредиенты сложить в чашу блендера, влить белый винный уксус и оливковое масло.",
+            "image": null
+        },
+        {
+            "text": "Добавить в чашу соль, французскую черную горчицу и молотый перец, измельчить содержимое чаши до мелких кусочков (не должно получиться пюре).",
+            "image": null
+        },
+        {
+            "text": "Готовый «Чимичурри» подавать с любым мясным блюдом или овощами гриль.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Постный соус",
+            "slug": "postniy-sous"
+        },
+        {
+            "name": "Соус для шашлыка",
+            "slug": "sous-dlya-shashlyka"
+        },
+        {
+            "name": "Соус чимичурри",
+            "slug": "sous-chimichurri"
+        },
+        {
+            "name": "Соусы к мясу",
+            "slug": "sousy-k-myasu"
+        }
+    ]
+}

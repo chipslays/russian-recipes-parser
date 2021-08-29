@@ -1,0 +1,143 @@
+{
+    "source": "https://vkuso.ru/recipe/109172-sendvich-s-pomidorami-mocarelloj-i-sousom-pesto/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Сэндвич с помидорами, моцареллой и соусом песто",
+    "description": "Не просто быстрый, но и вкусный, и полезный, лучшее начало дня.",
+    "note": "Для приготовления блюда лучше использовать хлеб «Чиабатта».",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/8e/f07308a1982e18e_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "15 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 1 порцию",
+            "list": [
+                {
+                    "name": "помидоры черри",
+                    "slug": "pomidory-cherri",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб",
+                    "slug": "hleb",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ломтика",
+                    "amount": null
+                },
+                {
+                    "name": "сыр моцарелла",
+                    "slug": "syr-mocarella",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "базилик",
+                    "slug": "bazilik",
+                    "notes": null,
+                    "value": "3",
+                    "type": "веточки",
+                    "amount": null
+                },
+                {
+                    "name": "соус песто",
+                    "slug": "sous-pesto",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Помидоры и сыр «Моцарелла» нарезать пластинками.",
+            "image": null
+        },
+        {
+            "text": "Хлеб ломтиками намазать соусом «Песто».",
+            "image": null
+        },
+        {
+            "text": "Выложить на один кусочек помидоры черри, сыр, листочки базилика, соль и перец – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Накрыть вторым ломтиком.",
+            "image": null
+        },
+        {
+            "text": "Готовый сэндвич обжарить на сковороде или на гриле, третий вариант – запечь в духовке в течение семи минут при температуре 180 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды на природу",
+            "slug": "buterbrody-na-prirodu"
+        },
+        {
+            "name": "Бутерброды на скорую руку",
+            "slug": "buterbrody-na-skoruyu-ruku"
+        },
+        {
+            "name": "Бутерброды с помидорами",
+            "slug": "buterbrody-s-pomidorami"
+        },
+        {
+            "name": "Бутерброды с помидорами и сыром",
+            "slug": "buterbrody-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Закуски для пикника",
+            "slug": "zakuski-dlya-piknika"
+        },
+        {
+            "name": "Помидоры с моцареллой",
+            "slug": "pomidory-s-mocarelloy"
+        },
+        {
+            "name": "Сэндвич с сыром",
+            "slug": "sendvich-s-syrom"
+        },
+        {
+            "name": "Сэндвичи",
+            "slug": "sendvichi"
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/pirog-iz-pechenya-so-sgushhennym-molokom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пирог из печенья со сгущенным молоком",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/fe/c28bd9c3c843efe_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сгущенного молока",
+                    "slug": "sguschennogo-moloka",
+                    "notes": null,
+                    "value": "400",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "песочного печенья (юбилейное)",
+                    "slug": "pesochnogo-pechenya-yubileynoe",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливочного масла",
+                    "slug": "slivochnogo-masla",
+                    "notes": null,
+                    "value": "80",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "3"
+                },
+                {
+                    "name": "лимона",
+                    "slug": "limona",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1/2"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Печенье сложить в полиэтиленовый пакетик, размельчить в не мелкую крошку.",
+            "image": null
+        },
+        {
+            "text": "Сливочное сильно охлажденное масло порубить, добавить к печенью, хорошо перемешать.",
+            "image": null
+        },
+        {
+            "text": "Получившуюся массу переложить в форму, ровно распределить так, чтобы были двухсантиметровые бортики.",
+            "image": null
+        },
+        {
+            "text": "В течение 15 минут запекать тесто при 180 градусах.",
+            "image": null
+        },
+        {
+            "text": "Для начинки необходимо взбить яичные желтки, затем к ним добавить сгущенное молоко, постоянно взбивая, влить лимонный сок.",
+            "image": null
+        },
+        {
+            "text": "По истечении 15 минут вынуть форму и равномерно распределить по пирогу приготовленную начинку, отправить пирог обратно еще на 10 минут.",
+            "image": null
+        },
+        {
+            "text": "Готовый пирог из печенья со сгущенным молоком украсить фруктами, ягодами или взбитыми сливками.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка со сгущенкой",
+            "slug": "vypechka-so-sguschenkoy"
+        },
+        {
+            "name": "Десерт со сгущенкой",
+            "slug": "desert-so-sguschenkoy"
+        },
+        {
+            "name": "Открытый пирог",
+            "slug": "otkrytiy-pirog"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог со сгущенкой",
+            "slug": "pirog-so-sguschenkoy"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги с начинкой",
+            "slug": "pirogi-s-nachinkoy"
+        }
+    ]
+}

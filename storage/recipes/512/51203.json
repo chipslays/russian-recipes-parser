@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/gribnoj-sup-s-plavlenym-syrom-i-zelenyu/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Грибной суп с плавленым сыром и зеленью",
+    "description": "Блюдо быстро готовится. Ставший привычным на нашем столе сырный суп обогащен грибными ароматами.",
+    "note": "Грибной суп можно подать с цельнозерновым или «черным» хлебом.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/75/50dc83b1e2eb675_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый",
+                    "slug": "syr-plavleniy",
+                    "notes": null,
+                    "value": "150-200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Шампиньоны нарезать, обжарить с измельченным репчатым луком на оливковом масле.",
+            "image": null
+        },
+        {
+            "text": "Вскипятить воду, растворить в ней плавленый сыр, при необходимости добавить соль.",
+            "image": null
+        },
+        {
+            "text": "Смесь прокипятить в течение двух минут, добавить готовую обжарку.",
+            "image": null
+        },
+        {
+            "text": "Разлить суп в тарелки и добавить зелень.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Грибной суп",
+            "slug": "gribnoy-sup"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетический суп",
+            "slug": "dieticheskiy-sup"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп для похудения",
+            "slug": "sup-dlya-pohudeniya"
+        },
+        {
+            "name": "Суп из шампиньонов",
+            "slug": "sup-iz-shampinonov"
+        },
+        {
+            "name": "Суп с плавленым сыром",
+            "slug": "sup-s-plavlenym-syrom"
+        },
+        {
+            "name": "Сырный суп",
+            "slug": "syrniy-sup"
+        },
+        {
+            "name": "Сырный суп с грибами",
+            "slug": "syrniy-sup-s-gribami"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

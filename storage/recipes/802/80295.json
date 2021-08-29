@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/rizotto-s-moreproduktami-i-ovoshhnoj-smesyu/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Ризотто с морепродуктами и овощной смесью",
+    "description": "Хороший вариант блюда для любителей овощного микса.",
+    "note": "Для приготовления блюда можно использовать рыбный или овощной бульон.",
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/8a/ba34cc2b5f72f8a_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бульон",
+                    "slug": "bulon",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "морепродукты",
+                    "slug": "moreprodukty",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "120",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "овощная смесь",
+                    "slug": "ovoschnaya-smes",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Налить на сковороду оливковое масло, выложить любую смесь овощей, жарить несколько минут.",
+            "image": null
+        },
+        {
+            "text": "Всыпать рис, влить порциями бульон, прогревать до выпаривания, рис должен стать мягким.",
+            "image": null
+        },
+        {
+            "text": "Добавить морепродукты, всыпать специи, подержать блюдо на огне в течение двух минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из риса",
+            "slug": "vtorye-blyuda-iz-risa"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ризотто",
+            "slug": "rizotto"
+        },
+        {
+            "name": "Ризотто с морепродуктами",
+            "slug": "rizotto-s-moreproduktami"
+        },
+        {
+            "name": "Рис с морепродуктами",
+            "slug": "ris-s-moreproduktami"
+        }
+    ]
+}

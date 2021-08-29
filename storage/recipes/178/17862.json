@@ -1,0 +1,136 @@
+{
+    "source": "https://vkuso.ru/recipe/muss-iz-gorkogo-shokolada-s-likerom/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Мусс из горького шоколада с ликером",
+    "description": null,
+    "note": null,
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/80/9ed425a566fce80_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "шоколад черный горький",
+                    "slug": "shokolad-cherniy-gorkiy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "170",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ликер",
+                    "slug": "liker",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Дополнительно",
+            "list": [
+                {
+                    "name": "хурма",
+                    "slug": "hurma",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "ликер",
+                    "slug": "liker",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Шоколад растопить на водяной бане, добавить сахарный песок, воду и ликер. Смесь перелить в миску «на холоде» т.е. в одну миску поместить лед и ледяную воду, на нее поставить миску большего диаметра.",
+            "image": null
+        },
+        {
+            "text": "С помощью блендера взбить компоненты до загустения. Присоединить часть сливок, остальную часть взбить. В порционные бокалы выложить слоями мусс из горького шоколада, сливки и пюре из хурмы, десерт украсить листиком мяты.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Мусс",
+            "slug": "muss"
+        },
+        {
+            "name": "Новогодние десерты",
+            "slug": "novogodnie-deserty"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Шоколадный десерт",
+            "slug": "shokoladniy-desert"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

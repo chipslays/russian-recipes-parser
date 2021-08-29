@@ -1,0 +1,103 @@
+{
+    "source": "https://vkuso.ru/recipe/shashlyk-iz-krolika-s-lukom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Шашлык из кролика с луком",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/2a/809663f03ef022a_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кролик",
+                    "slug": "krolik",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "кориандр молотый",
+                    "slug": "koriandr-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "специи для мяса",
+                    "slug": "specii-dlya-myasa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Промыть тушку, обсушить, нарубить на куски, переложить в подходящую емкость, всыпать приправы для шашлыка, соль и перец, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Порезать лук на полукольца, добавить к мясу, хорошо, сжимая пальцами содержимое, перемешать руками, оставить мариноваться не менее 4 часов, а лучше дать переночевать в холодильнике.",
+            "image": null
+        },
+        {
+            "text": "Подготовить угли, нанизать куски кролика на шампуры, обжарить в течение получаса до приятной глазу корочки. Переложить шашлык из кролика с луком на блюдо и подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Шашлык",
+            "slug": "shashlyk"
+        },
+        {
+            "name": "Шашлык из кролика",
+            "slug": "shashlyk-iz-krolika"
+        }
+    ]
+}

@@ -1,0 +1,220 @@
+{
+    "source": "https://vkuso.ru/recipe/tvorozhnye-oladi-xachapuri-s-syrom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Творожные оладьи «Хачапури» с сыром",
+    "description": null,
+    "note": "При подаче посыпать блюдо рубленой петрушкой и зеленым луком. В начинку для остроты можно добавить мелко нарезанный маринованный огурец.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/86/1b971627f264686_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "150",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления теста растереть творог с сырыми яйцами, влить теплый кефир, пищевую соду, соль и пшеничную муку. Замесить тесто, оно должно получиться густым по консистенции. Для начинки натереть твердый сыр, добавить измельченный чеснок и зелень укропа, сметану, массу хорошо перемешать.",
+            "image": null
+        },
+        {
+            "text": "Разогреть сковороду с растительным маслом. Тесто выкладывать ложками, между оладьями оставлять расстояние. Из сырной начинки слепить «лепешки» и выложить на тесто. Обжарить оладьи «Хачапури» с двух сторон до зарумянивания.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка на кефире",
+            "slug": "vypechka-na-kefire"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Лепешки",
+            "slug": "lepeshki"
+        },
+        {
+            "name": "Лепешки без дрожжей",
+            "slug": "lepeshki-bez-drojjey"
+        },
+        {
+            "name": "Лепешки на кефире",
+            "slug": "lepeshki-na-kefire"
+        },
+        {
+            "name": "Лепешки на кефире на сковороде",
+            "slug": "lepeshki-na-kefire-na-skovorode"
+        },
+        {
+            "name": "Лепешки на сковороде",
+            "slug": "lepeshki-na-skovorode"
+        },
+        {
+            "name": "Лепешки на сметане",
+            "slug": "lepeshki-na-smetane"
+        },
+        {
+            "name": "Лепешки с сыром на сковороде",
+            "slug": "lepeshki-s-syrom-na-skovorode"
+        },
+        {
+            "name": "Лепешки с творогом",
+            "slug": "lepeshki-s-tvorogom"
+        },
+        {
+            "name": "Несладкая выпечка",
+            "slug": "nesladkaya-vypechka"
+        },
+        {
+            "name": "Оладьи",
+            "slug": "oladi"
+        },
+        {
+            "name": "Оладьи без дрожжей",
+            "slug": "oladi-bez-drojjey"
+        },
+        {
+            "name": "Оладьи на кефире",
+            "slug": "oladi-na-kefire"
+        },
+        {
+            "name": "Оладьи на сметане",
+            "slug": "oladi-na-smetane"
+        },
+        {
+            "name": "Оладьи с сыром",
+            "slug": "oladi-s-syrom"
+        },
+        {
+            "name": "Оладьи с творогом",
+            "slug": "oladi-s-tvorogom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сырные лепешки",
+            "slug": "syrnye-lepeshki"
+        },
+        {
+            "name": "Хачапури",
+            "slug": "hachapuri"
+        },
+        {
+            "name": "Хачапури на кефире",
+            "slug": "hachapuri-na-kefire"
+        },
+        {
+            "name": "Хачапури с сыром",
+            "slug": "hachapuri-s-syrom"
+        },
+        {
+            "name": "Хачапури с творогом",
+            "slug": "hachapuri-s-tvorogom"
+        },
+        {
+            "name": "Хачапури с творогом и сыром",
+            "slug": "hachapuri-s-tvorogom-i-syrom"
+        }
+    ]
+}

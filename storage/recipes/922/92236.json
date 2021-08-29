@@ -1,0 +1,207 @@
+{
+    "source": "https://vkuso.ru/recipe/92236-kurica-s-ananasami-i-sladkim-percem-v-kislo-sladkom-souse/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Курица с ананасами и сладким перцем в кисло-сладком соусе",
+    "description": "Курица в кисло-сладком соусе по-китайски с ананасами — нежное, сочное блюдо с богатым изысканным вкусом. Готовится быстро и невероятно просто.",
+    "note": null,
+    "cuisine": "Китайская кухня",
+    "cuisine_slug": "kitayskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b0/fb50a23c81955b0_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "35 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/RPPCQLSsWMM?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "куриная грудка",
+                    "slug": "kurinaya-grudka",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": " (для разбавления томатной пасты)",
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": " (кетчуп)",
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ананас консервированный",
+                    "slug": "ananas-konservirovanniy",
+                    "notes": " (свежий)",
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "перец болгарский красный",
+                    "slug": "perec-bolgarskiy-krasniy",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец чили красный",
+                    "slug": "perec-chili-krasniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": " (для жарки)",
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Куриную грудку нарезать небольшими кубиками. Болгарский перец освободить от семян и крупно нарезать. Перец чили нарезать кружочками, удалив семена.",
+            "image": null
+        },
+        {
+            "text": "На сковороде разогреть растительное масло, и на сильном огне обжарить курицу до готовности, помешивая. Переложить в миску.",
+            "image": null
+        },
+        {
+            "text": "На том же масле обжарить сладкий перец до мягкости в течении 7 минут. Готовый перец переложить в отдельную миску и накрыть пищевой пленкой и дать постоять так пару минут. Затем выложить на разделочную доску, удалить кожицу и нарезать небольшими кусочками.",
+            "image": null
+        },
+        {
+            "text": "Если используете свежие ананасы то их нужно протушить на сковороде с парой ложек воды под закрытой крышкой в течении 5 минут. Консервированные ананасы можно не тушить.",
+            "image": null
+        },
+        {
+            "text": "Развести томатную пасту с водой.",
+            "image": null
+        },
+        {
+            "text": "Добавить к ананасам остальные ингредиенты: курицу, перец, чили и разведенную томатную пасту (или кетчуп). Довести все до кипения и прогреть все вместе в течении пары минут. Посолить и добавить сахар по желанию",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Жареная курица",
+            "slug": "jarenaya-kurica"
+        },
+        {
+            "name": "Жареные блюда",
+            "slug": "jarenye-blyuda"
+        },
+        {
+            "name": "Куриное филе с ананасами",
+            "slug": "kurinoe-file-s-ananasami"
+        },
+        {
+            "name": "Куриное филе с овощами",
+            "slug": "kurinoe-file-s-ovoschami"
+        },
+        {
+            "name": "Курица в кисло-сладком соусе",
+            "slug": "kurica-v-kislo-sladkom-souse"
+        },
+        {
+            "name": "Курица с ананасами",
+            "slug": "kurica-s-ananasami"
+        },
+        {
+            "name": "Курица с болгарским перцем",
+            "slug": "kurica-s-bolgarskim-percem"
+        },
+        {
+            "name": "Курица с овощами",
+            "slug": "kurica-s-ovoschami"
+        },
+        {
+            "name": "Курица тушеная с овощами",
+            "slug": "kurica-tushenaya-s-ovoschami"
+        },
+        {
+            "name": "Мясо с овощами",
+            "slug": "myaso-s-ovoschami"
+        },
+        {
+            "name": "Овощи на сковороде",
+            "slug": "ovoschi-na-skovorode"
+        },
+        {
+            "name": "Сковорода",
+            "slug": "skovoroda"
+        },
+        {
+            "name": "Тушеная куриная грудка",
+            "slug": "tushenaya-kurinaya-grudka"
+        },
+        {
+            "name": "Тушеная курица",
+            "slug": "tushenaya-kurica"
+        },
+        {
+            "name": "Тушеное куриное филе",
+            "slug": "tushenoe-kurinoe-file"
+        },
+        {
+            "name": "Тушеное мясо",
+            "slug": "tushenoe-myaso"
+        },
+        {
+            "name": "Тушеные блюда",
+            "slug": "tushenye-blyuda"
+        },
+        {
+            "name": "Тушеный перец",
+            "slug": "tusheniy-perec"
+        },
+        {
+            "name": "Ужин из куриной грудки",
+            "slug": "ujin-iz-kurinoy-grudki"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

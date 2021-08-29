@@ -1,0 +1,264 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-kurochka-ryaba-s-gribami-i-ogurcom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Курочка Ряба» с грибами и огурцом",
+    "description": "Название напомнит детство и знаменитую русскую народную сказку. Главный ингредиент салата, действительно, курочка. Салат легкий, понравится тем, кто заботится о правильном питании и привык считать калории.",
+    "note": "Вместо куриных яиц можно использовать перепелиные, их будет достаточно разрезать на две половинки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ed/964f89a4e607fed_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "курица",
+                    "slug": "kurica",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грибы маринованные",
+                    "slug": "griby-marinovannye",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кукуруза консервированная",
+                    "slug": "kukuruza-konservirovannaya",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы свежие/маринованные",
+                    "slug": "ogurcy-svejie-marinovannye",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "оливки",
+                    "slug": "olivki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для заправки",
+            "list": [
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соус наршараб",
+                    "slug": "sous-narsharab",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "апельсиновый сок",
+                    "slug": "apelsinoviy-sok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить курицу, порезать кусочками, кожицу лучше удалить. Порезать маринованные грибы, если они слишком острые – промыть водой, а затем нарезать. Свежий или маринованный огурец также нашинковать.",
+            "image": null
+        },
+        {
+            "text": "Отварить, очистить, яйца, порезать дольками. Слить жидкость из банки с консервированной кукурузой. Оливки без косточек можно использовать целиком или разрезать на половинки.",
+            "image": null
+        },
+        {
+            "text": "Приготовить заправку: смешать майонез (лучше взять легкий, малокалорийный) с апельсиновым соком, добавить немного гранатового бальзамического уксуса наршараб. Соль – по вкусу, добавить любую свежую рубленую зелень. Перемешать, залить салат «Курочка Ряба» при подаче.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Мясные салаты на Новый год",
+            "slug": "myasnye-salaty-na-noviy-god"
+        },
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новогодний салат с курицей",
+            "slug": "novogodniy-salat-s-kuricey"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с грибами",
+            "slug": "salat-s-gribami"
+        },
+        {
+            "name": "Салат с консервированной кукурузой",
+            "slug": "salat-s-konservirovannoy-kukuruzoy"
+        },
+        {
+            "name": "Салат с курицей",
+            "slug": "salat-s-kuricey"
+        },
+        {
+            "name": "Салат с курицей и грибами",
+            "slug": "salat-s-kuricey-i-gribami"
+        },
+        {
+            "name": "Салат с курицей и кукурузой",
+            "slug": "salat-s-kuricey-i-kukuruzoy"
+        },
+        {
+            "name": "Салат с курицей и маринованными грибами",
+            "slug": "salat-s-kuricey-i-marinovannymi-gribami"
+        },
+        {
+            "name": "Салат с курицей и овощами",
+            "slug": "salat-s-kuricey-i-ovoschami"
+        },
+        {
+            "name": "Салат с курицей и огурцом",
+            "slug": "salat-s-kuricey-i-ogurcom"
+        },
+        {
+            "name": "Салат с курицей и яйцом",
+            "slug": "salat-s-kuricey-i-yaycom"
+        },
+        {
+            "name": "Салат с курицей, грибами и маринованными огурцами",
+            "slug": "salat-s-kuricey-gribami-i-marinovannymi-ogurcami"
+        },
+        {
+            "name": "Салат с курицей, грибами и огурцами",
+            "slug": "salat-s-kuricey-gribami-i-ogurcami"
+        },
+        {
+            "name": "Салат с курицей, грибами, огурцами и яйцом",
+            "slug": "salat-s-kuricey-gribami-ogurcami-i-yaycom"
+        },
+        {
+            "name": "Салат с курицей, огурцом и яйцом",
+            "slug": "salat-s-kuricey-ogurcom-i-yaycom"
+        },
+        {
+            "name": "Салат с маринованными грибами",
+            "slug": "salat-s-marinovannymi-gribami"
+        },
+        {
+            "name": "Салат с мясом и грибами",
+            "slug": "salat-s-myasom-i-gribami"
+        },
+        {
+            "name": "Салат с огурцом и яйцом",
+            "slug": "salat-s-ogurcom-i-yaycom"
+        },
+        {
+            "name": "Салат с оливками",
+            "slug": "salat-s-olivkami"
+        },
+        {
+            "name": "Салат со свежим огурцом",
+            "slug": "salat-so-svejim-ogurcom"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с гранатом",
+            "slug": "salaty-s-granatom"
+        },
+        {
+            "name": "Салаты с кукурузой",
+            "slug": "salaty-s-kukuruzoy"
+        },
+        {
+            "name": "Салаты с маринованными огурцами",
+            "slug": "salaty-s-marinovannymi-ogurcami"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

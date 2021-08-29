@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/grechnevyj-plov-s-kuricej-i-seldereem/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Гречневый плов с курицей и сельдереем",
+    "description": "Плов можно приготовить не только с рисом, но и с гречневой крупой. Мясная составляющая блюда  – куриное филе.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/76/760f63f3006f876_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "корень сельдерея",
+                    "slug": "koren-seldereya",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "гречневая крупа",
+                    "slug": "grechnevaya-krupa",
+                    "notes": null,
+                    "value": "1,5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "барбарис сушеный",
+                    "slug": "barbaris-susheniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "6",
+                    "type": "зубчиков",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "приправа панч пурен",
+                    "slug": "priprava-panch-puren",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Корень сельдерея, морковь, репчатый лук очистить и нарезать соломкой. В перечисленной последовательности продукты обжарить на растительном масле в сотейнике. Соль и перец – по вкусу. Добавить нарезанную соломкой сырую курицу, обжарить до изменения цвета, она должна побелеть.",
+            "image": null
+        },
+        {
+            "text": "Гречневую крупу тщательно перебрать, промыть в холодной воде. Добавить в обжарку, всыпать сушеные ягоды барбариса, очищенные зубчики чеснока целиком. Смесь разровнять, добавить индийскую приправу панч пурен или любую другую, влить два стакана кипящей воды, посолить. Блюдо довести до кипения, прогревать под крышкой на тихом огне до испарения влаги.",
+            "image": null
+        },
+        {
+            "text": "Когда влага полностью испарится, а гречка будет готова – перемешать содержимое сотейника, собрать ингредиенты к центру в виде горки, накрыть крышкой, прогревать гречневый плов с курицей и сельдереем на плите в течение 15 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Гречка с курицей",
+            "slug": "grechka-s-kuricey"
+        },
+        {
+            "name": "Гречка с мясом",
+            "slug": "grechka-s-myasom"
+        },
+        {
+            "name": "Гречневая каша",
+            "slug": "grechnevaya-kasha"
+        },
+        {
+            "name": "Каша",
+            "slug": "kasha"
+        },
+        {
+            "name": "Каша с мясом",
+            "slug": "kasha-s-myasom"
+        },
+        {
+            "name": "Курица с овощами",
+            "slug": "kurica-s-ovoschami"
+        },
+        {
+            "name": "Плов",
+            "slug": "plov"
+        },
+        {
+            "name": "Плов с курицей",
+            "slug": "plov-s-kuricey"
+        },
+        {
+            "name": "Плов с мясом",
+            "slug": "plov-s-myasom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ужин из куриного филе",
+            "slug": "ujin-iz-kurinogo-file"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

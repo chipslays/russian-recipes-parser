@@ -1,0 +1,231 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-novogodnyaya-svinka-s-rybnymi-konservami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Новогодняя свинка» с рыбными консервами",
+    "description": "Несложный сытный салат с рыбными консервами.",
+    "note": "По желанию закусочный торт можно посыпать тертым твердым сыром. Для блюда подойдут консервы из тунца.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c4/bf81147039632c4_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/J4qc9pQxEGk?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "консервы рыбные в масле",
+                    "slug": "konservy-rybnye-v-masle",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "коржи вафельные",
+                    "slug": "korji-vafelnye",
+                    "notes": null,
+                    "value": "1",
+                    "type": "упаковка",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы маринованные",
+                    "slug": "ogurcy-marinovannye",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый",
+                    "slug": "syr-plavleniy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "маслины",
+                    "slug": "masliny",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить соус из равных частей майонеза и сметаны.",
+            "image": null
+        },
+        {
+            "text": "Отварить морковь и куриные яйца, очистить.",
+            "image": null
+        },
+        {
+            "text": "Натереть плавленый сыр, чеснок, яйца.",
+            "image": null
+        },
+        {
+            "text": "Приготовить смеси для прослойки коржей: мелко нарезанные маринованные огурцы с рыбными консервами в масле, плавленый сыр с яйцами и чесноком и тертая морковь с твердым сыром и майонезом.",
+            "image": null
+        },
+        {
+            "text": "Выложить салат слоями: корж, сметанный соус, огуречная смесь, второй корж, соус, чесночная масса, третий корж, соус, морковная прослойка. Сверху – корж, слои повторить.",
+            "image": null
+        },
+        {
+            "text": "Готовый торт-салат смазать майонезом, посыпать тертым желтком середину, белком – края. Украсить блюдо ломтиками отваренной моркови, вместо глаз – маслины.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новогодний салат Свинка",
+            "slug": "novogodniy-salat-svinka"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат из моркови с чесноком",
+            "slug": "salat-iz-morkovi-s-chesnokom"
+        },
+        {
+            "name": "Салат из моркови с чесноком и майонезом",
+            "slug": "salat-iz-morkovi-s-chesnokom-i-mayonezom"
+        },
+        {
+            "name": "Салат из моркови с чесноком и сыром",
+            "slug": "salat-iz-morkovi-s-chesnokom-i-syrom"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с огурцом и сыром",
+            "slug": "salat-s-ogurcom-i-syrom"
+        },
+        {
+            "name": "Салат с огурцом и яйцом",
+            "slug": "salat-s-ogurcom-i-yaycom"
+        },
+        {
+            "name": "Салат с рыбными консервами",
+            "slug": "salat-s-rybnymi-konservami"
+        },
+        {
+            "name": "Салат с сыром и чесноком",
+            "slug": "salat-s-syrom-i-chesnokom"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салат с чесноком и майонезом",
+            "slug": "salat-s-chesnokom-i-mayonezom"
+        },
+        {
+            "name": "Салат с яйцом и морковью",
+            "slug": "salat-s-yaycom-i-morkovyu"
+        },
+        {
+            "name": "Салат с яйцом и сыром",
+            "slug": "salat-s-yaycom-i-syrom"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты с маринованными огурцами",
+            "slug": "salaty-s-marinovannymi-ogurcami"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        },
+        {
+            "name": "Салаты со сметаной",
+            "slug": "salaty-so-smetanoy"
+        },
+        {
+            "name": "Слоеные салаты",
+            "slug": "sloenye-salaty"
+        }
+    ]
+}

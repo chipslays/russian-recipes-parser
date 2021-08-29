@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/108985-pirog-iz-sloenogo-testa-s-shhavelem-v-duxovke/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пирог из слоеного теста с щавелем в духовке",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/15/f43b8ffb6609d15_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "тесто слоеное",
+                    "slug": "testo-sloenoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пачка",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "щавель",
+                    "slug": "schavel",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "3-5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "на кончике",
+                    "type": "ножа",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Разрезать шарик теста на две равные части.",
+            "image": null
+        },
+        {
+            "text": "Раскатать одну под размер формы, другую – чуть больше.",
+            "image": null
+        },
+        {
+            "text": "Форму заполнить раскатанным тестом, сформовать бортики, положить порубленный щавель, вылить на него разболтанное яйцо.",
+            "image": null
+        },
+        {
+            "text": "Накрыть все второй раскатанной частью, хорошо защипать края.",
+            "image": null
+        },
+        {
+            "text": "Проделать надрезы для выхода пара.",
+            "image": null
+        },
+        {
+            "text": "Духовку разогреть до 200 градусов, пирог выпекать около трети часа.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка из слоеного теста",
+            "slug": "vypechka-iz-sloenogo-testa"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог со щавелем",
+            "slug": "pirog-so-schavelem"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/tykvennyj-krem-sup-s-grushami-i-suxarikami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Тыквенный крем-суп с грушами и сухариками",
+    "description": "Праздничное, ароматное блюдо с необычным вкусом.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f8/0df7c37a7958ff8_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бульон куриный",
+                    "slug": "bulon-kuriniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "тыква",
+                    "slug": "tykva",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб белый",
+                    "slug": "hleb-beliy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "груши",
+                    "slug": "grushi",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "семечки тыквенные",
+                    "slug": "semechki-tykvennye",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "корица",
+                    "slug": "korica",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец белый молотый",
+                    "slug": "perec-beliy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Мелко порубить репчатый лук и чеснок.",
+            "image": null
+        },
+        {
+            "text": "Очистить тыкву, мякоть крупно нарезать.",
+            "image": null
+        },
+        {
+            "text": "Сладкие груши очистить и разрезать на четвертинки.",
+            "image": null
+        },
+        {
+            "text": "Переложить тыкву и грушу в огнеупорную форму, печь при температуре 200 градусов в течение получаса.",
+            "image": null
+        },
+        {
+            "text": "Взбить погружным блендером.",
+            "image": null
+        },
+        {
+            "text": "Очистить и подсушить на сковороде тыквенные семечки.",
+            "image": null
+        },
+        {
+            "text": "Разогреть в кастрюле сливочное масло, обжарить лук и чеснок, влить куриный бульон, посолить и поперчить.",
+            "image": null
+        },
+        {
+            "text": "Всыпать молотую корицу.",
+            "image": null
+        },
+        {
+            "text": "Выложить готовое пюре, прогреть, довести до закипания, помешивать.",
+            "image": null
+        },
+        {
+            "text": "Порезать хлеб на кубики и обжарить на сливочном масле.",
+            "image": null
+        },
+        {
+            "text": "Суп при подаче посыпать белыми домашними сухариками, очищенными семечками тыквы.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Крем-суп",
+            "slug": "krem-sup"
+        },
+        {
+            "name": "Крем-суп из тыквы",
+            "slug": "krem-sup-iz-tykvy"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Суп-пюре из тыквы",
+            "slug": "sup-pyure-iz-tykvy"
+        }
+    ]
+}

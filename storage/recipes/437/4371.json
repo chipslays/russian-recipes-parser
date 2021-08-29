@@ -1,0 +1,184 @@
+{
+    "source": "https://vkuso.ru/recipe/pirog-tvorozhnyj-s-yablochnoj-nachinkoj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пирог творожный с яблочной начинкой",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/20/81ca1b97ab10820_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливочного масла",
+                    "slug": "slivochnogo-masla",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "творога",
+                    "slug": "tvoroga",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахара",
+                    "slug": "sahara",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "картофельного крахмала",
+                    "slug": "kartofelnogo-krahmala",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлителя",
+                    "slug": "razryhlitelya",
+                    "notes": null,
+                    "value": "1,5",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "кислых яблока",
+                    "slug": "kislyh-yabloka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "3"
+                },
+                {
+                    "name": "сахара",
+                    "slug": "sahara",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Растереть в крошку масло с мукой, добавить крахмал и разрыхлитель, творог, перемешать, вбить яйца, всыпать сахар, смешать до однородности, накрыть тесто пленкой, на час поставить в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Очистить от кожуры яблоки, удалить семенную коробку, нарезать тонкими ломтиками.",
+            "image": null
+        },
+        {
+            "text": "Подготовить форму для выпекания, часть теста распределить по дну, выложить на него  яблоки, присыпать сахаром, накрыть оставшейся частью теста.",
+            "image": null
+        },
+        {
+            "text": "Пирог творожный с яблочной начинкой выпекать около 30-40 минут в нагретой до 170 градусов духовке.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка с яблоками",
+            "slug": "vypechka-s-yablokami"
+        },
+        {
+            "name": "Десерты из яблок",
+            "slug": "deserty-iz-yablok"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог с творогом и яблоками",
+            "slug": "pirog-s-tvorogom-i-yablokami"
+        },
+        {
+            "name": "Пирог с яблоками",
+            "slug": "pirog-s-yablokami"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги с начинкой",
+            "slug": "pirogi-s-nachinkoy"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Сладкие пироги",
+            "slug": "sladkie-pirogi"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        },
+        {
+            "name": "Творожный пирог",
+            "slug": "tvorojniy-pirog"
+        },
+        {
+            "name": "Творожный торт",
+            "slug": "tvorojniy-tort"
+        }
+    ]
+}

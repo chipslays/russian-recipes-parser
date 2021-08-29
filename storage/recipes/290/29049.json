@@ -1,0 +1,55 @@
+{
+    "source": "https://vkuso.ru/recipe/prostaya-ryazhenka-po-domashnemu/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Простая ряженка по-домашнему",
+    "description": null,
+    "note": "На ряженке можно испечь пирог, печенье, торт, она отлично сочетается с фруктами и ягодами для приготовления десертов.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/59/835a264fb252159_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "5",
+                    "type": "стаканов",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Молоко налить в толстостенную эмалированную или керамическую посуду, варить на тихом огне до получения кремового цвета. Жидкость необходимо постоянно помешивать. Топленое молоко охладить, влить сметану, хорошо перемешать и поставить на два-три часа для загустения.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Напитки с молоком",
+            "slug": "napitki-s-molokom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/ris-s-krevetkami-lukom-i-bolgarskim-percem/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Рис с креветками, луком и болгарским перцем",
+    "description": "Полезное и не слишком сложное блюдо в стиле восточной кухни.",
+    "note": "Соевый соус можно добавить в креветочную массу, а рис – позже. При такой последовательности приготовления соус не будет чувствоваться во всем блюде. Кто не любит – может совсем обойтись без этого ингредиента.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/09/9fd22c5e14e6809_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "креветки замороженные",
+                    "slug": "krevetki-zamorojennye",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "перец болгарский красный",
+                    "slug": "perec-bolgarskiy-krasniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соус соевый",
+                    "slug": "sous-soeviy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Луковицу небольшого размера нашинковать полукольцами, красный болгарский перец – соломкой.",
+            "image": null
+        },
+        {
+            "text": "Мороженые креветки положить в кипящую подсоленную воду, подержать до готовности, очистить.",
+            "image": null
+        },
+        {
+            "text": "Отварить рис.",
+            "image": null
+        },
+        {
+            "text": "Разогреть на сковороде оливковое масло, выложить лук и перец, обжаривать в течение семи минут, довести перец до полуготовности.",
+            "image": null
+        },
+        {
+            "text": "Добавить креветки, жарить одну минуту, затем – рис и соевый соус по вкусу. Смесь поставить на тихий огонь, тушить в течение десяти минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из риса",
+            "slug": "vtorye-blyuda-iz-risa"
+        },
+        {
+            "name": "Креветки с овощами",
+            "slug": "krevetki-s-ovoschami"
+        },
+        {
+            "name": "Морепродукты с овощами",
+            "slug": "moreprodukty-s-ovoschami"
+        },
+        {
+            "name": "Рис с креветками",
+            "slug": "ris-s-krevetkami"
+        },
+        {
+            "name": "Рис с морепродуктами",
+            "slug": "ris-s-moreproduktami"
+        },
+        {
+            "name": "Рис с овощами",
+            "slug": "ris-s-ovoschami"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

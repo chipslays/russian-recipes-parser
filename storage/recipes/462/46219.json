@@ -1,0 +1,91 @@
+{
+    "source": "https://vkuso.ru/recipe/granita-iz-maliny-s-chernikoj/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Гранита из малины с черникой",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/06/2addf2f3f9c2e06_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "малина",
+                    "slug": "malina",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "черника",
+                    "slug": "chernika",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахарный сироп",
+                    "slug": "saharniy-sirop",
+                    "notes": null,
+                    "value": "80",
+                    "type": "мл",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Поместить все ягоды в блендер, влить сахарный сироп, взбить до однородности.",
+            "image": null
+        },
+        {
+            "text": "Разлить граниту по формочкам, поставить в морозилку на 5 часов.",
+            "image": null
+        },
+        {
+            "text": "Раз в час смесь перемешивать до полного застывания.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Гранита",
+            "slug": "granita"
+        },
+        {
+            "name": "Десерты для детей",
+            "slug": "deserty-dlya-detey"
+        },
+        {
+            "name": "Десерты с черникой",
+            "slug": "deserty-s-chernikoy"
+        },
+        {
+            "name": "На десерт",
+            "slug": "na-desert"
+        },
+        {
+            "name": "Новогодние десерты",
+            "slug": "novogodnie-deserty"
+        },
+        {
+            "name": "Праздничные десерты",
+            "slug": "prazdnichnye-deserty"
+        },
+        {
+            "name": "Фруктово-ягодные десерты",
+            "slug": "fruktovo-yagodnye-deserty"
+        }
+    ]
+}

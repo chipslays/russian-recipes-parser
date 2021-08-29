@@ -1,0 +1,164 @@
+{
+    "source": "https://vkuso.ru/recipe/vyalenoe-myaso-s-pripravami-po-domashnemu/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Вяленое мясо с приправами по-домашнему",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/34/504d38e4e89d234_660x440.jpg",
+    "difficulty": "Высокая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вырезка",
+                    "slug": "vyrezka",
+                    "notes": null,
+                    "value": "1,5-2",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "смесь сухих приправ",
+                    "slug": "smes-suhih-priprav",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для 1 литра рассола",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "4-4,5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец душистый горошком",
+                    "slug": "perec-dushistiy-goroshkom",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "гвоздика",
+                    "slug": "gvozdika",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Развести соль в воде до получения крепкого рассола, чтобы не тонуло сырое яйцо. Ориентировочно для приготовления литра раствора потребуется примерно 4,5 столовых ложек крупной соли. В полученный рассол положить горошки душистого перца, гвоздички, лавровый лист, прокипятить, дать остыть, процедить.",
+            "image": null
+        },
+        {
+            "text": "Подготовленную вырезку поместить в охлажденный рассол, закрыть кастрюлю крышкой, оставить в холодильнике на пару-тройку дней, несколько раз в день кусок переворачивать, мясо должно плавать в рассоле.",
+            "image": null
+        },
+        {
+            "text": "Вынуть мясо, обсушить, положить на наклонную поверхность, придавить грузом, дать стечь излишкам рассола. Втереть с усилием в мясо сухие приправы, а затем не жалея хорошо обвалять в них.",
+            "image": null
+        },
+        {
+            "text": "Смесь специй подбирать по вкусу, но с достаточно большим содержанием красного перца. Он выполняет роль основного консерванта. Обернуть кусок марлей, положить в закрытую посуду, оставить на неделю в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Достать мясо, обвалять еще раз в специях, поменять марлю на свежую, повесить в хорошо проветриваемое место, например, в кухне на карниз шторы. Вяленое мясо с приправами будет готово через одну-две недели (зависит от размера куска). Мясо лучше готовить в зимнее время, поскольку есть отопление и воздух в кухне более сухой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Вяленое мясо",
+            "slug": "vyalenoe-myaso"
+        },
+        {
+            "name": "Говядина на Новый Год",
+            "slug": "govyadina-na-noviy-god"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Закуски для фуршета",
+            "slug": "zakuski-dlya-fursheta"
+        },
+        {
+            "name": "Закуски из мяса",
+            "slug": "zakuski-iz-myasa"
+        },
+        {
+            "name": "Закуски на день рождения",
+            "slug": "zakuski-na-den-rojdeniya"
+        },
+        {
+            "name": "Новогодние закуски",
+            "slug": "novogodnie-zakuski"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Свинина на Новый год",
+            "slug": "svinina-na-noviy-god"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

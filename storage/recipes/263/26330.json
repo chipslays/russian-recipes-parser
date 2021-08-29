@@ -1,0 +1,188 @@
+{
+    "source": "https://vkuso.ru/recipe/sochniki-s-tvorozhno-vanilnoj-nachinkoj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Сочники с творожно-ванильной начинкой",
+    "description": "Сочни или сочники – это лепешка с начинкой, у которой не защипаны края, пироги русской кухни, имеющие, по данным некоторых этнографов, северное происхождение. Выпекались с гречневой кашей, кислой капустой, рыбными начинками.",
+    "note": "Тесто можно вырезать с помощью формочек для выпекания, в таком случае края получатся волнистыми. Подать, посыпав сахарной пудрой. Можно полить сгущенным молоком и посыпать семечками кунжута, а в начинку добавить изюм или распаренные и нарезанные кусочками сухофрукты.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/52/aef5ea335067d52_660x440.jpeg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "маргарин",
+                    "slug": "margarin",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "100-150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "4",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "100-150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "пудинг ванильный",
+                    "slug": "puding-vanilniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пачка",
+                    "amount": null
+                },
+                {
+                    "name": "сахар ванильный",
+                    "slug": "sahar-vanilniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пакетик",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Взбить сахарный песок с сырыми яйцами в пышную массу. Растопить маргарин, остудить до комнатной температуры и влить в яичную массу, еще раз взбить в пену. Добавить муку, просеянную вместе с разрыхлителем, перемешать. Влить сметану небольшими порциями, дать тесту немного постоять, для набухания муки.",
+            "image": null
+        },
+        {
+            "text": "Для начинки перемешать творог, сырое яйцо, сахар, пачку ванильного пудинга и ванильный сахар. Тесто раскатать, вырезать кружки средней величины. На одну половину выложить творожную начинку и прикрыть второй, не защипывать. Смазать верх яйцом, печь сочники с творожно-ванильной начинкой в духовке около 20 минут при температуре 180 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка для детей",
+            "slug": "vypechka-dlya-detey"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка на маргарине",
+            "slug": "vypechka-na-margarine"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки без дрожжей",
+            "slug": "pirojki-bez-drojjey"
+        },
+        {
+            "name": "Пирожки на сметане",
+            "slug": "pirojki-na-smetane"
+        },
+        {
+            "name": "Пирожки с творогом",
+            "slug": "pirojki-s-tvorogom"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сочни, сочники",
+            "slug": "sochni-sochniki"
+        }
+    ]
+}

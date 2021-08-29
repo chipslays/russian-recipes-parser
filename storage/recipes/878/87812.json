@@ -1,0 +1,183 @@
+{
+    "source": "https://vkuso.ru/recipe/87812-goroxovyj-sup-s-kuricej-i-oxotnichimi-kolbaskami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Гороховый суп с курицей и охотничьими колбасками",
+    "description": "Густой наваристый суп с пикантными нотками в виде охотничьих колбасок.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/3a/7b3f458e863913a_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": "2 часа",
+    "video": "https://www.youtube.com/embed/szBEEJ5Ua9o?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "курица",
+                    "slug": "kurica",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "горох",
+                    "slug": "goroh",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "колбаски охотничьи",
+                    "slug": "kolbaski-ohotnichi",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": " (для жарки)",
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Горох залить водой на 2 часа.",
+            "image": null
+        },
+        {
+            "text": "В кастрюлю положить курицу, залить 2 литрами воды, добавить лаврушку, довести до кипения и варить 15 минут.",
+            "image": null
+        },
+        {
+            "text": "Переложить горох в кастрюлю и варить еще 30 минут.",
+            "image": null
+        },
+        {
+            "text": "Картофель и лук нарезать квадратиками. Морковь - натереть на терке. В сковороде на растительном масле обжарить лук и морковь, перемешивая в течении 15 минут на среднем огне.",
+            "image": null
+        },
+        {
+            "text": "В отдельной сковороде обжаривать охотничьи колбаски (нарезанные колечками) 5 минут на среднем огне.",
+            "image": null
+        },
+        {
+            "text": "В кастрюлю добавить картофель и морковно-луковую смесь. Варить 10 минут в кипящей воде.",
+            "image": null
+        },
+        {
+            "text": "Добавить охотничьи колбаски, мелко нарезанный укроп, посолить.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Гороховый суп",
+            "slug": "gorohoviy-sup"
+        },
+        {
+            "name": "Гороховый суп с курицей",
+            "slug": "gorohoviy-sup-s-kuricey"
+        },
+        {
+            "name": "Картофельный суп",
+            "slug": "kartofelniy-sup"
+        },
+        {
+            "name": "Куриный суп",
+            "slug": "kuriniy-sup"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сковорода",
+            "slug": "skovoroda"
+        },
+        {
+            "name": "Суп из бобовых",
+            "slug": "sup-iz-bobovyh"
+        },
+        {
+            "name": "Суп из птицы",
+            "slug": "sup-iz-pticy"
+        },
+        {
+            "name": "Суп с копченостями",
+            "slug": "sup-s-kopchenostyami"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Суп с охотничьими колбасками",
+            "slug": "sup-s-ohotnichimi-kolbaskami"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        }
+    ]
+}

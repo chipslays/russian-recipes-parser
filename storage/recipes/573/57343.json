@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/klassicheskij-gaspacho-s-sousom-tabasko/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Классический Гаспачо с соусом Табаско",
+    "description": "Яркий представитель средиземноморской кухни – холодный суп гаспачо. По одной из версий название кушанья произошло от арабского слова, в переводе означающего «остатки»: блюдо готовилось из тех овощей, которые были под рукой. Другая версия – от еврейского слова, означающего «растолченный».",
+    "note": "Гаспачо можно подать с обжаренными сухариками, кусочками хамона, рубленой зеленью. Блюдо может быть самостоятельным или подаваться, как дополнение к рыбе или мясу, приготовленному на гриле.",
+    "cuisine": "Испанская кухня",
+    "cuisine_slug": "ispanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a6/ed55517dcd4fea6_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "450",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "томатный сок",
+                    "slug": "tomatniy-sok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "уксус винный красный",
+                    "slug": "uksus-vinniy-krasniy",
+                    "notes": null,
+                    "value": "&frac13;",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "перец болгарский консервированный",
+                    "slug": "perec-bolgarskiy-konservirovanniy",
+                    "notes": " (красный)",
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "кинза рубленая",
+                    "slug": "kinza-rublenaya",
+                    "notes": " (кориандр)",
+                    "value": "35",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соус Табаско",
+                    "slug": "sous-tabasko",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Половину огурцов, помидоров и репчатого лука нарезать небольшими кусочками и положить в комбайн.",
+            "image": null
+        },
+        {
+            "text": "Добавить консервированный красный сладкий перец и измельчить все в пюре.",
+            "image": null
+        },
+        {
+            "text": "Перелить массу в миску.",
+            "image": null
+        },
+        {
+            "text": "Влить томатный сок, красный винный уксус, кинзу, оливковое масло, добавить несколько капель соуса «Табаско».",
+            "image": null
+        },
+        {
+            "text": "Из оставшихся помидоров вынуть семена, мякоть нарезать кубиками. Таким же образом нарезать лук и огурец. Овощи добавить в основную массу. Перец и соль – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Поставить готовый суп в холодильник.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Гаспачо",
+            "slug": "gaspacho"
+        },
+        {
+            "name": "Классические рецепты",
+            "slug": "klassicheskie-recepty"
+        },
+        {
+            "name": "Классические супы",
+            "slug": "klassicheskie-supy"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Постный овощной суп",
+            "slug": "postniy-ovoschnoy-sup"
+        },
+        {
+            "name": "Постный суп",
+            "slug": "postniy-sup"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Томатный суп",
+            "slug": "tomatniy-sup"
+        },
+        {
+            "name": "Холодник",
+            "slug": "holodnik"
+        },
+        {
+            "name": "Холодные супы",
+            "slug": "holodnye-supy"
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "source": "https://vkuso.ru/recipe/90324-syrnyj-sup-s-suxarikami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Сырный суп с сухариками",
+    "description": "Вкусный и простой суп из плавленного сыра.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/47/18f817cd4c8ba47_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/Mn369ABRG70?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 3 порции",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "240",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр сливочный",
+                    "slug": "syr-slivochniy",
+                    "notes": null,
+                    "value": "130",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук",
+                    "slug": "luk",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб",
+                    "slug": "hleb",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "800",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать картофель кубиками, промыть, залить холодной водой. Варить 15 мин.",
+            "image": null
+        },
+        {
+            "text": "Лук нарезать мелко, морковь натереть, сырки нарезать кубиками. Хлеб нарезать кубиками.",
+            "image": null
+        },
+        {
+            "text": "В разогретую сковороду влить немного масла и выложить хлеб. Жарить до тех пор, пока сухарики не станут хрустящими и золотистыми.",
+            "image": null
+        },
+        {
+            "text": "В сковороду влить растительное масло, добавить сливочное масло, выложить лук, обжарить в течении 2 мин, добавить морковь, жарить 1 мин.",
+            "image": null
+        },
+        {
+            "text": "Выложить зажарку в кастрюлю, добавить сливочный сыр, перемешать до полного растворения сыра.",
+            "image": null
+        },
+        {
+            "text": "Добавить соль, перец, поварить еще 3 мин, выключить огонь и дать постоять под крышкой минут 5.\r\nПодавать с сухариками и зеленью.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Картофельный суп",
+            "slug": "kartofelniy-sup"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сковорода",
+            "slug": "skovoroda"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Супы на скорую руку",
+            "slug": "supy-na-skoruyu-ruku"
+        },
+        {
+            "name": "Сырный суп",
+            "slug": "syrniy-sup"
+        }
+    ]
+}

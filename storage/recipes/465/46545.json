@@ -1,0 +1,196 @@
+{
+    "source": "https://vkuso.ru/recipe/zharenye-pirozhki-s-kartoshkoj-lukom-i-gribami/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Жареные пирожки с картошкой, луком и грибами",
+    "description": "Настоящая «бабушкина» выпечка. Порадуйте себя и своих близких теплом домашнего очага.",
+    "note": "Пирожки можно сделать продолговатой или треугольной формы.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/65/eaf6486fe254e65_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/qqrBalHVkcY?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи свежие",
+                    "slug": "drojji-svejie",
+                    "notes": null,
+                    "value": "15",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "700-800",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грибы жареные",
+                    "slug": "griby-jarenye",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "головки",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для начинки приготовить классическое картофельное пюре, перемешать его с обжаренными с луком грибами.",
+            "image": null
+        },
+        {
+            "text": "Дрожжи развести в теплой воде, добавить сахарный песок, немного муки, перемешать и дать подойти.",
+            "image": null
+        },
+        {
+            "text": "Опару влить в муку, добавить оставшуюся воду, растительное масло, соль и соду.",
+            "image": null
+        },
+        {
+            "text": "Тесто быстро вымесить, на это потребуется от семи до восьми минут. Поставить в тепло, объем массы должен увеличиться в два раза.",
+            "image": null
+        },
+        {
+            "text": "Рабочую поверхность смазать растительным маслом, тесто нарезать на порции и раскатать, дать постоять 20 минут. Сформовать пирожки, жарить на масле с двух сторон.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Дрожжевые пирожки",
+            "slug": "drojjevye-pirojki"
+        },
+        {
+            "name": "Жареные пирожки",
+            "slug": "jarenye-pirojki"
+        },
+        {
+            "name": "Жареные пирожки с картошкой на сковороде",
+            "slug": "jarenye-pirojki-s-kartoshkoy-na-skovorode"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки на воде",
+            "slug": "pirojki-na-vode"
+        },
+        {
+            "name": "Пирожки с грибами",
+            "slug": "pirojki-s-gribami"
+        },
+        {
+            "name": "Пирожки с картошкой",
+            "slug": "pirojki-s-kartoshkoy"
+        },
+        {
+            "name": "Пирожки с картошкой и грибами",
+            "slug": "pirojki-s-kartoshkoy-i-gribami"
+        },
+        {
+            "name": "Полдник",
+            "slug": "poldnik"
+        },
+        {
+            "name": "Постная выпечка",
+            "slug": "postnaya-vypechka"
+        },
+        {
+            "name": "Постные блюда из картофеля",
+            "slug": "postnye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Постные блюда с грибами",
+            "slug": "postnye-blyuda-s-gribami"
+        },
+        {
+            "name": "Постные пирожки",
+            "slug": "postnye-pirojki"
+        }
+    ]
+}

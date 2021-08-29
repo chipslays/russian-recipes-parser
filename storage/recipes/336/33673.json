@@ -1,0 +1,227 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-rozhdestvenskij-s-vetchinoj/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Рождественский» с ветчиной",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c0/042d5b950b50ec0_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "120",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кукуруза консервированная",
+                    "slug": "kukuruza-konservirovannaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "перец болгарский желтый",
+                    "slug": "perec-bolgarskiy-jeltiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "маслины",
+                    "slug": "masliny",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать кусочками ветчину и шампиньоны, можно соломкой или кубиками. Грибы взять свежие, предварительно отваренные в подсоленной воде, или консервированные, соленые, в таком случае блюдо будет острее. Натереть на крупной терке твердый сыр. Все ингредиенты соединить. Сцедить жидкость от консервированной кукурузы, добавить зерна в основную массу.",
+            "image": null
+        },
+        {
+            "text": "Приправить салат молотым черным перцем, пропущенным через пресс чесноком, перемешать, заправить майонезом по вкусу. На блюдо поставить кольцо от разъемной формы, в центр – пустую банку или стакан. Между ними выложить салат, плотно утрамбовать, должно получиться «кольцо». Банку и бортики от формы осторожно убрать, салат поправить, он должен держать форму.",
+            "image": null
+        },
+        {
+            "text": "Украсить салат «Рождественский» с ветчиной листочками вымытой и просушенной петрушки или зеленью укропа, можно рукколой. Очистить морковь, нарезать тонкими лентами с помощью овощечистки. Оформить венок. Можно положить сладкий желтый перец, нарезанный кружками, половинки или кольца маслин.",
+            "image": null
+        },
+        {
+            "text": "Бант также сделать из моркови, украсить горошком из капелек майонеза. На морковных лентах можно что-то написать майонезом с помощью кондитерского шприца, например, краткие пожелания с праздником.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из моркови с чесноком",
+            "slug": "salat-iz-morkovi-s-chesnokom"
+        },
+        {
+            "name": "Салат из моркови с чесноком и майонезом",
+            "slug": "salat-iz-morkovi-s-chesnokom-i-mayonezom"
+        },
+        {
+            "name": "Салат из моркови с чесноком и сыром",
+            "slug": "salat-iz-morkovi-s-chesnokom-i-syrom"
+        },
+        {
+            "name": "Салат с ветчиной",
+            "slug": "salat-s-vetchinoy"
+        },
+        {
+            "name": "Салат с ветчиной и сыром",
+            "slug": "salat-s-vetchinoy-i-syrom"
+        },
+        {
+            "name": "Салат с грибами",
+            "slug": "salat-s-gribami"
+        },
+        {
+            "name": "Салат с грибами и сыром",
+            "slug": "salat-s-gribami-i-syrom"
+        },
+        {
+            "name": "Салат с консервированной кукурузой",
+            "slug": "salat-s-konservirovannoy-kukuruzoy"
+        },
+        {
+            "name": "Салат с маслинами",
+            "slug": "salat-s-maslinami"
+        },
+        {
+            "name": "Салат с сыром и чесноком",
+            "slug": "salat-s-syrom-i-chesnokom"
+        },
+        {
+            "name": "Салат с твердым сыром",
+            "slug": "salat-s-tverdym-syrom"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салат с чесноком и майонезом",
+            "slug": "salat-s-chesnokom-i-mayonezom"
+        },
+        {
+            "name": "Салат с шампиньонами",
+            "slug": "salat-s-shampinonami"
+        },
+        {
+            "name": "Салаты с болгарским перцем",
+            "slug": "salaty-s-bolgarskim-percem"
+        },
+        {
+            "name": "Салаты с кукурузой",
+            "slug": "salaty-s-kukuruzoy"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        }
+    ]
+}

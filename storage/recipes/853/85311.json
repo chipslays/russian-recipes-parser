@@ -1,0 +1,199 @@
+{
+    "source": "https://vkuso.ru/recipe/85311-salat-kozel-v-ogorode-s-kurinym-file-i-chernoslivom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Козел в огороде» с куриным филе и черносливом",
+    "description": "Оригинальное сочетание продуктов.",
+    "note": "По желанию майонез можно подать отдельно, в соуснике.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/df/77959dc42b5dedf_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сухарики",
+                    "slug": "suhariki",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чернослив",
+                    "slug": "chernosliv",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Залить кипятком чернослив, оставить на десять минут.",
+            "image": null
+        },
+        {
+            "text": "Размягченные плоды порезать тонкой соломкой.",
+            "image": null
+        },
+        {
+            "text": "Отварить куриное мясо с солью и специями.",
+            "image": null
+        },
+        {
+            "text": "Филе остудить, измельчить кубиками.",
+            "image": null
+        },
+        {
+            "text": "Натереть морковь и твердый сыр, ячейки – крупные или средние.",
+            "image": null
+        },
+        {
+            "text": "Налить майонез на середину тарелки, вокруг выложить нарезанные ингредиенты горками.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из моркови",
+            "slug": "salat-iz-morkovi"
+        },
+        {
+            "name": "Салат из свежей моркови",
+            "slug": "salat-iz-svejey-morkovi"
+        },
+        {
+            "name": "Салат Козел в огороде",
+            "slug": "salat-kozel-v-ogorode"
+        },
+        {
+            "name": "Салат с куриным филе",
+            "slug": "salat-s-kurinym-file"
+        },
+        {
+            "name": "Салат с курицей",
+            "slug": "salat-s-kuricey"
+        },
+        {
+            "name": "Салат с курицей и морковью",
+            "slug": "salat-s-kuricey-i-morkovyu"
+        },
+        {
+            "name": "Салат с курицей и овощами",
+            "slug": "salat-s-kuricey-i-ovoschami"
+        },
+        {
+            "name": "Салат с курицей и сыром",
+            "slug": "salat-s-kuricey-i-syrom"
+        },
+        {
+            "name": "Салат с курицей и черносливом",
+            "slug": "salat-s-kuricey-i-chernoslivom"
+        },
+        {
+            "name": "Салат с сухариками",
+            "slug": "salat-s-suharikami"
+        },
+        {
+            "name": "Салат с сухариками и курицей",
+            "slug": "salat-s-suharikami-i-kuricey"
+        },
+        {
+            "name": "Салат с сухариками и сыром",
+            "slug": "salat-s-suharikami-i-syrom"
+        },
+        {
+            "name": "Салат с твердым сыром",
+            "slug": "salat-s-tverdym-syrom"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты на скорую руку",
+            "slug": "salaty-na-skoruyu-ruku"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        },
+        {
+            "name": "Салаты с черносливом",
+            "slug": "salaty-s-chernoslivom"
+        }
+    ]
+}

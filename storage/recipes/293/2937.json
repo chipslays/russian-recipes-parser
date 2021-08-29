@@ -1,0 +1,103 @@
+{
+    "source": "https://vkuso.ru/recipe/kalach-russkij/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Калач русский",
+    "description": null,
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/aa/c5403318be2eeaa_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "600",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "молока / воды",
+                    "slug": "moloka-vody",
+                    "notes": null,
+                    "value": "1/3",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сахара",
+                    "slug": "sahara",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжей",
+                    "slug": "drojjey",
+                    "notes": null,
+                    "value": "18",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить дрожжевое тесто, затем выложить его на стол, припудренный мукой, разделить на 2-3 одинаковых куска.",
+            "image": null
+        },
+        {
+            "text": "Придать каждой полученной части форму круга, раскатать в колбаски так, чтобы серединки получились утолщенными, а концы более острыми.",
+            "image": null
+        },
+        {
+            "text": "Из полученных колбасок сделать жгут, придать ему форму калача, уложить на лист, отставить примерно на 40 минут.",
+            "image": null
+        },
+        {
+            "text": "Перед началом выпекания смазать калач русский яйцом.",
+            "image": null
+        },
+        {
+            "text": "Духовку разогреть до 210-220 градусов, выпекать калач в районе 30 минут, пока он не подрумянится и не будет готов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Хлеб домашний",
+            "slug": "hleb-domashniy"
+        }
+    ]
+}

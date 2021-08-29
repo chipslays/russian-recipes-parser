@@ -1,0 +1,164 @@
+{
+    "source": "https://vkuso.ru/recipe/blinchiki-domashnie-s-myasnoj-nachinkoj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Блинчики домашние с мясной начинкой",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/7b/b7e72d31c7c457b_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молока",
+                    "slug": "moloka",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "сахара",
+                    "slug": "sahara",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "мясного фарша",
+                    "slug": "myasnogo-farsha",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "сметаны",
+                    "slug": "smetany",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец",
+                    "slug": "perec",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Чтобы приготовить тесто необходимо смешать молоко, сахар, яйца, соль и муку, вымешивать до однородности.",
+            "image": null
+        },
+        {
+            "text": "На средний огонь поставить сковородку, влить и разогреть растительное масло, пожарить в нем блины.",
+            "image": null
+        },
+        {
+            "text": "Обжарить с нашинкованным репчатым луком мясной фарш, добавить перец и соль по вкусу, после чего перекрутить все на мясорубке.",
+            "image": null
+        },
+        {
+            "text": "В каждый готовый блин завернуть получившуюся начинку, обжарить на растительном масле блинчики домашние с мясной начинкой со всех сторон, к столу подавать со сметаной.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блинчики",
+            "slug": "blinchiki"
+        },
+        {
+            "name": "Блины",
+            "slug": "bliny"
+        },
+        {
+            "name": "Блины с мясом",
+            "slug": "bliny-s-myasom"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Выпечка с мясом и фаршем",
+            "slug": "vypechka-s-myasom-i-farshem"
+        },
+        {
+            "name": "Выпечка с фаршем",
+            "slug": "vypechka-s-farshem"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Фаршированные блины с начинкой",
+            "slug": "farshirovannye-bliny-s-nachinkoy"
+        }
+    ]
+}

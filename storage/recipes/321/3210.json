@@ -1,0 +1,123 @@
+{
+    "source": "https://vkuso.ru/recipe/sup-tomatnyj-polskij-s-risom-i-ogurcom/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Суп томатный польский с рисом и огурцом",
+    "description": null,
+    "note": null,
+    "cuisine": "Польская кухня",
+    "cuisine_slug": "polskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d2/d4b02c6cc0038d2_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "помидоров",
+                    "slug": "pomidorov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "мясного бульона",
+                    "slug": "myasnogo-bulona",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "огурец",
+                    "slug": "ogurec",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "сметаны",
+                    "slug": "smetany",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "риса",
+                    "slug": "risa",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Порезать на четвертинки помытые помидоры, переложить в кастрюлю, налить небольшое количество воды и отправить на огонь, отварить помидоры до готовности, затем через ситечко протереть.",
+            "image": null
+        },
+        {
+            "text": "К томатному пюре добавить бульон, промытый и очищенный от мусора рис, продолжать варить пока рис не будет полностью готов.",
+            "image": null
+        },
+        {
+            "text": "Выложить в супницу очищенный и нарезанный тонкими кружочками огурец.",
+            "image": null
+        },
+        {
+            "text": "Перед тем, как снять с огня кастрюлю, суп нужно заправить сметаной и перемешать, затем отставить его до полного остывания и охлаждения.",
+            "image": null
+        },
+        {
+            "text": "Холодный суп томатный польский с рисом и огурцом налить в подготовленную супницу и подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетический суп",
+            "slug": "dieticheskiy-sup"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп для похудения",
+            "slug": "sup-dlya-pohudeniya"
+        },
+        {
+            "name": "Суп с рисом",
+            "slug": "sup-s-risom"
+        },
+        {
+            "name": "Супы на скорую руку",
+            "slug": "supy-na-skoruyu-ruku"
+        },
+        {
+            "name": "Томатный суп",
+            "slug": "tomatniy-sup"
+        }
+    ]
+}

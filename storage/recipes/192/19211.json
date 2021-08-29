@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/file-tilapii-zapechennoe-v-moloke/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Филе тилапии запеченное в молоке",
+    "description": "Нежное блюдо, к которому можно приготовить овощной гарнир.",
+    "note": "Рыбу можно сбрызнуть лимонным соком, украсить дольками лимона или лайма, листочками базилика или веточками свежего укропа.",
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/11/a3dc544283bbc11_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "филе тилапии",
+                    "slug": "file-tilapii",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко 0,5%",
+                    "slug": "moloko-0-5",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Разморозить филе тилапии, хорошо промыть. В нежирное молоко добавить зелень, специи, соль. Застелить фольгой форму для выпекания, выложить рыбу, залить молоком. Фольгу не заворачивать, рыба должна остаться открытой.",
+            "image": null
+        },
+        {
+            "text": "Посыпать мелкорубленой зеленью. Печь в духовом шкафу при температуре 180 градусов до готовности, примерно в течение получаса. Готовое филе тилапии запеченное в молоке, перед подачей порционно нарезать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из рыбы",
+            "slug": "vtorye-blyuda-iz-ryby"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Диета Дюкана",
+            "slug": "dieta-dyukana"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рыба в духовке",
+            "slug": "ryba-v-duhovke"
+        },
+        {
+            "name": "Рыба запеченная",
+            "slug": "ryba-zapechennaya"
+        }
+    ]
+}

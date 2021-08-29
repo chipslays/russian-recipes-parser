@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/kotlety-kurinye-metropolki/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Котлеты куриные «Метропольки»",
+    "description": "Блюдо высшей кухни, достойное хорошего ресторана.",
+    "note": "При подаче котлеты разрезать пополам, чтобы была видна начинка, украсить листочками петрушки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/4f/45e2249823bc94f_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "50 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/VJ97yFI6XkI?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "600",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "куриная печень",
+                    "slug": "kurinaya-pechen",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "эстрагон сушеный",
+                    "slug": "estragon-susheniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "смесь перцев",
+                    "slug": "smes-percev",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить куриную печень в подсоленной воде. В кастрюлю положить лавровый лист.",
+            "image": null
+        },
+        {
+            "text": "Продукт остудить и пропустить через мясорубку, обжарить в течение нескольких минут на сливочном масле с добавлением эстрагона и смеси перцев.",
+            "image": null
+        },
+        {
+            "text": "Куриное филе нарезать небольшими кусочками, отбить.",
+            "image": null
+        },
+        {
+            "text": "Посолить, на середину каждой порции выложить печеночную начинку.",
+            "image": null
+        },
+        {
+            "text": "Сформовать котлеты, запанировать в муке.",
+            "image": null
+        },
+        {
+            "text": "Раскалить на сковороде растительное масло, выложить изделия швом вниз, жарить до золотистого цвета с двух сторон.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Вторые блюда из куриной печени",
+            "slug": "vtorye-blyuda-iz-kurinoy-pecheni"
+        },
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Горячие блюда на праздничный стол",
+            "slug": "goryachie-blyuda-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Котлеты",
+            "slug": "kotlety"
+        },
+        {
+            "name": "Котлеты без яиц",
+            "slug": "kotlety-bez-yaic"
+        },
+        {
+            "name": "Котлеты из куриного филе",
+            "slug": "kotlety-iz-kurinogo-file"
+        },
+        {
+            "name": "Котлеты с начинкой",
+            "slug": "kotlety-s-nachinkoy"
+        },
+        {
+            "name": "Куриная печень на сковороде",
+            "slug": "kurinaya-pechen-na-skovorode"
+        },
+        {
+            "name": "Куриные котлеты",
+            "slug": "kurinye-kotlety"
+        },
+        {
+            "name": "Печеночные котлеты",
+            "slug": "pechenochnye-kotlety"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Сковорода",
+            "slug": "skovoroda"
+        },
+        {
+            "name": "Ужин из куриного филе",
+            "slug": "ujin-iz-kurinogo-file"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        }
+    ]
+}

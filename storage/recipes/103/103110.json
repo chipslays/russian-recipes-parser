@@ -1,0 +1,216 @@
+{
+    "source": "https://vkuso.ru/recipe/103110-svinaya-rulka-v-pive-po-cheshski-s-kvashenoj-kapustoj/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Свиная рулька в пиве по-чешски с квашеной капустой",
+    "description": "Традиционное блюдо чешской кухни, маринованная в пиве и запеченная свиная рулька, которая подается с тушеной кислой капустой.",
+    "note": null,
+    "cuisine": "Чешская кухня",
+    "cuisine_slug": "cheshskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/22/ad926f5de00e022_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "16 часов",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/w5hUReSzVvc?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "свиная рулька",
+                    "slug": "svinaya-rulka",
+                    "notes": null,
+                    "value": "900",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "пиво светлое",
+                    "slug": "pivo-svetloe",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "зира",
+                    "slug": "zira",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Рулька",
+            "list": [
+                {
+                    "name": "лук",
+                    "slug": "luk",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чернослив",
+                    "slug": "chernosliv",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": " (моченые)",
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "капуста квашеная",
+                    "slug": "kapusta-kvashenaya",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить маринад: в пиво добавить соль, зиру и перец, перемешать. Поместить свиное колено в маринад минимум на 12 часов.",
+            "image": null
+        },
+        {
+            "text": "Маринованное колено обмазать раздавленным чесноком. Поместить на противень и накрыть фольгой.",
+            "image": null
+        },
+        {
+            "text": "Жарить колено в разогретой до 180 градусов духовке в течении 3,5 часов периодически переворачивая мясо.",
+            "image": null
+        },
+        {
+            "text": "Гарнир: нарезанную луковицу пассеровать в растительном масле до золотистого цвета. Добавить в сковороду мелконарезанный чернослив и моченое яблоко. Тушить 5-7 минут, затем добавить квашенную капусту и тушить еще 20 минут.",
+            "image": null
+        },
+        {
+            "text": "Готовое колено выложить на блюдо и добавить гарнир.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Вторые блюда из свинины",
+            "slug": "vtorye-blyuda-iz-svininy"
+        },
+        {
+            "name": "Горячие блюда на праздничный стол",
+            "slug": "goryachie-blyuda-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Капуста с мясом",
+            "slug": "kapusta-s-myasom"
+        },
+        {
+            "name": "Мясо в духовке",
+            "slug": "myaso-v-duhovke"
+        },
+        {
+            "name": "Овощи на сковороде",
+            "slug": "ovoschi-na-skovorode"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рулька в пиве",
+            "slug": "rulka-v-pive"
+        },
+        {
+            "name": "Свинина в духовке",
+            "slug": "svinina-v-duhovke"
+        },
+        {
+            "name": "Свинина с овощами",
+            "slug": "svinina-s-ovoschami"
+        },
+        {
+            "name": "Сковорода",
+            "slug": "skovoroda"
+        },
+        {
+            "name": "Тушеная капуста",
+            "slug": "tushenaya-kapusta"
+        },
+        {
+            "name": "Тушеная капуста с мясом",
+            "slug": "tushenaya-kapusta-s-myasom"
+        },
+        {
+            "name": "Тушеные блюда",
+            "slug": "tushenye-blyuda"
+        },
+        {
+            "name": "Ужин из капусты",
+            "slug": "ujin-iz-kapusty"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из свинины",
+            "slug": "ujin-iz-svininy"
+        }
+    ]
+}

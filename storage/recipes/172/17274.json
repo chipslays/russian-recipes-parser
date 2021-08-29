@@ -1,0 +1,216 @@
+{
+    "source": "https://vkuso.ru/recipe/sladkij-salat-iz-apelsina-i-tykvy/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Сладкий салат из апельсина и тыквы",
+    "description": null,
+    "note": "Если тыква или апельсин не очень сладкие, то количество сахара можно повысить.",
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/36/40a539d7f4d0236_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "тыква",
+                    "slug": "tykva",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "апельсин",
+                    "slug": "apelsin",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "изюм",
+                    "slug": "izyum",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для соуса",
+            "list": [
+                {
+                    "name": "шоколад",
+                    "slug": "shokolad",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "40",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "15",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "ванилин",
+                    "slug": "vanilin",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Тыкву помыть, очистить и запечь в духовке до мягкости (180-200 градусов). Залить кипятком изюм и отставить на несколько минут, затем слить воду. Выложить изюм на полотенце или салфетку и высушить. Тыкву охладить и нарезать брусочками.",
+            "image": null
+        },
+        {
+            "text": "Почистить апельсин, поделить его на дольки, их очистить от пленки и порезать напополам. Соус: в кастрюльку положить сахар, залить водой и на маленьком огне варить до полного растворения сахара. Затем добавить шоколад, разломанный на дольки, сливочное масло.",
+            "image": null
+        },
+        {
+            "text": "Варить, постоянно мешая, пока смесь не будет однородной консистенции. Добавить ванилин и сливки. На плоскую тарелку выложить апельсин и тыкву, сверху уложить изюм (можно также добавить чернослив или курагу), полить сладкий салат из апельсина и тыквы шоколадным соусом и подавать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Детский день рождения",
+            "slug": "detskiy-den-rojdeniya"
+        },
+        {
+            "name": "Детский праздник",
+            "slug": "detskiy-prazdnik"
+        },
+        {
+            "name": "Лакто-вегетарианство",
+            "slug": "lakto-vegetarianstvo"
+        },
+        {
+            "name": "Лакто-ово-вегетарианство",
+            "slug": "lakto-ovo-vegetarianstvo"
+        },
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новогодние салаты без майонеза",
+            "slug": "novogodnie-salaty-bez-mayoneza"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из тыквы",
+            "slug": "salat-iz-tykvy"
+        },
+        {
+            "name": "Салат с апельсином",
+            "slug": "salat-s-apelsinom"
+        },
+        {
+            "name": "Салаты без майонеза на праздничный стол",
+            "slug": "salaty-bez-mayoneza-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Сладкие салаты",
+            "slug": "sladkie-salaty"
+        },
+        {
+            "name": "Тыква в духовке",
+            "slug": "tykva-v-duhovke"
+        },
+        {
+            "name": "Фруктовые салаты",
+            "slug": "fruktovye-salaty"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

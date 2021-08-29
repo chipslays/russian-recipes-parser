@@ -1,0 +1,227 @@
+{
+    "source": "https://vkuso.ru/recipe/echpochmak-s-baraninoj-iz-pesochnogo-testa/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Эчпочмак с бараниной из песочного теста",
+    "description": "Оригинальный рецепт, тесто быстро готовится, начинка – из любого мяса.",
+    "note": "Перед выпечкой пирожки смазать маслом и посыпать семенами кунжута.",
+    "cuisine": "Татарская кухня",
+    "cuisine_slug": "tatarskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/16/f24257bb9c54316_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/hR8xkVAAf74?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "баранина",
+                    "slug": "baranina",
+                    "notes": " (куриное филе)",
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "350",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "бульон",
+                    "slug": "bulon",
+                    "notes": null,
+                    "value": "300",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "150",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Растопить сливочное масло",
+            "image": null
+        },
+        {
+            "text": "Перемешать с вареным желтком, яйцом, сметаной, мукой и солью.",
+            "image": null
+        },
+        {
+            "text": "Порезать кубиками картофель и мясо, покрошить лук-репку.",
+            "image": null
+        },
+        {
+            "text": "Тесто раскатать, выложить начинку, сформовать треугольные пирожки.",
+            "image": null
+        },
+        {
+            "text": "Оставить дырочку для бульона.",
+            "image": null
+        },
+        {
+            "text": "Смазать противень маслом, выложить пирожки, поставить на 50 минут в заранее разогретую духовку.",
+            "image": null
+        },
+        {
+            "text": "Температура приготовления – 180 градусов.",
+            "image": null
+        },
+        {
+            "text": "Достать эчпочмаки за 15 минут до готовности, влить бульон, допечь и подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Выпечка с мясом и фаршем",
+            "slug": "vypechka-s-myasom-i-farshem"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Несладкая выпечка",
+            "slug": "nesladkaya-vypechka"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки без дрожжей",
+            "slug": "pirojki-bez-drojjey"
+        },
+        {
+            "name": "Пирожки без кефира",
+            "slug": "pirojki-bez-kefira"
+        },
+        {
+            "name": "Пирожки в духовке",
+            "slug": "pirojki-v-duhovke"
+        },
+        {
+            "name": "Пирожки на сметане",
+            "slug": "pirojki-na-smetane"
+        },
+        {
+            "name": "Пирожки несладкие",
+            "slug": "pirojki-nesladkie"
+        },
+        {
+            "name": "Пирожки с картошкой",
+            "slug": "pirojki-s-kartoshkoy"
+        },
+        {
+            "name": "Пирожки с мясом",
+            "slug": "pirojki-s-myasom"
+        },
+        {
+            "name": "Татарская выпечка",
+            "slug": "tatarskaya-vypechka"
+        },
+        {
+            "name": "Татарские пирожки",
+            "slug": "tatarskie-pirojki"
+        },
+        {
+            "name": "Эчпочмак",
+            "slug": "echpochmak"
+        }
+    ]
+}

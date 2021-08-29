@@ -1,0 +1,107 @@
+{
+    "source": "https://vkuso.ru/recipe/101745-miso-sup-s-okunem-na-grile/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Мисо-суп с окунем на гриле",
+    "description": "Время приготовления такого блюда – всего десять минут.",
+    "note": "Блюдо посыпать коназансё для более выраженного, яркого вкуса.",
+    "cuisine": "Японская кухня",
+    "cuisine_slug": "yaponskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/8d/b07d5a20dfb7c8d_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "бульон даши (даси)",
+                    "slug": "bulon-dashi-dasi",
+                    "notes": null,
+                    "value": "700",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "окунь",
+                    "slug": "okun",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "душистые травы",
+                    "slug": "dushistye-travy",
+                    "notes": " (мёга)",
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мисо-паста",
+                    "slug": "miso-pasta",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "приправы",
+                    "slug": "pripravy",
+                    "notes": " (коназансё)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Небольшого окуня обжарить до золотистого цвета на гриле.",
+            "image": null
+        },
+        {
+            "text": "Тонко нарезать мёгу, залить водой на несколько минут.",
+            "image": null
+        },
+        {
+            "text": "Довести до кипения бульон даси, добавить пасту мисо.",
+            "image": null
+        },
+        {
+            "text": "Рыбу выложить в пиалу, добавить мёгу, влить суп.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Рыбный суп",
+            "slug": "rybniy-sup"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Японский суп",
+            "slug": "yaponskiy-sup"
+        }
+    ]
+}

@@ -1,0 +1,225 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnyaya-picca-s-kolbasoj-i-olivkami/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Домашняя пицца с колбасой и оливками",
+    "description": null,
+    "note": null,
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/da/68432c2f47339da_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "300",
+                    "type": "мл.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "1",
+                    "type": "упаковка",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "соус краснодарский",
+                    "slug": "sous-krasnodarskiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для соуса",
+            "list": [
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "колбаса",
+                    "slug": "kolbasa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "оливки",
+                    "slug": "olivki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Замесить тесто и отставить, чтобы подошло. Соус: смешать сметану, майонез и соус краснодарский в равных количествах. Начинка: порезать кружочками оливки. Соломкой нарезать перец болгарский, полукругом помидоры, тонкими кружками колбасу. Натереть сыр.",
+            "image": null
+        },
+        {
+            "text": "Тонко раскатать тесто по диаметру противня, в котором пицца будет запекаться, и выложить соус по всему диаметру. На него положить начинку. Присыпать сверху сыром и зеленью. Отправить домашнюю пиццу с колбасой и оливками в духовку на 15-20 минут (200 градусов). Готовую пиццу нарезать кусочками и кушать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Выпечка с зеленью",
+            "slug": "vypechka-s-zelenyu"
+        },
+        {
+            "name": "Выпечка с колбасой",
+            "slug": "vypechka-s-kolbasoy"
+        },
+        {
+            "name": "Домашняя пицца",
+            "slug": "domashnyaya-picca"
+        },
+        {
+            "name": "Дрожжевая пицца",
+            "slug": "drojjevaya-picca"
+        },
+        {
+            "name": "Пицца",
+            "slug": "picca"
+        },
+        {
+            "name": "Пицца в духовке",
+            "slug": "picca-v-duhovke"
+        },
+        {
+            "name": "Пицца с колбасой",
+            "slug": "picca-s-kolbasoy"
+        },
+        {
+            "name": "Пицца с колбасой и сыром",
+            "slug": "picca-s-kolbasoy-i-syrom"
+        },
+        {
+            "name": "Пицца с колбасой, помидорами и сыром",
+            "slug": "picca-s-kolbasoy-pomidorami-i-syrom"
+        },
+        {
+            "name": "Пицца с помидорами",
+            "slug": "picca-s-pomidorami"
+        },
+        {
+            "name": "Пицца с помидорами и сыром",
+            "slug": "picca-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Пицца с сыром",
+            "slug": "picca-s-syrom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

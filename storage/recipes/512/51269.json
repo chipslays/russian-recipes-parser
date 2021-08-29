@@ -1,0 +1,195 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-iz-pekinskoj-kapusty-kuricy-kukuruzy-i-perca/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат из пекинской капусты, курицы, кукурузы и перца",
+    "description": "Сытный салат, который с успехом заменит второе блюдо: в нем есть и куриное мясо, и зеленый «гарнир».",
+    "note": "По желанию блюдо можно заправить не сметаной, а растительным маслом с пряными травами и лимонным соком.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/12/420b504477d4b12_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "капуста пекинская",
+                    "slug": "kapusta-pekinskaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кочан",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "куриная грудка",
+                    "slug": "kurinaya-grudka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кукуруза консервированная",
+                    "slug": "kukuruza-konservirovannaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "сметана 15%",
+                    "slug": "smetana-15",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Небольшой кочан пекинской капусты вымыть, тонко нашинковать, переложить в салатник.",
+            "image": null
+        },
+        {
+            "text": "Отваренную грудку освободить от костей и кожи, нарезать небольшими кусочками.",
+            "image": null
+        },
+        {
+            "text": "У сладкого болгарского перца удалить семенные камеры, плод нарезать соломкой, огурцы – ломтиками.",
+            "image": null
+        },
+        {
+            "text": "Все продукты перемешать, добавить консервированную кукурузу без жидкости и рубленую зелень петрушки, укропа.",
+            "image": null
+        },
+        {
+            "text": "Салат посолить по вкусу, заправить сметаной.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Диетическая куриная грудка",
+            "slug": "dieticheskaya-kurinaya-grudka"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетические салаты",
+            "slug": "dieticheskie-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из капусты и огурцов",
+            "slug": "salat-iz-kapusty-i-ogurcov"
+        },
+        {
+            "name": "Салат из капусты с болгарским перцем",
+            "slug": "salat-iz-kapusty-s-bolgarskim-percem"
+        },
+        {
+            "name": "Салат из пекинской капусты",
+            "slug": "salat-iz-pekinskoy-kapusty"
+        },
+        {
+            "name": "Салат с консервированной кукурузой",
+            "slug": "salat-s-konservirovannoy-kukuruzoy"
+        },
+        {
+            "name": "Салат с куриной грудкой",
+            "slug": "salat-s-kurinoy-grudkoy"
+        },
+        {
+            "name": "Салат с курицей",
+            "slug": "salat-s-kuricey"
+        },
+        {
+            "name": "Салат с курицей и капустой",
+            "slug": "salat-s-kuricey-i-kapustoy"
+        },
+        {
+            "name": "Салат с курицей и кукурузой",
+            "slug": "salat-s-kuricey-i-kukuruzoy"
+        },
+        {
+            "name": "Салат с курицей и овощами",
+            "slug": "salat-s-kuricey-i-ovoschami"
+        },
+        {
+            "name": "Салат с курицей и огурцом",
+            "slug": "salat-s-kuricey-i-ogurcom"
+        },
+        {
+            "name": "Салат с курицей и пекинской капустой",
+            "slug": "salat-s-kuricey-i-pekinskoy-kapustoy"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты на скорую руку",
+            "slug": "salaty-na-skoruyu-ruku"
+        },
+        {
+            "name": "Салаты с болгарским перцем",
+            "slug": "salaty-s-bolgarskim-percem"
+        },
+        {
+            "name": "Салаты с кукурузой",
+            "slug": "salaty-s-kukuruzoy"
+        },
+        {
+            "name": "Салаты со сметаной",
+            "slug": "salaty-so-smetanoy"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

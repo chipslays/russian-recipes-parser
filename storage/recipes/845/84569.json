@@ -1,0 +1,91 @@
+{
+    "source": "https://vkuso.ru/recipe/84569-kislo-sladkoe-varene-iz-apelsinov-i-limonov/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Кисло-сладкое варенье из апельсинов и лимонов",
+    "description": "Кисло-сладкий рецепт для гурмана.",
+    "note": "По желанию в десерт можно добавить корицу.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/6d/00c932241c3706d_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час 30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "400",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "апельсины",
+                    "slug": "apelsiny",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Фрукты промыть, варить в кастрюле целиком в течение десяти минут.",
+            "image": null
+        },
+        {
+            "text": "Остудить, нарезать ломтиками.",
+            "image": null
+        },
+        {
+            "text": "Переложить в кастрюлю, всыпать сахар, влить воду.",
+            "image": null
+        },
+        {
+            "text": "Варить до загустения на тихом огне, помешивать лопаткой или деревянной ложкой.",
+            "image": null
+        },
+        {
+            "text": "Горячий продукт разлить в банки, закатать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Варенье",
+            "slug": "varene"
+        },
+        {
+            "name": "Варенье из апельсинов",
+            "slug": "varene-iz-apelsinov"
+        },
+        {
+            "name": "Варенье из лимонов",
+            "slug": "varene-iz-limonov"
+        }
+    ]
+}

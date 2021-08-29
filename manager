@@ -1,0 +1,54 @@
+#!/usr/bin/env php
+
+<?php
+
+use Illuminate\Database\Capsule\Manager as DB;
+use Recipes\Cli;
+
+require_once __DIR__ . '/bootstrap.php';
+
+if (in_array('clear:links', $argv)) {
+    $answer = Cli::ask("{brown}Вы уверены, что хотите очистить ВСЕ ссылки в таблице `links`?");
+    if (in_array(mb_strtolower($answer), ['yes', 'y', 'yep', 'д', 'да'])) {
+        Cli::log("Удаленно ссылок: {brown}" . DB::table('links')->delete());
+    }
+}
+
+if (in_array('parse:tags', $argv)) {
+    $answer = Cli::ask("{brown}Текущие теги будут удалены, вы согласны?");
+    if (in_array(mb_strtolower($answer), ['yes', 'y', 'yep', 'д', 'да'])) {
+        passthru('php parser.tags.php');
+    }
+}
+
+if (in_array('parse:categories', $argv)) {
+    $answer = Cli::ask("{brown}Текущие категории будут удалены, вы согласны?");
+    if (in_array(mb_strtolower($answer), ['yes', 'y', 'yep', 'д', 'да'])) {
+        passthru('php parser.categories.php');
+    }
+}
+
+if (in_array('parse:cuisine', $argv)) {
+    $answer = Cli::ask("{brown}Текущие кухни будут удалены, вы согласны?");
+    if (in_array(mb_strtolower($answer), ['yes', 'y', 'yep', 'д', 'да'])) {
+        passthru('php parser.cuisine.php');
+    }
+}
+
+if (in_array('parse:recipes', $argv)) {
+    passthru('php parser.recipes.php');
+}
+
+if (in_array('normalize', $argv)) {
+    passthru('php normalizer.php');
+}
+
+if (in_array('make:ingredients', $argv)) {
+    passthru('php maker.indgredients.php');
+}
+
+
+if (in_array('seed:db', $argv)) {
+    passthru('php seed.database.php');
+}
+

@@ -1,0 +1,143 @@
+{
+    "source": "https://vkuso.ru/recipe/kefirnye-dieticheskie-blinchiki/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Кефирные диетические блинчики",
+    "description": "Основное время в процессе приготовления блинов тратится на перемешивание теста. Можно значительно облегчить себе задачу, если этим «займется» блендер.",
+    "note": "Для таких блинчиков также можно приготовить яблочную или другую фруктовую начинку.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d7/a7a26e3f1afa0d7_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Кефир и яйцо взбить с помощью блендера, добавить пшеничную муку, снова взбить, всыпать щепотку соли.",
+            "image": null
+        },
+        {
+            "text": "Пищевую соду погасить кипятком и влить в тесто, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Жарить тонкие блины на сковороде с антипригарным покрытием.",
+            "image": null
+        },
+        {
+            "text": "Подать с мёдом или сгущенным молоком.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Блинчики",
+            "slug": "blinchiki"
+        },
+        {
+            "name": "Блинчики на кефире",
+            "slug": "blinchiki-na-kefire"
+        },
+        {
+            "name": "Блинчики тонкие",
+            "slug": "blinchiki-tonkie"
+        },
+        {
+            "name": "Блины",
+            "slug": "bliny"
+        },
+        {
+            "name": "Блины без дрожжей",
+            "slug": "bliny-bez-drojjey"
+        },
+        {
+            "name": "Блины без молока",
+            "slug": "bliny-bez-moloka"
+        },
+        {
+            "name": "Блины на кефире",
+            "slug": "bliny-na-kefire"
+        },
+        {
+            "name": "Блины на кефире с кипятком",
+            "slug": "bliny-na-kefire-s-kipyatkom"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетические блины",
+            "slug": "dieticheskie-bliny"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Специальное питание",
+            "slug": "specialnoe-pitanie"
+        }
+    ]
+}

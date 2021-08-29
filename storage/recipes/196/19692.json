@@ -1,0 +1,75 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnyaya-mastika-iz-zefira/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Домашняя мастика из зефира",
+    "description": "Если вы любите готовить сладкую выпечку сами, то и украсить ее можно самостоятельно, приготовив для этого мастику из зефира.",
+    "note": null,
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5c/73d36048bf3305c_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "зефир",
+                    "slug": "zefir",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сока лимона",
+                    "slug": "soka-limona",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Зефир положить в емкость, сбрызнуть соком лимона и отправить на 20 секунд в микроволновку. Он должен расплавиться. Потом добавлять понемногу сахарную пудру (просеять) и аккуратно мешать сначала ложкой, а потом рукой, как тесто.",
+            "image": null
+        },
+        {
+            "text": "Хранить домашнюю мастику из зефира в полиэтиленовом пакете, но стараться, чтобы в нем было как можно меньше воздуха. Мастика должна соприкасаться с пакетом, иначе она обветриться. На ней образуется корочка, и мастика станет не пригодной.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Постная выпечка",
+            "slug": "postnaya-vypechka"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

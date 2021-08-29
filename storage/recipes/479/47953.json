@@ -1,0 +1,171 @@
+{
+    "source": "https://vkuso.ru/recipe/xolodnyj-borshh-s-ogurcom-i-rediskoj/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Холодный борщ с огурцом и редиской",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/fb/94c354b6622f5fb_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "400-500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "редис",
+                    "slug": "redis",
+                    "notes": null,
+                    "value": "3-5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы свежие",
+                    "slug": "ogurcy-svejie",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "свекла вареная",
+                    "slug": "svekla-varenaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "листья салата",
+                    "slug": "listya-salata",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "уксус",
+                    "slug": "uksus",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Подготовить продукты. Натереть свеклу, добавить свежий огурец, порезанный на маленькие кусочки, и листья салата.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/a6/4dc67825f30b3a6_434x295.jpg"
+        },
+        {
+            "text": "Положить редис, порезанный соломкой, измельченный укроп.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/ed/84e57a8631512ed_434x295.jpg"
+        },
+        {
+            "text": "Отварить яйцо, охладить, разрезать пополам. Положить яйцо ко всем овощам.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/2d/c3428c483895a2d_434x295.jpg"
+        },
+        {
+            "text": "Добавить воду, уксус, насыпать сахар, соль. Размешать, дать холодному борщу с огурцом и редиской постоять 5-10 минут.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/fb/94c354b6622f5fb_434x295.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Борщ",
+            "slug": "borsch"
+        },
+        {
+            "name": "Борщ без капусты",
+            "slug": "borsch-bez-kapusty"
+        },
+        {
+            "name": "Борщ без мяса",
+            "slug": "borsch-bez-myasa"
+        },
+        {
+            "name": "Борщ с вареной свеклой",
+            "slug": "borsch-s-varenoy-svekloy"
+        },
+        {
+            "name": "Борщ со свеклой",
+            "slug": "borsch-so-svekloy"
+        },
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Красный борщ",
+            "slug": "krasniy-borsch"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Холодный борщ",
+            "slug": "holodniy-borsch"
+        }
+    ]
+}

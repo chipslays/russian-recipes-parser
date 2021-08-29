@@ -1,0 +1,163 @@
+{
+    "source": "https://vkuso.ru/recipe/belorusskij-zelenyj-borshh-botvinya/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Белорусский зеленый борщ «Ботвинья»",
+    "description": "Родиной блюда считается Белоруссия, щавель здесь заменяют ботвой молодой свеклы. Ее зелень можно морозить или консервировать.",
+    "note": "Готовить можно на любом мясном или овощном бульоне.",
+    "cuisine": "Белорусская кухня",
+    "cuisine_slug": "belorusskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/94/1b802f0432db994_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бульон",
+                    "slug": "bulon",
+                    "notes": null,
+                    "value": "2.5",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "свекольная ботва",
+                    "slug": "svekolnaya-botva",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный горошком",
+                    "slug": "perec-cherniy-goroshkom",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать мелко ботву, корнеплоды – кубиками или соломкой.",
+            "image": null
+        },
+        {
+            "text": "Овощи поставить варить.",
+            "image": null
+        },
+        {
+            "text": "После закипания проварить еще 10 минут.",
+            "image": null
+        },
+        {
+            "text": "Всыпать ботву.",
+            "image": null
+        },
+        {
+            "text": "Подавать белорусский зеленый борщ «Ботвинья» тоже с вареными яйцами и сметаной.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Борщ",
+            "slug": "borsch"
+        },
+        {
+            "name": "Борщ без капусты",
+            "slug": "borsch-bez-kapusty"
+        },
+        {
+            "name": "Борщ без мяса",
+            "slug": "borsch-bez-myasa"
+        },
+        {
+            "name": "Борщ без свеклы",
+            "slug": "borsch-bez-svekly"
+        },
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Зеленый борщ",
+            "slug": "zeleniy-borsch"
+        },
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        }
+    ]
+}

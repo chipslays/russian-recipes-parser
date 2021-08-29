@@ -1,0 +1,155 @@
+{
+    "source": "https://vkuso.ru/recipe/omlet-s-brokkoli-morkovyu-i-goroshkom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Омлет с брокколи, морковью и горошком",
+    "description": "Несложный омлет из заранее отваренных овощей. Блюдо выглядит свежим и аппетитным.",
+    "note": "При подаче нарезать омлет на порции, украсить свежей зеленью, помидорами, огурцами.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f0/4f5ee1a2e3000f0_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "зеленый горошек",
+                    "slug": "zeleniy-goroshek",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "брокколи",
+                    "slug": "brokkoli",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ст. л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Морковь, корень петрушки и капусту брокколи вымыть, отварить в воде.",
+            "image": null
+        },
+        {
+            "text": "Готовые ингредиенты немного остудить, нарезать кубиками.",
+            "image": null
+        },
+        {
+            "text": "Отдельно взбить сырые куриные яйца с молоком, массу посолить и поперчить.",
+            "image": null
+        },
+        {
+            "text": "Добавить подготовленные овощи, консервированный или отварной зеленый горошек.",
+            "image": null
+        },
+        {
+            "text": "Смазать сковороду маслом, вылить смесь, жарить на тихом огне до готовности, с двух сторон.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блюда из яиц",
+            "slug": "blyuda-iz-yaic"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Омлет",
+            "slug": "omlet"
+        },
+        {
+            "name": "Омлет на завтрак",
+            "slug": "omlet-na-zavtrak"
+        },
+        {
+            "name": "Омлет на сковороде",
+            "slug": "omlet-na-skovorode"
+        },
+        {
+            "name": "Омлет с брокколи",
+            "slug": "omlet-s-brokkoli"
+        },
+        {
+            "name": "Омлет с молоком",
+            "slug": "omlet-s-molokom"
+        },
+        {
+            "name": "Омлет с молоком на сковороде",
+            "slug": "omlet-s-molokom-na-skovorode"
+        },
+        {
+            "name": "Омлет с овощами",
+            "slug": "omlet-s-ovoschami"
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/sendvichi-s-lososem-pomidorami-i-rikottoj/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Сэндвичи с лососем, помидорами и рикоттой",
+    "description": "Для приготовления бутербродов используется пумперникель – сорт ржаного хлеба, распространенного в Германии. Он включает в себя часть непромолотого зерна и очень полезен для пищеварения. Продукт характерен для вестфальской кухни.",
+    "note": "Хлеб, используемый для данных бутербродов, хорошо хранится в течение длительного времени: в запечатанном виде – несколько месяцев, в жестяных банках – до двух лет.",
+    "cuisine": "Немецкая кухня",
+    "cuisine_slug": "nemeckaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b7/97a512044d51cb7_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "лосось консервированный",
+                    "slug": "losos-konservirovanniy",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб ржаной",
+                    "slug": "hleb-rjanoy",
+                    "notes": " (пумперникель)",
+                    "value": "8",
+                    "type": "кусков",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "8",
+                    "type": "долек",
+                    "amount": null
+                },
+                {
+                    "name": "салат латук",
+                    "slug": "salat-latuk",
+                    "notes": " (листья)",
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук красный",
+                    "slug": "luk-krasniy",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сыр рикотта",
+                    "slug": "syr-rikotta",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": " (extra virgin)",
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный свежемолотый",
+                    "slug": "perec-cherniy-svejemolotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Консервированного лосося поломать вилкой, вынуть косточки, мякоть перемешать с мелко нарезанным красным репчатым луком, влить оливковое масло, лимонный сок, молотый перец – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "На куски хлеба намазать сыр, выложить рыбно-луковую массу, помидоры, нарезанные ломтиками, кусочки листьев латука. Накрыть бутерброды оставшимся хлебом, прижать начинку и разрезать каждый сэндвич по диагонали пополам.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды на день рождения",
+            "slug": "buterbrody-na-den-rojdeniya"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды на Новый год",
+            "slug": "buterbrody-na-noviy-god"
+        },
+        {
+            "name": "Бутерброды на праздничный стол",
+            "slug": "buterbrody-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Бутерброды с красной рыбой",
+            "slug": "buterbrody-s-krasnoy-ryboy"
+        },
+        {
+            "name": "Бутерброды с помидорами",
+            "slug": "buterbrody-s-pomidorami"
+        },
+        {
+            "name": "Бутерброды с помидорами и сыром",
+            "slug": "buterbrody-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Бутерброды с рыбой",
+            "slug": "buterbrody-s-ryboy"
+        },
+        {
+            "name": "Бутерброды с семгой",
+            "slug": "buterbrody-s-semgoy"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Бутерброды с черным хлебом",
+            "slug": "buterbrody-s-chernym-hlebom"
+        },
+        {
+            "name": "Закрытые бутерброды",
+            "slug": "zakrytye-buterbrody"
+        },
+        {
+            "name": "Закуски на день рождения",
+            "slug": "zakuski-na-den-rojdeniya"
+        },
+        {
+            "name": "Закуски с красной рыбой",
+            "slug": "zakuski-s-krasnoy-ryboy"
+        },
+        {
+            "name": "Лосось с сыром",
+            "slug": "losos-s-syrom"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Рыба на Новый год",
+            "slug": "ryba-na-noviy-god"
+        },
+        {
+            "name": "Сэндвич с сыром",
+            "slug": "sendvich-s-syrom"
+        },
+        {
+            "name": "Сэндвичи",
+            "slug": "sendvichi"
+        }
+    ]
+}

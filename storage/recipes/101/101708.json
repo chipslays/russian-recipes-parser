@@ -1,0 +1,91 @@
+{
+    "source": "https://vkuso.ru/recipe/101708-miso-sup-s-aburaage-i-dajkonom/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Мисо-суп с абураагэ и дайконом",
+    "description": "Аппетитное и горячее блюдо для восточного стола.",
+    "note": "Суп подать в глубоких тарелках или чашках, украсить зеленью.",
+    "cuisine": "Японская кухня",
+    "cuisine_slug": "yaponskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/19/08388eef5065f19_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "бульон даши (даси)",
+                    "slug": "bulon-dashi-dasi",
+                    "notes": null,
+                    "value": "3",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "дайкон",
+                    "slug": "daykon",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "абураагэ",
+                    "slug": "aburaage",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мисо-паста",
+                    "slug": "miso-pasta",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать небольшими кубиками дайкон и абураагэ.",
+            "image": null
+        },
+        {
+            "text": "Перед нарезкой абураагэ опустить на минуту в кипящую воду.",
+            "image": null
+        },
+        {
+            "text": "Приготовить бульон даси, добавить овощи, варить от трех до пяти минут.",
+            "image": null
+        },
+        {
+            "text": "Смешать немного мисо с даси, добавить в суп.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Мисо суп",
+            "slug": "miso-sup"
+        },
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        }
+    ]
+}

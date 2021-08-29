@@ -1,0 +1,168 @@
+{
+    "source": "https://vkuso.ru/recipe/grecheskoe-medovoe-pechene-s-orexami-i-nachinkoj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Греческое медовое печенье с орехами и начинкой",
+    "description": null,
+    "note": null,
+    "cuisine": "Греческая кухня",
+    "cuisine_slug": "grecheskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/6e/1892aadbc4e246e_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "меда",
+                    "slug": "meda",
+                    "notes": null,
+                    "value": "115",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливочного масла",
+                    "slug": "slivochnogo-masla",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахара",
+                    "slug": "sahara",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грецких орехов",
+                    "slug": "greckih-orehov",
+                    "notes": null,
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "апельсин / лимон",
+                    "slug": "apelsin-limon",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "разрыхлителя",
+                    "slug": "razryhlitelya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "сахарной пудры",
+                    "slug": "saharnoy-pudry",
+                    "notes": null,
+                    "value": "115",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливочного масла",
+                    "slug": "slivochnogo-masla",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "меда",
+                    "slug": "meda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Подготовить смесь просеянной муки с сахаром и разрыхлителем, нарезать на кусочки охлажденное масло, растереть его руками с мукой, добавить тертую цедру.",
+            "image": null
+        },
+        {
+            "text": "Разогреть до жидкого состояния мед, добавить к тесту, хорошо вымесить тесто и разделить на две части, из каждой части получиться должно порядка 20 штук печенья, половину печенья перед выпечкой посыпать измельченными орехами, готовое греческое медовое печенье с орехами и начинкой охладить.",
+            "image": null
+        },
+        {
+            "text": "Взбить из сливочного масла, меда и сахарной пудры начинку, смазать начинкой и попарно соединить обычное печенье и ореховое.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Апельсиновое печенье",
+            "slug": "apelsinovoe-pechene"
+        },
+        {
+            "name": "Без яиц",
+            "slug": "bez-yaic"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка с апельсинами",
+            "slug": "vypechka-s-apelsinami"
+        },
+        {
+            "name": "Выпечка с медом",
+            "slug": "vypechka-s-medom"
+        },
+        {
+            "name": "Выпечка с орехами",
+            "slug": "vypechka-s-orehami"
+        },
+        {
+            "name": "Медовое печенье",
+            "slug": "medovoe-pechene"
+        },
+        {
+            "name": "Печенье",
+            "slug": "pechene"
+        },
+        {
+            "name": "Печенье без яиц",
+            "slug": "pechene-bez-yaic"
+        },
+        {
+            "name": "Печенье с орехами",
+            "slug": "pechene-s-orehami"
+        }
+    ]
+}

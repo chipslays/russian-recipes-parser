@@ -1,0 +1,196 @@
+{
+    "source": "https://vkuso.ru/recipe/rolly-s-vetchinoj-i-syrom-pod-makovym-sousom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Роллы с ветчиной и сыром под маковым соусом",
+    "description": "Сытная закуска с пикантным соусом.",
+    "note": "К закуске можно подать консервированный зеленый горошек, сладкий болгарский перец.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/73/54a54b32d972173_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "тесто для пиццы",
+                    "slug": "testo-dlya-piccy",
+                    "notes": null,
+                    "value": "350",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр швейцарский",
+                    "slug": "syr-shveycarskiy",
+                    "notes": null,
+                    "value": "12",
+                    "type": "ломтиков",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для соуса",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "8",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар коричневый",
+                    "slug": "sahar-korichneviy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соус вустерский",
+                    "slug": "sous-vusterskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "горчица дижонская",
+                    "slug": "gorchica-dijonskaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мак",
+                    "slug": "mak",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Тесто для пиццы раскатать в прямоугольник, разложить ветчину и швейцарский сыр, нарезанный ломтиками.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/ee/f6aa37a174a3eee_434x295.jpg"
+        },
+        {
+            "text": "Заготовку скрутить в тугой ролл, края защипать, положить заготовку вниз швом.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/94/5155c218d526f94_434x295.jpg"
+        },
+        {
+            "text": "Разрезать получившийся рулет на десять кусочков, выложить их на противень в один слой.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/63/cd4f6a1e0670f63_434x295.jpg"
+        },
+        {
+            "text": "Перемешать сливочное масло с коричневым сахаром, дижонской горчицей и вустерским соусом. Всыпать мак, поставить на огонь средней мощности.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/4a/6bf0501a07fe24a_434x295.jpg"
+        },
+        {
+            "text": "Готовить до тех пор, пока масса не загустеет и не станет однородной.",
+            "image": null
+        },
+        {
+            "text": "Полученный соус снять с огня и полить им роллы.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/e1/30b30bfea69bfe1_434x295.jpg"
+        },
+        {
+            "text": "Печь при температуре 180 градусов в течение 25 минут до получения золотистой корочки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Горячие закуски",
+            "slug": "goryachie-zakuski"
+        },
+        {
+            "name": "Горячие роллы",
+            "slug": "goryachie-rolly"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Закуски для фуршета",
+            "slug": "zakuski-dlya-fursheta"
+        },
+        {
+            "name": "Закуски из сыра",
+            "slug": "zakuski-iz-syra"
+        },
+        {
+            "name": "Закуски на день рождения",
+            "slug": "zakuski-na-den-rojdeniya"
+        },
+        {
+            "name": "Закуски на скорую руку",
+            "slug": "zakuski-na-skoruyu-ruku"
+        },
+        {
+            "name": "Колбаса в тесте",
+            "slug": "kolbasa-v-teste"
+        },
+        {
+            "name": "Новогодние десерты",
+            "slug": "novogodnie-deserty"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничные десерты",
+            "slug": "prazdnichnye-deserty"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Суши и роллы",
+            "slug": "sushi-i-rolly"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

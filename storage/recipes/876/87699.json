@@ -1,0 +1,179 @@
+{
+    "source": "https://vkuso.ru/recipe/87699-azu-iz-svininy-i-kartofelya-s-podlivkoj/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Азу из свинины и картофеля с подливкой",
+    "description": "Мясо, приготовленное по этому рецепту, сочетается с любым гарниром.",
+    "note": "Украсить блюдо зеленью петрушки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/81/23a7d438504f881_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "2 часа",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "свинина",
+                    "slug": "svinina",
+                    "notes": null,
+                    "value": "700",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы соленые",
+                    "slug": "ogurcy-solenye",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "4",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Свежую свинину промыть и нарезать пластинками.",
+            "image": null
+        },
+        {
+            "text": "Налить на сковороду масло, филе обжарить до получения румяной корочки.",
+            "image": null
+        },
+        {
+            "text": "Морковь нарезать кубиками, лук – порубить.",
+            "image": null
+        },
+        {
+            "text": "Промыть консервированные огурцы холодной водой, нарезать полосками и добавить к мясу.",
+            "image": null
+        },
+        {
+            "text": "Томатную пасту развести водой, посолить, соус влить в мясо с огурцами, добавить лук и морковь.",
+            "image": null
+        },
+        {
+            "text": "Соль, молотый перец, другие приправы – по вкусу, всыпать рубленый или давленый чеснок.",
+            "image": null
+        },
+        {
+            "text": "Прогревать азу двадцать минут.",
+            "image": null
+        },
+        {
+            "text": "Нарезать тонкой соломкой картофель, добавить в основную массу, влить теплую воду.",
+            "image": null
+        },
+        {
+            "text": "Емкость снять с огня еще через двадцать минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Азу",
+            "slug": "azu"
+        },
+        {
+            "name": "Вторые блюда из картофеля",
+            "slug": "vtorye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Вторые блюда из свинины",
+            "slug": "vtorye-blyuda-iz-svininy"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Свинина с картошкой",
+            "slug": "svinina-s-kartoshkoy"
+        },
+        {
+            "name": "Свинина с овощами",
+            "slug": "svinina-s-ovoschami"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из свинины",
+            "slug": "ujin-iz-svininy"
+        }
+    ]
+}

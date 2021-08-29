@@ -1,0 +1,167 @@
+{
+    "source": "https://vkuso.ru/recipe/vanilnoe-pechene-s-klubnichnym-dzhemom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Ванильное печенье с клубничным джемом",
+    "description": "Ванилин придает неповторимый, манящий аромат любой выпечке. Психологи говорят, что это происходит из-за сходства запаха с материнским молоком: человеку становится тепло и уютно даже в самый ненастный вечер.",
+    "note": "Вместо клубничного можно использовать любой другой джем или варенье, продукт должен быть густым и вязким.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/6c/b2b6f1cc53f1e6c_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра ванильная",
+                    "slug": "saharnaya-pudra-vanilnaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "джем клубничный",
+                    "slug": "djem-klubnichniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сливочное масло комнатной температуры растереть с сахарным песком, добавить сырое куриное яйцо и дополнительный желток, размешать.",
+            "image": null
+        },
+        {
+            "text": "Влить лимонный сок одного лимона, еще раз перемешать и всыпать муку, продолжать мешать до получения теста плотной консистенции.",
+            "image": null
+        },
+        {
+            "text": "Массу вымешать, раскатать толщиной 1 – 1,5 см, нарезать кружочками.",
+            "image": null
+        },
+        {
+            "text": "Противень застелить бумагой, печь 10 минут. Выпечка должна остаться белой.",
+            "image": null
+        },
+        {
+            "text": "Склеить изделия по два с помощью клубничного джема, посыпать сахарной пудрой, ароматизированной ванилью.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка для детей",
+            "slug": "vypechka-dlya-detey"
+        },
+        {
+            "name": "Выпечка на скорую руку",
+            "slug": "vypechka-na-skoruyu-ruku"
+        },
+        {
+            "name": "Выпечка с джемом",
+            "slug": "vypechka-s-djemom"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Детское печенье",
+            "slug": "detskoe-pechene"
+        },
+        {
+            "name": "Лимонное печенье",
+            "slug": "limonnoe-pechene"
+        },
+        {
+            "name": "Песочное печенье",
+            "slug": "pesochnoe-pechene"
+        },
+        {
+            "name": "Печенье",
+            "slug": "pechene"
+        },
+        {
+            "name": "Печенье на скорую руку",
+            "slug": "pechene-na-skoruyu-ruku"
+        },
+        {
+            "name": "Печенье с вареньем",
+            "slug": "pechene-s-varenem"
+        },
+        {
+            "name": "Печенье с джемом",
+            "slug": "pechene-s-djemom"
+        }
+    ]
+}

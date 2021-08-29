@@ -1,0 +1,183 @@
+{
+    "source": "https://vkuso.ru/recipe/105574-domashnyaya-samsa-s-lyubimym-farshem/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Домашняя самса с любимым фаршем",
+    "description": "Начинку для этих пирожков, родом из Средней Азии, можно приготовить не только из баранины или говядины, но и из курицы или индейки.",
+    "note": "По восточной традиции самсу подают к столу на большом блюде, по краям – зелень кинзы, петрушки.",
+    "cuisine": "Восточная кухня",
+    "cuisine_slug": "vostochnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/50/98abce98315f450_660x440.png",
+    "difficulty": "Средняя",
+    "cooktime": "1 час 20 минут",
+    "preparetime": "30 минут",
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 10 порции",
+            "list": [
+                {
+                    "name": "фарш",
+                    "slug": "farsh",
+                    "notes": null,
+                    "value": "600",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить пельменное тесто: просеять муку, влить соленую воду, вымесить.",
+            "image": null
+        },
+        {
+            "text": "Дать массе постоять полчаса для набухания клейковины.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления начинки добавить в мясной фарш соль, молотый перец, нашинкованный репчатый лук. Перемешать.",
+            "image": null
+        },
+        {
+            "text": "Готовое тесто тонко раскатать, промазать заранее растопленным сливочным маслом.",
+            "image": null
+        },
+        {
+            "text": "Скрутить в колбасу, разрезать на части, каждую прокрутить несколько раз и положить в морозильную камеру.",
+            "image": null
+        },
+        {
+            "text": "Тесто вынуть, разрезать на одинаковые части, раскатать лепешки. На поверхности лепешек должен получиться рисунок.",
+            "image": null
+        },
+        {
+            "text": "Перевернуть лепешки рисунком вниз.",
+            "image": null
+        },
+        {
+            "text": "Выложить начинку, концы слепить.",
+            "image": null
+        },
+        {
+            "text": "Пирожки переложить на застеленный пергаментом противень.",
+            "image": null
+        },
+        {
+            "text": "Намазать яйцом, поставить в духовой шкаф на 30 – 40 минут. Температура приготовления – 200 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сахара",
+            "slug": "vypechka-bez-sahara"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка с мясом и фаршем",
+            "slug": "vypechka-s-myasom-i-farshem"
+        },
+        {
+            "name": "Выпечка с фаршем",
+            "slug": "vypechka-s-farshem"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки без дрожжей",
+            "slug": "pirojki-bez-drojjey"
+        },
+        {
+            "name": "Пирожки в духовке",
+            "slug": "pirojki-v-duhovke"
+        },
+        {
+            "name": "Пирожки на воде",
+            "slug": "pirojki-na-vode"
+        },
+        {
+            "name": "Пирожки с фаршем",
+            "slug": "pirojki-s-farshem"
+        },
+        {
+            "name": "Самса",
+            "slug": "samsa"
+        }
+    ]
+}

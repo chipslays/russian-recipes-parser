@@ -1,0 +1,227 @@
+{
+    "source": "https://vkuso.ru/recipe/postnaya-limonnaya-kovrizhka-s-orexami-i-cukatami/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Постная лимонная коврижка с орехами и цукатами",
+    "description": "Для приготовления выпечки можно использовать сироп от черничного или ежевичного варенья.",
+    "note": "Выпечку можно посыпать сахарной пудрой.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/90/627ed7a10dcf090_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "120",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "орехи измельченные",
+                    "slug": "orehi-izmelchennye",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "цукаты",
+                    "slug": "cukaty",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "изюм",
+                    "slug": "izyum",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "какао-порошок",
+                    "slug": "kakao-poroshok",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "5",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло подсолнечное",
+                    "slug": "maslo-podsolnechnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сироп",
+                    "slug": "sirop",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сделать сироп из варенья: положить варенье в сито, дать сиропу стечь.",
+            "image": null
+        },
+        {
+            "text": "Влить воду в небольшой сотейник, всыпать сахарный песок, поставить на плиту. Прогреть, помешивая, до растворения сахара.",
+            "image": null
+        },
+        {
+            "text": "Немного остудить, влить сироп из варенья, подсолнечное масло, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Нарезать мелко хорошо промытый лимон, переложить в чашу блендера, изрубить в кашу, добавить в сотейник.",
+            "image": null
+        },
+        {
+            "text": "Пшеничную муку перемешать с пищевой содой и какао-порошком.",
+            "image": null
+        },
+        {
+            "text": "Смесь всыпать в сотейник порциями, добавить цукаты, измельченные орехи.",
+            "image": null
+        },
+        {
+            "text": "Форму смазать маслом, вылить тесто, разровнять мокрой лопаткой.",
+            "image": null
+        },
+        {
+            "text": "Поставить изделие в духовой шкаф на 30 минут, температура выпекания – 180 градусов. Готовность выпечки проверить зубочисткой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Без яиц",
+            "slug": "bez-yaic"
+        },
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка с изюмом",
+            "slug": "vypechka-s-izyumom"
+        },
+        {
+            "name": "Выпечка с орехами",
+            "slug": "vypechka-s-orehami"
+        },
+        {
+            "name": "Выпечка с сухофруктами",
+            "slug": "vypechka-s-suhofruktami"
+        },
+        {
+            "name": "Коврижка",
+            "slug": "kovrijka"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог без яиц",
+            "slug": "pirog-bez-yaic"
+        },
+        {
+            "name": "Пирог с изюмом",
+            "slug": "pirog-s-izyumom"
+        },
+        {
+            "name": "Пирог с орехами",
+            "slug": "pirog-s-orehami"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Постная выпечка",
+            "slug": "postnaya-vypechka"
+        },
+        {
+            "name": "Постная коврижка",
+            "slug": "postnaya-kovrijka"
+        },
+        {
+            "name": "Постные блюда в духовке",
+            "slug": "postnye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Постные пироги",
+            "slug": "postnye-pirogi"
+        },
+        {
+            "name": "Постные рецепты",
+            "slug": "postnye-recepty"
+        },
+        {
+            "name": "Постный завтрак",
+            "slug": "postniy-zavtrak"
+        }
+    ]
+}

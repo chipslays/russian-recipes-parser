@@ -1,0 +1,199 @@
+{
+    "source": "https://vkuso.ru/recipe/kotlety-kurinye-rublenye-s-syrom-i-chesnokom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Котлеты куриные рубленые с сыром и чесноком",
+    "description": "Мягкие котлеты для диетического питания и для детей.",
+    "note": "На гарнир к такому блюду можно приготовить картофельное пюре, гречку, тушеную капусту. Посыпать блюдо рубленой зеленью.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5b/c2c169c248db65b_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/mBcjOFmPcLk?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "6",
+                    "type": "зубчиков",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Тонко нарезать репчатый лук, обжарить на небольшом количестве масла.",
+            "image": null
+        },
+        {
+            "text": "Нарезать тонкой соломкой морковь, добавить в лук. Соль и специи – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Куриное филе нарезать небольшими кубиками, а затем порубить острым ножом.",
+            "image": null
+        },
+        {
+            "text": "Добавить измельченный чеснок, тертый сыр, майонез.",
+            "image": null
+        },
+        {
+            "text": "Ингредиенты перемешать, посолить по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Обжарку переложить в другую посуду.",
+            "image": null
+        },
+        {
+            "text": "На освободившейся сковороде обжарить небольшие котлеты по четыре минуты с каждой стороны, затем добавить луковую обжарку.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блюда из курицы для детей",
+            "slug": "blyuda-iz-kuricy-dlya-detey"
+        },
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Детский обед",
+            "slug": "detskiy-obed"
+        },
+        {
+            "name": "Котлеты",
+            "slug": "kotlety"
+        },
+        {
+            "name": "Котлеты без яиц",
+            "slug": "kotlety-bez-yaic"
+        },
+        {
+            "name": "Котлеты из куриного филе",
+            "slug": "kotlety-iz-kurinogo-file"
+        },
+        {
+            "name": "Котлеты с сыром",
+            "slug": "kotlety-s-syrom"
+        },
+        {
+            "name": "Куриное филе в майонезе",
+            "slug": "kurinoe-file-v-mayoneze"
+        },
+        {
+            "name": "Куриное филе с сыром",
+            "slug": "kurinoe-file-s-syrom"
+        },
+        {
+            "name": "Куриные котлеты",
+            "slug": "kurinye-kotlety"
+        },
+        {
+            "name": "Овощи на сковороде",
+            "slug": "ovoschi-na-skovorode"
+        },
+        {
+            "name": "Рубленные котлеты",
+            "slug": "rublennye-kotlety"
+        },
+        {
+            "name": "Сковорода",
+            "slug": "skovoroda"
+        },
+        {
+            "name": "Ужин из куриного филе",
+            "slug": "ujin-iz-kurinogo-file"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        }
+    ]
+}

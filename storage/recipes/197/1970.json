@@ -1,0 +1,87 @@
+{
+    "source": "https://vkuso.ru/recipe/pelmeni-po-tatarski-s-orexami/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Пельмени по-татарски с орехами",
+    "description": null,
+    "note": null,
+    "cuisine": "Татарская кухня",
+    "cuisine_slug": "tatarskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e5/bc98d7aec32c1e5_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "теста для пельменей",
+                    "slug": "testa-dlya-pelmeney",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "1 яйцо",
+                    "slug": "1-yayco",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "очищенных орехов",
+                    "slug": "ochischennyh-orehov",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофельного пюре",
+                    "slug": "kartofelnogo-pyure",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Орехи обжарить, чтобы не горчили, измельчить, сварить яйцо вкрутую, остудить и измельчить, все перемешать с готовым пюре, если начинка получится слишком густой, то добавить горячего молока.",
+            "image": null
+        },
+        {
+            "text": "Раскатать готовое пельменное тесто, вырезать стаканом кружочки, положить фарш и тщательно защипать края.",
+            "image": null
+        },
+        {
+            "text": "Отварить пельмени по-татарски с орехами в подсоленной воде, при подаче полить сметаной.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вареники",
+            "slug": "vareniki"
+        },
+        {
+            "name": "Вареники с картошкой",
+            "slug": "vareniki-s-kartoshkoy"
+        },
+        {
+            "name": "Пельмени",
+            "slug": "pelmeni"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        }
+    ]
+}

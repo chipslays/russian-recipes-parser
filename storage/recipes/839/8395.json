@@ -1,0 +1,227 @@
+{
+    "source": "https://vkuso.ru/recipe/shepardskij-kottedzhnyj-pirog/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Шепардский (коттеджный) пирог",
+    "description": "Примерная дата рождения этого английского блюда конец 18 века. Оно чем-то напоминает обычную нашу запеканку из картофеля с мясом только с добавлением различных овощей.",
+    "note": null,
+    "cuisine": "Английская кухня, Ирландская кухня",
+    "cuisine_slug": "angliyskaya-kuhnya-irlandskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/35/665ebf97c431c35_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "говяжий фарш",
+                    "slug": "govyajiy-farsh",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "овощи замороженные",
+                    "slug": "ovoschi-zamorojennye",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "соус соевый",
+                    "slug": "sous-soeviy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить картофельное пюре с молоком и маслом. Разогреть в сковороде масло, положить мелко нарезанный репчатый лук, жарить до изменения цвета на золотистый, добавить фарш, жарить до его готовности, но можно и чуть дольше до коричневатого цвета.",
+            "image": null
+        },
+        {
+            "text": "Приправить черным перцем, солью, соевым соусом и томатной пастой, добавить овощи, перемешать, переложить в форму. На фарш уложить слой картофельного пюре, разровнять, присыпать сырной стружкой, прикрыть фольгой.",
+            "image": null
+        },
+        {
+            "text": "Отправить форму в духовку, выпекать шепардский (коттеджный) пирог полчаса при 180 градусах, осторожно удалить фольгу, выпекать еще 10 минут до зарумянивания верха.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из говядины",
+            "slug": "vtorye-blyuda-iz-govyadiny"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка с мясом и фаршем",
+            "slug": "vypechka-s-myasom-i-farshem"
+        },
+        {
+            "name": "Выпечка с фаршем",
+            "slug": "vypechka-s-farshem"
+        },
+        {
+            "name": "Говядина с овощами",
+            "slug": "govyadina-s-ovoschami"
+        },
+        {
+            "name": "Горячие блюда на день рождения",
+            "slug": "goryachie-blyuda-na-den-rojdeniya"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Запеканка мясная",
+            "slug": "zapekanka-myasnaya"
+        },
+        {
+            "name": "Запеканки",
+            "slug": "zapekanki"
+        },
+        {
+            "name": "Запеканки с сыром",
+            "slug": "zapekanki-s-syrom"
+        },
+        {
+            "name": "Картофельная запеканка",
+            "slug": "kartofelnaya-zapekanka"
+        },
+        {
+            "name": "Картофельная запеканка с фаршем",
+            "slug": "kartofelnaya-zapekanka-s-farshem"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Картошка с сыром",
+            "slug": "kartoshka-s-syrom"
+        },
+        {
+            "name": "Картошка с сыром в духовке",
+            "slug": "kartoshka-s-syrom-v-duhovke"
+        },
+        {
+            "name": "Картошка с фаршем в духовке",
+            "slug": "kartoshka-s-farshem-v-duhovke"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог без яиц",
+            "slug": "pirog-bez-yaic"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги с мясом",
+            "slug": "pirogi-s-myasom"
+        },
+        {
+            "name": "Ужин из говядины",
+            "slug": "ujin-iz-govyadiny"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

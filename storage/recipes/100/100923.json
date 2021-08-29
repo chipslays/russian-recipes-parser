@@ -1,0 +1,135 @@
+{
+    "source": "https://vkuso.ru/recipe/100923-miso-sup-s-forelyu-i-gribami-shiitake/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Мисо-суп с форелью и грибами шиитаке",
+    "description": "Идеальный суп для любителей японской кухни и морепродуктов.",
+    "note": "За две минуты до подачи положить в горячий суп водоросли вакаме.",
+    "cuisine": "Японская кухня",
+    "cuisine_slug": "yaponskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f2/660c90137fb10f2_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/qckEOEHG_mM?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "3",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "филе форели",
+                    "slug": "file-foreli",
+                    "notes": null,
+                    "value": "150-250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грибы шиитаке",
+                    "slug": "griby-shiitake",
+                    "notes": null,
+                    "value": "50-150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "водоросли вакаме",
+                    "slug": "vodorosli-vakame",
+                    "notes": null,
+                    "value": "2-5",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мисо паста",
+                    "slug": "miso-pasta",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соус соевый",
+                    "slug": "sous-soeviy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Филе форели нарезать небольшими кусочками, положить в кипящую воду на пять минут.",
+            "image": null
+        },
+        {
+            "text": "Грибы шиитаке нарезать соломкой.",
+            "image": null
+        },
+        {
+            "text": "Пасту мисо развести небольшим количеством воды.",
+            "image": null
+        },
+        {
+            "text": "При готовности форели добавить в суп пасту мисо и нарезанные ломтиками грибы.",
+            "image": null
+        },
+        {
+            "text": "Все вместе варить пять минут.",
+            "image": null
+        },
+        {
+            "text": "Вместо соли в суп можно влить соевый соус.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Грибной суп",
+            "slug": "gribnoy-sup"
+        },
+        {
+            "name": "Мисо суп",
+            "slug": "miso-sup"
+        },
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Рыбный суп",
+            "slug": "rybniy-sup"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из морепродуктов",
+            "slug": "sup-iz-moreproduktov"
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/107650-klassicheskoe-pechene-iz-ovsyanoj-muki-s-izyumom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Классическое печенье из овсяной муки с изюмом",
+    "description": "Классический рецепт на все времена.",
+    "note": "Перед подачей посыпать печенье сахарной пудрой.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/2e/a82a19247cc792e_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/yCnUfIl5TKY?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "мука овсяная",
+                    "slug": "muka-ovsyanaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пачка",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "изюм",
+                    "slug": "izyum",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сода гашеная",
+                    "slug": "soda-gashenaya",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "ванилин",
+                    "slug": "vanilin",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сливочное масло прогреть до комнатной температуры.",
+            "image": null
+        },
+        {
+            "text": "Сухофрукты промыть проточной водой, перемолоть при помощи блендера.",
+            "image": null
+        },
+        {
+            "text": "В масло добавить сахарный песок, добавить ванилин и молотый изюм.",
+            "image": null
+        },
+        {
+            "text": "В сотейник налить воду, прогреть до семидесяти градусов.",
+            "image": null
+        },
+        {
+            "text": "Всыпать соль, перемешать до растворения.",
+            "image": null
+        },
+        {
+            "text": "Овсяную муку всыпать в масляную смесь, долить соленую воду, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Влить погашенную лимонным соком соду, всыпать пшеничную муку, замесить тесто.",
+            "image": null
+        },
+        {
+            "text": "Массу раскатать скалкой тонким слоем, вырезать кружки при помощи стакана или формы.",
+            "image": null
+        },
+        {
+            "text": "Выложить печенье на противень, смазанный маслом, печь изделия в течение десяти минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка с изюмом",
+            "slug": "vypechka-s-izyumom"
+        },
+        {
+            "name": "Выпечка с сухофруктами",
+            "slug": "vypechka-s-suhofruktami"
+        },
+        {
+            "name": "Овсяное печенье",
+            "slug": "ovsyanoe-pechene"
+        },
+        {
+            "name": "Печенье",
+            "slug": "pechene"
+        },
+        {
+            "name": "Печенье без яиц",
+            "slug": "pechene-bez-yaic"
+        },
+        {
+            "name": "Печенье из овсяных хлопьев",
+            "slug": "pechene-iz-ovsyanyh-hlopev"
+        },
+        {
+            "name": "Печенье с изюмом",
+            "slug": "pechene-s-izyumom"
+        },
+        {
+            "name": "Печенье с сухофруктами",
+            "slug": "pechene-s-suhofruktami"
+        }
+    ]
+}

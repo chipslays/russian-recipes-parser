@@ -1,0 +1,107 @@
+{
+    "source": "https://vkuso.ru/recipe/chipsy-iz-lavasha-s-vetchinoj-i-syrom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Чипсы из лаваша с ветчиной и сыром",
+    "description": "Домашние чипсы – это совсем не то, что продается в магазине. Самое главное – в них нет консервантов.  Храниться долго они не будут в любом случае, домашние наверняка оценят закуску, приготовленную вами, и не дадут ей залежаться.",
+    "note": "Для приготовления можно использовать только сыр или только ветчину.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/46/c9cc0514ea81546_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лаваш тонкий",
+                    "slug": "lavash-tonkiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Смешать сметану с сырым яйцом, посолить по вкусу, всыпать специи, зеленый рубленый укроп. Смесью смазать лаваш. Сверху – тертая ветчина, сыр.",
+            "image": null
+        },
+        {
+            "text": "Разрезать лепешку на кусочки произвольной формы, переложить на противень без масла и подсушить чипсы из лаваша в духовке в течение 7 – 10 минут при температуре 180 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Домашние чипсы",
+            "slug": "domashnie-chipsy"
+        },
+        {
+            "name": "Закуски из лаваша",
+            "slug": "zakuski-iz-lavasha"
+        },
+        {
+            "name": "Лаваш с сыром",
+            "slug": "lavash-s-syrom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

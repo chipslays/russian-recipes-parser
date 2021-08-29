@@ -1,0 +1,95 @@
+{
+    "source": "https://vkuso.ru/recipe/francuzskoe-vzbitoe-pechene/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Французское взбитое печенье",
+    "description": "Это печенье готовиться очень быстро. Оно обладает мягким, подчеркнутым сливочным вкусом.",
+    "note": "Подавать французское сырное печенье с белым полусладким вином.",
+    "cuisine": "Французская кухня",
+    "cuisine_slug": "francuzskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ee/477d7c4784f53ee_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр сливочный",
+                    "slug": "syr-slivochniy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "миндаль",
+                    "slug": "mindal",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Миндаль залить кипящей водой и оставить на недолгое время. После этого, удалить с него кожицу и нарезать вдоль полосками. Сыр размять или натереть при помощи терки. Отдельно взбить желтки. Смешать желтки с сыром и мукой. Белки взбить до образования густой устойчивой пены. Аккуратно соединить их с сырной массой.",
+            "image": null
+        },
+        {
+            "text": "Противень выстелить пергаментной бумагой. Тесто переместить в кондитерский мешочек или шприц. Выкладывать тесто маленькими порциями на противень, оставляя между печеньями промежуток. Каждое печенье украсить миндалем. Выпекать французское взбитое печенье в горячей духовке, приблизительно 20-25 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка с орехами",
+            "slug": "vypechka-s-orehami"
+        },
+        {
+            "name": "Миндальное печенье",
+            "slug": "mindalnoe-pechene"
+        },
+        {
+            "name": "Печенье",
+            "slug": "pechene"
+        },
+        {
+            "name": "Печенье с орехами",
+            "slug": "pechene-s-orehami"
+        },
+        {
+            "name": "Сырное печенье",
+            "slug": "syrnoe-pechene"
+        },
+        {
+            "name": "Французская выпечка",
+            "slug": "francuzskaya-vypechka"
+        }
+    ]
+}

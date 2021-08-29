@@ -1,0 +1,99 @@
+{
+    "source": "https://vkuso.ru/recipe/serdce-otvarnoe/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Сердце отварное",
+    "description": null,
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/3a/ba3cdea47a97b3a_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сердце",
+                    "slug": "serdce",
+                    "notes": null,
+                    "value": "1",
+                    "type": "телячье / говяжье",
+                    "amount": null
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "чеснока",
+                    "slug": "chesnoka",
+                    "notes": null,
+                    "value": "3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный горошком",
+                    "slug": "perec-cherniy-goroshkom",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В кастрюлю с подсоленной водой положить телячье или говяжье сердце — промытое, без пленок.",
+            "image": null
+        },
+        {
+            "text": "Отварить сердце в течение 4-5 часов, минимум за 30 , максимум за 60 мин до готовности сердца положить в кастрюлю чеснок, лук, лавровый лист, перец.",
+            "image": null
+        },
+        {
+            "text": "Готовое сердце отварное охладить, нарезать не крупными кусочками, разложить на плоскую тарелку и посыпать зеленью.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Закуски из мяса",
+            "slug": "zakuski-iz-myasa"
+        }
+    ]
+}

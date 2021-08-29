@@ -1,0 +1,83 @@
+{
+    "source": "https://vkuso.ru/recipe/xlebnye-rulety-s-syrom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Хлебные рулеты с сыром",
+    "description": null,
+    "note": "Блюдо подавать горячим, с томатным соусом.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/83/9b82c16c1190e83_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "хлеб тостовый",
+                    "slug": "hleb-tostoviy",
+                    "notes": null,
+                    "value": "6",
+                    "type": "кусков",
+                    "amount": null
+                },
+                {
+                    "name": "сыр полумягкий",
+                    "slug": "syr-polumyagkiy",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "У хлеба отрезать корочки, каждый кусок раскатать скалкой. Сыр порезать на дольки, положить на хлеб, скрутить рулеты. Каждый рулет обжарить на сковороде, положив их швом вниз.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Горячие закуски",
+            "slug": "goryachie-zakuski"
+        },
+        {
+            "name": "Закуски из сыра",
+            "slug": "zakuski-iz-syra"
+        },
+        {
+            "name": "Закуски на скорую руку",
+            "slug": "zakuski-na-skoruyu-ruku"
+        },
+        {
+            "name": "Закуски с творогом",
+            "slug": "zakuski-s-tvorogom"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол на скорую руку",
+            "slug": "prazdnichniy-stol-na-skoruyu-ruku"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

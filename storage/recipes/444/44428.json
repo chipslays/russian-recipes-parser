@@ -1,0 +1,155 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnie-kolbaski-iz-kuricy-i-gribov/",
+    "category": "Заготовки",
+    "category_slug": "zagotovki",
+    "title": "Домашние колбаски из курицы и грибов",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a6/300bd73ce6267a6_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мясо",
+                    "slug": "myaso",
+                    "notes": " (куриное)",
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "свиные кишки",
+                    "slug": "svinye-kishki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Порезать куриное филе на кубики 1-1,5 сантиметра, перекрутить мясо в мясорубке. Порезать мелко грибы.",
+            "image": null
+        },
+        {
+            "text": "Обжарить на растительном масле.",
+            "image": null
+        },
+        {
+            "text": "Сделать фарш, положить обжаренные грибы, положить измельченный чеснок, вбить яйца, посыпать перцем, солью. Размешать, вымесить фарш.",
+            "image": null
+        },
+        {
+            "text": "Вымыть свиные кишки, заполнить их фаршем. Сделать колбаски по 15-20 сантиметров и проколоть по всей длине.",
+            "image": null
+        },
+        {
+            "text": "Запекать домашние колбаски из курицы и грибов в духовке.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Грибы на зиму",
+            "slug": "griby-na-zimu"
+        },
+        {
+            "name": "Домашние колбаски",
+            "slug": "domashnie-kolbaski"
+        },
+        {
+            "name": "Домашняя колбаса в кишках",
+            "slug": "domashnyaya-kolbasa-v-kishkah"
+        },
+        {
+            "name": "Куриное филе в духовке",
+            "slug": "kurinoe-file-v-duhovke"
+        },
+        {
+            "name": "Куриное филе с шампиньонами",
+            "slug": "kurinoe-file-s-shampinonami"
+        },
+        {
+            "name": "Курица в духовке",
+            "slug": "kurica-v-duhovke"
+        },
+        {
+            "name": "Курица с грибами",
+            "slug": "kurica-s-gribami"
+        },
+        {
+            "name": "Курица с шампиньонами",
+            "slug": "kurica-s-shampinonami"
+        },
+        {
+            "name": "Мясо с грибами",
+            "slug": "myaso-s-gribami"
+        }
+    ]
+}

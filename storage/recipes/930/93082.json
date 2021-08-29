@@ -1,0 +1,199 @@
+{
+    "source": "https://vkuso.ru/recipe/93082-morkovnyj-sup-pyure-s-kuricej-i-plavlenym-syrom/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Морковный суп с курицей и плавленым сыром",
+    "description": "Сытный супчик для душевного обеда.",
+    "note": "По желанию украсить блюдо листочками петрушки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/30/706b44e16174430_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "2 часа",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/bnn6buITOjs?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "800",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "куриные бедра",
+                    "slug": "kurinye-bedra",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый ломтевой",
+                    "slug": "syr-plavleniy-lomtevoy",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "тимьян сушеный",
+                    "slug": "timyan-susheniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Куриное бедро промыть, залить водой, вскипятить.",
+            "image": null
+        },
+        {
+            "text": "Приготовить бульон.",
+            "image": null
+        },
+        {
+            "text": "Влить растительное масло на сковороду, выложить мелко нарезанный репчатый лук.",
+            "image": null
+        },
+        {
+            "text": "Обжарить, добавить нарезанную морковь.",
+            "image": null
+        },
+        {
+            "text": "Все вместе прогревать три минуты.",
+            "image": null
+        },
+        {
+            "text": "Готовую обжарку добавить в кастрюлю, варить суп около получаса.",
+            "image": null
+        },
+        {
+            "text": "Соль – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Бедро вынуть, суп заправить пряностями, добавить нарезанный кусочками плавленый сыр.",
+            "image": null
+        },
+        {
+            "text": "Суп помешивать до полного растворения сыра.",
+            "image": null
+        },
+        {
+            "text": "Довести массу до состояния пюре при помощи блендера.",
+            "image": null
+        },
+        {
+            "text": "Куриное мясо порвать руками, украсить суп.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Куриный суп-пюре",
+            "slug": "kuriniy-sup-pyure"
+        },
+        {
+            "name": "Морковный суп",
+            "slug": "morkovniy-sup"
+        },
+        {
+            "name": "Морковный суп-пюре",
+            "slug": "morkovniy-sup-pyure"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп на курином бульоне",
+            "slug": "sup-na-kurinom-bulone"
+        },
+        {
+            "name": "Суп на мясном бульоне",
+            "slug": "sup-na-myasnom-bulone"
+        },
+        {
+            "name": "Суп с курицей и плавленным сыром",
+            "slug": "sup-s-kuricey-i-plavlennym-syrom"
+        },
+        {
+            "name": "Суп с плавленым сыром",
+            "slug": "sup-s-plavlenym-syrom"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Сырный суп",
+            "slug": "syrniy-sup"
+        },
+        {
+            "name": "Сырный суп-пюре",
+            "slug": "syrniy-sup-pyure"
+        }
+    ]
+}

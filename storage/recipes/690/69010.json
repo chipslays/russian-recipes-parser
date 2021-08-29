@@ -1,0 +1,167 @@
+{
+    "source": "https://vkuso.ru/recipe/italyanskij-kurinyj-sup-s-vermishelyu-i-kukuruzoj/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Итальянский куриный суп с вермишелью и кукурузой",
+    "description": "В России чаще всего привыкли есть сладкий молочный суп, а вот в Италии его варят немного иначе. Для приготовления молоко и сливки разбавляют ароматным куриным бульоном и добавляют, помимо вермишели, кукурузу. Идеальным блюдо получается из домашней курочки.",
+    "note": "Подавать его теплым, добавив 1-2 щепотки молотого перца, лучше это сделать прямо из мельнички.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/76/81e64c6f758e976_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/EupiHvG3VlM?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бульон куриный",
+                    "slug": "bulon-kuriniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "450",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки жирные",
+                    "slug": "slivki-jirnye",
+                    "notes": null,
+                    "value": "150",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "кукуруза консервированная",
+                    "slug": "kukuruza-konservirovannaya",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вермишель",
+                    "slug": "vermishel",
+                    "notes": null,
+                    "value": "120",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "45",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "кукурузный крахмал",
+                    "slug": "kukuruzniy-krahmal",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить полоски куриного филе в смеси бульона со сливками.",
+            "image": null
+        },
+        {
+            "text": "В другой кастрюле отварить вермишель, время приготовления зависит от сорта.",
+            "image": null
+        },
+        {
+            "text": "Промыть ее в дуршлаге и выложить в смесь бульона со сливками.",
+            "image": null
+        },
+        {
+            "text": "Крахмал разболтать в холодном молоке.",
+            "image": null
+        },
+        {
+            "text": "Помешивая постепенно влить в горячий суп.",
+            "image": null
+        },
+        {
+            "text": "Добавить зёрна кукурузы, посолить по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Варить итальянский куриный суп с вермишелью и кукурузой до готовности.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Куриный суп",
+            "slug": "kuriniy-sup"
+        },
+        {
+            "name": "Куриный суп с вермишелью",
+            "slug": "kuriniy-sup-s-vermishelyu"
+        },
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Сливочный суп",
+            "slug": "slivochniy-sup"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп из птицы",
+            "slug": "sup-iz-pticy"
+        },
+        {
+            "name": "Суп с вермишелью",
+            "slug": "sup-s-vermishelyu"
+        },
+        {
+            "name": "Суп с консервированной кукурузой",
+            "slug": "sup-s-konservirovannoy-kukuruzoy"
+        },
+        {
+            "name": "Суп с макаронами",
+            "slug": "sup-s-makaronami"
+        },
+        {
+            "name": "Суп со сливками",
+            "slug": "sup-so-slivkami"
+        }
+    ]
+}

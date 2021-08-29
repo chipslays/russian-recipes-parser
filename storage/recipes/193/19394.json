@@ -1,0 +1,119 @@
+{
+    "source": "https://vkuso.ru/recipe/burgery-s-pechenym-yajcom-i-syrom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Бургеры с печеным яйцом и сыром",
+    "description": null,
+    "note": null,
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/54/35dbab38f2b0354_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "булочки для гамбургеров",
+                    "slug": "bulochki-dlya-gamburgerov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Яйца разбить в форму для кексов и печь минут 10-15 (180 градусов). Сыр натереть на терке, булочки подогреть. Булочку разрезать пополам, можно не дорезать до конца, положить яйцо.",
+            "image": null
+        },
+        {
+            "text": "Присыпать сыром и определить в духовку, для расплавления сыра. Готовые бургеры с печеным яйцом и сыром можно кушать на завтрак или взять с собой пикник.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бургер",
+            "slug": "burger"
+        },
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды в духовке",
+            "slug": "buterbrody-v-duhovke"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды на природу",
+            "slug": "buterbrody-na-prirodu"
+        },
+        {
+            "name": "Бутерброды на скорую руку",
+            "slug": "buterbrody-na-skoruyu-ruku"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Бутерброды с яйцом",
+            "slug": "buterbrody-s-yaycom"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Горячие бутерброды",
+            "slug": "goryachie-buterbrody"
+        },
+        {
+            "name": "Горячие бутерброды с сыром",
+            "slug": "goryachie-buterbrody-s-syrom"
+        },
+        {
+            "name": "Горячие закуски",
+            "slug": "goryachie-zakuski"
+        },
+        {
+            "name": "Домашний фаст фуд",
+            "slug": "domashniy-fast-fud"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

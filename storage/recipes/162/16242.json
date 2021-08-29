@@ -1,0 +1,205 @@
+{
+    "source": "https://vkuso.ru/recipe/zakusochnaya-picca-roll-s-ananasami/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Закусочная пицца-ролл с ананасами",
+    "description": null,
+    "note": null,
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/40/4e6c6e0edf69440_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "400-500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для роллов",
+            "list": [
+                {
+                    "name": "ананас консервированный",
+                    "slug": "ananas-konservirovanniy",
+                    "notes": null,
+                    "value": "340",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кетчуп",
+                    "slug": "ketchup",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В подогретое молоко положить дрожжи и сахар, размешать, отставить на 15 минут. Размягченное масло смешать с молочно-дрожжевой смесью, посолить, медленно ввести муку и замесить тесто. Сделать шар и поставить в тепло на 30 минут, чтобы тесто подошло.",
+            "image": null
+        },
+        {
+            "text": "Приготовить начинку: порезать на тоненькие ломтики ветчину. Мелко натереть сыр. Когда тесто подойдет, вымесить и раскатать пласт, примерно 30 на 40 сантиметров. Намазать тесто томатным соусом. Разложить на него ветчину и небольшие кусочки ананаса, сверху посыпать тертым сыром.",
+            "image": null
+        },
+        {
+            "text": "Свернуть тесто рулетом и порезать на двенадцать частей. Положить роллы на противень, смазанный маслом и поставить в тепло на 30 минут. Смазать взбитым с молоком желтком. Готовить 30 минут, соблюдая температуру 180 градусов. Готовую пиццу-ролл с ананасами выложить на блюдо и подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка с сыром",
+            "slug": "vypechka-s-syrom"
+        },
+        {
+            "name": "Домашняя пицца",
+            "slug": "domashnyaya-picca"
+        },
+        {
+            "name": "Дрожжевая пицца",
+            "slug": "drojjevaya-picca"
+        },
+        {
+            "name": "Мелкая выпечка",
+            "slug": "melkaya-vypechka"
+        },
+        {
+            "name": "Несладкая выпечка",
+            "slug": "nesladkaya-vypechka"
+        },
+        {
+            "name": "Пицца",
+            "slug": "picca"
+        },
+        {
+            "name": "Пицца в духовке",
+            "slug": "picca-v-duhovke"
+        },
+        {
+            "name": "Пицца с ананасами",
+            "slug": "picca-s-ananasami"
+        },
+        {
+            "name": "Пицца с ветчиной",
+            "slug": "picca-s-vetchinoy"
+        },
+        {
+            "name": "Пицца с сыром",
+            "slug": "picca-s-syrom"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        }
+    ]
+}

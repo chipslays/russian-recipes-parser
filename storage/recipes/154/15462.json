@@ -1,0 +1,139 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnij-chizburger-s-syrom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Домашний чизбургер с сыром",
+    "description": null,
+    "note": null,
+    "cuisine": "Американская кухня",
+    "cuisine_slug": "amerikanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/54/0bf862c51d36654_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мясной фарш",
+                    "slug": "myasnoy-farsh",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр полутвердый",
+                    "slug": "syr-polutverdiy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "булочки с кунжутом",
+                    "slug": "bulochki-s-kunjutom",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "горчица дижонская",
+                    "slug": "gorchica-dijonskaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "листья салата",
+                    "slug": "listya-salata",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нашинковать помидор и лук на кольца, листья салата порвать руками. Фарш приправить перцем, подсолить, перемешать, сформовать котлетки. Для удобства руки можно смочить холодной водой.",
+            "image": null
+        },
+        {
+            "text": "Булочки разрезать пополам, срезы зажарить на сковороде или гриле, смазать их соусом или кетчупом, поверх уложить колечки лука. Обжарить котлетки по паре минут с каждой стороны, уложить на лук, прикрыть ломтиками сыра.",
+            "image": null
+        },
+        {
+            "text": "Завершить сооружение колечками помидора. Смазать помидор смесью горчицы с майонезом, уложить поверх листья салат и прикрыть второй половинкой булочки. Домашний чизбургер с сыром можно подавать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бургер",
+            "slug": "burger"
+        },
+        {
+            "name": "Бутерброды на скорую руку",
+            "slug": "buterbrody-na-skoruyu-ruku"
+        },
+        {
+            "name": "Бутерброды с помидорами",
+            "slug": "buterbrody-s-pomidorami"
+        },
+        {
+            "name": "Бутерброды с помидорами и сыром",
+            "slug": "buterbrody-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Домашний фаст фуд",
+            "slug": "domashniy-fast-fud"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Чизбургер",
+            "slug": "chizburger"
+        }
+    ]
+}

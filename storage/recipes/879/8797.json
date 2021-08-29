@@ -1,0 +1,132 @@
+{
+    "source": "https://vkuso.ru/recipe/tosty-s-bananom-i-karamelyu/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Тосты с бананом и карамелью",
+    "description": null,
+    "note": null,
+    "cuisine": "Французская кухня",
+    "cuisine_slug": "francuzskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/2a/efc614dcf89592a_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "батон",
+                    "slug": "baton",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для карамели",
+            "list": [
+                {
+                    "name": "бананы",
+                    "slug": "banany",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар коричневый",
+                    "slug": "sahar-korichneviy",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Смешать молоко, сахар и яйца, взбить в однородную смесь, батон порезать на одинаковые по толщине ломти примерно по 1,5-2 см, поставить разогреваться на плиту сковороду с маслом.",
+            "image": null
+        },
+        {
+            "text": "Кусочки батона обмакнуть в яичную смесь и сразу обжарить с одной и другой стороны до появления красивой и аппетитной корочки.",
+            "image": null
+        },
+        {
+            "text": "Приготовить из сахара, воды и масла карамель.  Для этого смесь прогреть до кипения и продолжать нагрев еще 3-4 минуты до появления густоты, снять смесь с плиты, добавить кусочки банана, перемешать, закрыть крышкой, дать постоять пару минут.",
+            "image": null
+        },
+        {
+            "text": "Готовые тосты облить карамелью и сразу подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Тосты",
+            "slug": "tosty"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "source": "https://vkuso.ru/recipe/yablochnyj-pirog-po-tatarski/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Яблочный пирог по-татарски",
+    "description": null,
+    "note": null,
+    "cuisine": "Татарская кухня",
+    "cuisine_slug": "tatarskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/78/ab33ab53a78bc78_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яблок",
+                    "slug": "yablok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "сдобного дрожжевого теста",
+                    "slug": "sdobnogo-drojjevogo-testa",
+                    "notes": null,
+                    "value": "600",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "крошки печенья",
+                    "slug": "kroshki-pechenya",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметаны",
+                    "slug": "smetany",
+                    "notes": null,
+                    "value": "1,5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сахара",
+                    "slug": "sahara",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Раскатать готовое сдобное дрожжевое тесто по диаметру чуть больше сковороды, чтобы можно было сделать бортики.",
+            "image": null
+        },
+        {
+            "text": "Очистить и нарезать яблоки дольками, предварительно удалив сердцевину, выложить их ровным слоем на тесто, присыпать сахаром, залить сметаной, посыпать растертым в крошку печеньем.",
+            "image": null
+        },
+        {
+            "text": "Отправить яблочный пирог по-татарски в духовку и выпекать 20 минут при средней температуре.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Выпечка с яблоками",
+            "slug": "vypechka-s-yablokami"
+        },
+        {
+            "name": "Национальные пироги",
+            "slug": "nacionalnye-pirogi"
+        },
+        {
+            "name": "Пирог без яиц",
+            "slug": "pirog-bez-yaic"
+        },
+        {
+            "name": "Пирог с яблоками",
+            "slug": "pirog-s-yablokami"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Татарская выпечка",
+            "slug": "tatarskaya-vypechka"
+        },
+        {
+            "name": "Татарские пироги",
+            "slug": "tatarskie-pirogi"
+        }
+    ]
+}

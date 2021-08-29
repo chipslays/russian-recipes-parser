@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/sendvichi-s-vetchinnoj-struzhkoj/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Сэндвичи с ветчинной стружкой",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f4/5a396d4f1ccf1f4_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": "900",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соус чили",
+                    "slug": "sous-chili",
+                    "notes": null,
+                    "value": "300",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый",
+                    "slug": "syr-plavleniy",
+                    "notes": null,
+                    "value": "230",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "булочки для гамбургеров",
+                    "slug": "bulochki-dlya-gamburgerov",
+                    "notes": null,
+                    "value": "12",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Порезать яйца на небольшие ломтики, сырок – на кубики, ветчину – короткими и узкими полосками. Включить для разогрева духовку (180 градусов). Переложить все в миску, влить соус чили, аккуратно смешать.",
+            "image": null
+        },
+        {
+            "text": "Смесь разделить на все булочки, обернуть их фольгой, уложить на противень, запекать сэндвичи с ветчинной стружкой полчаса до расплавления внутри сыра.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды с ветчиной",
+            "slug": "buterbrody-s-vetchinoy"
+        },
+        {
+            "name": "Бутерброды с плавленым сыром",
+            "slug": "buterbrody-s-plavlenym-syrom"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Бутерброды с яйцом",
+            "slug": "buterbrody-s-yaycom"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Закрытые бутерброды",
+            "slug": "zakrytye-buterbrody"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сэндвич с ветчиной",
+            "slug": "sendvich-s-vetchinoy"
+        },
+        {
+            "name": "Сэндвич с ветчиной и сыром",
+            "slug": "sendvich-s-vetchinoy-i-syrom"
+        },
+        {
+            "name": "Сэндвич с сыром",
+            "slug": "sendvich-s-syrom"
+        },
+        {
+            "name": "Сэндвич с яйцом",
+            "slug": "sendvich-s-yaycom"
+        },
+        {
+            "name": "Сэндвичи",
+            "slug": "sendvichi"
+        }
+    ]
+}

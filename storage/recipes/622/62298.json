@@ -1,0 +1,253 @@
+{
+    "source": "https://vkuso.ru/recipe/tvorozhnyj-tort-bez-muki-i-vypechki/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Творожный торт без муки и выпечки",
+    "description": "Корж для торта не содержит муку, все продукты «свяжет» между собой банановое пюре.",
+    "note": "Если йогурт без добавок, то нужно взять 20-25 г меда. Торт можно украсить тертым темным шоколадом или посыпать какао-порошком, ягодами.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/95/7861044ece2ef95_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "овсяные хлопья",
+                    "slug": "ovsyanye-hlopya",
+                    "notes": " (овсяные хлопья цельнозерновые)",
+                    "value": "180",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сухофрукты",
+                    "slug": "suhofrukty",
+                    "notes": " (инжир, финики)",
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "бананы",
+                    "slug": "banany",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для основы",
+            "list": [
+                {
+                    "name": "творог мягкий",
+                    "slug": "tvorog-myagkiy",
+                    "notes": " (обезжиренный)",
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "йогурт 2.5%",
+                    "slug": "yogurt-2-5",
+                    "notes": " (грушевый)",
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "груши",
+                    "slug": "grushi",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для крема",
+            "list": [
+                {
+                    "name": "миндаль",
+                    "slug": "mindal",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "грецкие орехи",
+                    "slug": "greckie-orehi",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для коржа-основы перемолоть с помощью блендера овсяные или цельнозерновые хлопья.",
+            "image": null
+        },
+        {
+            "text": "Натереть очищенное яблоко.",
+            "image": null
+        },
+        {
+            "text": "Инжир и финики мелко нарезать, измельчить в блендере, но не до состояния пюре, должны остаться целые кусочки.",
+            "image": null
+        },
+        {
+            "text": "Превратить в пюре спелый банан.",
+            "image": null
+        },
+        {
+            "text": "Все ингредиенты перемешать.",
+            "image": null
+        },
+        {
+            "text": "Полученную массу переложить в форму для выпекания со съемными бортиками, выровнять, немного утрамбовать.",
+            "image": null
+        },
+        {
+            "text": "Поставить «корж» в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления крема перемешать нежирный грушевый йогурт, обезжиренный кремообразный творог, мёд.",
+            "image": null
+        },
+        {
+            "text": "Очистить и нарезать грушу тонкими пластинками или кубиками, добавить в творожный крем.",
+            "image": null
+        },
+        {
+            "text": "Выложить полученную массу на охлажденную основу.",
+            "image": null
+        },
+        {
+            "text": "Украсить кусочками груши, грецкими или миндальными орехами.",
+            "image": null
+        },
+        {
+            "text": "Поставить в холодильник на ночь. При подаче на стол снять бортики.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без муки",
+            "slug": "vypechka-bez-muki"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка с медом",
+            "slug": "vypechka-s-medom"
+        },
+        {
+            "name": "Выпечка с фруктами",
+            "slug": "vypechka-s-fruktami"
+        },
+        {
+            "name": "Выпечка с яблоками",
+            "slug": "vypechka-s-yablokami"
+        },
+        {
+            "name": "Десерт из бананов",
+            "slug": "desert-iz-bananov"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетический торт",
+            "slug": "dieticheskiy-tort"
+        },
+        {
+            "name": "Йогуртовый торт",
+            "slug": "yogurtoviy-tort"
+        },
+        {
+            "name": "Медовый торт",
+            "slug": "medoviy-tort"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Специальное питание",
+            "slug": "specialnoe-pitanie"
+        },
+        {
+            "name": "Творожный торт",
+            "slug": "tvorojniy-tort"
+        },
+        {
+            "name": "Торт без выпечки",
+            "slug": "tort-bez-vypechki"
+        },
+        {
+            "name": "Торт без мастики",
+            "slug": "tort-bez-mastiki"
+        },
+        {
+            "name": "Торт без яиц",
+            "slug": "tort-bez-yaic"
+        },
+        {
+            "name": "Торт проще простого",
+            "slug": "tort-prosche-prostogo"
+        },
+        {
+            "name": "Торт с орехами",
+            "slug": "tort-s-orehami"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

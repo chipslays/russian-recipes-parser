@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/ruletiki-iz-tonkogo-lavasha-s-myasnoj-nachinkoj/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Рулетики из тонкого лаваша с мясной начинкой",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/1f/5d2cf5e823c4c1f_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мясо вареное",
+                    "slug": "myaso-varenoe",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "колбаса копченая",
+                    "slug": "kolbasa-kopchenaya",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "колбаса вареная",
+                    "slug": "kolbasa-varenaya",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "зубчик",
+                    "amount": null
+                },
+                {
+                    "name": "лаваш армянский",
+                    "slug": "lavash-armyanskiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Натереть сыр на мелкой терке. Зелень с чесноком измельчить и растереть в кашицу. Натереть на крупной терке колбасу, ветчину или мясо. Все ингредиенты соединить, добавить желток и хорошенько перемешать.",
+            "image": null
+        },
+        {
+            "text": "Лаваш порезать на равнобедренные треугольники и на меньшую сторону каждого из них выложить начинку. Свернуть рулетики, свободные поверхности треугольников смазать разболтанным белком, чтобы во время жарки они не развернулись.",
+            "image": null
+        },
+        {
+            "text": "Обжарить рулеты на растительном масле и положить их на салфетку, чтобы стекло лишнее масло. К столу рулетики из тонкого лаваша с мясной начинкой необходимо подавать горячими.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Горячие закуски",
+            "slug": "goryachie-zakuski"
+        },
+        {
+            "name": "Закуски из лаваша",
+            "slug": "zakuski-iz-lavasha"
+        },
+        {
+            "name": "Лаваш с начинкой",
+            "slug": "lavash-s-nachinkoy"
+        },
+        {
+            "name": "Лаваш с сыром",
+            "slug": "lavash-s-syrom"
+        },
+        {
+            "name": "Лаваш с сыром и яйцом",
+            "slug": "lavash-s-syrom-i-yaycom"
+        },
+        {
+            "name": "Лаваш с яйцом",
+            "slug": "lavash-s-yaycom"
+        },
+        {
+            "name": "Мясо с сыром",
+            "slug": "myaso-s-syrom"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рулет из лаваша",
+            "slug": "rulet-iz-lavasha"
+        }
+    ]
+}

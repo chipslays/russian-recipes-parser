@@ -1,0 +1,232 @@
+{
+    "source": "https://vkuso.ru/recipe/103321-teplyj-salat-s-govyadinoj-gribami-i-listyami-salata/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Теплый салат с говядиной, грибами и листьями салата",
+    "description": "Вариант сытного и полезного блюда для любителей даров леса.",
+    "note": "Для приготовления блюда можно использовать зеленое салатное ассорти.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/52/c9bade35eecdc52_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "50 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/zck31M9jdlQ?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "говядина",
+                    "slug": "govyadina",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "листья салата",
+                    "slug": "listya-salata",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для заправки",
+            "list": [
+                {
+                    "name": "соус соевый",
+                    "slug": "sous-soeviy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "уксус винный",
+                    "slug": "uksus-vinniy",
+                    "notes": null,
+                    "value": "25",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "7",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить заправку из растительного масла, соевого соуса, винного уксуса, рубленого чеснока, зелени.",
+            "image": null
+        },
+        {
+            "text": "Взбить ингредиенты блендером, дать постоять.",
+            "image": null
+        },
+        {
+            "text": "Мясную вырезку полить маслом, обжарить на прогретой сковороде в течение четырех минут, один раз перевернуть.",
+            "image": null
+        },
+        {
+            "text": "Оставить продукт на пять или десять минут для остывания, затем тонко нарезать.",
+            "image": null
+        },
+        {
+            "text": "На той же сковороде обжарить измельченный лук-порей или репчатый.",
+            "image": null
+        },
+        {
+            "text": "Отдельно обжарить шампиньоны, нарезанные пластинками.",
+            "image": null
+        },
+        {
+            "text": "Перец молотый и соль добавлять по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Выложить на блюдо листья зеленого салата, на них – мясную соломку, лук и грибы.",
+            "image": null
+        },
+        {
+            "text": "Полить блюдо заправкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат с говядиной",
+            "slug": "salat-s-govyadinoy"
+        },
+        {
+            "name": "Салат с грибами",
+            "slug": "salat-s-gribami"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с мясом и грибами",
+            "slug": "salat-s-myasom-i-gribami"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салат с соевым соусом",
+            "slug": "salat-s-soevym-sousom"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салат с шампиньонами",
+            "slug": "salat-s-shampinonami"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты из листьев салата",
+            "slug": "salaty-iz-listev-salata"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с мясом",
+            "slug": "salaty-s-myasom"
+        },
+        {
+            "name": "Теплый салат",
+            "slug": "tepliy-salat"
+        },
+        {
+            "name": "Теплый салат с говядиной",
+            "slug": "tepliy-salat-s-govyadinoy"
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "source": "https://vkuso.ru/recipe/syrnyj-sup-s-shpinatom-i-semgoj/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Сырный суп с шпинатом и семгой",
+    "description": null,
+    "note": "Подать к столу суп можно со свежей зеленью и гренками.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a6/2759f6dd89019a6_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "семга",
+                    "slug": "semga",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый",
+                    "slug": "syr-plavleniy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шпинат",
+                    "slug": "shpinat",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец болгарский красный",
+                    "slug": "perec-bolgarskiy-krasniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "паприка сладкая",
+                    "slug": "paprika-sladkaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Рыбу очистить, вымыть. Залить холодной водой, поставить на огонь. Когда вода закипит – снять пену, бульон готовить на тихом огне в течение 20-25 минут. Готовое мясо отделить от костей, разделить на кусочки среднего размера. Нарезать небольшими кубиками репчатый лук, сладкий болгарский перец и морковь.",
+            "image": null
+        },
+        {
+            "text": "Подготовленные овощи обжарить на растительном масле. Очистить от кожуры клубни картофеля, также нарезать кубиками. В подготовленный бульон переложить картофель и овощи, довести суп до кипения, добавить нарезанный плавленый сыр.",
+            "image": null
+        },
+        {
+            "text": "Варить все вместе в течение 10 – 12 минут до мягкости картофеля. Вымыть и нарезать шпинат, добавить в кастрюлю вместе с рыбными кусочками, посолить и поперчить сырный суп по вкусу, всыпать молотую паприку. Через две минуты после закипания снять кастрюлю с огня.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетический суп",
+            "slug": "dieticheskiy-sup"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рыбный суп",
+            "slug": "rybniy-sup"
+        },
+        {
+            "name": "Семга с сыром",
+            "slug": "semga-s-syrom"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп для похудения",
+            "slug": "sup-dlya-pohudeniya"
+        },
+        {
+            "name": "Суп из семги",
+            "slug": "sup-iz-semgi"
+        },
+        {
+            "name": "Суп из шпината",
+            "slug": "sup-iz-shpinata"
+        },
+        {
+            "name": "Суп с плавленым сыром",
+            "slug": "sup-s-plavlenym-syrom"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Сырный суп",
+            "slug": "syrniy-sup"
+        }
+    ]
+}

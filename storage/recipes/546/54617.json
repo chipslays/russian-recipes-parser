@@ -1,0 +1,183 @@
+{
+    "source": "https://vkuso.ru/recipe/zapekanka-iz-yaic-s-brokkoli/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Запеканка из яиц с брокколи",
+    "description": "То ли омлет, то ли запеканка: рецепт подходит для ужина или завтрака. Яркое блюдо радует изобилием красок, выглядит празднично и нарядно.",
+    "note": "Сладкий красный перец можно приготовить дома, он будет долго храниться в морозильной камере и использоваться при необходимости.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/9c/843b84bdf5ffe9c_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "овощная смесь замороженная",
+                    "slug": "ovoschnaya-smes-zamorojennaya",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "брокколи",
+                    "slug": "brokkoli",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "150",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": " (замороженный)",
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень петрушки",
+                    "slug": "zelen-petrushki",
+                    "notes": null,
+                    "value": "5-6",
+                    "type": "стеблей",
+                    "amount": null
+                },
+                {
+                    "name": "зелень укропа",
+                    "slug": "zelen-ukropa",
+                    "notes": null,
+                    "value": "5-6",
+                    "type": "стеблей",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль морская",
+                    "slug": "sol-morskaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Брокколи отварить в течение пяти минут, вынуть из горячей воды, опустить в ледяную. Такая обработка позволит сохранить первоначальный зеленый цвет.",
+            "image": null
+        },
+        {
+            "text": "Сырые куриные яйца взбить с молоком, добавить замороженную овощную смесь: зеленый горошек, морковь, зеленую стручковую фасоль, кукурузу, сладкий болгарский перец.",
+            "image": null
+        },
+        {
+            "text": "Продукты перемешать, добавить рубленую петрушку и укроп, перец молотый и морская соль – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Готовую массу вылить в огнеупорную форму, соцветия брокколи вставить вертикально. Печь в духовом шкафу при температуре 170 градусов в течение 50 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блюда из яиц",
+            "slug": "blyuda-iz-yaic"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из овощей",
+            "slug": "vtorye-blyuda-iz-ovoschey"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Запеканка из брокколи",
+            "slug": "zapekanka-iz-brokkoli"
+        },
+        {
+            "name": "Запеканка овощная",
+            "slug": "zapekanka-ovoschnaya"
+        },
+        {
+            "name": "Запеканки",
+            "slug": "zapekanki"
+        },
+        {
+            "name": "Овощи в духовке",
+            "slug": "ovoschi-v-duhovke"
+        },
+        {
+            "name": "Омлет",
+            "slug": "omlet"
+        },
+        {
+            "name": "Омлет в духовке",
+            "slug": "omlet-v-duhovke"
+        },
+        {
+            "name": "Омлет на завтрак",
+            "slug": "omlet-na-zavtrak"
+        },
+        {
+            "name": "Омлет с брокколи",
+            "slug": "omlet-s-brokkoli"
+        },
+        {
+            "name": "Омлет с молоком",
+            "slug": "omlet-s-molokom"
+        },
+        {
+            "name": "Омлет с овощами",
+            "slug": "omlet-s-ovoschami"
+        },
+        {
+            "name": "Ужин из капусты",
+            "slug": "ujin-iz-kapusty"
+        },
+        {
+            "name": "Ужин из овощей",
+            "slug": "ujin-iz-ovoschey"
+        }
+    ]
+}

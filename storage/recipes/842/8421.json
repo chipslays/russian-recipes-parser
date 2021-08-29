@@ -1,0 +1,172 @@
+{
+    "source": "https://vkuso.ru/recipe/armyanskaya-paxlava-s-orexami/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Армянская пахлава с орехами",
+    "description": null,
+    "note": null,
+    "cuisine": "Армянская кухня, Восточная кухня",
+    "cuisine_slug": "armyanskaya-kuhnya-vostochnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/be/50d9e0c383435be_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи",
+                    "slug": "drojji",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "грецкие орехи",
+                    "slug": "greckie-orehi",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "100-120",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кардамон",
+                    "slug": "kardamon",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "корица",
+                    "slug": "korica",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Взбить яйцо и растопленное сливочное масло, добавить растворенные в теплой воде дрожжи, постепенно вмешать по частям муку, оставить полученное тесто на пару часов.",
+            "image": null
+        },
+        {
+            "text": "Из слегка обжаренных и измельченных орехов с добавлением сахара, кардамона и корицы приготовить начинку. Созревшее тесто поделить на 2 части и каждую раскатать: одну до толщины 2 мм, другую – 3 мм.",
+            "image": null
+        },
+        {
+            "text": "Подготовить противень, промазать маслом, выложить трехмиллиметровый пласт теста, положить на него слоем в 4 мм начинку из орехов с пряностями, прикрыть вторым пластом, края обоих защипать.",
+            "image": null
+        },
+        {
+            "text": "Дать 10 минут постоять, промазать верх взболтанным желтком, разметить ножом на небольшие одинаковые ромбы. Поставить десерт в заранее прогретую чуть выше 200 градусов духовку, печь около трети часа или чуть больше.",
+            "image": null
+        },
+        {
+            "text": "Достать противень с готовой армянской пахлавой с орехами, полить верх медом. Дать постоять, чтобы пропитались все слои вместе с начинкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Восточные сладости",
+            "slug": "vostochnye-sladosti"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка с корицей",
+            "slug": "vypechka-s-koricey"
+        },
+        {
+            "name": "Выпечка с медом",
+            "slug": "vypechka-s-medom"
+        },
+        {
+            "name": "Выпечка с орехами",
+            "slug": "vypechka-s-orehami"
+        },
+        {
+            "name": "Пахлава",
+            "slug": "pahlava"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        }
+    ]
+}

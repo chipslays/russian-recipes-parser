@@ -1,0 +1,79 @@
+{
+    "source": "https://vkuso.ru/recipe/prostoj-goryachij-shokolad-po-domashnemu/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Простой горячий шоколад по-домашнему",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/36/f70e864de303536_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад",
+                    "slug": "shokolad",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофельный крахмал",
+                    "slug": "kartofelniy-krahmal",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В небольшом количестве теплого молока растворить крахмал. Остальное молоко поставить на медленный огонь, постоянно помешивая довести до кипения. Шоколад разломать на маленькие кусочки и добавить в молоко.",
+            "image": null
+        },
+        {
+            "text": "Когда шоколад полностью растворится, в молоко влить крахмальную смесь. Варить горячий шоколад до тех пор, пока напиток не загустеет. Разлить в чашки и можно наслаждаться шоколадным вкусом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Горячий шоколад",
+            "slug": "goryachiy-shokolad"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Напитки для детей",
+            "slug": "napitki-dlya-detey"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

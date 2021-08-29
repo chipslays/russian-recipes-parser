@@ -1,0 +1,199 @@
+{
+    "source": "https://vkuso.ru/recipe/81579-buterbrody-s-pashtetom-iz-shprot-i-yajcom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Бутерброды с паштетом из шпрот и яйцом",
+    "description": "Такие бутерброды можно взять с собой на пикник.",
+    "note": "Для бутербродов можно использовать готовый шпротный паштет, который продается в магазинах.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/31/645b76de790ad31_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/RIRDmpfkWXw?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "шпроты",
+                    "slug": "shproty",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "130",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб черный",
+                    "slug": "hleb-cherniy",
+                    "notes": null,
+                    "value": "6-8",
+                    "type": "кусочков",
+                    "amount": null
+                },
+                {
+                    "name": "яйца вареные",
+                    "slug": "yayca-varenye",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень свежая",
+                    "slug": "zelen-svejaya",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Натереть чеснок и твердый сыр отдельно.",
+            "image": null
+        },
+        {
+            "text": "Вместо свежего чеснока можно взять гранулированный продукт.",
+            "image": null
+        },
+        {
+            "text": "Ингредиенты перемешать, заправить майонезом.",
+            "image": null
+        },
+        {
+            "text": "Черный хлеб нарезать, поджарить в духовке, ломтики остудить.",
+            "image": null
+        },
+        {
+            "text": "Шпроты вынуть из банки, выложить на бумажное полотенце, чтобы лишнее масло впиталось.",
+            "image": null
+        },
+        {
+            "text": "Шпроты превратить в кашицу при помощи блендера, перемешать с сыром и посолить.",
+            "image": null
+        },
+        {
+            "text": "Выложить паштет на хлеб, сверху – кружки огурца и вареного яйца. Готовую закуску украсить рубленой зеленью.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды на праздничный стол",
+            "slug": "buterbrody-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Бутерброды на природу",
+            "slug": "buterbrody-na-prirodu"
+        },
+        {
+            "name": "Бутерброды открытые",
+            "slug": "buterbrody-otkrytye"
+        },
+        {
+            "name": "Бутерброды с огурцом",
+            "slug": "buterbrody-s-ogurcom"
+        },
+        {
+            "name": "Бутерброды с сыром и чесноком",
+            "slug": "buterbrody-s-syrom-i-chesnokom"
+        },
+        {
+            "name": "Бутерброды с черным хлебом",
+            "slug": "buterbrody-s-chernym-hlebom"
+        },
+        {
+            "name": "Бутерброды с яйцом",
+            "slug": "buterbrody-s-yaycom"
+        },
+        {
+            "name": "Бутерброды со шпротами",
+            "slug": "buterbrody-so-shprotami"
+        },
+        {
+            "name": "Бутерброды со шпротами и огурцом",
+            "slug": "buterbrody-so-shprotami-i-ogurcom"
+        },
+        {
+            "name": "Бутерброды со шпротами на праздничный стол",
+            "slug": "buterbrody-so-shprotami-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Закуски для пикника",
+            "slug": "zakuski-dlya-piknika"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Холодные закуски",
+            "slug": "holodnye-zakuski"
+        }
+    ]
+}

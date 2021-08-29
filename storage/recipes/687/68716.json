@@ -1,0 +1,199 @@
+{
+    "source": "https://vkuso.ru/recipe/ovoshhnoj-sup-pyure-so-shpinatom-i-brokkoli/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Овощной суп-пюре со шпинатом и брокколи",
+    "description": "Нежное блюдо для взрослых и детей.",
+    "note": "Такой овощной суп можно подать к столу со сметаной, сухариками, зеленью.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/bb/944988d8e02c2bb_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/PhIl8LBMUp8?rel=0",
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "брокколи",
+                    "slug": "brokkoli",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "шпинат",
+                    "slug": "shpinat",
+                    "notes": null,
+                    "value": "45",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Воду вскипятить, посолить по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Нарезать крупными кусками картофель и морковь, сладкий перец, положить в воду вместе с брокколи, чесноком, шпинатом, отварить.",
+            "image": null
+        },
+        {
+            "text": "Взбить при помощи погружного блендера.",
+            "image": null
+        },
+        {
+            "text": "Если суп получился жидким – добавить муку или крахмал, еще раз взбить.",
+            "image": null
+        },
+        {
+            "text": "Всыпать соль и специи, перемешать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Детский суп",
+            "slug": "detskiy-sup"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетический суп",
+            "slug": "dieticheskiy-sup"
+        },
+        {
+            "name": "Картофельный суп",
+            "slug": "kartofelniy-sup"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Постные блюда из капусты",
+            "slug": "postnye-blyuda-iz-kapusty"
+        },
+        {
+            "name": "Постные блюда из картофеля",
+            "slug": "postnye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Постный овощной суп",
+            "slug": "postniy-ovoschnoy-sup"
+        },
+        {
+            "name": "Постный суп",
+            "slug": "postniy-sup"
+        },
+        {
+            "name": "Специальное питание",
+            "slug": "specialnoe-pitanie"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп для похудения",
+            "slug": "sup-dlya-pohudeniya"
+        },
+        {
+            "name": "Суп из брокколи",
+            "slug": "sup-iz-brokkoli"
+        },
+        {
+            "name": "Суп из шпината",
+            "slug": "sup-iz-shpinata"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Суп-пюре из брокколи",
+            "slug": "sup-pyure-iz-brokkoli"
+        },
+        {
+            "name": "Суп-пюре картофельный",
+            "slug": "sup-pyure-kartofelniy"
+        },
+        {
+            "name": "Суп-пюре овощной",
+            "slug": "sup-pyure-ovoschnoy"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

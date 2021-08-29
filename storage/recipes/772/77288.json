@@ -1,0 +1,135 @@
+{
+    "source": "https://vkuso.ru/recipe/rassolnik-iz-govyadiny-s-kapustoj/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Рассольник из говядины с капустой",
+    "description": "Главные составляющие этого супа – бюджетность и доступность.",
+    "note": "Рис лучше использовать для рассольника с индюшачьими или куриными потрохами. Перловку добавляют к говядине, ячневую крупу – к утиным потрошкам.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/93/ea7cac991760793_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "говядина",
+                    "slug": "govyadina",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "капуста белокочанная",
+                    "slug": "kapusta-belokochannaya",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы соленые",
+                    "slug": "ogurcy-solenye",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "корень петрушки",
+                    "slug": "koren-petrushki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Говядину нарезать кусками, залить холодной водой, варить один час после начала кипения, пенку убирать.",
+            "image": null
+        },
+        {
+            "text": "Репчатый лук обжарить на сливочном масле с тертым корнем петрушки.",
+            "image": null
+        },
+        {
+            "text": "Положить нарезанные соленые огурцы, белокочанную капусту.",
+            "image": null
+        },
+        {
+            "text": "Все вместе потомить от четырех до пяти минут.",
+            "image": null
+        },
+        {
+            "text": "Ввести в суп обжарку, нарезанную кубиками картошку.",
+            "image": null
+        },
+        {
+            "text": "Варить до готовности картофеля.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Рассольник",
+            "slug": "rassolnik"
+        },
+        {
+            "name": "Рассольник домашний",
+            "slug": "rassolnik-domashniy"
+        },
+        {
+            "name": "Суп из говядины",
+            "slug": "sup-iz-govyadiny"
+        },
+        {
+            "name": "Суп с капустой",
+            "slug": "sup-s-kapustoy"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        }
+    ]
+}

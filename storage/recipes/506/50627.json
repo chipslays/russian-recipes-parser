@@ -1,0 +1,103 @@
+{
+    "source": "https://vkuso.ru/recipe/tvorozhnaya-zakuska-s-syrom-i-pomidorami/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Творожная закуска с сыром и помидорами",
+    "description": "Вкусная закуска не обязательно должна быть сложной. Творожная масса с томатами и зеленью выглядит ярко и аппетитно.",
+    "note": "Закусочную массу можно выложить на листья зеленого салата или украсить ими уже в тарелке.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/dd/c10504a7596c0dd_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог домашний",
+                    "slug": "tvorog-domashniy",
+                    "notes": " (зерненый)",
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка рубленая",
+                    "slug": "petrushka-rublenaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": " (большие)",
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр домашний",
+                    "slug": "syr-domashniy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Домашний сыр и томаты нарезать небольшими кубиками.",
+            "image": null
+        },
+        {
+            "text": "Из зерненого творога отцедить жидкость, соединить с помидорами и сыром.",
+            "image": null
+        },
+        {
+            "text": "Ингредиенты перемешать, соль – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Добавить немного рубленого чеснока, по желанию. Перед едой посыпать блюдо измельченной петрушкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Закуски из сыра",
+            "slug": "zakuski-iz-syra"
+        },
+        {
+            "name": "Закуски на день рождения",
+            "slug": "zakuski-na-den-rojdeniya"
+        },
+        {
+            "name": "Закуски на скорую руку",
+            "slug": "zakuski-na-skoruyu-ruku"
+        },
+        {
+            "name": "Закуски с творогом",
+            "slug": "zakuski-s-tvorogom"
+        },
+        {
+            "name": "Новогодние закуски",
+            "slug": "novogodnie-zakuski"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Холодные закуски",
+            "slug": "holodnye-zakuski"
+        }
+    ]
+}

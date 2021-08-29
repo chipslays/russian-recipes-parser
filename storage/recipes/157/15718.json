@@ -1,0 +1,164 @@
+{
+    "source": "https://vkuso.ru/recipe/zalivnoj-pirog-s-kuricej-i-otrubyami/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Заливной пирог с курицей и отрубями",
+    "description": null,
+    "note": "По желанию начинку можно сделать овощной, из капусты брокколи или цветной.",
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b0/c6488486e597ab0_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "овсяные отруби",
+                    "slug": "ovsyanye-otrubi",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы маринованные",
+                    "slug": "ogurcy-marinovannye",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления теста хорошо взбить сырые куриные белки с солью. Отдельно взбить желтки, добавить мягкий творог, отруби, перемолотые в муку. Вмешать взбитые белки. В форму выложить половину теста, начинку, сверху – остатки теста.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления начинки понадобится отварное куриное филе, маринованный огурец, пассерованный лук. Печь заливной пирог с курицей и отрубями при температуре 180 градусов в течение 20 – 25 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Быстрые пироги",
+            "slug": "bystrye-pirogi"
+        },
+        {
+            "name": "Быстрые пироги на скорую руку",
+            "slug": "bystrye-pirogi-na-skoruyu-ruku"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка на скорую руку",
+            "slug": "vypechka-na-skoruyu-ruku"
+        },
+        {
+            "name": "Заливной пирог",
+            "slug": "zalivnoy-pirog"
+        },
+        {
+            "name": "Заливной пирог с курицей",
+            "slug": "zalivnoy-pirog-s-kuricey"
+        },
+        {
+            "name": "Заливной пирог с луком и яйцом",
+            "slug": "zalivnoy-pirog-s-lukom-i-yaycom"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог с луком и яйцом",
+            "slug": "pirog-s-lukom-i-yaycom"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги с курицей",
+            "slug": "pirogi-s-kuricey"
+        },
+        {
+            "name": "Пироги с начинкой",
+            "slug": "pirogi-s-nachinkoy"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Творожный пирог",
+            "slug": "tvorojniy-pirog"
+        }
+    ]
+}

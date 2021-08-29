@@ -1,0 +1,313 @@
+{
+    "source": "https://vkuso.ru/recipe/myasnye-ruletiki-s-ovoshhnym-sousom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Мясные рулетики с овощным соусом",
+    "description": "Сухость этой выпечки компенсирует вкусный овощной соус, приготовленный и поданный отдельно от блюда.",
+    "note": "Для начинки можно использовать любой фарш: свиной, говяжий, бараний или смесь нескольких сортов. Состав ингредиентов для овощного соуса также можно варьировать: использовать только кабачки или только баклажаны, добавить обжаренный репчатый лук.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5d/311daaf51e0a35d_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "150",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1,5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1/5",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "1/4",
+                    "type": "пакетика",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "мясной фарш",
+                    "slug": "myasnoy-farsh",
+                    "notes": null,
+                    "value": "200-300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "баклажаны",
+                    "slug": "baklajany",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кабачки",
+                    "slug": "kabachki",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "зубчик",
+                    "amount": null
+                },
+                {
+                    "name": "перец красный молотый",
+                    "slug": "perec-krasniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить тесто из просеянной пшеничной муки, сырого желтка, сахарного песка, соли, растопленного сливочного масла, молока, в котором предварительно растворены дрожжи. Тесто должно быть крутым, не липнуть к рукам. При необходимости можно добавить муку.",
+            "image": null
+        },
+        {
+            "text": "Приготовить фарш, добавить яйцо, соль и перец, перемешать. Порезать кубиками репчатый лук. Из готового теста раскатать лепешку прямоугольной формы, выложить фарш, лук, очищенный тертый сырой картофель. Посолить по вкусу и посыпать рубленой зеленью.",
+            "image": null
+        },
+        {
+            "text": "Свернуть лепешку рулетом, нарезать на кусочки по пять сантиметров толщиной. Каждый кусочек приплюснуть и выложить на смазанный маслом противень. Печь при 200 градусах по 10–15 минут с каждой стороны до румяного цвета.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления соуса нарезать кубиками баклажаны, кабачок, болгарский сладкий перец, помидоры. Обжарить все ингредиенты на сливочном масле и пропустить через мясорубку. Измельчить чеснок, добавить в массу, соль, черный перец и молотая паприка – по вкусу. Перемешать. Подать к овощной соус к мясным рулетикам.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Горячие закуски",
+            "slug": "goryachie-zakuski"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Закуска из баклажанов",
+            "slug": "zakuska-iz-baklajanov"
+        },
+        {
+            "name": "Закуска из кабачков",
+            "slug": "zakuska-iz-kabachkov"
+        },
+        {
+            "name": "Закуски для фуршета",
+            "slug": "zakuski-dlya-fursheta"
+        },
+        {
+            "name": "Закуски на день рождения",
+            "slug": "zakuski-na-den-rojdeniya"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Мясной рулет",
+            "slug": "myasnoy-rulet"
+        },
+        {
+            "name": "Мясо на Новый год",
+            "slug": "myaso-na-noviy-god"
+        },
+        {
+            "name": "Новогодние закуски",
+            "slug": "novogodnie-zakuski"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Рулет из фарша",
+            "slug": "rulet-iz-farsha"
+        },
+        {
+            "name": "Рулеты",
+            "slug": "rulety"
+        },
+        {
+            "name": "Рулеты на Новый год",
+            "slug": "rulety-na-noviy-god"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

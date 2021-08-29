@@ -1,0 +1,241 @@
+{
+    "source": "https://vkuso.ru/recipe/tvorozhnyj-tort-blanmanzhe-s-fruktami/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Творожный торт бланманже с фруктами",
+    "description": null,
+    "note": null,
+    "cuisine": "Французская кухня",
+    "cuisine_slug": "francuzskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/fe/609ddc4cbd4e3fe_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "3/4",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для коржей",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для бланманже",
+            "list": [
+                {
+                    "name": "желе бесцветное",
+                    "slug": "jele-bescvetnoe",
+                    "notes": null,
+                    "value": "4",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "бананы",
+                    "slug": "banany",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "персики",
+                    "slug": "persiki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления коржа необходимо, смешать все подготовленные ингредиенты, тесто поместить в разъемную форму, промазанную маслом. Выпекать корж до золотистой корочки, при температуре 200 градусов. Готовый корж остудить и пропитать сахарным сиропом.",
+            "image": null
+        },
+        {
+            "text": "Желатин замочить в молоке, оставить до набухания, а потом прогреть на водяной бане. Творог, сметану и сахарный песок пробить блендером до однородности. Соединить творожную смесь и желатин с молоком.",
+            "image": null
+        },
+        {
+            "text": "Бананы измельчить, выложить на корж и залить готовым бланманже. Творожный торт бланманже с фруктами украсить дольками персиков и залить желе. Убрать на холод до полного застывания.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Банановые торты",
+            "slug": "bananovye-torty"
+        },
+        {
+            "name": "Бланманже",
+            "slug": "blanmanje"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Выпечка с бананами",
+            "slug": "vypechka-s-bananami"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Десерт из бананов",
+            "slug": "desert-iz-bananov"
+        },
+        {
+            "name": "Десерт с персиками",
+            "slug": "desert-s-persikami"
+        },
+        {
+            "name": "Десерты с желатином",
+            "slug": "deserty-s-jelatinom"
+        },
+        {
+            "name": "Детский праздник",
+            "slug": "detskiy-prazdnik"
+        },
+        {
+            "name": "Лакто-ово-вегетарианство",
+            "slug": "lakto-ovo-vegetarianstvo"
+        },
+        {
+            "name": "Новогодний торт",
+            "slug": "novogodniy-tort"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        },
+        {
+            "name": "Творожный торт",
+            "slug": "tvorojniy-tort"
+        },
+        {
+            "name": "Торт с желе",
+            "slug": "tort-s-jele"
+        },
+        {
+            "name": "Торт с персиками",
+            "slug": "tort-s-persikami"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        },
+        {
+            "name": "Торты с фруктами",
+            "slug": "torty-s-fruktami"
+        },
+        {
+            "name": "Французская выпечка",
+            "slug": "francuzskaya-vypechka"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

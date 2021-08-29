@@ -1,0 +1,167 @@
+{
+    "source": "https://vkuso.ru/recipe/slivochnyj-sup-iz-gribov-s-plavlenym-syrom/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Сливочный суп из грибов с плавленым сыром",
+    "description": "Для приготовления ароматного первого блюда понадобится не более получаса. Грибы хорошо сочетаются со сливками и плавленым сыром.",
+    "note": "Готовое блюдо можно украсить листочками петрушки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/31/7c817695a0e7731_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый",
+                    "slug": "syr-plavleniy",
+                    "notes": null,
+                    "value": "70-100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": " (сливки)",
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Клубни картофеля очистить, нарезать кубиками средней величины, залить их водой. Варить после закипания в течение пяти-семи минут.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/8c/ca1201949da478c_434x295.jpg"
+        },
+        {
+            "text": "Для приготовления обжарки нарезать репчатый лук и шампиньоны, натереть морковь.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/c8/94d97efabedb1c8_434x295.jpg"
+        },
+        {
+            "text": "Влить немного растительного масла, грибы и овощи жарить три минуты, помешивать.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/53/3da67da5ec56c53_434x295.jpg"
+        },
+        {
+            "text": "Смесь добавить в суп, варить все вместе до десяти минут.",
+            "image": null
+        },
+        {
+            "text": "Плавленый сыр нарезать кусочками, добавить в кастрюлю вместе со сливками или молоком. Дать закипеть, снять с огня.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/22/e52f6718599ae22_434x295.jpg"
+        },
+        {
+            "text": "Порубить зеленый укроп, положить в суп, накрыть крышкой на десять минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Грибной суп",
+            "slug": "gribnoy-sup"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из шампиньонов",
+            "slug": "sup-iz-shampinonov"
+        },
+        {
+            "name": "Суп с плавленым сыром",
+            "slug": "sup-s-plavlenym-syrom"
+        },
+        {
+            "name": "Сырный суп",
+            "slug": "syrniy-sup"
+        },
+        {
+            "name": "Сырный суп с грибами",
+            "slug": "syrniy-sup-s-gribami"
+        }
+    ]
+}

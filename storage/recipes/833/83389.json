@@ -1,0 +1,107 @@
+{
+    "source": "https://vkuso.ru/recipe/83389-kompot-iz-klubniki-i-chereshni-s-limonnoj-kislotoj/",
+    "category": "Заготовки",
+    "category_slug": "zagotovki",
+    "title": "Компот из клубники и черешни с лимонной кислотой",
+    "description": "Вкусный, освежающий напиток для зимы.",
+    "note": "В сладкую черешню можно добавить лимонную кислоту, в кислую вишню – дополнительную норму сахара.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a8/8521479f9b868a8_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час 20 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "клубника",
+                    "slug": "klubnika",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "черешня",
+                    "slug": "chereshnya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "700",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кислота лимонная",
+                    "slug": "kislota-limonnaya",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Ягоды вымыть, всыпать в банки.",
+            "image": null
+        },
+        {
+            "text": "Растворить сахарный песок в кипящей воде, прогреть пять или семь минут.",
+            "image": null
+        },
+        {
+            "text": "Всыпать лимонную кислоту.",
+            "image": null
+        },
+        {
+            "text": "Влить сироп, банки закатать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Компот в банках на зиму",
+            "slug": "kompot-v-bankah-na-zimu"
+        },
+        {
+            "name": "Компот из виктории на зиму",
+            "slug": "kompot-iz-viktorii-na-zimu"
+        },
+        {
+            "name": "Компот из клубники на зиму",
+            "slug": "kompot-iz-klubniki-na-zimu"
+        },
+        {
+            "name": "Компот из черешни на зиму",
+            "slug": "kompot-iz-chereshni-na-zimu"
+        },
+        {
+            "name": "Компот из ягод на зиму",
+            "slug": "kompot-iz-yagod-na-zimu"
+        },
+        {
+            "name": "Компоты на зиму",
+            "slug": "kompoty-na-zimu"
+        }
+    ]
+}

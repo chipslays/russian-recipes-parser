@@ -1,0 +1,171 @@
+{
+    "source": "https://vkuso.ru/recipe/moldavskaya-placinda-s-syrom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Молдавская плацинда с сыром",
+    "description": null,
+    "note": "Для раскатывания теста лучше смазать стол маслом, а не присыпать мукой, потому как при жарке она будет подгорать.",
+    "cuisine": "Молдавская кухня",
+    "cuisine_slug": "moldavskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/34/1f7271790fe7734_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко кислое",
+                    "slug": "moloko-kisloe",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сыр мягкий",
+                    "slug": "syr-myagkiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Из кислого молока, яйца, соды, оливкового масла, сахара, соли и муки вымесить тесто. Оно должно выйти не крутое и не липнуть к рукам. Поделить его на 4-5 частей, стол смазать маслом, раскатать круг (25-30 сантиметров). Потом нарезать его на 8 лепестков (сделать ножом надрезы по окружности 2-5 сантиметра).",
+            "image": null
+        },
+        {
+            "text": "Раскатать тесто опять (в процессе работы оно сильно поднимается). Выложить начинку и закрыть ее, накладывая противоположные лепестки один на другой. Серединка должна быть полностью закрыта. Начинка: много зелени (укроп, зеленый лук), мягкий сыр.",
+            "image": null
+        },
+        {
+            "text": "Возможна комбинация из зелени и яйца (на 1 плацинду 1 яйцо). Жарить на сильно разогретой сковородке с толстым дном, налив 0,5 сантиметра масла. Уложить молдавскую плацинду с сыром швом вниз. Прожарить до золотистой корочки. Затем перевернуть и жарить вторую сторону.",
+            "image": null
+        },
+        {
+            "text": "В конце подержать немного под крышкой. На одной порции масла можно жарить, приблизительно, 2-3 плацинды, но нужно следить, чтобы оно не подгорало (будет горчить). Готовую плацинду выложить на блюдо и подать  к чаю или кофе.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без муки",
+            "slug": "vypechka-bez-muki"
+        },
+        {
+            "name": "Выпечка на кислом молоке",
+            "slug": "vypechka-na-kislom-moloke"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "Лепешки",
+            "slug": "lepeshki"
+        },
+        {
+            "name": "Лепешки без дрожжей",
+            "slug": "lepeshki-bez-drojjey"
+        },
+        {
+            "name": "Лепешки на молоке",
+            "slug": "lepeshki-na-moloke"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог на молоке",
+            "slug": "pirog-na-moloke"
+        },
+        {
+            "name": "Пирог с луком и яйцом",
+            "slug": "pirog-s-lukom-i-yaycom"
+        },
+        {
+            "name": "Пироги с начинкой",
+            "slug": "pirogi-s-nachinkoy"
+        },
+        {
+            "name": "Пироги с сыром",
+            "slug": "pirogi-s-syrom"
+        },
+        {
+            "name": "Плацинда",
+            "slug": "placinda"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сырные лепешки",
+            "slug": "syrnye-lepeshki"
+        }
+    ]
+}

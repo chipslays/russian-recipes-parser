@@ -1,0 +1,148 @@
+{
+    "source": "https://vkuso.ru/recipe/zharenye-pirozhki-s-kurinoj-grudkoj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Жареные пирожки с куриной грудкой",
+    "description": null,
+    "note": "Эти пирожки можно приготовить и с другими начинками, например, перемешать обжаренный лук с размятым картофелем или взять рис с яйцом, или капусту и т.п.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/41/637fa053d329f41_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "грибы",
+                    "slug": "griby",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "куриная грудка",
+                    "slug": "kurinaya-grudka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Залить теплой водой дрожжи, всыпать соль, сахар, влить масло, подсыпать постепенно с перемешиванием просеянную муку, должно получится мягкое тесто. Переложить его в миску, прикрыть х/б тканью, дать постоять в тепле около получаса или час. Из отварной курятины и обжаренных с луком грибов приготовить начинку.",
+            "image": null
+        },
+        {
+            "text": "Созревшее тесто раскатать в пласт, вырезать, подходящей по диаметру формочкой, кружки, положить по ложке начинки, края защипать. Обжарить жареные пирожки с куриной грудкой в хорошо прогретом масле до корочки золотистого цвета.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Дрожжевые пирожки",
+            "slug": "drojjevye-pirojki"
+        },
+        {
+            "name": "Жареные пирожки",
+            "slug": "jarenye-pirojki"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки на воде",
+            "slug": "pirojki-na-vode"
+        },
+        {
+            "name": "Пирожки с грибами",
+            "slug": "pirojki-s-gribami"
+        },
+        {
+            "name": "Пирожки с курицей",
+            "slug": "pirojki-s-kuricey"
+        }
+    ]
+}

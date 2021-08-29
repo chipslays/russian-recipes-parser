@@ -1,0 +1,155 @@
+{
+    "source": "https://vkuso.ru/recipe/prazdnichnoe-zalivnoe-iz-gorbushi/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Праздничное заливное из горбуши",
+    "description": "Вкусное и недорогое блюдо, несложное в приготовлении.",
+    "note": "К готовому блюду можно подать зелень и любимые соусы.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b1/65a6dcb28f7bab1_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/mx97Suk5cKM?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "горбуша",
+                    "slug": "gorbusha",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "уксус",
+                    "slug": "uksus",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец душистый горошком",
+                    "slug": "perec-dushistiy-goroshkom",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Горбушу очистить, нарезать порциями, довести до кипения вместе с головой и хвостом.",
+            "image": null
+        },
+        {
+            "text": "Добавить лук и морковь, лавровый лист, перец, соль.",
+            "image": null
+        },
+        {
+            "text": "Все вместе варить полчаса, долить уксус.",
+            "image": null
+        },
+        {
+            "text": "Горбушу вытащить, обрезки выбросить, мясо разделать на кусочки.",
+            "image": null
+        },
+        {
+            "text": "Развести желатин в отваре, перемешать с остальными продуктами, варить 15 минут.",
+            "image": null
+        },
+        {
+            "text": "На тарелки выложить кусочки филе, нарезанную морковь, залить бульоном и поставить для застывания.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Закуски с красной рыбой",
+            "slug": "zakuski-s-krasnoy-ryboy"
+        },
+        {
+            "name": "Заливная рыба",
+            "slug": "zalivnaya-ryba"
+        },
+        {
+            "name": "Заливное",
+            "slug": "zalivnoe"
+        },
+        {
+            "name": "Заливное на Новый Год",
+            "slug": "zalivnoe-na-noviy-god"
+        },
+        {
+            "name": "Новогодние закуски",
+            "slug": "novogodnie-zakuski"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рыба на Новый год",
+            "slug": "ryba-na-noviy-god"
+        },
+        {
+            "name": "Холодные закуски",
+            "slug": "holodnye-zakuski"
+        }
+    ]
+}

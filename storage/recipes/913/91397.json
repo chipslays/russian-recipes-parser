@@ -1,0 +1,291 @@
+{
+    "source": "https://vkuso.ru/recipe/91397-francuzskij-sous-demiglas-s-krasnym-vinom/",
+    "category": "Соусы",
+    "category_slug": "sousy",
+    "title": "Французский соус «Демиглас» с красным вином",
+    "description": "Шедевр французской кухни, название в переводе означает «полулед». При замораживании масса не твердеет.",
+    "note": "В оригинальном рецепте используется говядина, по желанию ее можно заменить на курицу или свинину.",
+    "cuisine": "Французская кухня",
+    "cuisine_slug": "francuzskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/6d/286311db0bcbe6d_660x440.jpg",
+    "difficulty": "Высокая",
+    "cooktime": "7 часов",
+    "preparetime": "24 часа",
+    "video": "https://www.youtube.com/embed/yhjQiFXeaTk?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 10 порции",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "6",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "говядина на кости",
+                    "slug": "govyadina-na-kosti",
+                    "notes": null,
+                    "value": "2",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "вино красное",
+                    "slug": "vino-krasnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "бутылка",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сельдерей",
+                    "slug": "selderey",
+                    "notes": " (корень и стебли)",
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кабачки",
+                    "slug": "kabachki",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "баклажаны",
+                    "slug": "baklajany",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соус томатный",
+                    "slug": "sous-tomatniy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный горошком",
+                    "slug": "perec-cherniy-goroshkom",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец душистый горошком",
+                    "slug": "perec-dushistiy-goroshkom",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "гвоздика",
+                    "slug": "gvozdika",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "бутона",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": "1",
+                    "type": "лист",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "тимьян",
+                    "slug": "timyan",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "розмарин",
+                    "slug": "rozmarin",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Говяжьи кости и мясо вымыть.",
+            "image": null
+        },
+        {
+            "text": "Мякоть нарезать.",
+            "image": null
+        },
+        {
+            "text": "Кости выложить на противень, печь при температуре в двести градусов, время – один час.",
+            "image": null
+        },
+        {
+            "text": "Продукт вынуть.",
+            "image": null
+        },
+        {
+            "text": "Поставить в духовой шкаф мясо в миске на пятнадцать минут.",
+            "image": null
+        },
+        {
+            "text": "Вынуть, сок слить, мясо положить в холод.",
+            "image": null
+        },
+        {
+            "text": "Вымыть овощи, очистить и нарезать крупными кусочками.",
+            "image": null
+        },
+        {
+            "text": "Репчатый лук и морковь обжарить.",
+            "image": null
+        },
+        {
+            "text": "В другую сковороду влить мясной сок, положить нарезанный баклажан, кабачок, сельдерей, болгарский перец.",
+            "image": null
+        },
+        {
+            "text": "Кости выложить на противень с бортиками, сверху – все овощи, влить красное вино.",
+            "image": null
+        },
+        {
+            "text": "Тушить полчаса.",
+            "image": null
+        },
+        {
+            "text": "Переложить продукты в кастрюлю.",
+            "image": null
+        },
+        {
+            "text": "Поставить емкость с крышкой на тихий огонь на сутки.",
+            "image": null
+        },
+        {
+            "text": "Снять с огня, кости вынуть, соус процедить.",
+            "image": null
+        },
+        {
+            "text": "Мясо из холодильника обжарить и положить в основную массу.",
+            "image": null
+        },
+        {
+            "text": "Добавить специи: гвоздику, лавровый лист, душистый и черный перец, укроп, чеснок, петрушку, розмарин, тимьян.",
+            "image": null
+        },
+        {
+            "text": "Томить соус еще два часа.",
+            "image": null
+        },
+        {
+            "text": "Влить томатный соус с вином.",
+            "image": null
+        },
+        {
+            "text": "Лавровый лист вынуть.",
+            "image": null
+        },
+        {
+            "text": "Посолить по вкусу, всыпать сахарный песок.",
+            "image": null
+        },
+        {
+            "text": "Массу тушить еще два с половиной часа.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Соус Демиглас",
+            "slug": "sous-demiglas"
+        }
+    ]
+}

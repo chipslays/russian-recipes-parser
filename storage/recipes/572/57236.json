@@ -1,0 +1,155 @@
+{
+    "source": "https://vkuso.ru/recipe/makarony-pod-molochno-syrnym-sousom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Макароны под молочно-сырным соусом",
+    "description": "Несложное и вкусное блюдо для любителей макарон под любым соусом.",
+    "note": "Для приготовления блюда лучше использовать макароны небольшого размера. По желанию готовую пасту можно посыпать рубленой зеленью.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/26/7434b9a0210e426_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "450",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "макароны",
+                    "slug": "makarony",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить макароны так, как написано на упаковке, воду подсолить.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/e6/81bdeac6e071fe6_434x295.jpg"
+        },
+        {
+            "text": "Полутвердый сыр натереть на крупной терке.",
+            "image": null
+        },
+        {
+            "text": "Растопить в сотейнике сливочное масло, помешивать лопаточкой.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/90/729b1bed0376790_434x295.jpg"
+        },
+        {
+            "text": "Всыпать муку и хорошо перемешать.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/e5/06e4f02207912e5_434x295.jpg"
+        },
+        {
+            "text": "Подлить молоко, помешивать до закипания.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/72/d77a16fe8528c72_434x295.jpg"
+        },
+        {
+            "text": "Огонь выключить, добавить тертый твердый сыр, любые специи, например, паприку и молотый чеснок. Еще раз хорошо перемешать.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/63/a243c7f1ff79e63_434x295.jpg"
+        },
+        {
+            "text": "Можно добавить немного воды или молока, соус станет глянцевым, гладким.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/e6/157c0c92c3685e6_434x295.jpg"
+        },
+        {
+            "text": "Перелить в готовую пасту.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/26/7434b9a0210e426_434x295.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Вторые блюда из макарон",
+            "slug": "vtorye-blyuda-iz-makaron"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Гарнир к курице",
+            "slug": "garnir-k-kurice"
+        },
+        {
+            "name": "Гарниры",
+            "slug": "garniry"
+        },
+        {
+            "name": "Макароны с соусом",
+            "slug": "makarony-s-sousom"
+        },
+        {
+            "name": "Макароны с сыром",
+            "slug": "makarony-s-syrom"
+        },
+        {
+            "name": "Паста",
+            "slug": "pasta"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ужин из макарон",
+            "slug": "ujin-iz-makaron"
+        }
+    ]
+}

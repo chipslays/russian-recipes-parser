@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/101740-miso-sup-s-treskoj-i-krevetkami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Мисо-суп с треской и креветками",
+    "description": "Сытный суп с пикантным вкусом водорослей комбу и мисо-пасты темного цвета.",
+    "note": "В готовое блюдо всыпать нарезанную зелень.",
+    "cuisine": "Японская кухня",
+    "cuisine_slug": "yaponskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5c/faa7bc1e81cd05c_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 3 порции",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "4",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "филе трески",
+                    "slug": "file-treski",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "креветки",
+                    "slug": "krevetki",
+                    "notes": null,
+                    "value": "12",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "водоросли комбу",
+                    "slug": "vodorosli-kombu",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пластинка",
+                    "amount": null
+                },
+                {
+                    "name": "мисо-паста",
+                    "slug": "miso-pasta",
+                    "notes": " (темная)",
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": "5",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сушеные водоросли протереть чистой и влажной тряпочкой.",
+            "image": null
+        },
+        {
+            "text": "Выложить в кастрюлю, влить холодную воду.",
+            "image": null
+        },
+        {
+            "text": "Поставить на тихий огонь.",
+            "image": null
+        },
+        {
+            "text": "Филе трески нарезать на кусочки среднего размера, очистить креветки.",
+            "image": null
+        },
+        {
+            "text": "Продукты отправить в кастрюлю, довести суп до кипения.",
+            "image": null
+        },
+        {
+            "text": "Вынуть комбу, добавить разведенную мисо-пасту.",
+            "image": null
+        },
+        {
+            "text": "Суп довести до кипения еще раз, подать горячим.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Мисо суп",
+            "slug": "miso-sup"
+        },
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Рыбный суп",
+            "slug": "rybniy-sup"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из морепродуктов",
+            "slug": "sup-iz-moreproduktov"
+        },
+        {
+            "name": "Суп из трески",
+            "slug": "sup-iz-treski"
+        },
+        {
+            "name": "Суп с креветками",
+            "slug": "sup-s-krevetkami"
+        }
+    ]
+}

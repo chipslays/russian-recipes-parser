@@ -1,0 +1,95 @@
+{
+    "source": "https://vkuso.ru/recipe/klassicheskij-kompot-iz-svezhix-yablok-s-saxarom/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Классический компот из свежих яблок с сахаром",
+    "description": "Вкусное и полезное дополнение к семейному ужину.",
+    "note": "Чтобы напиток был ярче, для приготовления компота лучше использовать розовые или красные яблоки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/85/399fda596be8085_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/fSLH9T5V76k?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Поставить на огонь кастрюлю с водой.",
+            "image": null
+        },
+        {
+            "text": "Яблоки вымыть, разрезать, удалить семенные камеры.",
+            "image": null
+        },
+        {
+            "text": "В закипевшую воду всыпать яблоки, довести до повторного кипения.",
+            "image": null
+        },
+        {
+            "text": "Всыпать сахарный песок, перемешать до растворения.",
+            "image": null
+        },
+        {
+            "text": "Напиток подержать на огне пять минут, затем настоять в течение получаса.",
+            "image": null
+        },
+        {
+            "text": "Процедить.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Домашний компот",
+            "slug": "domashniy-kompot"
+        },
+        {
+            "name": "Классические рецепты",
+            "slug": "klassicheskie-recepty"
+        },
+        {
+            "name": "Компот из яблок",
+            "slug": "kompot-iz-yablok"
+        },
+        {
+            "name": "Фруктовые напитки",
+            "slug": "fruktovye-napitki"
+        }
+    ]
+}

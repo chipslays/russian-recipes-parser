@@ -1,0 +1,192 @@
+{
+    "source": "https://vkuso.ru/recipe/pirozhki-s-telyachej-pechenyu-po-polski/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пирожки с телячьей печенью по-польски",
+    "description": null,
+    "note": null,
+    "cuisine": "Польская кухня",
+    "cuisine_slug": "polskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f1/747b0aaf7ad7ff1_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "маргарина",
+                    "slug": "margarina",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжей",
+                    "slug": "drojjey",
+                    "notes": null,
+                    "value": "15",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйцо",
+                    "slug": "yayco",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "2/3",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "молока",
+                    "slug": "moloka",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахара",
+                    "slug": "sahara",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "телячьей печени",
+                    "slug": "telyachey-pecheni",
+                    "notes": null,
+                    "value": "125",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "1/3",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "сала",
+                    "slug": "sala",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Из маргарина, молока, муки, дрожжей, сахара, яйца и соли приготовить тесто, которое затем раскатать толщиной в полсантиметра и разрезать на прямоугольники размером 6х8 см.",
+            "image": null
+        },
+        {
+            "text": "В кастрюлю уложить нарезанную тонкими ломтиками печень без пленок, нарезанное кубиками сало, порезанный кольцами лук, влить небольшое количество воды.",
+            "image": null
+        },
+        {
+            "text": "Потушить в районе 10-15 минут, если нужно – доливать воду, затем порубить до однородности, перемешать с перцем и солью.",
+            "image": null
+        },
+        {
+            "text": "На прямоугольники из теста выложить начинку, придать форму пирожков и разложить на смазанный противень швами вниз.",
+            "image": null
+        },
+        {
+            "text": "После того как пирожки с телячьей печенью по-польски подойдут, их нужно смазать яйцом и поставить в духовку, разогретую до средней температуры.",
+            "image": null
+        },
+        {
+            "text": "Пирожки запекаются до образования золотистой корочки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка на маргарине",
+            "slug": "vypechka-na-margarine"
+        },
+        {
+            "name": "Дрожжевые пирожки",
+            "slug": "drojjevye-pirojki"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки дрожжевые в духовке",
+            "slug": "pirojki-drojjevye-v-duhovke"
+        },
+        {
+            "name": "Пирожки на молоке",
+            "slug": "pirojki-na-moloke"
+        },
+        {
+            "name": "Пирожки с ливером",
+            "slug": "pirojki-s-liverom"
+        },
+        {
+            "name": "Пирожки с печенью",
+            "slug": "pirojki-s-pechenyu"
+        }
+    ]
+}

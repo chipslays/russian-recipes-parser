@@ -1,0 +1,337 @@
+{
+    "source": "https://vkuso.ru/recipe/108307-kotlety-v-suxaryax-s-medovym-sousom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Котлеты в сухарях с медовым соусом",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/28/ddcc542b37e6228_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "50 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "свиной фарш",
+                    "slug": "svinoy-farsh",
+                    "notes": null,
+                    "value": "350",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "говяжий фарш",
+                    "slug": "govyajiy-farsh",
+                    "notes": null,
+                    "value": "350",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб белый",
+                    "slug": "hleb-beliy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "4-5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для салата",
+            "list": [
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "салат романо",
+                    "slug": "salat-romano",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кочан",
+                    "amount": null
+                },
+                {
+                    "name": "базилик",
+                    "slug": "bazilik",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "веточки",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для соуса",
+            "list": [
+                {
+                    "name": "помидоры в собственном соку",
+                    "slug": "pomidory-v-sobstvennom-soku",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук-шалот",
+                    "slug": "luk-shalot",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "зубчик",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Порезать хлеб на маленькие кубики, положить на противень, подсушивать 20-25 минут, соблюдать температуру 170 градусов.",
+            "image": null
+        },
+        {
+            "text": "Помешивать, чтобы сухарики не подгорели.",
+            "image": null
+        },
+        {
+            "text": "Сделать фарш.",
+            "image": null
+        },
+        {
+            "text": "Измельчить в блендере лук и чеснок.",
+            "image": null
+        },
+        {
+            "text": "Соединить фарши в емкости, положить лук и чеснок.",
+            "image": null
+        },
+        {
+            "text": "Налить воду, посыпать перцем, солью.",
+            "image": null
+        },
+        {
+            "text": "Порезать на кубики сливочное масло, положить в фарш, вымесить.",
+            "image": null
+        },
+        {
+            "text": "Сформировать небольшие котлетки, обвалять в сухарях, отправить в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Сделать соус: измельчить чеснок, лук.",
+            "image": null
+        },
+        {
+            "text": "Обжарить на оливковом масле.",
+            "image": null
+        },
+        {
+            "text": "Положить томаты, мед, варить 15 минут, помешивая.",
+            "image": null
+        },
+        {
+            "text": "Убрать соус с плиты, посыпать перцем, солью, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Обжарить котлеты по 3 минуты с каждой стороны.",
+            "image": null
+        },
+        {
+            "text": "Переложить на противень, застеленный пергаментом.",
+            "image": null
+        },
+        {
+            "text": "Отправить в духовку на 12-13 минут, соблюдать температуру 180-190 градусов.",
+            "image": null
+        },
+        {
+            "text": "Перебрать листья салата, вымыть, просушить, порвать на крупные куски.",
+            "image": null
+        },
+        {
+            "text": "Крупно порезать помидоры, соединить с базиликом и листьями салата.",
+            "image": null
+        },
+        {
+            "text": "Заправить оливковым маслом.",
+            "image": null
+        },
+        {
+            "text": "Посыпать перцем, солью.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из говядины",
+            "slug": "vtorye-blyuda-iz-govyadiny"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Вторые блюда из свинины",
+            "slug": "vtorye-blyuda-iz-svininy"
+        },
+        {
+            "name": "Котлеты",
+            "slug": "kotlety"
+        },
+        {
+            "name": "Котлеты без яиц",
+            "slug": "kotlety-bez-yaic"
+        },
+        {
+            "name": "Котлеты из говядины",
+            "slug": "kotlety-iz-govyadiny"
+        },
+        {
+            "name": "Мясные котлеты",
+            "slug": "myasnye-kotlety"
+        },
+        {
+            "name": "Ужин из говядины",
+            "slug": "ujin-iz-govyadiny"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из свинины",
+            "slug": "ujin-iz-svininy"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "source": "https://vkuso.ru/recipe/chebureki-na-kefire-s-myasnym-farshem/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Чебуреки на кефире с мясным фаршем",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/7b/afb06e5682a9f7b_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "мясной фарш",
+                    "slug": "myasnoy-farsh",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "бульон мясной",
+                    "slug": "bulon-myasnoy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Тесто на кефире получается не сухое, чуть-чуть хрустящее, тоненькое, как «бархат». В емкость налить кефир, вбить яйцо, насыпать соль. Взбить вилочкой. Насыпать муку, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Густую массу положить на стол, замесить среднее тесто. Отставить минут на двадцать. Приготовить начинку: смешать фарш с луком, специями и бульоном или водой. Размешать. Начинка должна быть немного жидкой.",
+            "image": null
+        },
+        {
+            "text": "Разделить тесто на десять кусочков. Каждый раскатать, в центр положить начинку. Сделать чебурек. Чтобы не вытек сок, краешки раскатать скалкой. Лишнее тесто срезать. Жарить чебуреки на кефире на растительном масле с обеих сторон до румяного цвета.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Тесто домашнее",
+            "slug": "testo-domashnee"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка на кефире",
+            "slug": "vypechka-na-kefire"
+        },
+        {
+            "name": "Выпечка с мясом и фаршем",
+            "slug": "vypechka-s-myasom-i-farshem"
+        },
+        {
+            "name": "Выпечка с фаршем",
+            "slug": "vypechka-s-farshem"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Тесто для чебуреков",
+            "slug": "testo-dlya-cheburekov"
+        },
+        {
+            "name": "Тесто на кефире",
+            "slug": "testo-na-kefire"
+        },
+        {
+            "name": "Чебуреки",
+            "slug": "chebureki"
+        }
+    ]
+}

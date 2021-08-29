@@ -1,0 +1,191 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnie-kurniki-s-kartofelem-i-kurinym-file/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Домашние курники с картофелем и куриным филе",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/76/af96a09d5152976_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "800",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "маргарин",
+                    "slug": "margarin",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук красный",
+                    "slug": "luk-krasniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить тесто: насыпать в сметану соль и соду, положить мягкий маргарин. Насыпать в массу столько муки, чтобы тесто было, как пластилин и не прилипало к рукам. Отставить минут на пятнадцать. Куриную грудку порезать на небольшие кусочки. Картофель порезать на кубики. Положить картофель к грудкам. Мелко порезать лук. Добавить к картофелю с мясом. Все размешать, посыпать перцем, солью.",
+            "image": null
+        },
+        {
+            "text": "Взять чуть-чуть теста, сделать блины по размеру, как ладонь. Внутрь положить начинку. Свернуть в виде полузакрытой корзиночки, защепляя краешки, в центре оставить открытое место. Положить на противень специальную бумагу, намазанную растительным маслом. На бумагу положить курники. Подогреть до 220 градусов духовку, готовить домашние курники минут двадцать, пока не образуется румяная корочка.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блинный пирог",
+            "slug": "blinniy-pirog"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка на маргарине",
+            "slug": "vypechka-na-margarine"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Курица с баклажанами",
+            "slug": "kurica-s-baklajanami"
+        },
+        {
+            "name": "Курица с картошкой",
+            "slug": "kurica-s-kartoshkoy"
+        },
+        {
+            "name": "Курица с картошкой в духовке",
+            "slug": "kurica-s-kartoshkoy-v-duhovke"
+        },
+        {
+            "name": "Курник",
+            "slug": "kurnik"
+        },
+        {
+            "name": "Курник с курицей и картошкой",
+            "slug": "kurnik-s-kuricey-i-kartoshkoy"
+        },
+        {
+            "name": "Пирог без яиц",
+            "slug": "pirog-bez-yaic"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки без дрожжей",
+            "slug": "pirojki-bez-drojjey"
+        },
+        {
+            "name": "Пирожки в духовке",
+            "slug": "pirojki-v-duhovke"
+        },
+        {
+            "name": "Пирожки на сметане",
+            "slug": "pirojki-na-smetane"
+        },
+        {
+            "name": "Пирожки с картошкой",
+            "slug": "pirojki-s-kartoshkoy"
+        },
+        {
+            "name": "Пирожки с курицей",
+            "slug": "pirojki-s-kuricey"
+        }
+    ]
+}

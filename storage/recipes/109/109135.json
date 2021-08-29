@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/109135-sladkie-grenki-s-koricej-i-muskatnym-orexom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Сладкие гренки с корицей и мускатным орехом",
+    "description": null,
+    "note": "Продукт можно разогревать в микроволновой печи или в духовке, его вкус от этого не ухудшится.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/60/37803e56e9e0e60_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "20 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "хлеб белый",
+                    "slug": "hleb-beliy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сахар коричневый",
+                    "slug": "sahar-korichneviy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мускатный орех",
+                    "slug": "muskatniy-oreh",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "корица молотая",
+                    "slug": "korica-molotaya",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Батон белого хлеба разрезать вдоль на восемь полосок.",
+            "image": null
+        },
+        {
+            "text": "В небольшой емкости взбить вместе сахарную пудру и молоко, добавить мускатный орех, коричневый сахар, молотую корицу, сырые куриные яйца.",
+            "image": null
+        },
+        {
+            "text": "Каждую полоску батона обмакнуть в полученную смесь и обжарить на сковороде, на сливочном масле.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Гренки",
+            "slug": "grenki"
+        },
+        {
+            "name": "Гренки из белого хлеба",
+            "slug": "grenki-iz-belogo-hleba"
+        },
+        {
+            "name": "Гренки из хлеба",
+            "slug": "grenki-iz-hleba"
+        },
+        {
+            "name": "Гренки с яйцом",
+            "slug": "grenki-s-yaycom"
+        },
+        {
+            "name": "Гренки с яйцом и молоком",
+            "slug": "grenki-s-yaycom-i-molokom"
+        },
+        {
+            "name": "Закуски из яиц",
+            "slug": "zakuski-iz-yaic"
+        }
+    ]
+}

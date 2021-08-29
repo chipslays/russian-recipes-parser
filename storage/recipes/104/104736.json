@@ -1,0 +1,267 @@
+{
+    "source": "https://vkuso.ru/recipe/104736-salat-olive-s-kuricej-i-belymi-gribami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Оливье» с курицей и белыми грибами",
+    "description": "«Оливье» с лесным ароматом.",
+    "note": "Салат можно подать порционно, если разложить смесь в тарталетки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ab/75c107773fc13ab_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час 30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "курица",
+                    "slug": "kurica",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грибы белые",
+                    "slug": "griby-belye",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы соленые",
+                    "slug": "ogurcy-solenye",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "зеленый горошек консервированный",
+                    "slug": "zeleniy-goroshek-konservirovanniy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "банки",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "хрен",
+                    "slug": "hren",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить картофель и морковь, куриное мясо.",
+            "image": null
+        },
+        {
+            "text": "Ингредиенты нарезать кубиками вместе с соленым огурцом.",
+            "image": null
+        },
+        {
+            "text": "Отцедить зеленый горошек.",
+            "image": null
+        },
+        {
+            "text": "Белые грибы промыть, нарезать ломтиками и обжарить до готовности.",
+            "image": null
+        },
+        {
+            "text": "Все составляющие перемешать, заправить майонезом, в который подмешан тертый хрен.",
+            "image": null
+        },
+        {
+            "text": "Перемешать, украсить веточками укропа.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Мясные салаты на Новый год",
+            "slug": "myasnye-salaty-na-noviy-god"
+        },
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новогодний салат с курицей",
+            "slug": "novogodniy-salat-s-kuricey"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Оливье с грибами",
+            "slug": "olive-s-gribami"
+        },
+        {
+            "name": "Оливье с курицей",
+            "slug": "olive-s-kuricey"
+        },
+        {
+            "name": "Оливье с мясом",
+            "slug": "olive-s-myasom"
+        },
+        {
+            "name": "Оливье с солеными огурцами",
+            "slug": "olive-s-solenymi-ogurcami"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат из моркови",
+            "slug": "salat-iz-morkovi"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат Оливье",
+            "slug": "salat-olive"
+        },
+        {
+            "name": "Салат с грибами",
+            "slug": "salat-s-gribami"
+        },
+        {
+            "name": "Салат с зеленым горошком",
+            "slug": "salat-s-zelenym-goroshkom"
+        },
+        {
+            "name": "Салат с картофелем",
+            "slug": "salat-s-kartofelem"
+        },
+        {
+            "name": "Салат с курицей",
+            "slug": "salat-s-kuricey"
+        },
+        {
+            "name": "Салат с курицей и грибами",
+            "slug": "salat-s-kuricey-i-gribami"
+        },
+        {
+            "name": "Салат с курицей и морковью",
+            "slug": "salat-s-kuricey-i-morkovyu"
+        },
+        {
+            "name": "Салат с курицей и овощами",
+            "slug": "salat-s-kuricey-i-ovoschami"
+        },
+        {
+            "name": "Салат с курицей и огурцом",
+            "slug": "salat-s-kuricey-i-ogurcom"
+        },
+        {
+            "name": "Салат с курицей и яйцом",
+            "slug": "salat-s-kuricey-i-yaycom"
+        },
+        {
+            "name": "Салат с курицей, грибами и огурцами",
+            "slug": "salat-s-kuricey-gribami-i-ogurcami"
+        },
+        {
+            "name": "Салат с курицей, грибами, огурцами и яйцом",
+            "slug": "salat-s-kuricey-gribami-ogurcami-i-yaycom"
+        },
+        {
+            "name": "Салат с курицей, огурцом и яйцом",
+            "slug": "salat-s-kuricey-ogurcom-i-yaycom"
+        },
+        {
+            "name": "Салат с огурцом и яйцом",
+            "slug": "salat-s-ogurcom-i-yaycom"
+        },
+        {
+            "name": "Салат с солеными огурцами",
+            "slug": "salat-s-solenymi-ogurcami"
+        },
+        {
+            "name": "Салат с яйцом и морковью",
+            "slug": "salat-s-yaycom-i-morkovyu"
+        },
+        {
+            "name": "Салаты из огурцов",
+            "slug": "salaty-iz-ogurcov"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

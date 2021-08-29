@@ -1,0 +1,107 @@
+{
+    "source": "https://vkuso.ru/recipe/buterbrody-s-vetchinoj-syrom-i-ananasami-za-5-minut/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Бутерброды с ветчиной, сыром и ананасами за 5 минут",
+    "description": "Замечательный перекус с необычным сочетанием вкусов в отличном бутерброде. Быстрый, легкий и вкусный завтрак!",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e4/399fb2c5bd9c9e4_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "15 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/UWa9OceMts0?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 3 порции",
+            "list": [
+                {
+                    "name": "ананас консервированный кольцами",
+                    "slug": "ananas-konservirovanniy-kolcami",
+                    "notes": null,
+                    "value": "10",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый ломтевой",
+                    "slug": "syr-plavleniy-lomtevoy",
+                    "notes": null,
+                    "value": "10",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": "10",
+                    "type": "куска",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб ",
+                    "slug": "hleb",
+                    "notes": null,
+                    "value": "10",
+                    "type": "кусков",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Хлеб обжарить на сковороде и смазать маслом.",
+            "image": null
+        },
+        {
+            "text": "На каждый кусочек выложить ветчину, ананас и сыр и отправить на 1-2 минуты в микроволновку",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды в дорогу",
+            "slug": "buterbrody-v-dorogu"
+        },
+        {
+            "name": "Бутерброды в микроволновке",
+            "slug": "buterbrody-v-mikrovolnovke"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды на скорую руку",
+            "slug": "buterbrody-na-skoruyu-ruku"
+        },
+        {
+            "name": "Бутерброды с ветчиной",
+            "slug": "buterbrody-s-vetchinoy"
+        },
+        {
+            "name": "Бутерброды с плавленым сыром",
+            "slug": "buterbrody-s-plavlenym-syrom"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        }
+    ]
+}

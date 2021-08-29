@@ -1,0 +1,99 @@
+{
+    "source": "https://vkuso.ru/recipe/baton-zapechennyj-s-syrom-i-chesnokom-v-duxovke/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Батон, запеченный с сыром и чесноком в духовке",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/1a/b4b0a5eb01fe61a_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "батон",
+                    "slug": "baton",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Раздавить чеснок прессом, а лучше натереть на мелкой терке, перемешать с мягким маслом, измельченной зеленью и тертым сыром.",
+            "image": null
+        },
+        {
+            "text": "Чуть черствый багет надрезать наискось, но не до конца, заполнить полученные «кармашки» сырно-чесночной смесью. Запаковать батон в фольгу, положить на противень и поместить в прогретую до 200 градусов духовку.",
+            "image": null
+        },
+        {
+            "text": "Спустя треть часа фольгу приоткрыть и оставить батон, запеченный с сыром и чесноком в духовку для зарумянивания еще на 5 минут. Подать блюдо горячим, порезав на порции по сделанным для фарширования надрезам.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Бутерброды с сыром и чесноком",
+            "slug": "buterbrody-s-syrom-i-chesnokom"
+        }
+    ]
+}

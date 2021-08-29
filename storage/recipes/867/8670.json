@@ -1,0 +1,95 @@
+{
+    "source": "https://vkuso.ru/recipe/prostoe-testo-dlya-piccy-na-moloke/",
+    "category": "Тесто домашнее",
+    "category_slug": "testo-domashnee",
+    "title": "Простое тесто для пиццы на молоке",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/29/6506546edfd6629_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "5",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Просеять муку горкой на стол, сделать углубление, влить оливковое масло, вымесить, добавить частями молоко столько, чтобы тесто стало эластичным (если нет молоко, можно использовать воду), замесить тесто.",
+            "image": null
+        },
+        {
+            "text": "Раскатать простое тесто для пиццы на молоке скалкой до требуемой толщины и уложить на него подготовленную начинку.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Тесто домашнее",
+            "slug": "testo-domashnee"
+        },
+        {
+            "name": "Бездрожжевое тесто",
+            "slug": "bezdrojjevoe-testo"
+        },
+        {
+            "name": "Вегетарианская пицца",
+            "slug": "vegetarianskaya-picca"
+        },
+        {
+            "name": "Пицца без дрожжей",
+            "slug": "picca-bez-drojjey"
+        },
+        {
+            "name": "Тесто для пиццы",
+            "slug": "testo-dlya-piccy"
+        },
+        {
+            "name": "Тесто для пиццы без дрожжей",
+            "slug": "testo-dlya-piccy-bez-drojjey"
+        },
+        {
+            "name": "Тесто для пиццы без яиц",
+            "slug": "testo-dlya-piccy-bez-yaic"
+        },
+        {
+            "name": "Тесто для пиццы на молоке",
+            "slug": "testo-dlya-piccy-na-moloke"
+        },
+        {
+            "name": "тесто домашнее",
+            "slug": "testo-domashnee"
+        }
+    ]
+}

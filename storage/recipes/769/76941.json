@@ -1,0 +1,103 @@
+{
+    "source": "https://vkuso.ru/recipe/vareniki-s-zharenoj-kapustoj-morkovyu-i-lukom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Вареники с жареной капустой, морковью и луком",
+    "description": "Оригинальный рецепт с пассерованными овощами.",
+    "note": "При подаче украсить блюдо веточками зелени.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/6a/f0697cb8ddc3d6a_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "капуста",
+                    "slug": "kapusta",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "тесто для вареников",
+                    "slug": "testo-dlya-varenikov",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Прогреть сковороду, обжарить тертую морковь, лук, капусту.",
+            "image": null
+        },
+        {
+            "text": "Время приготовления – 15 минут.",
+            "image": null
+        },
+        {
+            "text": "Сформовать лепешки из плотного теста, выложить остывшую начинку.",
+            "image": null
+        },
+        {
+            "text": "Варить в подсоленном кипятке десять минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вареники",
+            "slug": "vareniki"
+        },
+        {
+            "name": "Вареники с капустой",
+            "slug": "vareniki-s-kapustoy"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ужин из капусты",
+            "slug": "ujin-iz-kapusty"
+        }
+    ]
+}

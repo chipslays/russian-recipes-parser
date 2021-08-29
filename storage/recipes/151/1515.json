@@ -1,0 +1,151 @@
+{
+    "source": "https://vkuso.ru/recipe/kulesh-s-gribami-i-kartofelem/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Кулеш с грибами и картофелем",
+    "description": null,
+    "note": null,
+    "cuisine": "Украинская кухня",
+    "cuisine_slug": "ukrainskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/98/19e6873b6290e98_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "6",
+                    "type": "клубней",
+                    "amount": null
+                },
+                {
+                    "name": "сушеных грибов",
+                    "slug": "sushenyh-gribov",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "пшена",
+                    "slug": "pshena",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "растительного масла",
+                    "slug": "rastitelnogo-masla",
+                    "notes": null,
+                    "value": "6",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень (укроп, петрушка)",
+                    "slug": "zelen-ukrop-petrushka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сухие грибы промыть, желательно холодной проточной водой, проварить, слить воду и снова промыть, затем мелко нарезать.",
+            "image": null
+        },
+        {
+            "text": "Пшено вымыть и поставить вариться в той же воде, в которой были сварены грибы. Картофель очистить, нарезать кубиками, через 10-15 минут после того, как пшено закипит, положить подготовленный картофель и варить до готовности.",
+            "image": null
+        },
+        {
+            "text": "Лук очистить и нашинковать, обжарить с грибами в растительном масле, когда лук зарумяниться, положить его вместе с грибами в пшено, перемешать и довести кулеш с грибами и картофелем до кипения, снять с огня.",
+            "image": null
+        },
+        {
+            "text": "К столу блюдо подать украсив мелко порубленной зеленью укропа и петрушки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Грибной суп",
+            "slug": "gribnoy-sup"
+        },
+        {
+            "name": "Грибной суп из сушеных грибов",
+            "slug": "gribnoy-sup-iz-sushenyh-gribov"
+        },
+        {
+            "name": "Картофельный суп",
+            "slug": "kartofelniy-sup"
+        },
+        {
+            "name": "Кулеш",
+            "slug": "kulesh"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Постные блюда из картофеля",
+            "slug": "postnye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Постные блюда с грибами",
+            "slug": "postnye-blyuda-s-gribami"
+        },
+        {
+            "name": "Постный грибной суп",
+            "slug": "postniy-gribnoy-sup"
+        },
+        {
+            "name": "Постный суп",
+            "slug": "postniy-sup"
+        },
+        {
+            "name": "Постный ужин",
+            "slug": "postniy-ujin"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп с пшеном",
+            "slug": "sup-s-pshenom"
+        }
+    ]
+}

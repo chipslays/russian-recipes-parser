@@ -1,0 +1,172 @@
+{
+    "source": "https://vkuso.ru/recipe/pirozhki-lodochki-s-gribnoj-nachinkoj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пирожки-лодочки с грибной начинкой",
+    "description": null,
+    "note": "Если нет времени для замешивания теста, или вы просто с ним не дружите, то очень быстро такие пирожки можно приготовить из готового слоеного теста, а в начинку добавить, оставшееся от обеда пюре.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/60/471801ef47bed60_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "1,5",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грибы",
+                    "slug": "griby",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Смешать все ингредиенты для теста, тщательно вымесить пока не перестанет прилипать к рукам, прикрыть полотенцем, дать постоять минут 40, разделать на порционные кусочки, оставить на 10 минут подойти.",
+            "image": null
+        },
+        {
+            "text": "Нарезать грибы, обжарить с мелко нашинкованным луком, дать чуть остыть, добавить порезанный на кубики помидор и тертый сыр, сдобрить майонезом, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Раскатать заготовки для пирожков, слепить лодочкой, наполнить начинкой. Переложить пирожки-лодочки с грибной начинкой на подготовленный противень, дать постоять 20 минут, потом задвинуть на четверть часа в духовку с температурой 250 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка на молоке",
+            "slug": "vypechka-na-moloke"
+        },
+        {
+            "name": "Дрожжевые пирожки",
+            "slug": "drojjevye-pirojki"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки в духовке",
+            "slug": "pirojki-v-duhovke"
+        },
+        {
+            "name": "Пирожки дрожжевые в духовке",
+            "slug": "pirojki-drojjevye-v-duhovke"
+        },
+        {
+            "name": "Пирожки на молоке",
+            "slug": "pirojki-na-moloke"
+        },
+        {
+            "name": "Пирожки с грибами",
+            "slug": "pirojki-s-gribami"
+        },
+        {
+            "name": "Пирожки с сыром",
+            "slug": "pirojki-s-syrom"
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-s-parmskoj-vetchinoj-grushej-i-syrnymi-chipsami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат с пармской ветчиной, грушей и сырными чипсами",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/14/9b0f81a54e15a14_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "смесь салатных листьев",
+                    "slug": "smes-salatnyh-listev",
+                    "notes": " (фриллис и айсберг)",
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ветчина пармская",
+                    "slug": "vetchina-parmskaya",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "груши",
+                    "slug": "grushi",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": " (чеддер, эмменталь, пармезан)",
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "брусника",
+                    "slug": "brusnika",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для заправки",
+            "list": [
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "грейпфрут",
+                    "slug": "greypfrut",
+                    "notes": " (красный)",
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "горчица дижонская",
+                    "slug": "gorchica-dijonskaya",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мед жидкий",
+                    "slug": "med-jidkiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Выжить сок из грейпфрута. Перемешать все ингредиенты заправки.",
+            "image": null
+        },
+        {
+            "text": "Сыр измельчить на мелкой терке, хорошо разогреть сковороду, выложить по щепотке сыра, обжарить полминуты до получения ажурных сырных чипсов.",
+            "image": null
+        },
+        {
+            "text": "Переложить их лопаточкой на полотенце из бумаги, дать остыть и хорошо подсохнуть.",
+            "image": null
+        },
+        {
+            "text": "Грушу порезать на тонкие ломтики.",
+            "image": null
+        },
+        {
+            "text": "Листья салата порвать на кусочки.",
+            "image": null
+        },
+        {
+            "text": "Ветчину порезать соломкой.",
+            "image": null
+        },
+        {
+            "text": "Всыпать в салат с пармской ветчиной, грушей и сырными чипсами ягоды брусники, влить заправку, хорошо перемешать.",
+            "image": null
+        },
+        {
+            "text": "Переложить салат в тарелку, разложить сверху высохшие чипсы.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Зеленые салаты",
+            "slug": "zelenye-salaty"
+        },
+        {
+            "name": "Овощные салаты",
+            "slug": "ovoschnye-salaty"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат с ветчиной",
+            "slug": "salat-s-vetchinoy"
+        },
+        {
+            "name": "Салат с ветчиной и сыром",
+            "slug": "salat-s-vetchinoy-i-syrom"
+        },
+        {
+            "name": "Салат с грейпфрутом",
+            "slug": "salat-s-greypfrutom"
+        },
+        {
+            "name": "Салат с грушей",
+            "slug": "salat-s-grushey"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салат с твердым сыром",
+            "slug": "salat-s-tverdym-syrom"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без майонеза на праздничный стол",
+            "slug": "salaty-bez-mayoneza-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Салаты из листьев салата",
+            "slug": "salaty-iz-listev-salata"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты на скорую руку",
+            "slug": "salaty-na-skoruyu-ruku"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        },
+        {
+            "name": "Салаты с фруктами",
+            "slug": "salaty-s-fruktami"
+        },
+        {
+            "name": "Свадьба",
+            "slug": "svadba"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

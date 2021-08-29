@@ -1,0 +1,204 @@
+{
+    "source": "https://vkuso.ru/recipe/102510-pirog-na-kefire-s-myasom-i-kartoshkoj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пирог на кефире с мясом и картошкой",
+    "description": "Готовить не сложно и из простых доступных продуктов.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c7/495e9ce72a934c7_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "45 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/PkjX2aut6vY?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "2.5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "кунжут",
+                    "slug": "kunjut",
+                    "notes": null,
+                    "value": "3",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "&frac13;",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "мясной фарш",
+                    "slug": "myasnoy-farsh",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Кефир, соль (1/3 ч.л.), оливковое масло – перемешать. Добавить муку (2 стакана) - перемешать. Выложить тесто на рабочую поверхность, высыпать еще ½ стакана муки и замесить.",
+            "image": null
+        },
+        {
+            "text": "Картофель и лук нарезать на кубики, сложить в глубокую тарелку, добавить фарш, соль (1 ч.л.), перец (1/2 ч.л.) – перемешать.",
+            "image": null
+        },
+        {
+            "text": "Тесто раскатать кругом. Выложить в центр теста начинку. Один край теста подтянуть к середине и к нему подтягивать оставшееся тесто, перед последним защипыванием теста, выпустить воздух их пирога.",
+            "image": null
+        },
+        {
+            "text": "На противень постелить бумагу, присыпать мукой, переложить пирог и сверху слегка пройтись скалкой. Верх наколоть вилкой, не протыкая дна. В середине сделать дырочку для выхода пара.",
+            "image": null
+        },
+        {
+            "text": "Смазать пирог кефиром, посыпать кунжутными семечками. Ставим в духовку на 40 минут при температуре 180 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сахара",
+            "slug": "vypechka-bez-sahara"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка на кефире",
+            "slug": "vypechka-na-kefire"
+        },
+        {
+            "name": "Выпечка с мясом и фаршем",
+            "slug": "vypechka-s-myasom-i-farshem"
+        },
+        {
+            "name": "Выпечка с фаршем",
+            "slug": "vypechka-s-farshem"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог без яиц",
+            "slug": "pirog-bez-yaic"
+        },
+        {
+            "name": "Пирог на кефире",
+            "slug": "pirog-na-kefire"
+        },
+        {
+            "name": "Пирог с картошкой и фаршем",
+            "slug": "pirog-s-kartoshkoy-i-farshem"
+        },
+        {
+            "name": "Пирог с фаршем",
+            "slug": "pirog-s-farshem"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги с мясом",
+            "slug": "pirogi-s-myasom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

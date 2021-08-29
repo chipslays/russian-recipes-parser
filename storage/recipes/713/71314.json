@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/prostaya-tushenka-iz-svininy-v-multivarke/",
+    "category": "Заготовки",
+    "category_slug": "zagotovki",
+    "title": "Простая тушенка из свинины в мультиварке",
+    "description": "Мультиварка может все, в том числе умеет готовить домашние консервы. Если аппарат поддерживает функцию скороварки, то процесс будет быстрым.",
+    "note": "Тушенку хранить в подполье или дома в холодильнике на нижней полке.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/0c/5c9a775c0ec7d0c_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/YUckkd18E1Y?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "свинина",
+                    "slug": "svinina",
+                    "notes": null,
+                    "value": "3",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Свинину хорошо промыть, обсушить, нарезать кусочками.",
+            "image": null
+        },
+        {
+            "text": "Выложить продукт в чашу, выставить режим «тушение» на пять часов.",
+            "image": null
+        },
+        {
+            "text": "В конце приготовления добавить лавровый лист, специи, перемешать, оставить в режиме подогрева.",
+            "image": null
+        },
+        {
+            "text": "Банки вымыть, стерилизовать не нужно, если хранить тушенку не более трёх месяцев.",
+            "image": null
+        },
+        {
+            "text": "Разложить тушенку в банки, влить бульон, оставить два сантиметра до горлышка свободными.",
+            "image": null
+        },
+        {
+            "text": "Заготовки закатать крышками, поставить в тепло до остывания.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Домашняя тушенка",
+            "slug": "domashnyaya-tushenka"
+        },
+        {
+            "name": "Заготовки без стерилизации",
+            "slug": "zagotovki-bez-sterilizacii"
+        },
+        {
+            "name": "Заготовки из мяса",
+            "slug": "zagotovki-iz-myasa"
+        },
+        {
+            "name": "Консервирование",
+            "slug": "konservirovanie"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Мясо в мультиварке",
+            "slug": "myaso-v-multivarke"
+        },
+        {
+            "name": "Свинина в мультиварке",
+            "slug": "svinina-v-multivarke"
+        },
+        {
+            "name": "Тушенка в мультиварке",
+            "slug": "tushenka-v-multivarke"
+        },
+        {
+            "name": "Тушенка из свинины",
+            "slug": "tushenka-iz-svininy"
+        }
+    ]
+}

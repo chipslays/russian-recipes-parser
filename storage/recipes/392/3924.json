@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/kartofelniki-s-myasom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Картофельники с мясом",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/1b/c2ae808f6057e1b_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мякоти говядины",
+                    "slug": "myakoti-govyadiny",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "7",
+                    "type": "клубней",
+                    "amount": null
+                },
+                {
+                    "name": "стакана грибного соуса",
+                    "slug": "stakana-gribnogo-sousa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1,5"
+                },
+                {
+                    "name": "яйцо",
+                    "slug": "yayco",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "растительного масла",
+                    "slug": "rastitelnogo-masla",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сливочного масла",
+                    "slug": "slivochnogo-masla",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец",
+                    "slug": "perec",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить из мякоти говядины фарш, заправить солью, перцем, добавить обжаренный лук, перемешать и обжарить.",
+            "image": null
+        },
+        {
+            "text": "Очистить картофель, сварить, пропустить через мясорубку, вбить яйцо, добавить сливочное масло, заправить перцем и солью, масса должна получиться не очень густой, для получения такой консистенции к картофелю можно добавить чуть сливок, сметаны, бульона и тщательно размешать.",
+            "image": null
+        },
+        {
+            "text": "Скатать из массы небольшие шарики, сплюснуть их, выложить по центру фарш сформовать пирожки, обвалять в муке и обжарить на растительном масле.",
+            "image": null
+        },
+        {
+            "text": "Подать картофельники с мясом горячими со сметаной или грибным соусом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из говядины",
+            "slug": "vtorye-blyuda-iz-govyadiny"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Говядина с овощами",
+            "slug": "govyadina-s-ovoschami"
+        },
+        {
+            "name": "Картофельные котлеты",
+            "slug": "kartofelnye-kotlety"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Ужин из говядины",
+            "slug": "ujin-iz-govyadiny"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

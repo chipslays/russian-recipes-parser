@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnij-pirog-s-rybnoj-konservoj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Домашний пирог с рыбной консервой",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/77/4620a0047bbf277_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сайра/сардина в масле",
+                    "slug": "sayra-sardina-v-masle",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В емкости соединить сметану, майонез и яйца, насыпать соду, муку. Посыпать солью. Тесто должно быть, как густая сметана. Приготовить начинку: почистить лук, картофель. Измельчить лук. Размять вилкой рыбу. Смазать маслом формочку для выпечки, налить 1/2 теста.",
+            "image": null
+        },
+        {
+            "text": "Натереть мелко картофель и выложить слоем в 1 сантиметр. Уложить  на него лук, сверху измельченные консервы. Накрыть остальным тестом. Отправить пирог с рыбной консервой на сорок минут в духовку.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Быстрые пироги",
+            "slug": "bystrye-pirogi"
+        },
+        {
+            "name": "Быстрые пироги на скорую руку",
+            "slug": "bystrye-pirogi-na-skoruyu-ruku"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка на скорую руку",
+            "slug": "vypechka-na-skoruyu-ruku"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Несладкая выпечка",
+            "slug": "nesladkaya-vypechka"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог с луком и яйцом",
+            "slug": "pirog-s-lukom-i-yaycom"
+        },
+        {
+            "name": "Пирог с рыбными консервами",
+            "slug": "pirog-s-rybnymi-konservami"
+        },
+        {
+            "name": "Пирог с сайрой",
+            "slug": "pirog-s-sayroy"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги с картошкой",
+            "slug": "pirogi-s-kartoshkoy"
+        },
+        {
+            "name": "Пироги с начинкой",
+            "slug": "pirogi-s-nachinkoy"
+        },
+        {
+            "name": "Пироги с рыбой",
+            "slug": "pirogi-s-ryboy"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рыба в духовке",
+            "slug": "ryba-v-duhovke"
+        },
+        {
+            "name": "Рыба с картошкой в духовке",
+            "slug": "ryba-s-kartoshkoy-v-duhovke"
+        }
+    ]
+}

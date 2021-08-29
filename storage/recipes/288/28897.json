@@ -1,0 +1,228 @@
+{
+    "source": "https://vkuso.ru/recipe/zalivnoj-pirog-s-lukom-na-skoruyu-ruku/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Заливной пирог с луком на скорую руку",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d4/19602a3f2fc91d4_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "280",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "160",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "1,5",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Вымыть и порезать зеленый лук. Его понадобиться много – целая сковорода. Чуть-чуть прогреть с маслом, чтобы он стал мягче. Посыпать перцем, солью. Положить яйца, порезанные на кубики.",
+            "image": null
+        },
+        {
+            "text": "Приготовить тесто: растопить масло, посыпать солью и сахаром, вылить кефир, взбитые яйца. Насыпать муку, разрыхлитель, перемешать до однородности.",
+            "image": null
+        },
+        {
+            "text": "Смазать формочку маслом, вылить большую часть теста. Положить начинку, сверху оставшееся тесто. Выпекать заливной пирог с луком минут 35. Немного остудить, накрыв полотенцем.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Быстрые пироги",
+            "slug": "bystrye-pirogi"
+        },
+        {
+            "name": "Быстрые пироги на скорую руку",
+            "slug": "bystrye-pirogi-na-skoruyu-ruku"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка на кефире",
+            "slug": "vypechka-na-kefire"
+        },
+        {
+            "name": "Выпечка на скорую руку",
+            "slug": "vypechka-na-skoruyu-ruku"
+        },
+        {
+            "name": "Выпечка с луком",
+            "slug": "vypechka-s-lukom"
+        },
+        {
+            "name": "Заливной пирог",
+            "slug": "zalivnoy-pirog"
+        },
+        {
+            "name": "Заливной пирог на кефире",
+            "slug": "zalivnoy-pirog-na-kefire"
+        },
+        {
+            "name": "Заливной пирог с луком и яйцом",
+            "slug": "zalivnoy-pirog-s-lukom-i-yaycom"
+        },
+        {
+            "name": "Заливной пирог с яйцом и зеленым луком",
+            "slug": "zalivnoy-pirog-s-yaycom-i-zelenym-lukom"
+        },
+        {
+            "name": "Луковый пирог",
+            "slug": "lukoviy-pirog"
+        },
+        {
+            "name": "Несладкая выпечка",
+            "slug": "nesladkaya-vypechka"
+        },
+        {
+            "name": "Несладкие пироги",
+            "slug": "nesladkie-pirogi"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог на кефире",
+            "slug": "pirog-na-kefire"
+        },
+        {
+            "name": "Пирог на кефире в духовке",
+            "slug": "pirog-na-kefire-v-duhovke"
+        },
+        {
+            "name": "Пирог с луком и яйцом",
+            "slug": "pirog-s-lukom-i-yaycom"
+        },
+        {
+            "name": "Пирог с яйцом",
+            "slug": "pirog-s-yaycom"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

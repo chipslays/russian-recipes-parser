@@ -1,0 +1,83 @@
+{
+    "source": "https://vkuso.ru/recipe/bifidum-v-multivarke/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Бифидум в мультиварке",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/17/1c2f44f4a91b117_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молока",
+                    "slug": "moloka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "закваски",
+                    "slug": "zakvaski",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пакетик",
+                    "amount": null
+                },
+                {
+                    "name": "фрукты",
+                    "slug": "frukty",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Вскипятить молоко в режиме «Варка на пару», дать остыть примерно до 40 градусов, всыпать пакетик закваски и перемешать.",
+            "image": null
+        },
+        {
+            "text": "Приготовленные баночки с крышками обдать кипятком, разлить в них смесь молока с закваской, чашу мультиварки помыть, положить на дно полотенце, поставить баночки, залить водой до половины высоты баночек.",
+            "image": null
+        },
+        {
+            "text": "Включить режим «Йогурт», если его нет, то «Подогрев», оставить бифидум в мультиварке на 7 часов, в конце готовки можно добавить в баночки кусочки фруктов, накрыть крышками, убрать в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Рецепт приготовления напитка подойдет для любой мультиварки у которой есть режим с температурой 37-40 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Молочный коктейль",
+            "slug": "molochniy-kokteyl"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Напитки с молоком",
+            "slug": "napitki-s-molokom"
+        }
+    ]
+}

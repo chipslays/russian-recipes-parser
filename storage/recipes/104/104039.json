@@ -1,0 +1,95 @@
+{
+    "source": "https://vkuso.ru/recipe/104039-milkshejk-s-plombirom-i-yagodnym-siropom/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Милкшейк с пломбиром и ягодным сиропом",
+    "description": "Молочный коктейль - простое и доступное лакомство, на приготовление которого потребуется всего 5 минут.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/09/313efa4dceec009_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "5 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "молоко 2.5%",
+                    "slug": "moloko-2-5",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "мороженое пломбир",
+                    "slug": "morojenoe-plombir",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ягодный сироп",
+                    "slug": "yagodniy-sirop",
+                    "notes": " (можно из варенья)",
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В чашу блендера поместите охлажденное молоко, чуть подтаявшее мороженое и ягодный сироп.",
+            "image": null
+        },
+        {
+            "text": "Взбейте блендером при помощи насадки-венчика в течение 2-3-х минут до пышной пены.",
+            "image": null
+        },
+        {
+            "text": "Разлейте молочный коктейль по бокалам, дополните трубочками и сразу же подайте к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные коктейли",
+            "slug": "bezalkogolnye-kokteyli"
+        },
+        {
+            "name": "Блендер",
+            "slug": "blender"
+        },
+        {
+            "name": "Детский праздник",
+            "slug": "detskiy-prazdnik"
+        },
+        {
+            "name": "Коктейли",
+            "slug": "kokteyli"
+        },
+        {
+            "name": "Молочный коктейль",
+            "slug": "molochniy-kokteyl"
+        },
+        {
+            "name": "Напитки с молоком",
+            "slug": "napitki-s-molokom"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

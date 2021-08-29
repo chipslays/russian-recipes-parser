@@ -1,0 +1,135 @@
+{
+    "source": "https://vkuso.ru/recipe/dieticheskoe-sufle-s-gorkim-shokoladom/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Диетическое суфле с горьким шоколадом",
+    "description": "Нежное суфле, малокалорийное, для его приготовления используется нежирный творог.",
+    "note": "Суфле можно подать к кофе, украсить блюдо свежими ягодами вишни, малины, клубники.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/7c/3bdaf32cd8fc37c_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог 2%",
+                    "slug": "tvorog-2",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко 1.5%",
+                    "slug": "moloko-1-5",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "какао-порошок",
+                    "slug": "kakao-poroshok",
+                    "notes": null,
+                    "value": "25-30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "15-20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад черный горький 65%",
+                    "slug": "shokolad-cherniy-gorkiy-65",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "заменитель сахара",
+                    "slug": "zamenitel-sahara",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Желатин из пакетика залить стаканом холодной воды на полчаса, продукт должен набухнуть.",
+            "image": null
+        },
+        {
+            "text": "Влить нежирное молоко, всыпать какао-порошок и любой сахарозаменитель, соль.",
+            "image": null
+        },
+        {
+            "text": "Смесь поставить на тихий огонь, прогревать до растворения какао, не кипятить. Добавить маложирный творог, перемешать. Превратить продукты в однородную массу с помощью блендера.",
+            "image": null
+        },
+        {
+            "text": "Разлить суфле в формы, поставить в холодильник на два часа, можно на ночь.",
+            "image": null
+        },
+        {
+            "text": "Перед подачей окунуть дно формочки в кипяток и перевернуть на тарелку, украсить десерт темным тертым шоколадом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерты с желатином",
+            "slug": "deserty-s-jelatinom"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетические десерты",
+            "slug": "dieticheskie-deserty"
+        },
+        {
+            "name": "На десерт",
+            "slug": "na-desert"
+        },
+        {
+            "name": "Суфле сладкое",
+            "slug": "sufle-sladkoe"
+        },
+        {
+            "name": "Творожное суфле",
+            "slug": "tvorojnoe-sufle"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        },
+        {
+            "name": "Шоколадный десерт",
+            "slug": "shokoladniy-desert"
+        }
+    ]
+}

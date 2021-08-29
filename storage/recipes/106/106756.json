@@ -1,0 +1,167 @@
+{
+    "source": "https://vkuso.ru/recipe/106756-salat-iz-tykvy-kapusty-i-kartofelya/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат из тыквы, капусты и картофеля",
+    "description": "Овощной салат из доступных продуктов.",
+    "note": "Блюдо подать в прозрачной салатнице.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b4/e0fde14fe8b77b4_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "50 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "тыква",
+                    "slug": "tykva",
+                    "notes": null,
+                    "value": "280",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "220",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "капуста",
+                    "slug": "kapusta",
+                    "notes": null,
+                    "value": "90",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "90",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук белый",
+                    "slug": "luk-beliy",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "тмин молотый",
+                    "slug": "tmin-molotiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "зелень свежая",
+                    "slug": "zelen-svejaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "базилик",
+                    "slug": "bazilik",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Картофель отварить до готовности, остудить, нарезать.",
+            "image": null
+        },
+        {
+            "text": "Очистить тыкву, мякоть запечь в духовке в течение пятнадцати или семнадцати минут, нарезать кубиками.",
+            "image": null
+        },
+        {
+            "text": "Нашинковать белокочанную капусту, помять руками.",
+            "image": null
+        },
+        {
+            "text": "Нарезать зелень, помидоры, лук.",
+            "image": null
+        },
+        {
+            "text": "Продукты перемешать, посолить по вкусу, всыпать рубленый базилик, тмин, заправить оливковым маслом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из капусты",
+            "slug": "salat-iz-kapusty"
+        },
+        {
+            "name": "Салат из помидоров",
+            "slug": "salat-iz-pomidorov"
+        },
+        {
+            "name": "Салат из тыквы",
+            "slug": "salat-iz-tykvy"
+        },
+        {
+            "name": "Салат с картофелем",
+            "slug": "salat-s-kartofelem"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "source": "https://vkuso.ru/recipe/smuzi-anti-gripp-s-limonom/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Смузи Анти-грипп с лимоном",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/31/2e3bbd520829e31_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бананы",
+                    "slug": "banany",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "киви",
+                    "slug": "kivi",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Измельчить в блендере очищенный киви и лимон. Киви и лимон богаты на содержание витамина С, а это самый известный противовирусный элемент. К этой смеси добавить банан, измельчить в однородную массу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Банановый коктейль",
+            "slug": "bananoviy-kokteyl"
+        },
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Смузи",
+            "slug": "smuzi"
+        },
+        {
+            "name": "Смузи с бананом",
+            "slug": "smuzi-s-bananom"
+        }
+    ]
+}

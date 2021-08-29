@@ -1,0 +1,59 @@
+{
+    "source": "https://vkuso.ru/recipe/appetitnye-bananovye-pankejki/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Аппетитные банановые панкейки",
+    "description": "Всего два ингредиента, бананы и яйца. Вкусные американские оладьи можно приготовить на завтрак, от них не откажется никто – ни взрослые, ни дети.",
+    "note": "Подать с йогуртом и ягодами клубники, порезанными кусочками, любым ягодным или фруктовым соусом, сиропом, сгущенкой.",
+    "cuisine": "Американская кухня",
+    "cuisine_slug": "amerikanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/71/875bb7a8ca1ea71_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "бананы",
+                    "slug": "banany",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Яйца взбить, отдельно превратить спелый банан в пюре. Смешать, печь без масла, на сковороде с антипригарным покрытием.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка с бананами",
+            "slug": "vypechka-s-bananami"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        }
+    ]
+}

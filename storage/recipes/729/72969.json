@@ -1,0 +1,115 @@
+{
+    "source": "https://vkuso.ru/recipe/tvorozhno-grushevyj-desert-s-medom/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Творожно-грушевый десерт с медом",
+    "description": "Простой десерт, готовится за несколько минут, очень легкий и вкусный.",
+    "note": "Десерт можно подать в обычных пиалах или широких бокалах. Украсить мятой.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c4/bed5e236f0881c4_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог обезжиренный",
+                    "slug": "tvorog-obezjirenniy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "груши",
+                    "slug": "grushi",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кефир 1%",
+                    "slug": "kefir-1",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "корица молотая",
+                    "slug": "korica-molotaya",
+                    "notes": null,
+                    "value": "3",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Обезжиренный творог и кефир взбить с помощью миксера или блендера.",
+            "image": null
+        },
+        {
+            "text": "Добавить ложку натурального мёда, ванилин, молотую корицу.",
+            "image": null
+        },
+        {
+            "text": "Грушу нарезать кубиками.",
+            "image": null
+        },
+        {
+            "text": "Выложить в креманки то и другое, перемешать, посыпать корицей.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерт на скорую руку",
+            "slug": "desert-na-skoruyu-ruku"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетические десерты",
+            "slug": "dieticheskie-deserty"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Специальное питание",
+            "slug": "specialnoe-pitanie"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        },
+        {
+            "name": "Фруктово-ягодные десерты",
+            "slug": "fruktovo-yagodnye-deserty"
+        }
+    ]
+}

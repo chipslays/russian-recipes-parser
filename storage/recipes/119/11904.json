@@ -1,0 +1,115 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-iz-kurinoj-pecheni-pomidorov-i-perca/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат из куриной печени, помидоров и перца",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/01/60046ed8f8cc201_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриная печень",
+                    "slug": "kurinaya-pechen",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "маслины",
+                    "slug": "masliny",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец болгарский красный",
+                    "slug": "perec-bolgarskiy-krasniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Печень зачистить и промыть, положить в подсоленную кипящую воду, сварить до готовности, вынуть, дать остыть, порезать на небольшие кубики, измельчить на такие же кубики яйца, перец и помидоры, маслины без косточек разрезать пополам.",
+            "image": null
+        },
+        {
+            "text": "Заправить салат из куриной печени, помидоров и перца майонезом, аккуратно перемешать, можно добавить черный перец или другие любимые приправы. Дать салату настояться и подать к столу, присыпав обжаренным семенем кунжута.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат из помидоров",
+            "slug": "salat-iz-pomidorov"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с маслинами",
+            "slug": "salat-s-maslinami"
+        },
+        {
+            "name": "Салат с печенью",
+            "slug": "salat-s-pechenyu"
+        },
+        {
+            "name": "Салат с помидорами и яйцами",
+            "slug": "salat-s-pomidorami-i-yaycami"
+        }
+    ]
+}

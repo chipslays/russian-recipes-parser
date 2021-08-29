@@ -1,0 +1,163 @@
+{
+    "source": "https://vkuso.ru/recipe/89456-pasta-s-tykvoj-i-krevetkami/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Паста с тыквой и креветками",
+    "description": "В этой пасте тыква хрустящая, но при этом обжаривалась, если не любите такую тыкву, достаточно только обжарить ее подольше.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ec/18d992293876dec_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/RLzioL6OHlQ?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "спагетти",
+                    "slug": "spagetti",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "тыква",
+                    "slug": "tykva",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры черри",
+                    "slug": "pomidory-cherri",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "креветки",
+                    "slug": "krevetki",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": "15",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": " (для жарки)",
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "зубчик",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Тыкву очистить от семян и кожуры. Мякоть нарезать крупными кубиками. Чеснок раздавить ножом.",
+            "image": null
+        },
+        {
+            "text": "В глубокой сковороде разогреть оливковое масло и добавить в него чеснок. Жарим чеснок до золотистого цвета, затем выкидываем его.",
+            "image": null
+        },
+        {
+            "text": "В это масло выкладываем тыкву, жарим 8 минут на среднем огне - перемешивая.",
+            "image": null
+        },
+        {
+            "text": "Помидоры черри разрезать пополам, добавить к тыкве, также добавить очищенные креветки. Обжариваем 3 минуты на среднем огне - перемешивая.",
+            "image": null
+        },
+        {
+            "text": "Мелко нарезать петрушку и добавить в сковороду и выложить отваренные спагетти и 1/2 черпака воды в которой варились спагетти. Все тщательно перемешать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Вторые блюда на скорую руку",
+            "slug": "vtorye-blyuda-na-skoruyu-ruku"
+        },
+        {
+            "name": "Вторые блюда с тыквой",
+            "slug": "vtorye-blyuda-s-tykvoy"
+        },
+        {
+            "name": "Креветки с овощами",
+            "slug": "krevetki-s-ovoschami"
+        },
+        {
+            "name": "Морепродукты с овощами",
+            "slug": "moreprodukty-s-ovoschami"
+        },
+        {
+            "name": "Овощи на сковороде",
+            "slug": "ovoschi-na-skovorode"
+        },
+        {
+            "name": "Паста",
+            "slug": "pasta"
+        },
+        {
+            "name": "Паста с креветками",
+            "slug": "pasta-s-krevetkami"
+        },
+        {
+            "name": "Паста с морепродуктами",
+            "slug": "pasta-s-moreproduktami"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сковорода",
+            "slug": "skovoroda"
+        },
+        {
+            "name": "Спагетти",
+            "slug": "spagetti"
+        },
+        {
+            "name": "Спагетти с креветками",
+            "slug": "spagetti-s-krevetkami"
+        },
+        {
+            "name": "Спагетти с морепродуктами",
+            "slug": "spagetti-s-moreproduktami"
+        },
+        {
+            "name": "Ужин из макарон",
+            "slug": "ujin-iz-makaron"
+        }
+    ]
+}

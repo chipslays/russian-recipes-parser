@@ -1,0 +1,204 @@
+{
+    "source": "https://vkuso.ru/recipe/banniki-s-makom-iz-pesochnogo-testa/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Банники с маком из песочного теста",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/9f/30fb2f719b1079f_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "600",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "маргарин",
+                    "slug": "margarin",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи свежие",
+                    "slug": "drojji-svejie",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца (желток)",
+                    "slug": "yayca-jeltok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "мак",
+                    "slug": "mak",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "джем абрикосовый",
+                    "slug": "djem-abrikosoviy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лесные орехи",
+                    "slug": "lesnye-orehi",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить опару: развести дрожжи в теплом молоке, насыпать сахар, муку. Отставить опару на пятнадцать минут. Соединить муку с желтками и мягким маргарином. Размешать, посыпать сахаром, солью. Положить разрыхлитель и опару. Замесить тесто, накрыть полотенцем и отставить на полчаса. Оно не поднимется сильно, но станет чуть-чуть рыхлым.",
+            "image": null
+        },
+        {
+            "text": "Поделить тесто на четыре части, раскатать прямоугольник, намазать любой начинкой, например, готовым маком, который сейчас продается. Если такой начинки нет, то можно приготовить ее: насыпать мак в молоко и дать закипеть. Охладить, насыпать сахар или положить варенье.",
+            "image": null
+        },
+        {
+            "text": "Можно сделать банники с ореховой начинкой: намазать джемом и посыпать грецкими или любыми другими орехами. Сложить прямоугольники, защипнуть края. Отложить на тридцать минут. Затем поставить банники с маком из песочного теста на двадцать минут в духовку, готовить при 200 градусах.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Быстрые пироги на скорую руку",
+            "slug": "bystrye-pirogi-na-skoruyu-ruku"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка на маргарине",
+            "slug": "vypechka-na-margarine"
+        },
+        {
+            "name": "Выпечка с джемом",
+            "slug": "vypechka-s-djemom"
+        },
+        {
+            "name": "Выпечка с маком",
+            "slug": "vypechka-s-makom"
+        },
+        {
+            "name": "Выпечка с орехами",
+            "slug": "vypechka-s-orehami"
+        },
+        {
+            "name": "Песочные пироги",
+            "slug": "pesochnye-pirogi"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог на молоке",
+            "slug": "pirog-na-moloke"
+        },
+        {
+            "name": "Пирог с вареньем",
+            "slug": "pirog-s-varenem"
+        },
+        {
+            "name": "Пирог с маком",
+            "slug": "pirog-s-makom"
+        },
+        {
+            "name": "Пирог с орехами",
+            "slug": "pirog-s-orehami"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги с повидлом",
+            "slug": "pirogi-s-povidlom"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Сладкие пироги",
+            "slug": "sladkie-pirogi"
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/80540-xot-dog-s-bekonom-v-bagete/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Хот-дог с беконом в багете",
+    "description": "Простой и вкусный рецепт хот-дога с хрустящим беконом и свежим багетом",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a4/58a84499bf105a4_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "20 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/ds6XYonn79I?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "сосиски",
+                    "slug": "sosiski",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "бекон",
+                    "slug": "bekon",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ломтика",
+                    "amount": null
+                },
+                {
+                    "name": "багет",
+                    "slug": "baget",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы соленые",
+                    "slug": "ogurcy-solenye",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук",
+                    "slug": "luk",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "листья салата",
+                    "slug": "listya-salata",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "горчица",
+                    "slug": "gorchica",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "кетчуп",
+                    "slug": "ketchup",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарежьте лук и огурец.",
+            "image": null
+        },
+        {
+            "text": "Разогрейте сковороду, обжарьте сосиски.",
+            "image": null
+        },
+        {
+            "text": "Затем обжарьте бекон до золотистости.",
+            "image": null
+        },
+        {
+            "text": "Нарежьте бекон.",
+            "image": null
+        },
+        {
+            "text": "Намажьте горчицу на багет.",
+            "image": null
+        },
+        {
+            "text": "Положите латук, сосиску, лук, огурец и бекон и полейте кетчупом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды с огурцом",
+            "slug": "buterbrody-s-ogurcom"
+        },
+        {
+            "name": "Хот-дог",
+            "slug": "hot-dog"
+        }
+    ]
+}

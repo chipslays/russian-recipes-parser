@@ -1,0 +1,195 @@
+{
+    "source": "https://vkuso.ru/recipe/originalnyj-salat-s-persikami-i-pomidorami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Оригинальный салат с персиками и помидорами",
+    "description": null,
+    "note": "Для приготовления блюда можно использовать базилик и петрушку, тимьян (богородскую траву). Персики можно заменить на нектарины, добавить в салат кубики обжаренного на топленом масле сыра «Сулгуни». Использовать, как гарнир к курице или кролику.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/43/f3633d01c07d843_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "персики",
+                    "slug": "persiki",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры желтые",
+                    "slug": "pomidory-jeltye",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры черри",
+                    "slug": "pomidory-cherri",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "листья мяты",
+                    "slug": "listya-myaty",
+                    "notes": null,
+                    "value": "1/4",
+                    "type": "стаканы",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "уксус бальзамический",
+                    "slug": "uksus-balzamicheskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сельдерей",
+                    "slug": "selderey",
+                    "notes": null,
+                    "value": "2",
+                    "type": "веточки",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления заправки смешать оливковое масло высокого качества, бальзамический уксус, лимонный сок, соль и молотый черный перец. Персики разрезать пополам, удалить косточки, каждую половину разрезать еще на четыре части.",
+            "image": null
+        },
+        {
+            "text": "Помидоры красного и желтого цвета нарезать толстыми кружками. На блюдо выложить персики, обычные помидоры и помидоры-черри, рубленые стебли сельдерея. Присыпать солью, порванными руками листьями мяты. Полить салат с персиками и помидорами готовой заправкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Веганство",
+            "slug": "veganstvo"
+        },
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Вегетарианские салаты",
+            "slug": "vegetarianskie-salaty"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетические салаты",
+            "slug": "dieticheskie-salaty"
+        },
+        {
+            "name": "Овощные салаты",
+            "slug": "ovoschnye-salaty"
+        },
+        {
+            "name": "Постные салаты",
+            "slug": "postnye-salaty"
+        },
+        {
+            "name": "Постный ужин",
+            "slug": "postniy-ujin"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из помидоров",
+            "slug": "salat-iz-pomidorov"
+        },
+        {
+            "name": "Салат с помидорами черри",
+            "slug": "salat-s-pomidorami-cherri"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салат с сельдереем",
+            "slug": "salat-s-seldereem"
+        },
+        {
+            "name": "Салат с сельдереем стеблевым",
+            "slug": "salat-s-seldereem-steblevym"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты на скорую руку",
+            "slug": "salaty-na-skoruyu-ruku"
+        },
+        {
+            "name": "Салаты с фруктами",
+            "slug": "salaty-s-fruktami"
+        }
+    ]
+}

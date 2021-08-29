@@ -1,0 +1,115 @@
+{
+    "source": "https://vkuso.ru/recipe/105532-prostoj-sup-s-frikadelkami-i-ovoshhnoj-smesyu/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Простой суп с фрикадельками и овощной смесью",
+    "description": "Почти диетическое блюдо, очень легкое в приготовлении. Готовую овощную смесь можно приобрести в магазине.",
+    "note": "При подаче посыпать суп рубленой зеленью. К блюду можно подать гренки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a7/4f51080a6adc8a7_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "50 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 8 порции",
+            "list": [
+                {
+                    "name": "овощная смесь",
+                    "slug": "ovoschnaya-smes",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "фарш",
+                    "slug": "farsh",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "На плиту поставить кастрюлю с любым бульоном или подсоленной водой.",
+            "image": null
+        },
+        {
+            "text": "Сформовать фрикадельки из мясного фарша, соль и молотый перец – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Опустить в кипящую воду мясные изделия, время варки – от 15 до 20 минут.",
+            "image": null
+        },
+        {
+            "text": "Очистить картофель, нарезать кубиками, всыпать в кастрюлю с супом.",
+            "image": null
+        },
+        {
+            "text": "Овощную смесь добавить за пять минут до полной готовности супа.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Суп картофельный с фрикадельками",
+            "slug": "sup-kartofelniy-s-frikadelkami"
+        },
+        {
+            "name": "Суп на овощном бульоне",
+            "slug": "sup-na-ovoschnom-bulone"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Суп с фаршем",
+            "slug": "sup-s-farshem"
+        },
+        {
+            "name": "Суп с фрикадельками",
+            "slug": "sup-s-frikadelkami"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        }
+    ]
+}

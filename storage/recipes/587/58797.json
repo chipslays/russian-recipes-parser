@@ -1,0 +1,208 @@
+{
+    "source": "https://vkuso.ru/recipe/chebureki-s-myasom-v-xrustyashhem-teste/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Чебуреки с мясом в хрустящем тесте",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/76/cb40c198e8f7376_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "8",
+                    "type": "стаканов",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "3",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "150",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "водка",
+                    "slug": "vodka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "мясной фарш",
+                    "slug": "myasnoy-farsh",
+                    "notes": null,
+                    "value": "700",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "приправы",
+                    "slug": "pripravy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Просеять муку в большую емкость.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/8d/523fe2e0cfa548d_434x295.jpg"
+        },
+        {
+            "text": "Растворить в воде сахар и соль.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/b0/18ff50707e40ab0_434x295.jpg"
+        },
+        {
+            "text": "Сформировать в муке лунку, налить полученный раствор, растительное масло, водку.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/2f/f5ebac405a2d92f_434x295.jpg"
+        },
+        {
+            "text": "Вымесить тесто, завернуть в полиэтилен, отставить на час при комнатной температуре.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/88/b0cac83e7103388_434x295.jpg"
+        },
+        {
+            "text": "Приготовить начинку: посыпать перцем и солью фарш, положить зелень.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/43/5db3d1b6a7e7e43_434x295.jpg"
+        },
+        {
+            "text": "Раскатать тесто при помощи скалки до толщины 3 миллиметра.",
+            "image": null
+        },
+        {
+            "text": "Положить начинку.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/af/63d23b927ac96af_434x295.jpg"
+        },
+        {
+            "text": "Сложить тесто на две части, хорошо защипнуть края, чтобы в процессе жарки не вытекла начинка.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/29/002baddfd14d829_434x295.jpg"
+        },
+        {
+            "text": "Чебуреки пожарить на масле.",
+            "image": null
+        },
+        {
+            "text": "Можно подавать чебуреки с мясом в хрустящем тесте.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В тесте",
+            "slug": "v-teste"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка с зеленью",
+            "slug": "vypechka-s-zelenyu"
+        },
+        {
+            "name": "Выпечка с мясом и фаршем",
+            "slug": "vypechka-s-myasom-i-farshem"
+        },
+        {
+            "name": "Выпечка с фаршем",
+            "slug": "vypechka-s-farshem"
+        },
+        {
+            "name": "Жареные блюда",
+            "slug": "jarenye-blyuda"
+        },
+        {
+            "name": "Мелкая выпечка",
+            "slug": "melkaya-vypechka"
+        },
+        {
+            "name": "Мясо в тесте",
+            "slug": "myaso-v-teste"
+        },
+        {
+            "name": "Несладкая выпечка",
+            "slug": "nesladkaya-vypechka"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Чебуреки",
+            "slug": "chebureki"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "source": "https://vkuso.ru/recipe/goryachij-argentinskij-napitok-submarina/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Горячий аргентинский напиток «Субмарина»",
+    "description": null,
+    "note": null,
+    "cuisine": "Аргентинская кухня",
+    "cuisine_slug": "argentinskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/38/312eebc58b3ba38_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "400",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад черный горький",
+                    "slug": "shokolad-cherniy-gorkiy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Ополоснуть кастрюлю очень холодной водой, залить молоко, дать ему закипеть, разлить в жаропрочные стаканы. Плитку шоколада поломать на длинные полосы, положить в каждый стакан по одной.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Горячий шоколад",
+            "slug": "goryachiy-shokolad"
+        },
+        {
+            "name": "Напитки с молоком",
+            "slug": "napitki-s-molokom"
+        }
+    ]
+}

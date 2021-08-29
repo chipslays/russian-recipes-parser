@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/100767-forshmak-s-malosolnymi-gribami-i-majonezom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Форшмак с малосольными грибами и майонезом",
+    "description": "Закуска с изюминкой. Пикантный вкус – для гурманов.",
+    "note": "Форшмак подать на стол в небольших пиалах.",
+    "cuisine": "Еврейская кухня",
+    "cuisine_slug": "evreyskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/96/28f33cdec01eb96_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час 20 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "филе сельди",
+                    "slug": "file-seldi",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грибы",
+                    "slug": "griby",
+                    "notes": " (малосольные)",
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб ржаной",
+                    "slug": "hleb-rjanoy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "1",
+                    "type": "упаковка",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Репчатый лук порубить и обжарить на сковороде.",
+            "image": null
+        },
+        {
+            "text": "Яйца отварить до готовности.",
+            "image": null
+        },
+        {
+            "text": "Взбить в блендере смесь из ржаного хлеба, сельди, яиц, малосольных грибов, лука, майонеза.",
+            "image": null
+        },
+        {
+            "text": "Время приготовления – десять минут.",
+            "image": null
+        },
+        {
+            "text": "Массу поставить в холод на час.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Закуски для фуршета",
+            "slug": "zakuski-dlya-fursheta"
+        },
+        {
+            "name": "Закуски из рыбы",
+            "slug": "zakuski-iz-ryby"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Форшмак",
+            "slug": "forshmak"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        }
+    ]
+}

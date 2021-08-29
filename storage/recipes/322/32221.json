@@ -1,0 +1,184 @@
+{
+    "source": "https://vkuso.ru/recipe/zalivnoj-pirog-s-kapustnoj-nachinkoj-na-majoneze/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Заливной пирог с капустной начинкой на майонезе",
+    "description": "Рецепт для тех домашних кулинаров, кто очень любит пирожки с капустой, но не имеет возможности долго возиться с их приготовлением.",
+    "note": "Подать выпечку к столу можно как в горячем, так и в холодном виде. Начинку можно разнообразить, если добавить в капусту рубленое вареное яйцо и обжаренный репчатый лук.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/9b/45a0a259bfa109b_660x440.jpeg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кефир/сметана",
+                    "slug": "kefir-smetana",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1/4",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "капуста",
+                    "slug": "kapusta",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Взбить с помощью венчика или вилки сырое яйцо, соль, сахарный песок и пищевую соду. Можно сделать это с помощью миксера. Влить майонез и кефир, взбить. Кефир можно заменить сметаной.",
+            "image": null
+        },
+        {
+            "text": "В массу всыпать просеянную муку, перемешать до состояния жидкой сметаны. Белокочанную капусту без кочерыжек тонко нашинковать, посолить и поперчить по вкусу, помять руками, чтобы появился сок.",
+            "image": null
+        },
+        {
+            "text": "Форму для выпекания смазать маслом. Налить половину теста, выложить капусту, залить второй половиной теста. Печь заливной пирог с капустной начинкой в течение 20–30 минут при температуре 180 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка на кефире",
+            "slug": "vypechka-na-kefire"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Заливной пирог",
+            "slug": "zalivnoy-pirog"
+        },
+        {
+            "name": "Заливной пирог на кефире",
+            "slug": "zalivnoy-pirog-na-kefire"
+        },
+        {
+            "name": "Заливной пирог на кефире с капустой",
+            "slug": "zalivnoy-pirog-na-kefire-s-kapustoy"
+        },
+        {
+            "name": "Заливной пирог на сметане",
+            "slug": "zalivnoy-pirog-na-smetane"
+        },
+        {
+            "name": "Заливной пирог с капустой",
+            "slug": "zalivnoy-pirog-s-kapustoy"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог на кефире",
+            "slug": "pirog-na-kefire"
+        },
+        {
+            "name": "Пирог на кефире в духовке",
+            "slug": "pirog-na-kefire-v-duhovke"
+        },
+        {
+            "name": "Пирог на майонезе",
+            "slug": "pirog-na-mayoneze"
+        },
+        {
+            "name": "Пирог с капустой",
+            "slug": "pirog-s-kapustoy"
+        },
+        {
+            "name": "Пирог с капустой на кефире",
+            "slug": "pirog-s-kapustoy-na-kefire"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги на сметане",
+            "slug": "pirogi-na-smetane"
+        },
+        {
+            "name": "Пироги с начинкой",
+            "slug": "pirogi-s-nachinkoy"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

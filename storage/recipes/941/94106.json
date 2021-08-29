@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/94106-borodinskij-xleb-s-medom-v-xlebopechke/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Бородинский хлеб с медом в хлебопечке",
+    "description": "История появления бородинского хлеба неизвестна, одна из версий – такой продукт пекли в Бородинском монастыре.",
+    "note": "Посыпать хлеб можно кунжутными семенами.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/6e/e262fc0f6aa356e_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час 15 минут",
+    "preparetime": "50 минут",
+    "video": "https://www.youtube.com/embed/VWUFBioKWq4?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "400",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "мука ржаная",
+                    "slug": "muka-rjanaya",
+                    "notes": null,
+                    "value": "320",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "160",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "солод",
+                    "slug": "solod",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "семена кориандра",
+                    "slug": "semena-koriandra",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "кориандр молотый",
+                    "slug": "koriandr-molotiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "клейковина",
+                    "slug": "kleykovina",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Солод и молотый кориандр всыпать в емкость хлебопечки, влить немного кипящей воды.",
+            "image": null
+        },
+        {
+            "text": "Оставить настой на полчаса.",
+            "image": null
+        },
+        {
+            "text": "Добавить еще немного воды, сахарный песок, растительное масло, натуральный мед, соль.",
+            "image": null
+        },
+        {
+            "text": "Всыпать ржаную и пшеничную муку, дрожжи, клейковину.",
+            "image": null
+        },
+        {
+            "text": "Замесить тесто руками или с помощью любого кухонного агрегата.",
+            "image": null
+        },
+        {
+            "text": "Через двадцать минут тесто увеличится втрое.",
+            "image": null
+        },
+        {
+            "text": "Продукт обмять, дать подойти, выставить программу «Бородинский хлеб». Время работы хлебопечки – один час.",
+            "image": null
+        },
+        {
+            "text": "Посыпать изделие зернами кориандра, печь до готовности.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бородинский хлеб",
+            "slug": "borodinskiy-hleb"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка с медом",
+            "slug": "vypechka-s-medom"
+        },
+        {
+            "name": "Ржаная выпечка",
+            "slug": "rjanaya-vypechka"
+        },
+        {
+            "name": "Ржаной хлеб",
+            "slug": "rjanoy-hleb"
+        },
+        {
+            "name": "Хлеб в хлебопечке",
+            "slug": "hleb-v-hlebopechke"
+        },
+        {
+            "name": "Хлеб домашний",
+            "slug": "hleb-domashniy"
+        },
+        {
+            "name": "Хлебопечка",
+            "slug": "hlebopechka"
+        }
+    ]
+}

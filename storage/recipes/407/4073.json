@@ -1,0 +1,147 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-sloyonyj-s-pechenyu-pechyonkin/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Салат слоёный с печенью «Печёнкин»",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d0/299b22a29945cd0_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриной / телячьей печени",
+                    "slug": "kurinoy-telyachey-pecheni",
+                    "notes": null,
+                    "value": "350",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яиц",
+                    "slug": "yaic",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "4-5"
+                },
+                {
+                    "name": "моркови",
+                    "slug": "morkovi",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "4"
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "4",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "маринованных огурцов",
+                    "slug": "marinovannyh-ogurcov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сварить телячью печень в подсоленной воде, измельчить на терке с крупными отверстиями, если готовить из куриной печени, то ее можно просто порезать мелкой соломкой, т.к. она более мягкая.",
+            "image": null
+        },
+        {
+            "text": "Сварить морковь, измельчить на терке с крупными отверстиями, лук порезать на мелкие кубики и зарумянить на масле, нарезать огурчики на небольшие кубики, у вареных яиц отделить белки от желтков, измельчить белки на крупной терке, а желтки отложить для украшения.",
+            "image": null
+        },
+        {
+            "text": "Уложить салат слоёный с печенью «Печёнкин» в высокое блюдо следующим образом: половину печени, майонез, половину лука, половину огурцов, морковь, майонез, белки, майонез, снова печень, лук, огурцы, густой слой майонеза, в конце посыпать измельченными на мелкой терке желтками.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Овощные салаты",
+            "slug": "ovoschnye-salaty"
+        },
+        {
+            "name": "Салат из моркови",
+            "slug": "salat-iz-morkovi"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с огурцом и яйцом",
+            "slug": "salat-s-ogurcom-i-yaycom"
+        },
+        {
+            "name": "Салат с печенью",
+            "slug": "salat-s-pechenyu"
+        },
+        {
+            "name": "Салат с печенью и морковью",
+            "slug": "salat-s-pechenyu-i-morkovyu"
+        },
+        {
+            "name": "Салат с печенью, морковью и луком",
+            "slug": "salat-s-pechenyu-morkovyu-i-lukom"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салат с яйцом и морковью",
+            "slug": "salat-s-yaycom-i-morkovyu"
+        },
+        {
+            "name": "Салаты с маринованными огурцами",
+            "slug": "salaty-s-marinovannymi-ogurcami"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        },
+        {
+            "name": "Слоеные салаты",
+            "slug": "sloenye-salaty"
+        }
+    ]
+}

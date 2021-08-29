@@ -1,0 +1,171 @@
+{
+    "source": "https://vkuso.ru/recipe/sladkij-pirog-iz-drozhzhevogo-testa-so-shhavelem/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Сладкий пирог из дрожжевого теста со щавелем",
+    "description": "Оригинальный десерт с кисло-сладким вкусом.",
+    "note": "Для выпечки лучше использовать молодые листья щавеля.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d3/b5e0337b6bdf6d3_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/zg8AmZgBo0g?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "щавель",
+                    "slug": "schavel",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука пшеничная",
+                    "slug": "muka-pshenichnaya",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "15",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "крахмал",
+                    "slug": "krahmal",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "3",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "125",
+                    "type": "мл",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Подогреть воду, всыпать сахар, дрожжи из пакетика, хорошо перемешать и оставить на несколько минут.",
+            "image": null
+        },
+        {
+            "text": "Мягкое сливочное масло или маргарин растереть с мукой в крошку. Влить дрожжи.",
+            "image": null
+        },
+        {
+            "text": "Быстро замесить тесто, сформовать колобок, накрыть полотенцем и оставить в тепле на 40 минут.",
+            "image": null
+        },
+        {
+            "text": "Листья щавеля вымыть и обсушить. Нарезать соломкой, положить в миску. Посыпать сахаром и потереть руками.",
+            "image": null
+        },
+        {
+            "text": "Половину теста раскатать, выложить в форму, сверху посыпать крахмалом и выложить начинку.",
+            "image": null
+        },
+        {
+            "text": "Края защипать, наколоть тесто вилкой в нескольких местах. Время выпекания – полчаса, температура – 180 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Пирог без яиц",
+            "slug": "pirog-bez-yaic"
+        },
+        {
+            "name": "Пирог со щавелем",
+            "slug": "pirog-so-schavelem"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги из дрожжевого теста",
+            "slug": "pirogi-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Пироги с начинкой",
+            "slug": "pirogi-s-nachinkoy"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Сладкие пироги",
+            "slug": "sladkie-pirogi"
+        }
+    ]
+}

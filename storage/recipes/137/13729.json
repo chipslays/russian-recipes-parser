@@ -1,0 +1,213 @@
+{
+    "source": "https://vkuso.ru/recipe/vishnevyj-chizkejk-s-domashnim-tvorogom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Вишневый чизкейк с домашним творогом",
+    "description": null,
+    "note": null,
+    "cuisine": "Американская кухня",
+    "cuisine_slug": "amerikanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/8b/e098a63da5caa8b_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "печенье песочное",
+                    "slug": "pechene-pesochnoe",
+                    "notes": null,
+                    "value": "350",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для основы",
+            "list": [
+                {
+                    "name": "творог домашний",
+                    "slug": "tvorog-domashniy",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "125",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "манная крупа",
+                    "slug": "mannaya-krupa",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "вишня",
+                    "slug": "vishnya",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "желе для торта",
+                    "slug": "jele-dlya-torta",
+                    "notes": null,
+                    "value": "1",
+                    "type": "упаковка",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Измельчить печенье до состояния мелкой крошки и смешать с растопленным маслом. Из получившейся массы сформировать, в разъемной форме, дно и бортики будущего десерта и на некоторое время убрать на холод. Смешать, предварительно протертый через сито творог, яйца, сахарный песок, манную крупу, ввести молоко и хорошо взбить.",
+            "image": null
+        },
+        {
+            "text": "Начинку переложить на подготовленную основу. Выпекать в течение 30 минут при 180 градусах. Выпечку остудить. Ягоды выложить наверх пирога и залить подготовленным желе. Вишневый чизкейк с домашним творогом убрать на холод и оставить там до полного застывания.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вишневый чизкейк",
+            "slug": "vishneviy-chizkeyk"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "Десерт с вишней",
+            "slug": "desert-s-vishney"
+        },
+        {
+            "name": "Детский праздник",
+            "slug": "detskiy-prazdnik"
+        },
+        {
+            "name": "Детский торт",
+            "slug": "detskiy-tort"
+        },
+        {
+            "name": "Другие десерты",
+            "slug": "drugie-deserty"
+        },
+        {
+            "name": "На десерт",
+            "slug": "na-desert"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        },
+        {
+            "name": "Творожный торт",
+            "slug": "tvorojniy-tort"
+        },
+        {
+            "name": "Творожный чизкейк",
+            "slug": "tvorojniy-chizkeyk"
+        },
+        {
+            "name": "Торт из печенья",
+            "slug": "tort-iz-pechenya"
+        },
+        {
+            "name": "Торт из печенья и творога",
+            "slug": "tort-iz-pechenya-i-tvoroga"
+        },
+        {
+            "name": "Торт с вишней",
+            "slug": "tort-s-vishney"
+        },
+        {
+            "name": "Торт с желе",
+            "slug": "tort-s-jele"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        },
+        {
+            "name": "Чизкейк",
+            "slug": "chizkeyk"
+        },
+        {
+            "name": "Чизкейк с выпечкой",
+            "slug": "chizkeyk-s-vypechkoy"
+        }
+    ]
+}

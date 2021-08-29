@@ -1,0 +1,160 @@
+{
+    "source": "https://vkuso.ru/recipe/rulet-iz-kabachkov-s-gribnoj-nachinkoj/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Рулет из кабачков с грибной начинкой",
+    "description": "Легкое, прекрасно подходящее для детского и диетического питания блюдо.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c8/c4650411ed470c8_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "3"
+                },
+                {
+                    "name": "кабачка / цуккини (желательно молодых)",
+                    "slug": "kabachka-cukkini-jelatelno-molodyh",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "пшеничной муки",
+                    "slug": "pshenichnoy-muki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлителя / щепотка соды",
+                    "slug": "razryhlitelya-schepotka-sody",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "репчатого лука (по желанию)",
+                    "slug": "repchatogo-luka-po-jelaniyu",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "сливочное масло",
+                    "slug": "slivochnoe-maslo",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "шампиньонов (можно использовать замороженные — 1 пачку)",
+                    "slug": "shampinonov-mojno-ispolzovat-zamorojennye-1-pachku",
+                    "notes": null,
+                    "value": "300-400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "нежирных сливок (15-20%)",
+                    "slug": "nejirnyh-slivok-15-20",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сыра",
+                    "slug": "syra",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "репчатого лука (по желанию)",
+                    "slug": "repchatogo-luka-po-jelaniyu",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "перец",
+                    "slug": "perec",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления теста очищенные кабачки (цуккини) натереть, лук прокрутить на мясорубке или размолоть в блендере, желтки растереть с солью и разрыхлителем, белки взбить до состояния «крепкой пены», хорошо перемешать кабачки, лук, желтки, затем осторожно ввести в тесто белки.",
+            "image": null
+        },
+        {
+            "text": "Для начинки пожарить грибы до выпаривания жидкости, смешать с пассерованным луком, добавить сливки и немного потушить.",
+            "image": null
+        },
+        {
+            "text": "Духовку разогреть до 180-190 градусов.",
+            "image": null
+        },
+        {
+            "text": "Застелить смазанную сливочным (топленым) маслом форму фольгой или бумагой для выпечки, промазать еще раз, выложить тесто и отправить в духовку на 25 минут до появления красивой корочки.",
+            "image": null
+        },
+        {
+            "text": "Перевернув форму, вынуть горячий корж, положить начинку, посыпать натертым сыром, свернуть рулет из кабачков с грибной начинкой, если все сделать достаточно быстро, сыр успеет расплавиться.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Закуска из кабачков",
+            "slug": "zakuska-iz-kabachkov"
+        },
+        {
+            "name": "Закуски из грибов",
+            "slug": "zakuski-iz-gribov"
+        },
+        {
+            "name": "Закуски из овощей",
+            "slug": "zakuski-iz-ovoschey"
+        }
+    ]
+}

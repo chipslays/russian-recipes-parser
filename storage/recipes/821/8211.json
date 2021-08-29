@@ -1,0 +1,172 @@
+{
+    "source": "https://vkuso.ru/recipe/pirog-s-plavlenymi-syrkami-kolbasoj-i-yajcom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пирог с плавлеными сырками, колбасой и яйцом",
+    "description": null,
+    "note": "Перед приготовлением положите сырки в морозилку, так их будет легче натереть.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/fd/a6597398e783efd_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1,5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "маргарин",
+                    "slug": "margarin",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "пачки",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "колбаса",
+                    "slug": "kolbasa",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый",
+                    "slug": "syr-plavleniy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень сушеная",
+                    "slug": "zelen-sushenaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Вынуть из морозилки пачку маргарина, половину натереть на крупную терку, всыпать подсоленную муку, к масляной крошке добавить хорошую сметану с содой, вымесить тесто до гладкости, дать ему постоять и «дозреть».",
+            "image": null
+        },
+        {
+            "text": "Измельчить на крупной терке плавленые сырки, вбить 1 яйцо, добавить еще один белок (желток оставить для смазывания), растертую сухую зелень, все присолить и хорошо перемешать. Порезать колбасу кружочками, 4 вареных яйца – на тонкие ломтики.",
+            "image": null
+        },
+        {
+            "text": "Шар теста поделить на две части, каждую раскатать, один пласт теста переложить в форму, прикрыть слоем из половины яиц, затем стружкой из плавленого сыра, далее  кружками колбасы и опять яйцами, закрыть другим пластом теста, защипать края вместе.",
+            "image": null
+        },
+        {
+            "text": "Смазать верх пирога с плавлеными сырками, колбасой и яйцом разболтанным желтком, отправить форму в духовой шкаф минут на 40. Примерно через 10 минут сделать прокол вилкой в середине пирога для выпускания пара.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка на маргарине",
+            "slug": "vypechka-na-margarine"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Выпечка с колбасой",
+            "slug": "vypechka-s-kolbasoy"
+        },
+        {
+            "name": "Несладкая выпечка",
+            "slug": "nesladkaya-vypechka"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог с яйцом",
+            "slug": "pirog-s-yaycom"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги с начинкой",
+            "slug": "pirogi-s-nachinkoy"
+        },
+        {
+            "name": "Пироги с сыром",
+            "slug": "pirogi-s-syrom"
+        }
+    ]
+}

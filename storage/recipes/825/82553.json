@@ -1,0 +1,191 @@
+{
+    "source": "https://vkuso.ru/recipe/82553-kabachkovye-oladi-s-tvorozhnym-syrom-i-pomidorami/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Кабачковые оладьи с творожным сыром и помидорами",
+    "description": "Яркое блюдо из нежного творожного сыра. Хороший вариант для дневного перекуса.",
+    "note": "При подаче украсить оладьи веточкой зелени.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/57/bf95d8ec7498157_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кабачки",
+                    "slug": "kabachki",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "120",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр творожный",
+                    "slug": "syr-tvorojniy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень петрушки",
+                    "slug": "zelen-petrushki",
+                    "notes": null,
+                    "value": "½",
+                    "type": "пучка",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сыр и кабачки цуккини натереть, нарубить зелень.",
+            "image": null
+        },
+        {
+            "text": "Всыпать соль, перец, вбить сырые яйца.",
+            "image": null
+        },
+        {
+            "text": "Очистить томаты от кожицы, нарезать кружками, смешать с творогом и давленым чесноком.",
+            "image": null
+        },
+        {
+            "text": "Сковороду разогреть, смазать маслом, выложить тесто в виде оладий, сверху – помидорная начинка, второй слой теста.",
+            "image": null
+        },
+        {
+            "text": "Жарить до золотой корочки с двух сторон.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Вторые блюда из кабачков",
+            "slug": "vtorye-blyuda-iz-kabachkov"
+        },
+        {
+            "name": "Вторые блюда из овощей",
+            "slug": "vtorye-blyuda-iz-ovoschey"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Кабачки с помидорами",
+            "slug": "kabachki-s-pomidorami"
+        },
+        {
+            "name": "Кабачки с сыром",
+            "slug": "kabachki-s-syrom"
+        },
+        {
+            "name": "Кабачки с чесноком",
+            "slug": "kabachki-s-chesnokom"
+        },
+        {
+            "name": "Овощные оладьи",
+            "slug": "ovoschnye-oladi"
+        },
+        {
+            "name": "Оладьи",
+            "slug": "oladi"
+        },
+        {
+            "name": "Оладьи из кабачков",
+            "slug": "oladi-iz-kabachkov"
+        },
+        {
+            "name": "Оладьи из кабачков с сыром",
+            "slug": "oladi-iz-kabachkov-s-syrom"
+        },
+        {
+            "name": "Оладьи из кабачков с сыром и чесноком",
+            "slug": "oladi-iz-kabachkov-s-syrom-i-chesnokom"
+        },
+        {
+            "name": "Оладьи из кабачков с чесноком",
+            "slug": "oladi-iz-kabachkov-s-chesnokom"
+        },
+        {
+            "name": "Оладьи с сыром",
+            "slug": "oladi-s-syrom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

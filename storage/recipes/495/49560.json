@@ -1,0 +1,195 @@
+{
+    "source": "https://vkuso.ru/recipe/grechka-s-gribami-i-percem-chili/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Гречка с грибами и перцем чили",
+    "description": "Восточные нотки придает блюду острый перец чили, соевый соус и кардамон.",
+    "note": "При подаче блюдо украсить листочками свежей мяты.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/73/b3f50b8ef5b3673_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "гречневая крупа",
+                    "slug": "grechnevaya-krupa",
+                    "notes": null,
+                    "value": "1",
+                    "type": "чашка",
+                    "amount": null
+                },
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "5-6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук",
+                    "slug": "luk",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец чили",
+                    "slug": "perec-chili",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "зубчик",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мята свежая",
+                    "slug": "myata-svejaya",
+                    "notes": null,
+                    "value": "несколько",
+                    "type": "листочков",
+                    "amount": null
+                },
+                {
+                    "name": "семена кардамона",
+                    "slug": "semena-kardamona",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "щепотка"
+                },
+                {
+                    "name": "соус соевый",
+                    "slug": "sous-soeviy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Крупу залить водой, накрыть крышкой, поставить на сильный огонь.",
+            "image": null
+        },
+        {
+            "text": "Репчатый лук измельчить.",
+            "image": null
+        },
+        {
+            "text": "В закипевшую воду ввести щепотку соли. Огонь убавить, блюдо накрыть крышкой, варить гречку до готовности.",
+            "image": null
+        },
+        {
+            "text": "Вымыть шампиньоны, очистить и нарезать пластинками.",
+            "image": null
+        },
+        {
+            "text": "Разогреть растительное масло на сковороде, всыпать семена кардамона, измельченный перец чили, чеснок, лук, грибы, подлить соевый соус и сок лимона. Все вместе обжарить в течение двух-трех минут на тихом огне.",
+            "image": null
+        },
+        {
+            "text": "Всыпать готовую гречневую крупу, по желанию можно добавить еще немного соевого соуса, перемешать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Гарнир из грибов",
+            "slug": "garnir-iz-gribov"
+        },
+        {
+            "name": "Гарнир к курице",
+            "slug": "garnir-k-kurice"
+        },
+        {
+            "name": "Гарниры",
+            "slug": "garniry"
+        },
+        {
+            "name": "Гарниры из гречки",
+            "slug": "garniry-iz-grechki"
+        },
+        {
+            "name": "Гречка с грибами",
+            "slug": "grechka-s-gribami"
+        },
+        {
+            "name": "Гречка с грибами и луком",
+            "slug": "grechka-s-gribami-i-lukom"
+        },
+        {
+            "name": "Гречневая каша",
+            "slug": "grechnevaya-kasha"
+        },
+        {
+            "name": "Постные блюда из гречки",
+            "slug": "postnye-blyuda-iz-grechki"
+        },
+        {
+            "name": "Постные блюда с грибами",
+            "slug": "postnye-blyuda-s-gribami"
+        },
+        {
+            "name": "Постные каши",
+            "slug": "postnye-kashi"
+        },
+        {
+            "name": "Постный ужин",
+            "slug": "postniy-ujin"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

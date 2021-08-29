@@ -1,0 +1,188 @@
+{
+    "source": "https://vkuso.ru/recipe/salatik-lezher/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салатик «Лежер»",
+    "description": "«Лежер» – от французского «легкий». Зеленый салат, помидоры, сыр и сухарики – ничего лишнего, но и все, что надо.",
+    "note": "Соусом салат можно не поливать, а поместить его в небольшие посудины и поставить их прямо посреди блюда. Домашние сухарики заменяются купленными «Кириешками».",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/1f/a8be6590f7a971f_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "листья салата",
+                    "slug": "listya-salata",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "багет",
+                    "slug": "baget",
+                    "notes": null,
+                    "value": "0,5",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для заправки",
+            "list": [
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "2.5",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "уксус бальзамический",
+                    "slug": "uksus-balzamicheskiy",
+                    "notes": " (неполная)",
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "горчица",
+                    "slug": "gorchica",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Вчерашний, немного подсохший батон нарезать кубиками, полить оливковым маслом и обжарить на сухой сковороде со всех сторон до золотистого цвета. Также сухарики можно запечь в духовке при температуре 180 градусов в течение 10 минут, один раз перевернуть.",
+            "image": null
+        },
+        {
+            "text": "Нарезать кубиками помидоры, натереть сыр.",
+            "image": null
+        },
+        {
+            "text": "Приготовить заправку из бальзамического уксуса, горчицы, сметаны, оливкового масла, соли и перца. Ингредиенты взбить венчиком.",
+            "image": null
+        },
+        {
+            "text": "Вымыть зеленый салат, высушить, порвать руками на небольшие кусочки, выложить в общую салатницу или порционно. Сверху – обжаренные сухарики и помидоры, посыпать блюдо сыром, полить заправкой перед подачей на стол, чтобы хлеб не успел размокнуть.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Легкий салат",
+            "slug": "legkiy-salat"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из помидоров",
+            "slug": "salat-iz-pomidorov"
+        },
+        {
+            "name": "Салат с кириешками",
+            "slug": "salat-s-kirieshkami"
+        },
+        {
+            "name": "Салат с помидорами и сыром",
+            "slug": "salat-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салат с сухариками",
+            "slug": "salat-s-suharikami"
+        },
+        {
+            "name": "Салат с твердым сыром",
+            "slug": "salat-s-tverdym-syrom"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты из листьев салата",
+            "slug": "salaty-iz-listev-salata"
+        },
+        {
+            "name": "Салаты на скорую руку",
+            "slug": "salaty-na-skoruyu-ruku"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        },
+        {
+            "name": "Салаты со сметаной",
+            "slug": "salaty-so-smetanoy"
+        }
+    ]
+}

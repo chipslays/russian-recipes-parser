@@ -1,0 +1,71 @@
+{
+    "source": "https://vkuso.ru/recipe/syr-obzharennyj-v-panirovke-po-cheshski/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Сыр, обжаренный в панировке по-чешски",
+    "description": null,
+    "note": null,
+    "cuisine": "Чешская кухня",
+    "cuisine_slug": "cheshskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c5/ee01c109ae10dc5_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сухари панировочные",
+                    "slug": "suhari-panirovochnye",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Порезать сыр на квадратики по 1,5 сантиметра в толщину. В глубокую емкость разбить несколько яиц и взбить. Во вторую посуду положить панировочные сухари.",
+            "image": null
+        },
+        {
+            "text": "Все кусочки сыра по одному обмакнуть в яйца, после в панировочные сухари, дальше опять в яйца и в сухари. Жарить сыр в панировке по-чешски на большом огне по 30 секунд со всех сторон.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Жареный сыр",
+            "slug": "jareniy-syr"
+        },
+        {
+            "name": "Закуски к пиву",
+            "slug": "zakuski-k-pivu"
+        },
+        {
+            "name": "Сыр в кляре",
+            "slug": "syr-v-klyare"
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "source": "https://vkuso.ru/recipe/107267-vinegret-so-svezhej-kapustoj-kartofelem-i-goroshkom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Винегрет со свежей капустой, картофелем и горошком",
+    "description": "Яркий салат для холодных зимних дней.",
+    "note": "При подаче украсить салат листочками зелени.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/47/2cf6d08a7efff47_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/VZo7krDMaPc?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 3 порции",
+            "list": [
+                {
+                    "name": "капуста",
+                    "slug": "kapusta",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "свекла",
+                    "slug": "svekla",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы маринованные",
+                    "slug": "ogurcy-marinovannye",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "зеленый горошек консервированный",
+                    "slug": "zeleniy-goroshek-konservirovanniy",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "горчица столовая",
+                    "slug": "gorchica-stolovaya",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Морковь, картофель, свеклу отварить до готовности, остудить, очистить и покрошить кубиками.",
+            "image": null
+        },
+        {
+            "text": "Нашинковать белокочанную капусту.",
+            "image": null
+        },
+        {
+            "text": "Нарезать репчатый лук полукольцами.",
+            "image": null
+        },
+        {
+            "text": "Соленые или маринованные огурцы нарезать кубиками.",
+            "image": null
+        },
+        {
+            "text": "В салат добавить зеленый горошек, соль и горчицу по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Полить растительным маслом, перемешать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Винегрет",
+            "slug": "vinegret"
+        },
+        {
+            "name": "Винегрет со свежей капустой",
+            "slug": "vinegret-so-svejey-kapustoy"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из капусты",
+            "slug": "salat-iz-kapusty"
+        },
+        {
+            "name": "Салат из капусты и моркови",
+            "slug": "salat-iz-kapusty-i-morkovi"
+        },
+        {
+            "name": "Салат из капусты и огурцов",
+            "slug": "salat-iz-kapusty-i-ogurcov"
+        },
+        {
+            "name": "Салат из свежей капусты и моркови",
+            "slug": "salat-iz-svejey-kapusty-i-morkovi"
+        },
+        {
+            "name": "Салат из свеклы",
+            "slug": "salat-iz-svekly"
+        },
+        {
+            "name": "Салат из свеклы и моркови",
+            "slug": "salat-iz-svekly-i-morkovi"
+        },
+        {
+            "name": "Салат с зеленым горошком",
+            "slug": "salat-s-zelenym-goroshkom"
+        },
+        {
+            "name": "Салат с картофелем",
+            "slug": "salat-s-kartofelem"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты с маринованными огурцами",
+            "slug": "salaty-s-marinovannymi-ogurcami"
+        }
+    ]
+}

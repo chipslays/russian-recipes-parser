@@ -1,0 +1,135 @@
+{
+    "source": "https://vkuso.ru/recipe/101931-slivochnyj-sous-iz-cvetnoj-kapusty-s-chesnokom/",
+    "category": "Соусы",
+    "category_slug": "sousy",
+    "title": "Сливочный соус из цветной капусты с чесноком",
+    "description": null,
+    "note": "Подавать соус к блюдам лучше горячим.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/2e/2d9c9fe8787de2e_660x440.jpeg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "бульон овощной",
+                    "slug": "bulon-ovoschnoy",
+                    "notes": " (вода)",
+                    "value": "6-7",
+                    "type": "стаканов",
+                    "amount": null
+                },
+                {
+                    "name": "капуста цветная",
+                    "slug": "kapusta-cvetnaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "8",
+                    "type": "зубчиков",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Довести до кипения воду (бульон), подсолить, положить небольшие соцветия капусты, проварить после повторного закипания под крышкой минут 8-10 (зависит от размера соцветий) до готовности, но не переваривать.",
+            "image": null
+        },
+        {
+            "text": "Пока варится капуста обжарить на масле мелко натертый или пропущенный через пресс чеснок при слабом нагреве.",
+            "image": null
+        },
+        {
+            "text": "Выловить шумовкой капусту, поместить в блендер, залить стаканом бульона, оставшимся от ее варки.",
+            "image": null
+        },
+        {
+            "text": "Добавить чеснок с маслом, приправить солью, перцем, влить молоко, разбить в однородное пюре.",
+            "image": null
+        },
+        {
+            "text": "Если пюре получится чересчур густым, то в сливочный соус из цветной капусты с чесноком можно добавить еще овощного бульона или молока.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Овощной соус",
+            "slug": "ovoschnoy-sous"
+        },
+        {
+            "name": "Сливочный соус",
+            "slug": "slivochniy-sous"
+        },
+        {
+            "name": "Сливочный соус для макарон",
+            "slug": "slivochniy-sous-dlya-makaron"
+        },
+        {
+            "name": "Сливочный соус для пасты",
+            "slug": "slivochniy-sous-dlya-pasty"
+        },
+        {
+            "name": "Сливочный соус для спагетти",
+            "slug": "slivochniy-sous-dlya-spagetti"
+        },
+        {
+            "name": "Соус для макарон",
+            "slug": "sous-dlya-makaron"
+        },
+        {
+            "name": "Соус для пасты",
+            "slug": "sous-dlya-pasty"
+        },
+        {
+            "name": "Соус для спагетти",
+            "slug": "sous-dlya-spagetti"
+        }
+    ]
+}

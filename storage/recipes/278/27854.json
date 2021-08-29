@@ -1,0 +1,123 @@
+{
+    "source": "https://vkuso.ru/recipe/legkij-fruktovo-jogurtovyj-koktejl/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Легкий фруктово-йогуртовый коктейль",
+    "description": "Такой коктейль подарит заряд бодрости и массу витаминов.",
+    "note": "При подаче можно украсить взбитыми сливками и свежей клубникой.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/6e/88c21e64bef9c6e_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "йогурт",
+                    "slug": "yogurt",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "клубника",
+                    "slug": "klubnika",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "бананы",
+                    "slug": "banany",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сироп вишневый",
+                    "slug": "sirop-vishneviy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "корица",
+                    "slug": "korica",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сливки взбитые",
+                    "slug": "slivki-vzbitye",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Перемешать с помощью блендера свежую клубнику, очищенный банан, вишневый сироп и йогурт без цветовых и вкусовых добавок, всыпать молотую корицу. Разлить фруктово-йогуртовый коктейль в бокалы и остудить в холодильнике.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Банановый коктейль",
+            "slug": "bananoviy-kokteyl"
+        },
+        {
+            "name": "Безалкогольные коктейли",
+            "slug": "bezalkogolnye-kokteyli"
+        },
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Десерт из бананов",
+            "slug": "desert-iz-bananov"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Клубника со сливками",
+            "slug": "klubnika-so-slivkami"
+        },
+        {
+            "name": "Клубничные коктейли",
+            "slug": "klubnichnye-kokteyli"
+        },
+        {
+            "name": "Коктейли",
+            "slug": "kokteyli"
+        },
+        {
+            "name": "Молочный коктейль",
+            "slug": "molochniy-kokteyl"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

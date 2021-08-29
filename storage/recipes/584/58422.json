@@ -1,0 +1,163 @@
+{
+    "source": "https://vkuso.ru/recipe/grenki-s-vetchinoj-po-uelski/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Гренки с ветчиной по-уэльски",
+    "description": "Знаменитая на весь мир закуска представляет собой растворенный в темном пиве, а затем запеченный сыр с хлебом, яйцами или ветчиной. На родине его подают в каждом пабе.",
+    "note": "Для приготовления понадобится только этот сорт сыра. Гренки по-уэльски можно подать к любому первому блюду или как самостоятельное кушанье на завтрак.",
+    "cuisine": "Английская кухня",
+    "cuisine_slug": "angliyskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/23/67091aaccfcaf23_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "пиво темное",
+                    "slug": "pivo-temnoe",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сыр чеддер",
+                    "slug": "syr-chedder",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб тостовый",
+                    "slug": "hleb-tostoviy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ломтика",
+                    "amount": null
+                },
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ломтика",
+                    "amount": null
+                },
+                {
+                    "name": "соус вустерский",
+                    "slug": "sous-vusterskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "горчица дижонская",
+                    "slug": "gorchica-dijonskaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Натереть на терке сыр «Чеддер».",
+            "image": null
+        },
+        {
+            "text": "Нарезать небольшими кусочками белый хлеб для тостов.",
+            "image": null
+        },
+        {
+            "text": "Ломтики ветчины нарезать квадратиками.",
+            "image": null
+        },
+        {
+            "text": "Обжарить хлеб на небольшой сковороде без жира.",
+            "image": null
+        },
+        {
+            "text": "Переложить его в форму для запекания, сверху – ветчина.",
+            "image": null
+        },
+        {
+            "text": "Вылить темное пиво в кастрюлю, добавить вустерский соус и дижонскую горчицу.",
+            "image": null
+        },
+        {
+            "text": "Поставить смесь на плиту, довести до кипения, добавить тертый сыр порциями, прогревать до полного растворения продукта.",
+            "image": null
+        },
+        {
+            "text": "Полученной массой залить хлеб с ветчиной, поставить в разогретую духовку, запечь при высокой температуре в течение нескольких минут в режиме гриля.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды в духовке",
+            "slug": "buterbrody-v-duhovke"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды на праздничный стол",
+            "slug": "buterbrody-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Бутерброды открытые",
+            "slug": "buterbrody-otkrytye"
+        },
+        {
+            "name": "Бутерброды с ветчиной",
+            "slug": "buterbrody-s-vetchinoy"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Горячие бутерброды",
+            "slug": "goryachie-buterbrody"
+        },
+        {
+            "name": "Горячие бутерброды с сыром",
+            "slug": "goryachie-buterbrody-s-syrom"
+        },
+        {
+            "name": "Гренки",
+            "slug": "grenki"
+        },
+        {
+            "name": "Гренки из белого хлеба",
+            "slug": "grenki-iz-belogo-hleba"
+        },
+        {
+            "name": "Гренки из хлеба",
+            "slug": "grenki-iz-hleba"
+        },
+        {
+            "name": "Гренки с сыром",
+            "slug": "grenki-s-syrom"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        }
+    ]
+}

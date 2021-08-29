@@ -1,0 +1,203 @@
+{
+    "source": "https://vkuso.ru/recipe/85518-salat-zalivnoj-iz-shampinonov/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Заливной» из шампиньонов",
+    "description": "Закуска с грибами, подаваемая порционно.",
+    "note": "Готовую закуску можно украсить капельками или дорожками майонеза, листочками петрушки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/0c/da417daaed3d60c_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/3Z2Id4KR0Zs?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "бульон овощной",
+                    "slug": "bulon-ovoschnoy",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "180",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Репчатый лук очистить, вымыть, мелко нарезать, обжарить до золотистого цвета.",
+            "image": null
+        },
+        {
+            "text": "Вымыть и покрошить кубиками шампиньоны.",
+            "image": null
+        },
+        {
+            "text": "Добавить к луку, посолить, довести до готовности.",
+            "image": null
+        },
+        {
+            "text": "Остудить.",
+            "image": null
+        },
+        {
+            "text": "Приготовить соус из майонеза и чеснока.",
+            "image": null
+        },
+        {
+            "text": "Довести до кипения овощной бульон, всыпать желатин.",
+            "image": null
+        },
+        {
+            "text": "Сразу снять с огня, остудить.",
+            "image": null
+        },
+        {
+            "text": "Желатин должен полностью раствориться.",
+            "image": null
+        },
+        {
+            "text": "В небольшие пиалы выложить грибную обжарку, посыпать нарезанной зеленью.",
+            "image": null
+        },
+        {
+            "text": "Поверх налить майонез с чесноком.",
+            "image": null
+        },
+        {
+            "text": "Залить бульоном, делать это осторожно, чтобы ингредиенты не перемешались.",
+            "image": null
+        },
+        {
+            "text": "Поставить в холод до застывания.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат с грибами",
+            "slug": "salat-s-gribami"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салат с чесноком и майонезом",
+            "slug": "salat-s-chesnokom-i-mayonezom"
+        },
+        {
+            "name": "Салат с шампиньонами",
+            "slug": "salat-s-shampinonami"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        }
+    ]
+}

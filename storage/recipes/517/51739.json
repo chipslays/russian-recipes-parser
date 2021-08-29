@@ -1,0 +1,211 @@
+{
+    "source": "https://vkuso.ru/recipe/dieticheskij-salat-nisuaz-s-konservirovannym-tuncom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Диетический салат «Нисуаз» с консервированным тунцом",
+    "description": "Блюдо французской, прованской, кухни, название означает, что салат придуман в городе Ницца. Вариантов этой закуски придумано множество, их ничуть не меньше, чем салатов «Оливье» или «Цезарь».",
+    "note": "В салат «Нисуаз» можно добавить чеснок и анчоусы, каперсы, свежие огурцы, артишоки, в заправку – перец, сахар, эстрагон.",
+    "cuisine": "Французская кухня",
+    "cuisine_slug": "francuzskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/74/bfd4e88140a5074_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "тунец консервированный",
+                    "slug": "tunec-konservirovanniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "фасоль стручковая зеленая",
+                    "slug": "fasol-struchkovaya-zelenaya",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры черри",
+                    "slug": "pomidory-cherri",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "маслины",
+                    "slug": "masliny",
+                    "notes": null,
+                    "value": "1",
+                    "type": "горсть",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "2-4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "уксус бальзамический",
+                    "slug": "uksus-balzamicheskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "горчица дижонская",
+                    "slug": "gorchica-dijonskaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Зеленую стручковую фасоль отварить в течение нескольких минут, откинуть на дуршлаг и промыть проточной ледяной водой. Такой нехитрый прием позволит сохранить зеленый цвет продукта.",
+            "image": null
+        },
+        {
+            "text": "Отварить вкрутую куриные яйца, очистить, разрезать пополам.",
+            "image": null
+        },
+        {
+            "text": "Нарезать помидоры черри пополам.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления заправки смешать бальзамический уксус, дижонскую горчицу, оливковое масло.",
+            "image": null
+        },
+        {
+            "text": "В миску выложить маслины без косточек, консервированного туннесца без жидкости, помидоры и фасоль, полить заправкой, посолить и поперчить.",
+            "image": null
+        },
+        {
+            "text": "Салат перемешать, разложить в тарелки, сверху украсить половинками крутого яйца и зеленью петрушки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетические салаты",
+            "slug": "dieticheskie-salaty"
+        },
+        {
+            "name": "Классические салаты",
+            "slug": "klassicheskie-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат из помидоров",
+            "slug": "salat-iz-pomidorov"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат Нисуаз",
+            "slug": "salat-nisuaz"
+        },
+        {
+            "name": "Салат с консервированным тунцом",
+            "slug": "salat-s-konservirovannym-tuncom"
+        },
+        {
+            "name": "Салат с маслинами",
+            "slug": "salat-s-maslinami"
+        },
+        {
+            "name": "Салат с помидорами и яйцами",
+            "slug": "salat-s-pomidorami-i-yaycami"
+        },
+        {
+            "name": "Салат с помидорами черри",
+            "slug": "salat-s-pomidorami-cherri"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салат с рыбными консервами",
+            "slug": "salat-s-rybnymi-konservami"
+        },
+        {
+            "name": "Салат со стручковой фасолью",
+            "slug": "salat-so-struchkovoy-fasolyu"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без майонеза на праздничный стол",
+            "slug": "salaty-bez-mayoneza-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты на скорую руку",
+            "slug": "salaty-na-skoruyu-ruku"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

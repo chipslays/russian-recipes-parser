@@ -1,0 +1,87 @@
+{
+    "source": "https://vkuso.ru/recipe/syrnyj-sendvich-na-skovorode/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Сырный сэндвич на сковороде",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e3/d215a625fc1c5e3_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "85",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб",
+                    "slug": "hleb",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нагреть сковороду. Одну сторону всех кусочков хлеба смазать маслом. Один ломтик хлеба положить на сковороду вниз маслом. Посыпать сыром и положить  сверху второй кусок хлеба маслом вверх.",
+            "image": null
+        },
+        {
+            "text": "Сделать огонь тише, готовить сырный сэндвич на сковороде приблизительно 3 минуты до коричневатого цвета. Перевернуть и обжаривать столько же с другой стороны.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Закрытые бутерброды",
+            "slug": "zakrytye-buterbrody"
+        },
+        {
+            "name": "Простые бутерброды",
+            "slug": "prostye-buterbrody"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сэндвич с сыром",
+            "slug": "sendvich-s-syrom"
+        },
+        {
+            "name": "Сэндвичи",
+            "slug": "sendvichi"
+        }
+    ]
+}

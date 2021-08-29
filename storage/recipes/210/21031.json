@@ -1,0 +1,216 @@
+{
+    "source": "https://vkuso.ru/recipe/picca-s-kolbasoj-na-tonkom-teste/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пицца с колбасой на тонком тесте",
+    "description": null,
+    "note": null,
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d9/dc548a5b4ab32d9_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "65",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "4",
+                    "type": "щепотки",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "колбаса копченая",
+                    "slug": "kolbasa-kopchenaya",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "соус томатный",
+                    "slug": "sous-tomatniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В просеянную муку добавить дрожжи. Налить воду и замесить слегка липкое тесто. Накрыть и отставить на 30 минут. После этого налить в тесто масло, посыпать солью, вымесить. Тесто будет немного жирным. Спустя несколько минут всыпать пару ложек муки.",
+            "image": null
+        },
+        {
+            "text": "Накрыть и на 60 минут поставить в тепло. Приготовить начинку: порезать на тоненькие кружочки колбасу и помидор. Кольцами нарезать луковицу, измельчить зеленый лук, мелко натереть сыр. Спустя час обмять тесто, если нужно насыпать еще муку.",
+            "image": null
+        },
+        {
+            "text": "Выложить лепешку на пергаментную бумагу, вырезанную по форме противня. Раскатать скалкой тесто в круг, толщиной 4 миллиметра. Получится маленькая пицца (примерно 20 сантиметров диаметром). Намазать лепешку соусом или кетчупом.",
+            "image": null
+        },
+        {
+            "text": "Выложить начинку, не доходя до края: помидоры, колбасу, затем лук. Посыпать зеленью и сыром. Готовить пиццу с колбасой на тонком тесте минут 25, соблюдая температуру 180 градусов. Готовую пиццу нарезать на кусочки и подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Тесто домашнее",
+            "slug": "testo-domashnee"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка с колбасой",
+            "slug": "vypechka-s-kolbasoy"
+        },
+        {
+            "name": "Домашняя пицца",
+            "slug": "domashnyaya-picca"
+        },
+        {
+            "name": "Дрожжевая пицца",
+            "slug": "drojjevaya-picca"
+        },
+        {
+            "name": "Итальянская пицца",
+            "slug": "italyanskaya-picca"
+        },
+        {
+            "name": "Пицца",
+            "slug": "picca"
+        },
+        {
+            "name": "Пицца в духовке",
+            "slug": "picca-v-duhovke"
+        },
+        {
+            "name": "Пицца с колбасой",
+            "slug": "picca-s-kolbasoy"
+        },
+        {
+            "name": "Пицца с колбасой и сыром",
+            "slug": "picca-s-kolbasoy-i-syrom"
+        },
+        {
+            "name": "Пицца с колбасой, помидорами и сыром",
+            "slug": "picca-s-kolbasoy-pomidorami-i-syrom"
+        },
+        {
+            "name": "Пицца с помидорами",
+            "slug": "picca-s-pomidorami"
+        },
+        {
+            "name": "Пицца с помидорами и сыром",
+            "slug": "picca-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Пицца с сыром",
+            "slug": "picca-s-syrom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Тесто для пиццы на воде",
+            "slug": "testo-dlya-piccy-na-vode"
+        },
+        {
+            "name": "Тонкая пицца",
+            "slug": "tonkaya-picca"
+        },
+        {
+            "name": "Тонкое тесто для пиццы",
+            "slug": "tonkoe-testo-dlya-piccy"
+        }
+    ]
+}

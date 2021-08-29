@@ -1,0 +1,207 @@
+{
+    "source": "https://vkuso.ru/recipe/perec-farshirovannyj-krevetkami-s-parmezanom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Перец фаршированный креветками с пармезаном",
+    "description": "Неповторимый вкус, блюдо для праздничного стола.",
+    "note": "При подаче перцы можно посыпать зеленью, украсить тонко нарезанными апельсинами.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f0/f2d0dee5da503f0_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "креветки",
+                    "slug": "krevetki",
+                    "notes": null,
+                    "value": "15",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры черри",
+                    "slug": "pomidory-cherri",
+                    "notes": null,
+                    "value": "12",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр пармезан",
+                    "slug": "syr-parmezan",
+                    "notes": null,
+                    "value": "125",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соус соевый",
+                    "slug": "sous-soeviy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Очищенный чеснок и лук мелко нарезать.",
+            "image": null
+        },
+        {
+            "text": "Влить масло на раскаленную сковороду.",
+            "image": null
+        },
+        {
+            "text": "Положить и обжарить овощи.",
+            "image": null
+        },
+        {
+            "text": "Креветки вымыть и очистить.",
+            "image": null
+        },
+        {
+            "text": "Мякоть нарезать, добавить в обжарку, тушить все вместе.",
+            "image": null
+        },
+        {
+            "text": "Разрезать перцы, удалить перегородки, семена.",
+            "image": null
+        },
+        {
+            "text": "Обжарку перемешать с яйцами и соевым соусом, половинками помидоров черри.",
+            "image": null
+        },
+        {
+            "text": "Состав перемешать и положить в перечные лодочки.",
+            "image": null
+        },
+        {
+            "text": "Натереть сыр «Пармезан», насыпать на перцы.",
+            "image": null
+        },
+        {
+            "text": "Запекать изделия на противне, температура – 180 градусов, время тушения – 30 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Горячие блюда на день рождения",
+            "slug": "goryachie-blyuda-na-den-rojdeniya"
+        },
+        {
+            "name": "Горячие блюда на Новый год",
+            "slug": "goryachie-blyuda-na-noviy-god"
+        },
+        {
+            "name": "Горячие блюда на праздничный стол",
+            "slug": "goryachie-blyuda-na-prazdnichniy-stol"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Креветки с овощами",
+            "slug": "krevetki-s-ovoschami"
+        },
+        {
+            "name": "Креветки с чесноком",
+            "slug": "krevetki-s-chesnokom"
+        },
+        {
+            "name": "Морепродукты с овощами",
+            "slug": "moreprodukty-s-ovoschami"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Перец в духовке",
+            "slug": "perec-v-duhovke"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Фаршированные блюда",
+            "slug": "farshirovannye-blyuda"
+        },
+        {
+            "name": "Фаршированные овощи",
+            "slug": "farshirovannye-ovoschi"
+        },
+        {
+            "name": "Фаршированный перец",
+            "slug": "farshirovanniy-perec"
+        }
+    ]
+}

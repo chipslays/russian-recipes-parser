@@ -1,0 +1,99 @@
+{
+    "source": "https://vkuso.ru/recipe/100625-osvezhayushhij-mors-iz-klyukvy-s-brusnikoj/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Освежающий морс из клюквы с брусникой",
+    "description": "Бруснику называют «ягодой бессмертия». Полезные свойства и вкус двух лесных ягод гармонично дополняют друг друга.",
+    "note": "При подаче положить в бокалы кубики льда, кружки лимона, апельсина или лайма.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/7a/ef8e781a74a137a_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/JOOMlID4D5s?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 10 порции",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2.5",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "клюква",
+                    "slug": "klyukva",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "брусника",
+                    "slug": "brusnika",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "100-120",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Ягоды протереть через мелкое сито.",
+            "image": null
+        },
+        {
+            "text": "Жмых прогреть до кипения вместе с водой, дать постоять до остывания.",
+            "image": null
+        },
+        {
+            "text": "Процедить через сито или марлю.",
+            "image": null
+        },
+        {
+            "text": "Смешать сок и отвар, сахарный песок – по вкусу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Брусничный морс",
+            "slug": "brusnichniy-mors"
+        },
+        {
+            "name": "Клюквенный морс",
+            "slug": "klyukvenniy-mors"
+        },
+        {
+            "name": "Морс",
+            "slug": "mors"
+        },
+        {
+            "name": "Морс из брусники",
+            "slug": "mors-iz-brusniki"
+        },
+        {
+            "name": "Морс из ягод",
+            "slug": "mors-iz-yagod"
+        }
+    ]
+}

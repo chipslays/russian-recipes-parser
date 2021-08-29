@@ -1,0 +1,167 @@
+{
+    "source": "https://vkuso.ru/recipe/bliny-s-farshem-na-pive/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Блины с фаршем, на пиве",
+    "description": null,
+    "note": "Если использовать для выпекания блинов блинную сковородку, то при жарке масло больше добавлять не нужно, а если обычную, то ее нужно смазывать маслом.",
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/90/a66e27d3fb61590_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "говяжий фарш",
+                    "slug": "govyajiy-farsh",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "пиво",
+                    "slug": "pivo",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Взбить яйца со щепоткой соли, добавить молоко, сахар, пиво, соду и перемешать. Постепенно добавить муку, а затем влить масло.",
+            "image": null
+        },
+        {
+            "text": "На сковородке обжарить до готовности говяжий фарш, с предварительно измельченной луковицей и тертой морковью.",
+            "image": null
+        },
+        {
+            "text": "Выложить начинку на готовый блин и свернуть конвертиком. Блины с фаршем, на пиве, можно подавать на стол.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блины",
+            "slug": "bliny"
+        },
+        {
+            "name": "Блины без дрожжей",
+            "slug": "bliny-bez-drojjey"
+        },
+        {
+            "name": "Блины на пиве",
+            "slug": "bliny-na-pive"
+        },
+        {
+            "name": "Блины с мясом",
+            "slug": "bliny-s-myasom"
+        },
+        {
+            "name": "Выпечка на пиве",
+            "slug": "vypechka-na-pive"
+        },
+        {
+            "name": "Выпечка с мясом и фаршем",
+            "slug": "vypechka-s-myasom-i-farshem"
+        },
+        {
+            "name": "Выпечка с фаршем",
+            "slug": "vypechka-s-farshem"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Фаршированные блины с начинкой",
+            "slug": "farshirovannye-bliny-s-nachinkoy"
+        }
+    ]
+}

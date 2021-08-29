@@ -1,0 +1,406 @@
+{
+    "source": "https://vkuso.ru/recipe/shokoladno-zefirnyj-desert-mums-mums/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Шоколадно-зефирный десерт «Mums Mums»",
+    "description": "Оригинальный сложный десерт – воздушное белковое облачко на основе-печенье.",
+    "note": "Десерт хорошо хранится при комнатной температуре.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d4/ae0f682ee8996d4_660x440.jpg",
+    "difficulty": "Высокая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "какао-порошок",
+                    "slug": "kakao-poroshok",
+                    "notes": null,
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "7",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для печенья",
+            "list": [
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "агар-агар",
+                    "slug": "agar-agar",
+                    "notes": null,
+                    "value": "8",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "корица",
+                    "slug": "korica",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для зефира",
+            "list": [
+                {
+                    "name": "шоколад черный горький",
+                    "slug": "shokolad-cherniy-gorkiy",
+                    "notes": null,
+                    "value": "350",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло виноградной косточки",
+                    "slug": "maslo-vinogradnoy-kostochki",
+                    "notes": " (масло фундука)",
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для глазури",
+            "list": [
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": " (Гренни Смит)",
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сварить сироп из воды и сахарного песка.",
+            "image": null
+        },
+        {
+            "text": "Очень тонко нарезать яблоки, толщина долек – два-три миллиметра.",
+            "image": null
+        },
+        {
+            "text": "Опустить измельченные фрукты на час в сироп.",
+            "image": null
+        },
+        {
+            "text": "Дольки вынуть, выложить на коврик из силикона или решетку из духового шкафа.",
+            "image": null
+        },
+        {
+            "text": "Посыпать сахарной пудрой, печь в течение двух часов при температуре 100 градусов.",
+            "image": null
+        },
+        {
+            "text": "Готовые фруктовые чипсы полностью остудить, их можно хранить при комнатной температуре в плотно закрывающейся емкости.",
+            "image": null
+        },
+        {
+            "text": "Для печенья перемешать в глубокой миске пшеничную муку, сахарную пудру, какао-порошок, разрыхлитель и соль.",
+            "image": null
+        },
+        {
+            "text": "Добавить сырые куриные желтки, кусочки охлажденного сливочного масла.",
+            "image": null
+        },
+        {
+            "text": "Тесто должно быть мягким и эластичным.",
+            "image": null
+        },
+        {
+            "text": "Сформовать шар, завернуть его в пищевую пленку и поставить на час в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Охлажденное тесто раскатать в пласт в полсантиметра толщиной, вырезать кружки, наколоть их вилкой.",
+            "image": null
+        },
+        {
+            "text": "Выложить заготовки на лист пергамента или на силиконовый коврик.",
+            "image": null
+        },
+        {
+            "text": "Печь в заранее разогретой до 180 градусов духовке в течение 10 минут. Остудить полностью.",
+            "image": null
+        },
+        {
+            "text": "Удалить из яблок сердцевину с косточками.",
+            "image": null
+        },
+        {
+            "text": "Выложить их в глубокую форму, присыпать корицей и сахаром, печь при температуре 180 градусов до мягкости.",
+            "image": null
+        },
+        {
+            "text": "Остудить, чайной ложкой собрать мякоть.",
+            "image": null
+        },
+        {
+            "text": "Полученное пюре взбить вместе с сырым белком в объемную, пышную массу.",
+            "image": null
+        },
+        {
+            "text": "Отдельно нагреть воду с сахаром до температуры 80 градусов.",
+            "image": null
+        },
+        {
+            "text": "Отдельно смешать сахар с агар-агаром, прогреть до нужной температуры и ввести его в сироп тонкой струйкой, помешивать венчиком.",
+            "image": null
+        },
+        {
+            "text": "Нагреть сироп до 110 градусов, влить его в яблочно-белковую массу, скорость взбивания – выше средней.",
+            "image": null
+        },
+        {
+            "text": "Масса должна стать плотной и пышной.",
+            "image": null
+        },
+        {
+            "text": "Полученную зефирную смесь отсадить с помощью кулинарного мешка поверх печенья в виде башенки.",
+            "image": null
+        },
+        {
+            "text": "Убрать изделия на два часа в морозильную камеру.",
+            "image": null
+        },
+        {
+            "text": "Для глазури смешать масло из виноградных косточек или фундука с теплым растопленным горьким шоколадом.",
+            "image": null
+        },
+        {
+            "text": "Пирожные из морозилки опустить вниз зефирной башенкой в растопленный шоколад, поднять, подождать, пока шоколад стечет, перевернуть и поставить на стол.",
+            "image": null
+        },
+        {
+            "text": "На липкую неостывшую глазурь приклеить по яблочному чипсу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка с корицей",
+            "slug": "vypechka-s-koricey"
+        },
+        {
+            "name": "Выпечка с фруктами",
+            "slug": "vypechka-s-fruktami"
+        },
+        {
+            "name": "Выпечка с шоколадом",
+            "slug": "vypechka-s-shokoladom"
+        },
+        {
+            "name": "Выпечка с яблоками",
+            "slug": "vypechka-s-yablokami"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Десерты из яблок",
+            "slug": "deserty-iz-yablok"
+        },
+        {
+            "name": "Зефир домашний",
+            "slug": "zefir-domashniy"
+        },
+        {
+            "name": "Новогоднее печенье",
+            "slug": "novogodnee-pechene"
+        },
+        {
+            "name": "Новогодние десерты",
+            "slug": "novogodnie-deserty"
+        },
+        {
+            "name": "Новогодняя выпечка",
+            "slug": "novogodnyaya-vypechka"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Печенье",
+            "slug": "pechene"
+        },
+        {
+            "name": "Печенье с корицей",
+            "slug": "pechene-s-koricey"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничные десерты",
+            "slug": "prazdnichnye-deserty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Фруктово-ягодные десерты",
+            "slug": "fruktovo-yagodnye-deserty"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        },
+        {
+            "name": "Шоколадное печенье",
+            "slug": "shokoladnoe-pechene"
+        },
+        {
+            "name": "Шоколадный десерт",
+            "slug": "shokoladniy-desert"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        },
+        {
+            "name": "Яблоки в духовке",
+            "slug": "yabloki-v-duhovke"
+        }
+    ]
+}

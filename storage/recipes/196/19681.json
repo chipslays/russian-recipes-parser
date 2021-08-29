@@ -1,0 +1,183 @@
+{
+    "source": "https://vkuso.ru/recipe/goryachij-sendvich-monte-kristo/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Горячий сэндвич «Монте-Кристо»",
+    "description": null,
+    "note": "Возможен «двухэтажный» вариант сэндвича: между ветчиной и сыром необходимо положить еще один кусок хлеба.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e9/addfcb84c3af0e9_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб тостовый",
+                    "slug": "hleb-tostoviy",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый ломтевой",
+                    "slug": "syr-plavleniy-lomtevoy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "горчица",
+                    "slug": "gorchica",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Четыре ломтика хлеба смазать горчицей и майонезом. На 2 из них выложить ломтики ветчины, сверху положить сыр. Накрыть другим ломтем хлеба. Аккуратно обрезать фигурным ножом края сэндвича.",
+            "image": null
+        },
+        {
+            "text": "Яйцо немного взбить с солью и молоком, обмакнуть сэндвич в яичную смесь и подержать его там секунд 30. На сковородке разогреть сливочное масло, обжаривать сэндвич с каждой стороны приблизительно по 2 минуты.",
+            "image": null
+        },
+        {
+            "text": "Переворачивать его необходимо осторожно, двумя лопатками, после слегка придавить, чтобы лучше склеился. Снять горячий сэндвич «Монте-Кристо» на доску, подождать минуту и разрезать на треугольники. Можно подавать и как основное блюдо.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды на скорую руку",
+            "slug": "buterbrody-na-skoruyu-ruku"
+        },
+        {
+            "name": "Бутерброды с ветчиной",
+            "slug": "buterbrody-s-vetchinoy"
+        },
+        {
+            "name": "Бутерброды с плавленым сыром",
+            "slug": "buterbrody-s-plavlenym-syrom"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Бутерброды с яйцом",
+            "slug": "buterbrody-s-yaycom"
+        },
+        {
+            "name": "Горячие бутерброды",
+            "slug": "goryachie-buterbrody"
+        },
+        {
+            "name": "Горячие бутерброды на сковороде",
+            "slug": "goryachie-buterbrody-na-skovorode"
+        },
+        {
+            "name": "Горячие бутерброды с сыром",
+            "slug": "goryachie-buterbrody-s-syrom"
+        },
+        {
+            "name": "Горячие закуски",
+            "slug": "goryachie-zakuski"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Закрытые бутерброды",
+            "slug": "zakrytye-buterbrody"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сэндвич с ветчиной",
+            "slug": "sendvich-s-vetchinoy"
+        },
+        {
+            "name": "Сэндвич с ветчиной и сыром",
+            "slug": "sendvich-s-vetchinoy-i-syrom"
+        },
+        {
+            "name": "Сэндвич с сыром",
+            "slug": "sendvich-s-syrom"
+        },
+        {
+            "name": "Сэндвич с яйцом",
+            "slug": "sendvich-s-yaycom"
+        },
+        {
+            "name": "Сэндвичи",
+            "slug": "sendvichi"
+        }
+    ]
+}

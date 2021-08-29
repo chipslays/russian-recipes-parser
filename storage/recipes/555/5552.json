@@ -1,0 +1,139 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-s-kalmarami-syrom-i-pomidorami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат с кальмарами, сыром и помидорами",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a0/7abc0f0a0eaaea0_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кальмаров",
+                    "slug": "kalmarov",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыра",
+                    "slug": "syra",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидора",
+                    "slug": "pomidora",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "чеснока",
+                    "slug": "chesnoka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "зубчик",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Очищенные кальмары отварить  1-2 минуты в подсоленной воде, после чего нарезать соломкой.",
+            "image": null
+        },
+        {
+            "text": "Помидоры промыть и также как и кальмаров, нарезать соломкой.",
+            "image": null
+        },
+        {
+            "text": "Через чесночницу пропустить очищенный чеснок, крупно потереть сыр.",
+            "image": null
+        },
+        {
+            "text": "Сложить в миску все ингредиенты, заправить их майонезом и перемешать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из помидоров",
+            "slug": "salat-iz-pomidorov"
+        },
+        {
+            "name": "Салат морской коктейль",
+            "slug": "salat-morskoy-kokteyl"
+        },
+        {
+            "name": "Салат с кальмарами",
+            "slug": "salat-s-kalmarami"
+        },
+        {
+            "name": "Салат с кальмарами и помидорами",
+            "slug": "salat-s-kalmarami-i-pomidorami"
+        },
+        {
+            "name": "Салат с кальмарами и сыром",
+            "slug": "salat-s-kalmarami-i-syrom"
+        },
+        {
+            "name": "Салат с помидорами и сыром",
+            "slug": "salat-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Салат с сыром и чесноком",
+            "slug": "salat-s-syrom-i-chesnokom"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салат с чесноком и майонезом",
+            "slug": "salat-s-chesnokom-i-mayonezom"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты из морепродуктов",
+            "slug": "salaty-iz-moreproduktov"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        }
+    ]
+}

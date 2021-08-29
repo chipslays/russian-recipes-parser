@@ -1,0 +1,183 @@
+{
+    "source": "https://vkuso.ru/recipe/107462-slivochno-syrnyj-sous-s-bolgarskim-percem-dlya-kurinogo-file/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Сливочно-сырный соус с болгарским перцем для куриного филе",
+    "description": "Блюдо для семейного ужина или званого обеда.",
+    "note": "Подать блюдо с отваренными спагетти или другими макаронными изделиями.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/1a/efd6e74f2b7fb1a_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "50 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/cmJOENp-11A?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "приправы",
+                    "slug": "pripravy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Куриное мясо нарезать, вымыть, обсушить.",
+            "image": null
+        },
+        {
+            "text": "Раскалить на сковороде подсолнечное масло, раскалить, обжарить до румяной корочки.",
+            "image": null
+        },
+        {
+            "text": "Сладкий болгарский перец очистить и нарезать, прогреть до мягкости в сливочном масле.",
+            "image": null
+        },
+        {
+            "text": "Влить сливки, довести до кипения, пробить блендером.",
+            "image": null
+        },
+        {
+            "text": "Готовый соус влить в куриную обжарку, посолить, добавить неострые приправы, тушить все вместе тридцать минут.",
+            "image": null
+        },
+        {
+            "text": "За пять минут до готовности добавить мягкий плавленый или твердый тертый сыр.",
+            "image": null
+        },
+        {
+            "text": "Прогреть до расплавления продукта.",
+            "image": null
+        },
+        {
+            "text": "Соус должен быть однородным.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Куриное филе в сливочном соусе",
+            "slug": "kurinoe-file-v-slivochnom-souse"
+        },
+        {
+            "name": "Куриное филе на сковороде",
+            "slug": "kurinoe-file-na-skovorode"
+        },
+        {
+            "name": "Куриное филе с овощами",
+            "slug": "kurinoe-file-s-ovoschami"
+        },
+        {
+            "name": "Куриное филе с сыром",
+            "slug": "kurinoe-file-s-syrom"
+        },
+        {
+            "name": "Курица в сливочном соусе",
+            "slug": "kurica-v-slivochnom-souse"
+        },
+        {
+            "name": "Курица в соусе",
+            "slug": "kurica-v-souse"
+        },
+        {
+            "name": "Курица на сковороде",
+            "slug": "kurica-na-skovorode"
+        },
+        {
+            "name": "Курица с болгарским перцем",
+            "slug": "kurica-s-bolgarskim-percem"
+        },
+        {
+            "name": "Курица с овощами",
+            "slug": "kurica-s-ovoschami"
+        },
+        {
+            "name": "Курица с плавленным сыром",
+            "slug": "kurica-s-plavlennym-syrom"
+        },
+        {
+            "name": "Курица с сыром",
+            "slug": "kurica-s-syrom"
+        },
+        {
+            "name": "Ужин из куриного филе",
+            "slug": "ujin-iz-kurinogo-file"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "source": "https://vkuso.ru/recipe/prostoj-syrnyj-sup-s-cvetnoj-kapustoj/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Простой сырный суп с цветной капустой",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/31/a197923122b5731_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "капуста цветная",
+                    "slug": "kapusta-cvetnaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кочан",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр чеддер",
+                    "slug": "syr-chedder",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отрезать соцветия цветной капусты, варить приблизительно 45 минут в подсоленной кипящей воде. Слить воду в посуду, она пригодится позже.",
+            "image": null
+        },
+        {
+            "text": "Потереть стебель капусты или измельчить в миксере. Поджарить цветочки капусты на растопленном масле.",
+            "image": null
+        },
+        {
+            "text": "Выбрать капусту и насыпать на сковороду муку. Налить воду, которая была слита, готовить помешивая, пока смесь не начнет сгущаться. Налить молоко, довести до кипения.",
+            "image": null
+        },
+        {
+            "text": "Положить цветочки, подготовленный стебель. Положить тертый сыр, осторожно перемешать.",
+            "image": null
+        },
+        {
+            "text": "Подавать сырный суп с цветной капустой горячим, посыпать сверху сыром.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из цветной капусты",
+            "slug": "sup-iz-cvetnoy-kapusty"
+        },
+        {
+            "name": "Суп с капустой",
+            "slug": "sup-s-kapustoy"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Сырный суп",
+            "slug": "syrniy-sup"
+        }
+    ]
+}

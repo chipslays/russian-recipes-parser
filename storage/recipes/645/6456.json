@@ -1,0 +1,208 @@
+{
+    "source": "https://vkuso.ru/recipe/bliny-tiramisu-s-syrom-maskarpone/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Блины Тирамису с сыром маскарпоне",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/2c/960fbe951010d2c_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "1,5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "кофе эспрессо",
+                    "slug": "kofe-espresso",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "какао-порошок",
+                    "slug": "kakao-poroshok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "ванилин",
+                    "slug": "vanilin",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для блинов",
+            "list": [
+                {
+                    "name": "сыр маскарпоне",
+                    "slug": "syr-maskarpone",
+                    "notes": null,
+                    "value": "125",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки жирные",
+                    "slug": "slivki-jirnye",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Взбить до состояния крепкой пены сахар, сыр маскарпоне и сливки, отправить в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Для блинов смешать сахар, разрыхлитель, какао-порошок, муку до однородной смеси.",
+            "image": null
+        },
+        {
+            "text": "В отдельную посуду положить сметану, влить молоко, хорошо перемешать, вбить яйца, влить эспрессо, добавить ванилин, растопленное масло, перемешать до однородного состояния.",
+            "image": null
+        },
+        {
+            "text": "Объединить полученную жидкую массу с  мучной смесью, аккуратно перемешать до исчезновения комочков. Если получилось чересчур жидкое тесто (зависит от сорта муки), то всыпать еще пару ложек муки.",
+            "image": null
+        },
+        {
+            "text": "Нажарить на разогретой сковороде блины, переложить готовые блины ",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блинный торт",
+            "slug": "blinniy-tort"
+        },
+        {
+            "name": "Блины с сыром",
+            "slug": "bliny-s-syrom"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Тирамису",
+            "slug": "tiramisu"
+        },
+        {
+            "name": "Тирамису с маскарпоне",
+            "slug": "tiramisu-s-maskarpone"
+        },
+        {
+            "name": "Торт на сковороде",
+            "slug": "tort-na-skovorode"
+        },
+        {
+            "name": "Торт с маскарпоне",
+            "slug": "tort-s-maskarpone"
+        },
+        {
+            "name": "Торт Тирамису",
+            "slug": "tort-tiramisu"
+        }
+    ]
+}

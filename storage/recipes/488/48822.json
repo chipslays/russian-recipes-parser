@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/yaichnyj-rulet-s-vetchinoj-percem-i-syrom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Яичный рулет с ветчиной, перцем и сыром",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/cb/0b29f441b0103cb_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "350",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "8",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Порезать и обжарить на масле ветчину.",
+            "image": null
+        },
+        {
+            "text": "Лук с перцем порезать на кубики, перемешать с ветчиной.",
+            "image": null
+        },
+        {
+            "text": "Влить молоко, добавить муку, перемешать, вбить яйца, поперчить, посолить, хорошо перемешать.",
+            "image": null
+        },
+        {
+            "text": "Форму застелить бумагой, смазанной маслом, заполнить яичной смесью, поставить в прогретую до 180 градусов духовку на четверть часа.",
+            "image": null
+        },
+        {
+            "text": "Достать, присыпать крупной сырной стружкой, отправить яичный рулет с ветчиной, перцем и сыром еще на 5 минут в духовку.",
+            "image": null
+        },
+        {
+            "text": "Запеканку осторожно завернуть в трубочку, используя бумажную подложку.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блюда из яиц",
+            "slug": "blyuda-iz-yaic"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Закуски из яиц",
+            "slug": "zakuski-iz-yaic"
+        },
+        {
+            "name": "Омлет",
+            "slug": "omlet"
+        },
+        {
+            "name": "Омлет в духовке",
+            "slug": "omlet-v-duhovke"
+        },
+        {
+            "name": "Омлет на завтрак",
+            "slug": "omlet-na-zavtrak"
+        },
+        {
+            "name": "Омлет с ветчиной",
+            "slug": "omlet-s-vetchinoy"
+        },
+        {
+            "name": "Омлет с молоком",
+            "slug": "omlet-s-molokom"
+        },
+        {
+            "name": "Омлет с мукой и молоком",
+            "slug": "omlet-s-mukoy-i-molokom"
+        },
+        {
+            "name": "Омлет с овощами",
+            "slug": "omlet-s-ovoschami"
+        },
+        {
+            "name": "Омлет с сыром",
+            "slug": "omlet-s-syrom"
+        },
+        {
+            "name": "Рулет из омлета",
+            "slug": "rulet-iz-omleta"
+        },
+        {
+            "name": "Яйца с сыром",
+            "slug": "yayca-s-syrom"
+        }
+    ]
+}

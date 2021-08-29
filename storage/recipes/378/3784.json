@@ -1,0 +1,115 @@
+{
+    "source": "https://vkuso.ru/recipe/pivnoj-sup-so-smetanoj-po-varshavski/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Пивной суп со сметаной по-варшавски",
+    "description": null,
+    "note": null,
+    "cuisine": "Польская кухня",
+    "cuisine_slug": "polskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e0/0d5c44f6f1708e0_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "белого хлеба",
+                    "slug": "belogo-hleba",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "светлого пива",
+                    "slug": "svetlogo-piva",
+                    "notes": null,
+                    "value": "4",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "яичных желтка",
+                    "slug": "yaichnyh-jeltka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "3"
+                },
+                {
+                    "name": "сметаны",
+                    "slug": "smetany",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "сливочного масла",
+                    "slug": "slivochnogo-masla",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Смешать сметану с мукой, растопленным маслом и желтками яиц.",
+            "image": null
+        },
+        {
+            "text": "Добавить к смеси слегка подогретое пиво, нагреть до кипения, выключить нагрев, дать постоять 5 минут.",
+            "image": null
+        },
+        {
+            "text": "Положить перед подачей в пивной суп со сметаной по-варшавски гренки из батона и посыпать тертым сыром.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Пивные супы",
+            "slug": "pivnye-supy"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Супы на скорую руку",
+            "slug": "supy-na-skoruyu-ruku"
+        }
+    ]
+}

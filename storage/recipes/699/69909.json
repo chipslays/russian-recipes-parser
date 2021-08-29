@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/syrniki-s-mankoj-izyumom-i-koricej/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Сырники с манкой, изюмом и корицей",
+    "description": "Мука в этом рецепте присутствует только в качестве панировки.",
+    "note": "Такие сырники можно подать к чашечке горячего кофе.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/15/aeeaa9225789a15_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/X3d1dYnYmkY?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "манная крупа",
+                    "slug": "mannaya-krupa",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "изюм",
+                    "slug": "izyum",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "корица",
+                    "slug": "korica",
+                    "notes": " (ванилин)",
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Размять творог до однородного состояния.",
+            "image": null
+        },
+        {
+            "text": "Добавить сырое куриное яйцо, сахарный песок, промытый и обсушенный изюм, молотую корицу или ванилин или цедру лимона – на свой вкус.",
+            "image": null
+        },
+        {
+            "text": "Ингредиенты перемешать, дать постоять для набухания крупы.",
+            "image": null
+        },
+        {
+            "text": "Сформовать сырники, обвалять в муке, жарить на заранее раскаленном масле.",
+            "image": null
+        },
+        {
+            "text": "Выложить сырники на салфетку для впитывания лишнего жира.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Блюда из творога для детей",
+            "slug": "blyuda-iz-tvoroga-dlya-detey"
+        },
+        {
+            "name": "Выпечка с изюмом",
+            "slug": "vypechka-s-izyumom"
+        },
+        {
+            "name": "Выпечка с корицей",
+            "slug": "vypechka-s-koricey"
+        },
+        {
+            "name": "Выпечка с сухофруктами",
+            "slug": "vypechka-s-suhofruktami"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Детский завтрак",
+            "slug": "detskiy-zavtrak"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Сырники",
+            "slug": "syrniki"
+        },
+        {
+            "name": "Сырники на сковороде",
+            "slug": "syrniki-na-skovorode"
+        },
+        {
+            "name": "Сырники с изюмом",
+            "slug": "syrniki-s-izyumom"
+        },
+        {
+            "name": "Сырники с манкой",
+            "slug": "syrniki-s-mankoy"
+        }
+    ]
+}

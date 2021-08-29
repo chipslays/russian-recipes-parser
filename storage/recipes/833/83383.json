@@ -1,0 +1,91 @@
+{
+    "source": "https://vkuso.ru/recipe/83383-kompot-iz-svezhej-klubniki-s-saxarom/",
+    "category": "Заготовки",
+    "category_slug": "zagotovki",
+    "title": "Компот из свежей клубники с сахаром",
+    "description": "Для приготовления напитка лучше использовать только что собранную клубнику.",
+    "note": "Чашелистики с ягод можно не удалять.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d4/941e1ee664608d4_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": "30 минут",
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "клубника",
+                    "slug": "klubnika",
+                    "notes": null,
+                    "value": "2",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "800",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "450",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Удалить плодоножки.",
+            "image": null
+        },
+        {
+            "text": "Быстро вымыть ягоды, не замачивать.",
+            "image": null
+        },
+        {
+            "text": "Положить в кастрюлю, засыпать сахарным песком.",
+            "image": null
+        },
+        {
+            "text": "Оставить на полчаса.",
+            "image": null
+        },
+        {
+            "text": "Влить воду, довести до кипения, переложить в остуженные банки, закрыть.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Компот в банках на зиму",
+            "slug": "kompot-v-bankah-na-zimu"
+        },
+        {
+            "name": "Компот из виктории на зиму",
+            "slug": "kompot-iz-viktorii-na-zimu"
+        },
+        {
+            "name": "Компот из клубники на зиму",
+            "slug": "kompot-iz-klubniki-na-zimu"
+        },
+        {
+            "name": "Компот из ягод на зиму",
+            "slug": "kompot-iz-yagod-na-zimu"
+        },
+        {
+            "name": "Компоты на зиму",
+            "slug": "kompoty-na-zimu"
+        }
+    ]
+}

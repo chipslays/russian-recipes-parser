@@ -1,0 +1,168 @@
+{
+    "source": "https://vkuso.ru/recipe/pirozhki-minutka-s-adygejskim-syrom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пирожки «Минутка» с адыгейским сыром",
+    "description": "Пирожки из разряда «быстро, просто, вкусно». Адыгейский или черкесский сыр готовится из цельного козьего, овечьего или коровьего молока. Согласно нартскому эпосу, секрет приготовления сыра открыл юной девушке бог Амыш, покровитель домашних животных.",
+    "note": "Блюдо можно подать с мясным бульоном. Адыгейский сыр легко заменяется брынзой или сыром «Фета».",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c1/85a24b8ddf939c1_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1-1,5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "сыр адыгейский",
+                    "slug": "syr-adygeyskiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "базилик",
+                    "slug": "bazilik",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "орегано",
+                    "slug": "oregano",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Яйца перемешать с водой, посолить. Всыпать пшеничную муку постепенно, замесить тесто, добавить две столовые ложки растительного масла. Мягкое тесто оставить на 10 минут для набухания клейковины. Приготовить начинку: размять адыгейский сыр вилкой, посолить, добавить орегано и базилик, нарезанный зеленый лук.",
+            "image": null
+        },
+        {
+            "text": "От теста отщипывать небольшие кусочки, размером с грецкий орех, раскатывать в лепешки. Выложить начинку и защипать, как обычные пельмени. Жарить пирожки в большом количестве растительного масла на сковороде, с двух сторон, огонь – средний. Должна получиться румяная корочка, излишки жира удалить, выложив пирожки «Минутка» с адыгейским сыром на бумажные полотенца.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка на скорую руку",
+            "slug": "vypechka-na-skoruyu-ruku"
+        },
+        {
+            "name": "Жареные пирожки",
+            "slug": "jarenye-pirojki"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки без дрожжей",
+            "slug": "pirojki-bez-drojjey"
+        },
+        {
+            "name": "Пирожки на воде",
+            "slug": "pirojki-na-vode"
+        },
+        {
+            "name": "Пирожки на скорую руку",
+            "slug": "pirojki-na-skoruyu-ruku"
+        },
+        {
+            "name": "Пирожки с сыром",
+            "slug": "pirojki-s-syrom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

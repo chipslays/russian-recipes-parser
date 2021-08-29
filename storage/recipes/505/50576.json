@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-s-tuncom-olivkami-i-limonnym-sokom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат с тунцом, оливками и лимонным соком",
+    "description": "Небольшое количество составляющих, интересное сочетание – нежный тунец и пикантные оливки.",
+    "note": "Салат можно подать вприкуску с галетами или с черным хлебом. Украсить зеленью и тонко нарезанными дольками лимона.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c2/81695fe184c36c2_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "тунец консервированный",
+                    "slug": "tunec-konservirovanniy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "оливки",
+                    "slug": "olivki",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка сушеная",
+                    "slug": "petrushka-sushenaya",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "цедра лимона",
+                    "slug": "cedra-limona",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Слить жидкость от консервированного тунца, добавить оливки, разрезанные пополам, без косточек. Массу перемешать.",
+            "image": null
+        },
+        {
+            "text": "Добавить цедру и сок лимона, рубленую петрушку, еще раз перемешать и заправить оливковым маслом.",
+            "image": null
+        },
+        {
+            "text": "Соль и перец – по вкусу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетические салаты",
+            "slug": "dieticheskie-salaty"
+        },
+        {
+            "name": "Легкий салат",
+            "slug": "legkiy-salat"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат с консервированным тунцом",
+            "slug": "salat-s-konservirovannym-tuncom"
+        },
+        {
+            "name": "Салат с маслинами",
+            "slug": "salat-s-maslinami"
+        },
+        {
+            "name": "Салат с оливками",
+            "slug": "salat-s-olivkami"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салат с рыбными консервами",
+            "slug": "salat-s-rybnymi-konservami"
+        },
+        {
+            "name": "Салат с рыбой",
+            "slug": "salat-s-ryboy"
+        },
+        {
+            "name": "Салат с тунцом",
+            "slug": "salat-s-tuncom"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты на скорую руку",
+            "slug": "salaty-na-skoruyu-ruku"
+        }
+    ]
+}

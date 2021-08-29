@@ -1,0 +1,155 @@
+{
+    "source": "https://vkuso.ru/recipe/lazanya-sup-s-myasnym-farshem/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Лазанья-суп с мясным фаршем",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/1b/7e4c2ba445e021b_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мясной фарш",
+                    "slug": "myasnoy-farsh",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "макароны",
+                    "slug": "makarony",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры консервированные",
+                    "slug": "pomidory-konservirovannye",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец красный молотый",
+                    "slug": "perec-krasniy-molotiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "паприка сладкая",
+                    "slug": "paprika-sladkaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Порезать помидоры на небольшие кусочки и измельчить в блендере вместе с соком. Посыпать солью, перцем, паприкой. Нарезать мелко лук, слегка обжарить его на растительном масле. В сковороду добавить фарш и продолжать жарить до готовности. Добавить перец и соль.",
+            "image": null
+        },
+        {
+            "text": "Положить в кастрюлю пюре, полученное из помидоров, приготовленную зажарку из лука и фарша, налить четыре стакана питьевой воды. По желанию можно добавить сахар, бальзамин и какие-нибудь другие приправы. Пока суп закипает мелко порезать зелень. После закипания поварить суп несколько минут, затем добавить измельченную зелень и выключить суп.",
+            "image": null
+        },
+        {
+            "text": "Заранее приготовить макароны, натереть сыр. Перед тем как подать на стол лазанья-суп с мясным фаршем, положить несколько ложек макарон в тарелки, налить суп, сверху хорошо посыпать сыром и мелко нарезанной зеленью.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Макароны с сыром",
+            "slug": "makarony-s-syrom"
+        },
+        {
+            "name": "Макароны с фаршем",
+            "slug": "makarony-s-farshem"
+        },
+        {
+            "name": "Суп с макаронами",
+            "slug": "sup-s-makaronami"
+        },
+        {
+            "name": "Суп с фаршем",
+            "slug": "sup-s-farshem"
+        }
+    ]
+}

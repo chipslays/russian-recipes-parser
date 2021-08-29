@@ -1,0 +1,91 @@
+{
+    "source": "https://vkuso.ru/recipe/limonad-s-siropom-po-domashnemu/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Лимонад с сиропом по-домашнему",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/24/a734d30f3b3a724_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода минеральная с газом",
+                    "slug": "voda-mineralnaya-s-gazom",
+                    "notes": null,
+                    "value": "1,5",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "мята",
+                    "slug": "myata",
+                    "notes": null,
+                    "value": "4-5",
+                    "type": "веточек",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сначала надо приготовить карамель из сахара. Для этого стакан сахара растопить на сковороде, постоянно помешивая. Затем ОЧЕНЬ АККУРАТНО влить стакан воды в расплавленную карамель. Томить воду с карамелью, чтобы полностью сахар растворился. Это карамельный цвет нашего лимонада.",
+            "image": null
+        },
+        {
+            "text": "Лимон и мяту помыть и нарезать на небольшие кусочки. Затем все сложить в кипящий сироп и отставить настаиваться 1 час. За это время сироп остынет и приобретет насыщенный лимонный аромат.",
+            "image": null
+        },
+        {
+            "text": "Сироп процедить через марлю, налить в двухлитровую бутылку. Затем дополнить до верха сильногазированной водой. Закрутить лимонад плотно крышкой и положить в холодильник.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Детский праздник",
+            "slug": "detskiy-prazdnik"
+        },
+        {
+            "name": "Лимонад",
+            "slug": "limonad"
+        },
+        {
+            "name": "Напитки для детей",
+            "slug": "napitki-dlya-detey"
+        },
+        {
+            "name": "Праздничные коктейли и напитки",
+            "slug": "prazdnichnye-kokteyli-i-napitki"
+        }
+    ]
+}

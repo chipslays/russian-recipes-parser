@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/gribnoj-sup-s-syrom-na-kurinom-bulone/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Грибной суп с сыром на курином бульоне",
+    "description": "Чаще всего грибной суп подают со сметаной, этот рецепт предлагает заменить ее плавленым сыром, который растворен в самом бульоне. Такая замена придаст супу более пикантный вкус.",
+    "note": "Для приготовления супа можно использовать любые свежие или размороженные грибы.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ab/c05f44c843444ab_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бульон куриный",
+                    "slug": "bulon-kuriniy",
+                    "notes": null,
+                    "value": "2,5",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "грибы",
+                    "slug": "griby",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сырок плавленый",
+                    "slug": "syrok-plavleniy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать грибы и очищенный картофель соломкой. Натереть морковь, репчатый лук нарезать кубиками. Картофель отварить в кипящем курином бульоне почти до готовности. Спассеровать на сливочном масле измельченные лук и морковь, добавить грибы и обжарить всё вместе в течение нескольких минут на сильном огне.",
+            "image": null
+        },
+        {
+            "text": "Обжарку переложить в суп и дать закипеть. Натереть любой плавленый сырок и добавить в суп, продолжать кипятить, через 10 минут – выключить огонь. Соль, перец, лавровый лист – по вкусу, в грибной суп с сыром можно добавить зелень укропа и петрушки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Грибной суп",
+            "slug": "gribnoy-sup"
+        },
+        {
+            "name": "Куриный суп",
+            "slug": "kuriniy-sup"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп с плавленым сыром",
+            "slug": "sup-s-plavlenym-syrom"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Сырный суп",
+            "slug": "syrniy-sup"
+        },
+        {
+            "name": "Сырный суп с грибами",
+            "slug": "syrniy-sup-s-gribami"
+        }
+    ]
+}

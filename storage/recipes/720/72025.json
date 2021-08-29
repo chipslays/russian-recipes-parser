@@ -1,0 +1,95 @@
+{
+    "source": "https://vkuso.ru/recipe/mintaj-v-vinnom-souse/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Минтай в винном соусе",
+    "description": "Этот рецепт годится не только для приготовления минтая, точно так же можно запечь лосось или другую рыбу.",
+    "note": "Вместо рыбного бульона можно взять разведенный бульонный кубик. В жидкость, оставшуюся от приготовления, влить разведенную в холодной муке кукурузную муку. Готовый соус подать к рыбе.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/95/d9848eb9cdf1f95_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "филе минтая",
+                    "slug": "file-mintaya",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "вино белое сухое",
+                    "slug": "vino-beloe-suhoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "бульон рыбный",
+                    "slug": "bulon-rybniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "стрелки чеснока",
+                    "slug": "strelki-chesnoka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "лук-порей",
+                    "slug": "luk-porey",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стебель",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "На растительном масле обжарить рубленый чеснок. Добавить лук-порей, нарезанный колечками.",
+            "image": null
+        },
+        {
+            "text": "Положить рыбное филе, нарезанное на порции, прогреть.",
+            "image": null
+        },
+        {
+            "text": "Влить белое сухое вино, рыбный бульон. Вино должно выпариться, блюдо тушить до готовности еще несколько минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из рыбы",
+            "slug": "vtorye-blyuda-iz-ryby"
+        },
+        {
+            "name": "Сковорода",
+            "slug": "skovoroda"
+        }
+    ]
+}

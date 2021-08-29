@@ -1,0 +1,155 @@
+{
+    "source": "https://vkuso.ru/recipe/96780-uxa-iz-zamorozhennoj-gorbushi-s-plavlenym-syrom/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Уха из замороженной горбуши с плавленым сыром",
+    "description": "Оригинальное блюдо с добавлением сыра.",
+    "note": "При подаче посыпать суп рубленой зеленью.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/df/253f9010c7b42df_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час 10 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "филе горбуши",
+                    "slug": "file-gorbushi",
+                    "notes": null,
+                    "value": "450",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый",
+                    "slug": "syr-plavleniy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Замороженную горбушу разморозить при комнатной температуре.",
+            "image": null
+        },
+        {
+            "text": "Нарезать филе без кожицы порционными кусками, посолить, поперчить, обвалять в муке, обжарить на растительном масле с двух сторон.",
+            "image": null
+        },
+        {
+            "text": "Нарезать репчатый лук, спассеровать в масле, в конце приготовления всыпать муку и перемешать.",
+            "image": null
+        },
+        {
+            "text": "Довести воду до кипения.",
+            "image": null
+        },
+        {
+            "text": "Добавить кусочки рыбы, обжарку.",
+            "image": null
+        },
+        {
+            "text": "Время кипения – десять минут, огонь – тихий.",
+            "image": null
+        },
+        {
+            "text": "Плавленый сыр натереть на терке, всыпать в суп, прогревать до растворения.",
+            "image": null
+        },
+        {
+            "text": "Перец и соль добавить по вкусу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Рыбный суп",
+            "slug": "rybniy-sup"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из горбуши",
+            "slug": "sup-iz-gorbushi"
+        },
+        {
+            "name": "Уха",
+            "slug": "uha"
+        },
+        {
+            "name": "Уха из горбуши",
+            "slug": "uha-iz-gorbushi"
+        }
+    ]
+}

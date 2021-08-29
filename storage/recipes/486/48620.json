@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/vkusnye-ikryaniki-v-duxovke/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Вкусные икряники в духовке",
+    "description": "Запеченная икра трески с хрустящей корочкой и нежнейшей серединкой.",
+    "note": "Если сливки недостаточно жирные, то можно добавить в икорное тесто чуть-чуть муки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/38/1c736d1a808e638_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "икра",
+                    "slug": "ikra",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки жирные",
+                    "slug": "slivki-jirnye",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "смесь пряных трав",
+                    "slug": "smes-pryanyh-trav",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Освободить икру от пленок, смешать с измельченным луком, сливками. Посыпать перцем, солью, травами.",
+            "image": null
+        },
+        {
+            "text": "Вылить смесь из икры в формочку, намазанную маслом, или небольшую чугунную сковороду.",
+            "image": null
+        },
+        {
+            "text": "Запекать минут тридцать до румяного оттенка, соблюдать температуру 220 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Горячие закуски",
+            "slug": "goryachie-zakuski"
+        },
+        {
+            "name": "Закуски из морепродуктов",
+            "slug": "zakuski-iz-moreproduktov"
+        },
+        {
+            "name": "Закуски из рыбы",
+            "slug": "zakuski-iz-ryby"
+        },
+        {
+            "name": "Закуски на скорую руку",
+            "slug": "zakuski-na-skoruyu-ruku"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

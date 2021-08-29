@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/85217-ostryj-tajskij-sup-tom-yam-s-krevetkami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Острый тайский суп Том Ям с креветками",
+    "description": "Очень вкусный суп Том Ям согреет даже в самый холодный день.",
+    "note": null,
+    "cuisine": "Тайская кухня",
+    "cuisine_slug": "tayskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5d/273d03a5fb7105d_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/eh5Ymev0_n8?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "бульон куриный",
+                    "slug": "bulon-kuriniy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "креветки тигровые",
+                    "slug": "krevetki-tigrovye",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко кокосовое",
+                    "slug": "moloko-kokosovoe",
+                    "notes": null,
+                    "value": "350",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "паста том-ям",
+                    "slug": "pasta-tom-yam",
+                    "notes": null,
+                    "value": "90",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грибы шиитаке",
+                    "slug": "griby-shiitake",
+                    "notes": " (сушеные)",
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лемонграсс",
+                    "slug": "lemongrass",
+                    "notes": null,
+                    "value": "8",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "листья лайма",
+                    "slug": "listya-layma",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец чили",
+                    "slug": "perec-chili",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "галангал",
+                    "slug": "galangal",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук",
+                    "slug": "luk",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соус рыбный",
+                    "slug": "sous-rybniy",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Шиитаке замочить в теплой воде на 2-3 часа.",
+            "image": null
+        },
+        {
+            "text": "Креветки очистить от панциря, сделать надрез по центру и удалить коричневую \"нить\". \r\nПромыть в холодной воде.",
+            "image": null
+        },
+        {
+            "text": "Нарезать галангл, лемонграсс, чили перец, лук и грибы.",
+            "image": null
+        },
+        {
+            "text": "В кипящий куриный бульон положить галангал, лемонграсс, чили перец, листья лайма, шиитаке.\r\nДобавить рыбный соус и пасту том ям, перемешать. Варить на среднем огне 5 мин.",
+            "image": null
+        },
+        {
+            "text": "Затем добавить креветки, лук и выжать сок половины лимона, варить 5 мин.",
+            "image": null
+        },
+        {
+            "text": "Влить кокосовое молоко, перемешать, дать повариться еще 5 минут.",
+            "image": null
+        },
+        {
+            "text": "Подавать с нарубленной кинзой и рисом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из морепродуктов",
+            "slug": "sup-iz-moreproduktov"
+        },
+        {
+            "name": "Суп с имбирем",
+            "slug": "sup-s-imbirem"
+        },
+        {
+            "name": "Суп с кокосовым молоком",
+            "slug": "sup-s-kokosovym-molokom"
+        },
+        {
+            "name": "Суп с креветками",
+            "slug": "sup-s-krevetkami"
+        },
+        {
+            "name": "Тайский суп",
+            "slug": "tayskiy-sup"
+        },
+        {
+            "name": "Том Ям",
+            "slug": "tom-yam"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "source": "https://vkuso.ru/recipe/prazdnichnyj-klyukvenno-ananasovyj-punsh/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Праздничный клюквенно-ананасовый пунш",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/3f/acb78d548ee923f_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "ананасового сока",
+                    "slug": "ananasovogo-soka",
+                    "notes": null,
+                    "value": "700",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "клюквенного сока",
+                    "slug": "klyukvennogo-soka",
+                    "notes": null,
+                    "value": "700",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "лимонада",
+                    "slug": "limonada",
+                    "notes": null,
+                    "value": "700",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "имбирного эля / пшеничного пива",
+                    "slug": "imbirnogo-elya-pshenichnogo-piva",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Смешать в блендере сок ананаса, лимонад и сок клюквы.",
+            "image": null
+        },
+        {
+            "text": "Разлить смесь по холодным бокалам, наполняя их на 2/3 и долить пивом.",
+            "image": null
+        },
+        {
+            "text": "Праздничный клюквенно-ананасовый пунш подавать к столу охлажденным.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Алкогольные коктейли",
+            "slug": "alkogolnye-kokteyli"
+        },
+        {
+            "name": "Алкогольные напитки",
+            "slug": "alkogolnye-napitki"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Пунш",
+            "slug": "punsh"
+        }
+    ]
+}

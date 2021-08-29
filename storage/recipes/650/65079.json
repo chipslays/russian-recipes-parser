@@ -1,0 +1,207 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-s-varenoj-kuricej-i-kirieshkami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат с вареной курицей и кириешками",
+    "description": "Блюдо быстро готовится, его можно поставить на праздничный стол.",
+    "note": "По желанию сухарики можно приготовить самостоятельно: подсушить в духовом шкафу или обжарить на сковороде. Блюдо получается довольно сытным, его подают и в качестве самостоятельного кушанья на обед или ужин.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f3/9cd7331b706e5f3_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/fYRhX3kLCho?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "курица вареная",
+                    "slug": "kurica-varenaya",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "фасоль консервированная",
+                    "slug": "fasol-konservirovannaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "кукуруза консервированная",
+                    "slug": "kukuruza-konservirovannaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "сухарики ржаные",
+                    "slug": "suhariki-rjanye",
+                    "notes": " (кириешки)",
+                    "value": "1",
+                    "type": "пачка",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Курицу отварить в течение получаса в подсоленной воде.",
+            "image": null
+        },
+        {
+            "text": "Порезать кубиками, переложить в салатницу.",
+            "image": null
+        },
+        {
+            "text": "Добавить консервированную фасоль и кукурузу, жидкость отцедить.",
+            "image": null
+        },
+        {
+            "text": "Салат посолить, заправить майонезом.",
+            "image": null
+        },
+        {
+            "text": "Посыпать зеленью и кириешками.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Праздничный стол на скорую руку",
+            "slug": "prazdnichniy-stol-na-skoruyu-ruku"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из фасоли и кукурузы с сухариками",
+            "slug": "salat-iz-fasoli-i-kukuruzy-s-suharikami"
+        },
+        {
+            "name": "Салат с кириешками",
+            "slug": "salat-s-kirieshkami"
+        },
+        {
+            "name": "Салат с консервированной кукурузой",
+            "slug": "salat-s-konservirovannoy-kukuruzoy"
+        },
+        {
+            "name": "Салат с консервированной фасолью",
+            "slug": "salat-s-konservirovannoy-fasolyu"
+        },
+        {
+            "name": "Салат с курицей",
+            "slug": "salat-s-kuricey"
+        },
+        {
+            "name": "Салат с курицей и кукурузой",
+            "slug": "salat-s-kuricey-i-kukuruzoy"
+        },
+        {
+            "name": "Салат с курицей и овощами",
+            "slug": "salat-s-kuricey-i-ovoschami"
+        },
+        {
+            "name": "Салат с сухариками",
+            "slug": "salat-s-suharikami"
+        },
+        {
+            "name": "Салат с сухариками и кукурузой",
+            "slug": "salat-s-suharikami-i-kukuruzoy"
+        },
+        {
+            "name": "Салат с сухариками и курицей",
+            "slug": "salat-s-suharikami-i-kuricey"
+        },
+        {
+            "name": "Салат с фасолью",
+            "slug": "salat-s-fasolyu"
+        },
+        {
+            "name": "Салат с фасолью и кукурузой",
+            "slug": "salat-s-fasolyu-i-kukuruzoy"
+        },
+        {
+            "name": "Салат с фасолью и курицей",
+            "slug": "salat-s-fasolyu-i-kuricey"
+        },
+        {
+            "name": "Салат с фасолью и сухариками",
+            "slug": "salat-s-fasolyu-i-suharikami"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с кукурузой",
+            "slug": "salaty-s-kukuruzoy"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        }
+    ]
+}

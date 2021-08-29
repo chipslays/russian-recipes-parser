@@ -1,0 +1,119 @@
+{
+    "source": "https://vkuso.ru/recipe/103800-brusketta-s-bekonom-kozim-syrom-i-lukom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Брускетта с беконом, козьим сыром и луком",
+    "description": "Солить такие бутерброды не обязательно, гвоздь продуктового набора – козий сыр.",
+    "note": "Бутерброды подать к столу в горячем виде.",
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/23/3a61dedfc849f23_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "20 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "сыр козий",
+                    "slug": "syr-koziy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "бекон",
+                    "slug": "bekon",
+                    "notes": null,
+                    "value": "6",
+                    "type": "кусочков",
+                    "amount": null
+                },
+                {
+                    "name": "багет",
+                    "slug": "baget",
+                    "notes": null,
+                    "value": "6",
+                    "type": "кусочков",
+                    "amount": null
+                },
+                {
+                    "name": "лук-порей",
+                    "slug": "luk-porey",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Бекон нарезать, обжарить на растительном масле до хруста.",
+            "image": null
+        },
+        {
+            "text": "Выложить продукт на бумажное полотенце для впитывания лишнего жира.",
+            "image": null
+        },
+        {
+            "text": "Лук-порей нарезать кружками.",
+            "image": null
+        },
+        {
+            "text": "Багет нарезать ломтиками, обжарить на растительном масле.",
+            "image": null
+        },
+        {
+            "text": "В масле, оставшемся после приготовления бекона, обжарить лук до золотистой корочки.",
+            "image": null
+        },
+        {
+            "text": "На ломтики хлеба намазать козий сыр, выложить лук, бекон.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Брускетта",
+            "slug": "brusketta"
+        },
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды в дорогу",
+            "slug": "buterbrody-v-dorogu"
+        },
+        {
+            "name": "Бутерброды на природу",
+            "slug": "buterbrody-na-prirodu"
+        },
+        {
+            "name": "Бутерброды открытые",
+            "slug": "buterbrody-otkrytye"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Горячие бутерброды",
+            "slug": "goryachie-buterbrody"
+        },
+        {
+            "name": "Горячие бутерброды с сыром",
+            "slug": "goryachie-buterbrody-s-syrom"
+        },
+        {
+            "name": "Закуски для пикника",
+            "slug": "zakuski-dlya-piknika"
+        }
+    ]
+}

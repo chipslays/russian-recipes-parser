@@ -1,0 +1,179 @@
+{
+    "source": "https://vkuso.ru/recipe/106215-slivochnyj-sup-chorba-s-lisichkami-i-shampinonami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Сливочный суп-чорба с лисичками и шампиньонами",
+    "description": "Восточная шурпа и чорба – это разные блюда. Второе – кисловатый суп с мясом или птицей, в состав обязательно входят продукты из пшеницы, в оригинальном исполнении – хлебный квас. Кушанье известно и популярно в молдавской, сербской, румынской, турецкой и болгарской кухне.",
+    "note": "По желанию в готовое кушанье добавить листочки петрушки, поперчить.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/fd/c417a2493c829fd_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "бульон",
+                    "slug": "bulon",
+                    "notes": null,
+                    "value": "2",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лисички",
+                    "slug": "lisichki",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "курица вареная",
+                    "slug": "kurica-varenaya",
+                    "notes": " (из бульона)",
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": " (масло сливочное)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Грибы вымыть и обжарить с репчатым луком.",
+            "image": null
+        },
+        {
+            "text": "Пшеничную муку также обжарить до золотистого цвета, добавить давленый чеснок, влить заранее приготовленный куриный бульон.",
+            "image": null
+        },
+        {
+            "text": "Соль – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Выложить в суп грибы, довести до кипения, положить кусочки курицы.",
+            "image": null
+        },
+        {
+            "text": "После того, как блюдо закипит, влить сливки, еще раз довести до кипения, огонь выключить.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Грибной суп",
+            "slug": "gribnoy-sup"
+        },
+        {
+            "name": "Куриный суп",
+            "slug": "kuriniy-sup"
+        },
+        {
+            "name": "Курица с шампиньонами",
+            "slug": "kurica-s-shampinonami"
+        },
+        {
+            "name": "Сливочный суп",
+            "slug": "slivochniy-sup"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп из лисичек",
+            "slug": "sup-iz-lisichek"
+        },
+        {
+            "name": "Суп из птицы",
+            "slug": "sup-iz-pticy"
+        },
+        {
+            "name": "Суп из шампиньонов",
+            "slug": "sup-iz-shampinonov"
+        },
+        {
+            "name": "Суп на курином бульоне",
+            "slug": "sup-na-kurinom-bulone"
+        },
+        {
+            "name": "Суп на мясном бульоне",
+            "slug": "sup-na-myasnom-bulone"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Суп со сливками",
+            "slug": "sup-so-slivkami"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        }
+    ]
+}

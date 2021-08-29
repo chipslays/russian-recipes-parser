@@ -1,0 +1,123 @@
+{
+    "source": "https://vkuso.ru/recipe/89876-irlandskij-sup-s-kapustoj-i-bekonom/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Ирландский суп с капустой и беконом",
+    "description": "Из минимума ингредиентов получается замечательное по вкусу блюдо! К тому же, суп хорош как в горячем, так и в тёплом виде!",
+    "note": null,
+    "cuisine": "Ирландская кухня",
+    "cuisine_slug": "irlandskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/6c/7bdcc3fdd37c96c_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/9SKzQ355wBM?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "бульон куриный",
+                    "slug": "bulon-kuriniy",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "700",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "капуста белокочанная",
+                    "slug": "kapusta-belokochannaya",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "бекон",
+                    "slug": "bekon",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Лук нарезать на кубики, бекон соломкой. Кладем в кастрюлю и жарим 10 минут на среднем огне, перемешивая.",
+            "image": null
+        },
+        {
+            "text": "Картофель и помидоры очистить от кожуры и нарезать кубиками. Добавить в кастрюлю и залить куриным бульоном. Довести до кипения, затем варим 10 минут.",
+            "image": null
+        },
+        {
+            "text": "Капусту нашинковать, добавить в кастрюлю, посолить и поперчить. Довести до кипения и варим 10 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Суп с капустой",
+            "slug": "sup-s-kapustoy"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        }
+    ]
+}

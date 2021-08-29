@@ -1,0 +1,614 @@
+{
+    "source": "https://vkuso.ru/recipe/tort-nezhnost-s-praline/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Торт «Нежность» с пралине",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/61/8e2d8ab0d7b4a61_660x440.jpg",
+    "difficulty": "Высокая",
+    "cooktime": null,
+    "preparetime": "8 часов",
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "миндаль молотый",
+                    "slug": "mindal-molotiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для бисквита",
+            "list": [
+                {
+                    "name": "апельсины",
+                    "slug": "apelsiny",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "4.5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для пропитки",
+            "list": [
+                {
+                    "name": "шоколад белый",
+                    "slug": "shokolad-beliy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "миндаль молотый",
+                    "slug": "mindal-molotiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "пралине",
+                    "slug": "praline",
+                    "notes": null,
+                    "value": "½",
+                    "type": "массы",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для хрустящего слоя с пралине",
+            "list": [
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "миндаль жареный",
+                    "slug": "mindal-jareniy",
+                    "notes": null,
+                    "value": "75",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "апельсины",
+                    "slug": "apelsiny",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для пралине",
+            "list": [
+                {
+                    "name": "клюква",
+                    "slug": "klyukva",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "4",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для клюквенного компота",
+            "list": [
+                {
+                    "name": "сливки 11%",
+                    "slug": "slivki-11",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сливки 35%",
+                    "slug": "slivki-35",
+                    "notes": null,
+                    "value": "75",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": " (мелкий)",
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "ваниль в стручках",
+                    "slug": "vanil-v-struchkah",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "желатин листовой",
+                    "slug": "jelatin-listovoy",
+                    "notes": null,
+                    "value": "4",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для ванильного крем-мусс",
+            "list": [
+                {
+                    "name": "клюква",
+                    "slug": "klyukva",
+                    "notes": null,
+                    "value": "230",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки 33%",
+                    "slug": "slivki-33",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для клюквенного крем-мусс",
+            "list": [
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад белый",
+                    "slug": "shokolad-beliy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сироп инвертный",
+                    "slug": "sirop-invertniy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "молоко сгущенное",
+                    "slug": "moloko-sguschennoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "75",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "15",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "краситель пищевой красный",
+                    "slug": "krasitel-pischevoy-krasniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Поставить варить карамель, довести до кипения, дать чуть загустеть (при остывании загустеет хорошо).",
+            "image": null
+        },
+        {
+            "text": "Порубить миндаль, переложить на пергаментный лист, залить карамелью, дать хорошо остыть.",
+            "image": null
+        },
+        {
+            "text": "Приготовить нежный бисквит.",
+            "image": null
+        },
+        {
+            "text": "Измельчить миндаль, перемешать с яйцами и большей частью сахарной пудры, взбить около 10 минут до светлого и густого состояния массы.",
+            "image": null
+        },
+        {
+            "text": "В тесто в три раза добавить горячее масло и просеянную муку.",
+            "image": null
+        },
+        {
+            "text": "В чашу блендера поместить белки, взбить до пиков, сохраняющих форму, постепенно всыпая по ложке сахарную пудру.",
+            "image": null
+        },
+        {
+            "text": "Осторожно лопаточкой движениями снизу вверх, объединить белки с тестом.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/b2/5bb0fb0574bf4b2_434x295.jpg"
+        },
+        {
+            "text": "Заполнить тестом форму (дно выстлать пергаментом), поместить ее в прогретую до 220 градусов духовку примерно на треть часа, остудить прямо в форме, а потом убрать в морозилку.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления крема желатин залить холодной водой, дать постоять.",
+            "image": null
+        },
+        {
+            "text": "Взбить до состояния густого крема сахар и желтки.",
+            "image": null
+        },
+        {
+            "text": "В небольшую кастрюльку, желательно с толстым дном, влить сливки, положить стручок ванили или ванильный сахар, перемешать, прогреть, но до кипения не доводить.",
+            "image": null
+        },
+        {
+            "text": "Горячие сливки соединить с желтковой массой, поместить в кастрюльку, нагреть, помешивая до 85 градусов до загустения.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/64/b7d628f9f8ae764_434x295.jpg"
+        },
+        {
+            "text": "Убрать крем с плиты, влить процеженный раствор желатина, перемешать, добавить взбитые до пиков сливки, хорошо перемешать, дать остыть.",
+            "image": null
+        },
+        {
+            "text": "Приготовить пропитку, сварить сироп, добавить в него после закипания сок апельсина, немного проварить, дать остыть.",
+            "image": null
+        },
+        {
+            "text": "Остывший бисквит разделить на две части, одну оставить, из второй вырезать меньший по диаметру круг, нанести пропитку на обе части.",
+            "image": null
+        },
+        {
+            "text": "Обрезанный маленький бисквит положить на дно в маленькую форму, пропитать, дать постоять 5 минут, залить кремом, убрать на час в морозилку.",
+            "image": null
+        },
+        {
+            "text": "Приготовить хрустящий слой, раздробить пралине в мощном комбайне до состояния крошки.",
+            "image": null
+        },
+        {
+            "text": "Растопить белый шоколад, положить к нему масло, половину пралине и измельченные орехи, тщательно перемешать, смазать равномерным слоем больший корж, убрать в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Достать меньший бисквит, вынуть его, залить желе, поставить в морозилку на полчаса.",
+            "image": null
+        },
+        {
+            "text": "Приготовить мусс, разбить блендером клюкву, протереть сквозь сито, желатин залить водой комнатной температуры.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/67/400a809b406bd67_434x295.jpg"
+        },
+        {
+            "text": "Приготовить меренгу, взбитые до устойчивых пиков белки «заварить» при взбивании (вливать тоненькой струйкой) сахарным сиропом.",
+            "image": null
+        },
+        {
+            "text": "Сироп предварительно уварить до «плотного шарика».",
+            "image": null
+        },
+        {
+            "text": "Прогреть треть клюквенного пюре с желатином, процедить, смешать с оставшимся пюре, а потом очень осторожно с меренгой, ввести взбитые до пиков сливки.",
+            "image": null
+        },
+        {
+            "text": "Последний этап – сборка торта.",
+            "image": null
+        },
+        {
+            "text": "Застелить разделочную доску плотной пленкой, установить кольцо, заполнить его 2/3 мусса из клюквы, уложить на него (кремом вверх) заготовку из морозилки, чуть вдавить ее.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/01/220d379a1cac601_434x295.jpg"
+        },
+        {
+            "text": "Уложить остатки мусса, прикрыть бисквитом, чуть прижать, поместить на ночь в холодильник, утром переместить на пару часов в морозилку.",
+            "image": null
+        },
+        {
+            "text": "Для украшения нарезать шоколадные квадраты, подкрасить расплавленный белый шоколад кандурином.",
+            "image": null
+        },
+        {
+            "text": "В завершении приготовить глазурь, желатин залить водой комнатной температуры (1,5 ст.л.), перемешать воду с сахаром, прогреть ее до кипения.",
+            "image": null
+        },
+        {
+            "text": "Перемешать сгущенку с жидким шоколадом, смешать с процеженным желатином, влить сироп с красителем, тщательно перемешать, взбить блендером, дать остыть на водяной бане до 40 градусов.",
+            "image": null
+        },
+        {
+            "text": "Вынуть торт из морозилки, установить на решетку, залить третьей частью глазури, дать постоять пару-тройку минут, вылить еще глазурь, пока торт еще достаточно холодный, дать чуть постоять, вылить третий слой глазури, дать остыть пару минут, разровнять поверхность ножом.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/0c/9a9c71221e58d0c_434x295.jpg"
+        },
+        {
+            "text": "Убрать на 5 минут торт в холодильник.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/a4/6c80171dcc7c2a4_434x295.jpg"
+        },
+        {
+            "text": "Приклеить на глазурь украшения.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/1e/f50cb1ffbe5001e_434x295.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка с апельсинами",
+            "slug": "vypechka-s-apelsinami"
+        },
+        {
+            "name": "Выпечка с шоколадом",
+            "slug": "vypechka-s-shokoladom"
+        },
+        {
+            "name": "Выпечка с ягодами",
+            "slug": "vypechka-s-yagodami"
+        },
+        {
+            "name": "Выпечка со сгущенкой",
+            "slug": "vypechka-so-sguschenkoy"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Красивый торт",
+            "slug": "krasiviy-tort"
+        },
+        {
+            "name": "Муссовый торт",
+            "slug": "mussoviy-tort"
+        },
+        {
+            "name": "Новогодний торт",
+            "slug": "novogodniy-tort"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничные торты",
+            "slug": "prazdnichnye-torty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождественский торт",
+            "slug": "rojdestvenskiy-tort"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Свадебный торт",
+            "slug": "svadebniy-tort"
+        },
+        {
+            "name": "Свадьба",
+            "slug": "svadba"
+        },
+        {
+            "name": "Слоеный торт",
+            "slug": "sloeniy-tort"
+        },
+        {
+            "name": "Торт без мастики",
+            "slug": "tort-bez-mastiki"
+        },
+        {
+            "name": "Торт на 14 февраля",
+            "slug": "tort-na-14-fevralya"
+        },
+        {
+            "name": "Торт на день рождения",
+            "slug": "tort-na-den-rojdeniya"
+        },
+        {
+            "name": "Торт с желе",
+            "slug": "tort-s-jele"
+        },
+        {
+            "name": "Торт с зеркальной глазурью",
+            "slug": "tort-s-zerkalnoy-glazuryu"
+        },
+        {
+            "name": "Торт с орехами",
+            "slug": "tort-s-orehami"
+        },
+        {
+            "name": "Торт со взбитыми сливками",
+            "slug": "tort-so-vzbitymi-slivkami"
+        },
+        {
+            "name": "Торт со сгущенкой",
+            "slug": "tort-so-sguschenkoy"
+        },
+        {
+            "name": "Торт-суфле",
+            "slug": "tort-sufle"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        },
+        {
+            "name": "Торты с ягодами",
+            "slug": "torty-s-yagodami"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

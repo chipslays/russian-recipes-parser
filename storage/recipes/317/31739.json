@@ -1,0 +1,171 @@
+{
+    "source": "https://vkuso.ru/recipe/pasta-so-slivochnym-syrom-i-shampinonami/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Паста со сливочным сыром и шампиньонами",
+    "description": "«Лингвини» или «лингуине» - классические макаронные изделия из Италии крупного формата. Производятся в регионе Кампания, похожи на спагетти, но немного сплюснуты, их можно назвать особым видом плоской вермишели. Подаются с морепродуктами или соусом Песто.",
+    "note": "При подаче можно украсить блюдо листочками свежего базилика.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f5/2b3dd6ff6220df5_660x440.jpeg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "паста лингвини",
+                    "slug": "pasta-lingvini",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "креветки",
+                    "slug": "krevetki",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр сливочный",
+                    "slug": "syr-slivochniy",
+                    "notes": null,
+                    "value": "75",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кипяток",
+                    "slug": "kipyatok",
+                    "notes": null,
+                    "value": "2/3",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "базилик сушеный",
+                    "slug": "bazilik-susheniy",
+                    "notes": null,
+                    "value": "3/4",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Довести воду до кипения, посолить, отварить макароны лингвини до готовности, в течение семи минут. Откинуть. Растопить немного сливочного масла на большой сковороде. Обжарить ломтики свежих шампиньонов на среднем огне, до мягкости. Переложить обжарку на тарелку. В той же сковороде растопить еще масло, прогреть с рубленым чесноком.",
+            "image": null
+        },
+        {
+            "text": "Добавить сливочный сыр, разминать его ложкой, продукт должен расплавиться. Всыпать рубленую петрушку и базилик, прогревать пять минут. Влить кипящую воду, перемешать до однородного состояния. В готовый сливочный соус добавить готовые креветки и грибы, прогреть. Массу перемешать с отваренными макаронами, подать пасту со сливочным сыром и шампиньонами к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Вторые блюда из макарон",
+            "slug": "vtorye-blyuda-iz-makaron"
+        },
+        {
+            "name": "Макароны с грибами",
+            "slug": "makarony-s-gribami"
+        },
+        {
+            "name": "Макароны с креветками",
+            "slug": "makarony-s-krevetkami"
+        },
+        {
+            "name": "Макароны с соусом",
+            "slug": "makarony-s-sousom"
+        },
+        {
+            "name": "Макароны с сыром",
+            "slug": "makarony-s-syrom"
+        },
+        {
+            "name": "Паста",
+            "slug": "pasta"
+        },
+        {
+            "name": "Паста в сливочном соусе",
+            "slug": "pasta-v-slivochnom-souse"
+        },
+        {
+            "name": "Паста с грибами",
+            "slug": "pasta-s-gribami"
+        },
+        {
+            "name": "Паста с грибами в сливочном соусе",
+            "slug": "pasta-s-gribami-v-slivochnom-souse"
+        },
+        {
+            "name": "Паста с креветками",
+            "slug": "pasta-s-krevetkami"
+        },
+        {
+            "name": "Паста с морепродуктами",
+            "slug": "pasta-s-moreproduktami"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Ужин из макарон",
+            "slug": "ujin-iz-makaron"
+        }
+    ]
+}

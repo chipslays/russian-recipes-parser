@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/draniki-s-syrom-vetchinoj-i-ukropom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Драники с сыром, ветчиной и укропом",
+    "description": "Кому-то белорусские драники кажутся слишком скучным блюдом. Их можно разнообразить различными включениями, такими как мясные или сырные продукты, свежая пряная зелень.",
+    "note": "Подать блюдо со сметаной, украсить веточкой укропа.",
+    "cuisine": "Белорусская кухня",
+    "cuisine_slug": "belorusskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/36/59e4e3927d09336_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": " (колбаса)",
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Натереть на крупной терке очищенные клубни картофеля, репчатый лук, твердый сыр ветчину или любые другие колбасные изделия.",
+            "image": null
+        },
+        {
+            "text": "Вбить в массу сырые куриные яйца, всыпать муку и рубленую зелень укропа. Соль и перец молотый – по вкусу. Перемешать.",
+            "image": null
+        },
+        {
+            "text": "Выкладывать смесь на сковороду с растительным маслом ложкой, придавая изделиям форму оладий.",
+            "image": null
+        },
+        {
+            "text": "Жарить до золотистой корочки с двух сторон.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из картофеля",
+            "slug": "vtorye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Гарнир из картофеля",
+            "slug": "garnir-iz-kartofelya"
+        },
+        {
+            "name": "Гарниры",
+            "slug": "garniry"
+        },
+        {
+            "name": "Драники",
+            "slug": "draniki"
+        },
+        {
+            "name": "Драники с сыром",
+            "slug": "draniki-s-syrom"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Картошка с сыром",
+            "slug": "kartoshka-s-syrom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

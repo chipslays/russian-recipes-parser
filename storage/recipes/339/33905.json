@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/shokoladno-mindalnoe-pechene-s-izyumom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Шоколадно-миндальное печенье с изюмом",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/fa/7061243161511fa_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "орехи",
+                    "slug": "orehi",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука миндальная",
+                    "slug": "muka-mindalnaya",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "изюм",
+                    "slug": "izyum",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "какао",
+                    "slug": "kakao",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "ванильный экстракт",
+                    "slug": "vanilniy-ekstrakt",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нагреть духовку до 180 градусов. Взбить масло и сахар до пышного состояния. Вбить яйца. Добавить ванильный экстракт, орехи, насыпать какао, соль. Перемешать до однородности. Соединить муку и разрыхлитель. Ввести в тесто небольшими порциями. Перемешивать после каждой порции до однородного состояния.",
+            "image": null
+        },
+        {
+            "text": "Сделать из теста колбаску мокрыми руками. Положить на противень, застеленный пергаментом. Выпекать 20-25 минут, должны появиться трещинки. Достать, порезать на кусочки по 1-1,5 сантиметра. Разложить шоколадно-миндальное печенье на противне, отправить на 8-10 минут в духовку.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка с изюмом",
+            "slug": "vypechka-s-izyumom"
+        },
+        {
+            "name": "Выпечка с орехами",
+            "slug": "vypechka-s-orehami"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Миндальное печенье",
+            "slug": "mindalnoe-pechene"
+        },
+        {
+            "name": "Новогоднее печенье",
+            "slug": "novogodnee-pechene"
+        },
+        {
+            "name": "Печенье",
+            "slug": "pechene"
+        },
+        {
+            "name": "Печенье с изюмом",
+            "slug": "pechene-s-izyumom"
+        },
+        {
+            "name": "Печенье с орехами",
+            "slug": "pechene-s-orehami"
+        },
+        {
+            "name": "Печенье с сухофруктами",
+            "slug": "pechene-s-suhofruktami"
+        },
+        {
+            "name": "Печенье с сухофруктами и орехами",
+            "slug": "pechene-s-suhofruktami-i-orehami"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Шоколадное печенье",
+            "slug": "shokoladnoe-pechene"
+        }
+    ]
+}

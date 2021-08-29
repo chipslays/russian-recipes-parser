@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/syrnyj-sup-s-kartofelem-i-belymi-gribami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Сырный суп с картофелем и белыми грибами",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/3f/988fde7995fb93f_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "700",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый",
+                    "slug": "syr-plavleniy",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грибы белые сушеные",
+                    "slug": "griby-belye-sushenye",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Промыть и залить горячей водой грибы на полчаса, размягченные кусочки нарезать более мелко. Закипятить примерно три литра подсоленной воды, положить грибы, проварить полчаса.",
+            "image": null
+        },
+        {
+            "text": "Нашинковать порей кольцами, репчатый лук – мелкими кубиками. Морковку протереть на терке со средними отверстиями, картошку порезать брусочками и положить к грибам, проварить минут 10.",
+            "image": null
+        },
+        {
+            "text": "Добавить в сырный суп с картофелем и белыми грибами морковь и лук. Перед окончанием варки положить сыр, приправить по вкусу перчиком, подсолить, размешать, отключить нагрев, дать немного постоять под крышкой и разлить по тарелкам.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Грибной суп из сушеных грибов",
+            "slug": "gribnoy-sup-iz-sushenyh-gribov"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп с плавленым сыром",
+            "slug": "sup-s-plavlenym-syrom"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Сырный суп",
+            "slug": "syrniy-sup"
+        },
+        {
+            "name": "Сырный суп с грибами",
+            "slug": "syrniy-sup-s-gribami"
+        }
+    ]
+}

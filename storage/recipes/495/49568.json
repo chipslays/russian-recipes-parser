@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/polosochki-s-yagodnoj-nachinkoj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Полосочки с ягодной начинкой",
+    "description": "Печенье в виде небольших рулетов с фруктовой или ягодной начинкой.",
+    "note": "Можно сделать печенье-ассорти и использовать для начинки несколько видов повидла, ягодного или фруктового.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/03/cb54e057f517103_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": "1 час",
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "125",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "125",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "ваниль",
+                    "slug": "vanil",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "повидло",
+                    "slug": "povidlo",
+                    "notes": " (для начинки)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": " (для присыпки)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Размягченное сливочное масло взбить с сахарным песком, сметаной и ванилином.",
+            "image": null
+        },
+        {
+            "text": "Муку просеять, всыпать в основную массу. Замесить тесто, разделить на две половины, каждую обернуть пищевой пленкой, поместить на час в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Рабочую поверхность присыпать мукой, раскатать тесто в прямоугольник и нарезать полосками.",
+            "image": null
+        },
+        {
+            "text": "По всей длине выложить любое густое повидло, свернуть рулетом, нарезать на кусочки.",
+            "image": null
+        },
+        {
+            "text": "Заготовки выложить на противень, печь в заранее разогретой духовке при температуре 180 – 190 градусов в течение 20 минут до готовности. Готовое печенье остудить, посыпать сахарной пудрой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Без яиц",
+            "slug": "bez-yaic"
+        },
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка для детей",
+            "slug": "vypechka-dlya-detey"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Выпечка с повидлом",
+            "slug": "vypechka-s-povidlom"
+        },
+        {
+            "name": "Детское печенье",
+            "slug": "detskoe-pechene"
+        },
+        {
+            "name": "Мелкая выпечка",
+            "slug": "melkaya-vypechka"
+        },
+        {
+            "name": "На десерт",
+            "slug": "na-desert"
+        },
+        {
+            "name": "Песочное печенье",
+            "slug": "pesochnoe-pechene"
+        },
+        {
+            "name": "Песочный рулет",
+            "slug": "pesochniy-rulet"
+        },
+        {
+            "name": "Печенье",
+            "slug": "pechene"
+        },
+        {
+            "name": "Печенье без яиц",
+            "slug": "pechene-bez-yaic"
+        },
+        {
+            "name": "Печенье на сметане",
+            "slug": "pechene-na-smetane"
+        },
+        {
+            "name": "Печенье с вареньем",
+            "slug": "pechene-s-varenem"
+        },
+        {
+            "name": "Печенье с повидлом",
+            "slug": "pechene-s-povidlom"
+        },
+        {
+            "name": "Полдник",
+            "slug": "poldnik"
+        },
+        {
+            "name": "Рулеты из теста",
+            "slug": "rulety-iz-testa"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Сладкий рулет",
+            "slug": "sladkiy-rulet"
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "source": "https://vkuso.ru/recipe/plov-iz-govyadiny-s-ziroj-i-barbarisom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Плов из говядины с зирой и барбарисом",
+    "description": "Сытный вариант блюда, несложный способ приготовления.",
+    "note": "Для приготовления плова традиционно используется молотый барбарис, зира, перцы.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/58/58e3621a3f36e58_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/vCMiC0MXDPA?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "говядина",
+                    "slug": "govyadina",
+                    "notes": null,
+                    "value": "840",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "330",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "4-5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "барбарис",
+                    "slug": "barbaris",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "зира",
+                    "slug": "zira",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "смесь перцев",
+                    "slug": "smes-percev",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Разогреть масло, обжарить кусочки говядины среднего размера, нарезанный кубиками лук.",
+            "image": null
+        },
+        {
+            "text": "Всыпать морковь, нашинкованную соломкой.",
+            "image": null
+        },
+        {
+            "text": "Продукты накрыть крышкой, потомить 15–16 минут.",
+            "image": null
+        },
+        {
+            "text": "Выложить рис, посолить, добавить приправы.",
+            "image": null
+        },
+        {
+            "text": "Влить горячую воду, уровень должен быть на сантиметр выше риса.",
+            "image": null
+        },
+        {
+            "text": "Тушить до полного впитывания влаги.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из говядины",
+            "slug": "vtorye-blyuda-iz-govyadiny"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Вторые блюда из риса",
+            "slug": "vtorye-blyuda-iz-risa"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Плов",
+            "slug": "plov"
+        },
+        {
+            "name": "Плов в казане",
+            "slug": "plov-v-kazane"
+        },
+        {
+            "name": "Плов из говядины",
+            "slug": "plov-iz-govyadiny"
+        },
+        {
+            "name": "Плов с мясом",
+            "slug": "plov-s-myasom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рис с мясом",
+            "slug": "ris-s-myasom"
+        },
+        {
+            "name": "Ужин из говядины",
+            "slug": "ujin-iz-govyadiny"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

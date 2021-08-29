@@ -1,0 +1,227 @@
+{
+    "source": "https://vkuso.ru/recipe/92332-salat-s-kurinoj-grudkoj-syrom-i-ananasami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат с куриной грудкой, сыром и ананасами",
+    "description": "На первый взгляд салат покажется странным из-за необычного сочетания продуктов, но салат ооочень вкусный!",
+    "note": "Также салат можно сделать послойно, порционно.\r\nНачиная с низу, слои будут такие:\r\n- Куриная грудка\r\n- Промазываем майонезом \r\n- Ананасы\r\n- Промазываем майонезом\r\n- Сыр с чесноком",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/86/9eb2b18a5b5db86_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "30 минут",
+    "preparetime": "15 минут",
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "куриная грудка",
+                    "slug": "kurinaya-grudka",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ананас консервированный",
+                    "slug": "ananas-konservirovanniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Куриную грудку отвариваем.",
+            "image": null
+        },
+        {
+            "text": "Ананасы режем небольшими кубиками.",
+            "image": null
+        },
+        {
+            "text": "Сыр натераем на средней тёрке.",
+            "image": null
+        },
+        {
+            "text": "Чеснок давим чесночницей",
+            "image": null
+        },
+        {
+            "text": "Грудку нарезаем небольшими кубиками или полосочками.",
+            "image": null
+        },
+        {
+            "text": "Смешиваем всё в миске. Добавляем майонез и соль по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Ну вот и всё. Приятного аппетита!!!",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Детский праздник",
+            "slug": "detskiy-prazdnik"
+        },
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новогодний салат с ананасами",
+            "slug": "novogodniy-salat-s-ananasami"
+        },
+        {
+            "name": "Новогодний салат с курицей",
+            "slug": "novogodniy-salat-s-kuricey"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат с ананасом",
+            "slug": "salat-s-ananasom"
+        },
+        {
+            "name": "Салат с ананасом и сыром",
+            "slug": "salat-s-ananasom-i-syrom"
+        },
+        {
+            "name": "Салат с консервированным ананасом",
+            "slug": "salat-s-konservirovannym-ananasom"
+        },
+        {
+            "name": "Салат с куриной грудкой",
+            "slug": "salat-s-kurinoy-grudkoy"
+        },
+        {
+            "name": "Салат с куриной грудкой и сыром",
+            "slug": "salat-s-kurinoy-grudkoy-i-syrom"
+        },
+        {
+            "name": "Салат с курицей",
+            "slug": "salat-s-kuricey"
+        },
+        {
+            "name": "Салат с курицей и ананасами",
+            "slug": "salat-s-kuricey-i-ananasami"
+        },
+        {
+            "name": "Салат с курицей и сыром",
+            "slug": "salat-s-kuricey-i-syrom"
+        },
+        {
+            "name": "Салат с курицей, ананасами и сыром",
+            "slug": "salat-s-kuricey-ananasami-i-syrom"
+        },
+        {
+            "name": "Салат с сыром и чесноком",
+            "slug": "salat-s-syrom-i-chesnokom"
+        },
+        {
+            "name": "Салат с твердым сыром",
+            "slug": "salat-s-tverdym-syrom"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салат с чесноком и майонезом",
+            "slug": "salat-s-chesnokom-i-mayonezom"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        },
+        {
+            "name": "Салаты с фруктами",
+            "slug": "salaty-s-fruktami"
+        },
+        {
+            "name": "Свадьба",
+            "slug": "svadba"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

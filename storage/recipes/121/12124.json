@@ -1,0 +1,107 @@
+{
+    "source": "https://vkuso.ru/recipe/sup-pyure-s-kurinoj-grudkoj-i-suxarikami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Суп-пюре с куриной грудкой и сухариками",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/04/24ca1bc63fc8204_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриная грудка",
+                    "slug": "kurinaya-grudka",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "сухарики",
+                    "slug": "suhariki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Порезать куриную грудку на маленькие кусочки, освободить от косточек, довести до кипения, накипь снять. Порезать картофель на четвертинки и добавить к мясу, туда же бросить морковь и лук, крупно порезанные.",
+            "image": null
+        },
+        {
+            "text": "Когда все приготовится, немного остудить. Сделать блендером массу похожую на пюре. Насыпать сухарики. Сверху суп-пюре с куриной грудкой и сухариками можно украсить тертым сыром и веточкой зелени.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Куриный суп",
+            "slug": "kuriniy-sup"
+        },
+        {
+            "name": "Куриный суп-пюре",
+            "slug": "kuriniy-sup-pyure"
+        },
+        {
+            "name": "Суп с куриной грудкой",
+            "slug": "sup-s-kurinoy-grudkoy"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Суп-пюре картофельный",
+            "slug": "sup-pyure-kartofelniy"
+        },
+        {
+            "name": "Сырный суп-пюре",
+            "slug": "syrniy-sup-pyure"
+        }
+    ]
+}

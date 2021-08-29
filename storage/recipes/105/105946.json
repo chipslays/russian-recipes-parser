@@ -1,0 +1,91 @@
+{
+    "source": "https://vkuso.ru/recipe/105946-sladkaya-shokoladnaya-kolbaska-iz-pechenya-so-sgushhennym-molokom/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Сладкая шоколадная колбаска из печенья со сгущенным молоком",
+    "description": "Еще один вариант шоколадной колбаски: вместо молока используется сгущенка.",
+    "note": "В состав колбаски можно добавить рубленый фундук или грецкие орехи.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ca/93805cb770bd3ca_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/XdS-0EjHj3M?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 7 порции",
+            "list": [
+                {
+                    "name": "печенье",
+                    "slug": "pechene",
+                    "notes": null,
+                    "value": "420-450",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко сгущенное",
+                    "slug": "moloko-sguschennoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "170-180",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "какао-порошок",
+                    "slug": "kakao-poroshok",
+                    "notes": " (шоколад)",
+                    "value": "50-70",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Печенье измельчить, влить сгущенное молоко, вымешать.",
+            "image": null
+        },
+        {
+            "text": "Масло сливочное нарезать, растопить, всыпать какао-порошок или обычный шоколад.",
+            "image": null
+        },
+        {
+            "text": "Залить печенье, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Сформовать десерт, обернуть пленкой, охладить.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерт со сгущенкой",
+            "slug": "desert-so-sguschenkoy"
+        },
+        {
+            "name": "Десерты без выпечки",
+            "slug": "deserty-bez-vypechki"
+        },
+        {
+            "name": "Сладкая колбаска",
+            "slug": "sladkaya-kolbaska"
+        },
+        {
+            "name": "Шоколадная колбаса",
+            "slug": "shokoladnaya-kolbasa"
+        }
+    ]
+}

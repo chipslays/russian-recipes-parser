@@ -1,0 +1,176 @@
+{
+    "source": "https://vkuso.ru/recipe/gribnoj-salat-so-sparzhej-i-yajcami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Грибной салат со спаржей и яйцами",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f0/d9688a89db582f0_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "шампиньонов",
+                    "slug": "shampinonov",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "зеленой спаржи",
+                    "slug": "zelenoy-sparji",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "3"
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень укропа",
+                    "slug": "zelen-ukropa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "розмарин",
+                    "slug": "rozmarin",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "тимьян",
+                    "slug": "timyan",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для заправки",
+            "list": [
+                {
+                    "name": "оливкового масла",
+                    "slug": "olivkovogo-masla",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "бальзамического уксуса",
+                    "slug": "balzamicheskogo-uksusa",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лимонного сока",
+                    "slug": "limonnogo-soka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В кипящую воду добавить чуть-чуть сахара и соли, закинуть спаржу и поварить 3 минуты, затем достать и переложить в посуду со льдом, когда спаржа остынет, нарезать ее наискосок.",
+            "image": null
+        },
+        {
+            "text": "Грибы порезать пластиками, посолить и обжарить на масле, дать остыть.",
+            "image": null
+        },
+        {
+            "text": "На блюдо выложить прожаренные грибы, сверху распределить спаржу, обсыпать рубленой зеленью.",
+            "image": null
+        },
+        {
+            "text": "Яйца разрезать на четвертинки и уложить на салат, для заправки смешать масло оливковое, бальзамический уксус и лимонный сок и слегка взбить.",
+            "image": null
+        },
+        {
+            "text": "Грибной салат со спаржей и яйцами полить приготовленным соусом, подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетические салаты",
+            "slug": "dieticheskie-salaty"
+        },
+        {
+            "name": "Жареные грибы",
+            "slug": "jarenye-griby"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с грибами",
+            "slug": "salat-s-gribami"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салат с шампиньонами",
+            "slug": "salat-s-shampinonami"
+        },
+        {
+            "name": "Салат со спаржей",
+            "slug": "salat-so-sparjey"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        }
+    ]
+}

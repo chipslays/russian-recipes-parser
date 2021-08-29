@@ -1,0 +1,151 @@
+{
+    "source": "https://vkuso.ru/recipe/pirog-iz-spagetti-pod-syrom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Пирог из спагетти под сыром",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/9b/64e4aba146bfb9b_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "спагетти",
+                    "slug": "spagetti",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "бекон сырокопченый",
+                    "slug": "bekon-syrokopcheniy",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "ломтика",
+                    "amount": null
+                },
+                {
+                    "name": "прованские травы",
+                    "slug": "provanskie-travy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Спагетти отварить, помидоры порезать кубиками и дольками, сыр натереть. Для соуса смешать яйцо, молоко и часть тертого сыра, приправить специями и солью. В форму для запекания выложить помидоры, спагетти окунуть в соус и все поместить в форму.",
+            "image": null
+        },
+        {
+            "text": "Сверху положить порезанный бекон и помидорные дольки. Выпекать в духовке в течение 30 минут, при 180 градусах. Когда бекон зарумянится, пирог присыпать рубленным зеленым луком и тертым сыром, запекать еще в течение 10 минут. Пирог из спагетти под сыром готов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из макарон",
+            "slug": "vtorye-blyuda-iz-makaron"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Детский обед",
+            "slug": "detskiy-obed"
+        },
+        {
+            "name": "Детский ужин",
+            "slug": "detskiy-ujin"
+        },
+        {
+            "name": "Запеканка из макарон",
+            "slug": "zapekanka-iz-makaron"
+        },
+        {
+            "name": "Запеканки с сыром",
+            "slug": "zapekanki-s-syrom"
+        },
+        {
+            "name": "Макароны в духовке",
+            "slug": "makarony-v-duhovke"
+        },
+        {
+            "name": "Макароны с сыром",
+            "slug": "makarony-s-syrom"
+        },
+        {
+            "name": "Меню школьника",
+            "slug": "menyu-shkolnika"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ужин из макарон",
+            "slug": "ujin-iz-makaron"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

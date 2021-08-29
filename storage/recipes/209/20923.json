@@ -1,0 +1,160 @@
+{
+    "source": "https://vkuso.ru/recipe/xrustyashhie-lepeshki-s-kartofelem/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Хрустящие лепешки с картофелем",
+    "description": null,
+    "note": null,
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/88/3d4b56c57e33488_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "800",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для начинки отварить очищенный картофель, растолочь его в пюре. Лук мелко порезать и пожарить до золотого цвета. Выложить к картошке. Лук и картофель смешать с тертым сыром, зеленью. Для теста смешать яйца, кефир и муку. Соль добавить по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Из теста вырезать кружки и раскатать их скалкой. На кружок выложить картофельно-сырную начинку, слепить пирожок, плотно защипнув края. Скалкой придавить пирожок, чтобы получилась лепешка. Обжарить лепешки с картофелем на сковороде до образования хрустящей корочки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка на кефире",
+            "slug": "vypechka-na-kefire"
+        },
+        {
+            "name": "Выпечка с зеленью",
+            "slug": "vypechka-s-zelenyu"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Картофельные лепешки",
+            "slug": "kartofelnye-lepeshki"
+        },
+        {
+            "name": "Лепешки",
+            "slug": "lepeshki"
+        },
+        {
+            "name": "Лепешки без дрожжей",
+            "slug": "lepeshki-bez-drojjey"
+        },
+        {
+            "name": "Лепешки на кефире",
+            "slug": "lepeshki-na-kefire"
+        },
+        {
+            "name": "Лепешки на кефире на сковороде",
+            "slug": "lepeshki-na-kefire-na-skovorode"
+        },
+        {
+            "name": "Лепешки на сковороде",
+            "slug": "lepeshki-na-skovorode"
+        },
+        {
+            "name": "Лепешки с сыром на сковороде",
+            "slug": "lepeshki-s-syrom-na-skovorode"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сырные лепешки",
+            "slug": "syrnye-lepeshki"
+        }
+    ]
+}

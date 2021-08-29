@@ -1,0 +1,228 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-so-struchkovoj-fasolyu-tuncom-i-syrom-mocarella/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат со стручковой фасолью, тунцом и сыром «Моцарелла»",
+    "description": "Блюдо из итальянской кухни, легкое и питательное.",
+    "note": "Для приготовления блюда лучше использовать несколько видов зеленого салата.",
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c4/9efc0e00197dcc4_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "помидоры черри",
+                    "slug": "pomidory-cherri",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр моцарелла",
+                    "slug": "syr-mocarella",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "фасоль стручковая зеленая",
+                    "slug": "fasol-struchkovaya-zelenaya",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "тунец консервированный",
+                    "slug": "tunec-konservirovanniy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "листья салата",
+                    "slug": "listya-salata",
+                    "notes": null,
+                    "value": "75",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "оливки без косточек",
+                    "slug": "olivki-bez-kostochek",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для заправки",
+            "list": [
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень петрушки",
+                    "slug": "zelen-petrushki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец чили молотый",
+                    "slug": "perec-chili-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Зеленую стручковую фасоль отварить: после второго закипания подержать в воде в течение нескольких минут.",
+            "image": null
+        },
+        {
+            "text": "Охладить сразу, откинуть на дуршлаг.",
+            "image": null
+        },
+        {
+            "text": "Консервированного тунца размять вилкой.",
+            "image": null
+        },
+        {
+            "text": "Нарезать помидоры черри половинками.",
+            "image": null
+        },
+        {
+            "text": "Перемешать, добавить оливки без косточек, «Моцареллу» в шариках, листья любого салата и маслины.",
+            "image": null
+        },
+        {
+            "text": "Приготовить заправку из оливкового масла, лимонного сока, молотого перца чили, рубленой петрушки.",
+            "image": null
+        },
+        {
+            "text": "Салат заправить, перемешать, подать на стол на красивом блюде.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Итальянский салат",
+            "slug": "italyanskiy-salat"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из помидоров",
+            "slug": "salat-iz-pomidorov"
+        },
+        {
+            "name": "Салат с консервированным тунцом",
+            "slug": "salat-s-konservirovannym-tuncom"
+        },
+        {
+            "name": "Салат с моцареллой и помидорами",
+            "slug": "salat-s-mocarelloy-i-pomidorami"
+        },
+        {
+            "name": "Салат с оливками",
+            "slug": "salat-s-olivkami"
+        },
+        {
+            "name": "Салат с помидорами и сыром",
+            "slug": "salat-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Салат с помидорами черри",
+            "slug": "salat-s-pomidorami-cherri"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салат с рыбными консервами",
+            "slug": "salat-s-rybnymi-konservami"
+        },
+        {
+            "name": "Салат с рыбой",
+            "slug": "salat-s-ryboy"
+        },
+        {
+            "name": "Салат с фасолью",
+            "slug": "salat-s-fasolyu"
+        },
+        {
+            "name": "Салат со стручковой фасолью",
+            "slug": "salat-so-struchkovoy-fasolyu"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без майонеза на праздничный стол",
+            "slug": "salaty-bez-mayoneza-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты из листьев салата",
+            "slug": "salaty-iz-listev-salata"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        },
+        {
+            "name": "Салаты с сыром моцарелла",
+            "slug": "salaty-s-syrom-mocarella"
+        }
+    ]
+}

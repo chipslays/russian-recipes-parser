@@ -1,0 +1,123 @@
+{
+    "source": "https://vkuso.ru/recipe/bystrye-goryachie-buterbrody-s-kolbasoj-i-syrom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Быстрые горячие бутерброды с колбасой и сыром",
+    "description": "Неожиданных, но приятных, гостей, можно быстро накормить горячими бутербродами. Главное, чтобы основные ингредиенты оказались под рукой, второстепенные можно заменить чем-то другим, проявив во всей красе кулинарную смекалку.",
+    "note": "Подать с пивом или чаем. Вместо колбасы можно добавить любые другие мясные продукты: буженину, ливерную колбасу, отваренную печень. Можно сделать «морской» вариант с порезанными креветками или другими морепродуктами.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/82/0d79a021ffdff82_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сосиски/колбаса",
+                    "slug": "sosiski-kolbasa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "хлеб",
+                    "slug": "hleb",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Смешать сырое яйцо, одну столовую ложку майонеза, чайную ложку кетчупа или томатной пасты. Мелко порезать сосиску или ломтик колбасы, натереть сыр. Всё перемешать, соль, зелень, специи  по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Намазать массой ломтики белого батона. Выложить на смазанный маслом противень, печь в духовке в течение пяти минут, выключить огонь, подержать быстрые горячие бутерброды с колбасой и сыром еще две минуты, не открывая дверку, затем вынуть.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды в духовке",
+            "slug": "buterbrody-v-duhovke"
+        },
+        {
+            "name": "Бутерброды с колбасой",
+            "slug": "buterbrody-s-kolbasoy"
+        },
+        {
+            "name": "Бутерброды с колбасой и сыром",
+            "slug": "buterbrody-s-kolbasoy-i-syrom"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Бутерброды с яйцом",
+            "slug": "buterbrody-s-yaycom"
+        },
+        {
+            "name": "Горячие бутерброды",
+            "slug": "goryachie-buterbrody"
+        },
+        {
+            "name": "Горячие бутерброды с колбасой и сыром",
+            "slug": "goryachie-buterbrody-s-kolbasoy-i-syrom"
+        },
+        {
+            "name": "Горячие бутерброды с сыром",
+            "slug": "goryachie-buterbrody-s-syrom"
+        },
+        {
+            "name": "Горячие закуски",
+            "slug": "goryachie-zakuski"
+        }
+    ]
+}

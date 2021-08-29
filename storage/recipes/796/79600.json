@@ -1,0 +1,107 @@
+{
+    "source": "https://vkuso.ru/recipe/syrniki-s-mankoj-i-mukoj-na-paru/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Сырники с манкой и мукой на пару",
+    "description": "Изделия из творога можно приготовить без яиц, этот продукт может быть вреден или его просто не окажется в холодильнике.",
+    "note": "Изделия, приготовленные по этому рецепту, похожи на ленивые вареники, их подают со сметаной.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/70/0a849c3e2d06370_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "манная крупа",
+                    "slug": "mannaya-krupa",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Растереть творог с сахарным песком, всыпать манку и муку.",
+            "image": null
+        },
+        {
+            "text": "Творожную массу хорошо перемешать, сформовать лепешки.",
+            "image": null
+        },
+        {
+            "text": "Варить на пару в течение 10 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "На пару",
+            "slug": "na-paru"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сырники",
+            "slug": "syrniki"
+        },
+        {
+            "name": "Сырники без яиц",
+            "slug": "syrniki-bez-yaic"
+        },
+        {
+            "name": "Сырники на пару",
+            "slug": "syrniki-na-paru"
+        },
+        {
+            "name": "Сырники с манкой",
+            "slug": "syrniki-s-mankoy"
+        }
+    ]
+}

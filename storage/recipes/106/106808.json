@@ -1,0 +1,191 @@
+{
+    "source": "https://vkuso.ru/recipe/106808-slivochnyj-sup-pyure-s-kuricej-tykvoj-i-syrom/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Сливочный суп-пюре с курицей, тыквой и сыром",
+    "description": "Блюдо с ярким вкусом и цветом. Сыр хорошо сочетается с основным продуктом, луком и чесноком. Вершина наслаждения – свежая зелень.",
+    "note": "В готовый суп насыпать сухарики, рубленую зелень кинзы, петрушки, укропа, тертый сыр.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/1d/37034ebbe20e11d_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/m98qYdkGAxI?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "курица",
+                    "slug": "kurica",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "тыква",
+                    "slug": "tykva",
+                    "notes": null,
+                    "value": "300-500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень укропа",
+                    "slug": "zelen-ukropa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень петрушки",
+                    "slug": "zelen-petrushki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "кориандр",
+                    "slug": "koriandr",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "кинза",
+                    "slug": "kinza",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отделить кожу от куриного мяса.",
+            "image": null
+        },
+        {
+            "text": "Филе варить в течение пяти минут, затем первый бульон слить, добавить холодную воду, еще раз поставить на огонь.",
+            "image": null
+        },
+        {
+            "text": "Нарезать тыкву кубиками, выложить в кастрюлю с бульоном, варить до готовности.",
+            "image": null
+        },
+        {
+            "text": "Обжарить нарезанный репчатый лук на сковороде до прозрачности, добавить чеснок. Для обжарки использовать подсолнечное масло без запаха.",
+            "image": null
+        },
+        {
+            "text": "Отлить из кастрюли немного бульона.",
+            "image": null
+        },
+        {
+            "text": "В оставшуюся жидкость положить обжарку с луком, ингредиенты перемолоть блендером.",
+            "image": null
+        },
+        {
+            "text": "Натереть твердый сыр на крупной терке, поделить пополам.",
+            "image": null
+        },
+        {
+            "text": "Часть высыпать в суп, вторую поставить на стол для заправки супа по желанию едоков.",
+            "image": null
+        },
+        {
+            "text": "Влить в суп сливки, всыпать кориандр, массу еще раз довести до кипения.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Куриный суп",
+            "slug": "kuriniy-sup"
+        },
+        {
+            "name": "Куриный суп-пюре",
+            "slug": "kuriniy-sup-pyure"
+        },
+        {
+            "name": "Сливочный суп",
+            "slug": "slivochniy-sup"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп из птицы",
+            "slug": "sup-iz-pticy"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Суп со сливками",
+            "slug": "sup-so-slivkami"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Суп-пюре из тыквы",
+            "slug": "sup-pyure-iz-tykvy"
+        },
+        {
+            "name": "Тыквенный суп",
+            "slug": "tykvenniy-sup"
+        }
+    ]
+}

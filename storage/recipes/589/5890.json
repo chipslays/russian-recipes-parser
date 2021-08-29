@@ -1,0 +1,168 @@
+{
+    "source": "https://vkuso.ru/recipe/tort-zolotoj-klyuchik-so-sgushhennym-molokom/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Торт «Золотой ключик» со сгущенным молоком",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/4f/433c04a6336ea4f_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яиц",
+                    "slug": "yaic",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "7"
+                },
+                {
+                    "name": "грецких орехов",
+                    "slug": "greckih-orehov",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "2,5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сахара",
+                    "slug": "sahara",
+                    "notes": null,
+                    "value": "1,5-2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "горячей воды",
+                    "slug": "goryachey-vody",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "какао",
+                    "slug": "kakao",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "меда",
+                    "slug": "meda",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соды",
+                    "slug": "sody",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для крема",
+            "list": [
+                {
+                    "name": "сливочного масла",
+                    "slug": "slivochnogo-masla",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вареного сгущенного молока",
+                    "slug": "varenogo-sguschennogo-moloka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "ванилин",
+                    "slug": "vanilin",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В глубокую миску разбить яйца, всыпать сахар, взбить до побеления смеси. Растворить мед в двух ст.л. воды, добавить в миску вместе с  гашеной содой и как следует взбить.",
+            "image": null
+        },
+        {
+            "text": "Смешать  какао и просеянную муку , добавить 1 стакан рубленных  орехов, тщательно перемешать.",
+            "image": null
+        },
+        {
+            "text": "Разделить полученное жидкое тесто на три части, испечь из каждой по коржу, используя бумагу для выпечки,  при температуре около 190 градусов.",
+            "image": null
+        },
+        {
+            "text": "Взбить крем из масла с ванилью и сгущенкой. Промазать кремом охлажденные коржи, присыпать торт «Золотой ключик» со сгущенным молоком оставшимися рублеными орехами.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерт со сгущенкой",
+            "slug": "desert-so-sguschenkoy"
+        },
+        {
+            "name": "Детский праздник",
+            "slug": "detskiy-prazdnik"
+        },
+        {
+            "name": "Медовый торт",
+            "slug": "medoviy-tort"
+        },
+        {
+            "name": "Ореховый торт",
+            "slug": "orehoviy-tort"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Торт с вареной сгущенкой",
+            "slug": "tort-s-varenoy-sguschenkoy"
+        },
+        {
+            "name": "Торт со сгущенкой",
+            "slug": "tort-so-sguschenkoy"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        }
+    ]
+}

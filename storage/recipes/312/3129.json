@@ -1,0 +1,164 @@
+{
+    "source": "https://vkuso.ru/recipe/sochni-tvorozhnye-na-sdobnom-presnom-teste/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Сочни творожные на сдобном пресном тесте",
+    "description": null,
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c5/8e3ecfa74e0d4c5_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметаны",
+                    "slug": "smetany",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масла",
+                    "slug": "masla",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйцо",
+                    "slug": "yayco",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "сахара",
+                    "slug": "sahara",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "творога",
+                    "slug": "tvoroga",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахара",
+                    "slug": "sahara",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "яйцо",
+                    "slug": "yayco",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "жир для выпечки",
+                    "slug": "jir-dlya-vypechki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Смешать муку, сахар, добавить яйца, сметану, немного присолить, получившееся тесто раскатать пластом не более 4 мм толщиной, разрезать на квадратные заготовки.",
+            "image": null
+        },
+        {
+            "text": "Растереть творог с яйцами и сахаром, готовую творожную начинку выложить небольшими порциями на уголок квадратов из теста, завернуть квадраты, придавая им форму сочней.",
+            "image": null
+        },
+        {
+            "text": "Подготовленные сочни выложить на лист, тщательно смазанный маслом, для румяной корочки смазать сочни сверху сметаной, поставить в разогретую духовку, запекать до легкого зарумянивания.",
+            "image": null
+        },
+        {
+            "text": "Подавать к столу готовые сочни творожные на сдобном пресном тесте со сметаной.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Пирожки без дрожжей",
+            "slug": "pirojki-bez-drojjey"
+        },
+        {
+            "name": "Пирожки на сметане",
+            "slug": "pirojki-na-smetane"
+        },
+        {
+            "name": "Пирожки с творогом",
+            "slug": "pirojki-s-tvorogom"
+        },
+        {
+            "name": "Сочни, сочники",
+            "slug": "sochni-sochniki"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        }
+    ]
+}

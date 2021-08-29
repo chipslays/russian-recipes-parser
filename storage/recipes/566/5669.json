@@ -1,0 +1,140 @@
+{
+    "source": "https://vkuso.ru/recipe/kurinyj-sup-s-ukrainskimi-galushkami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Куриный суп с украинскими галушками",
+    "description": null,
+    "note": null,
+    "cuisine": "Украинская кухня",
+    "cuisine_slug": "ukrainskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/59/378e1983a05a859_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриного бульона",
+                    "slug": "kurinogo-bulona",
+                    "notes": null,
+                    "value": "2",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "клубня",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для галушек",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Картошку и репчатый лук порезать, поместить в кипящий бульон и отварить до готовности.",
+            "image": null
+        },
+        {
+            "text": "Для галушек приготовить тесто: муку смешать с яйцом и щепоткой соли. Тесто мешать до тех пор, пока консистенция его не будет напоминать густую сметану.",
+            "image": null
+        },
+        {
+            "text": "Набирать по ¼ столовой ложки готовое тесто и опускать ложку прямо в кипящий бульон.",
+            "image": null
+        },
+        {
+            "text": "На растительном масле (лучше постном), поджарить оставшуюся морковь и лук, получившейся зажаркой заправить суп.",
+            "image": null
+        },
+        {
+            "text": "Варить куриный суп с украинскими галушками до полной готовности, затем посолить, заправить зеленью. Подавать блюдо лучше со сметаной.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Куриный суп",
+            "slug": "kuriniy-sup"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп с галушками",
+            "slug": "sup-s-galushkami"
+        }
+    ]
+}

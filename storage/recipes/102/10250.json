@@ -1,0 +1,139 @@
+{
+    "source": "https://vkuso.ru/recipe/frittata-s-vetchinoj-po-ispanski/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Фриттата с ветчиной по-испански",
+    "description": "Фриттата – испанский или итальянский омлет с разнообразными сырными, овощными, мясными начинками. В оригинальном исполнении готовят в сковороде с двумя ручками, в ней же и подают на стол.",
+    "note": "Подать, порезав на порции. Во фриттату традиционно не добавляют продукты, в которых много жидкости. Если все же есть желание добавить, например, помидоры, то их нужно очистить от семян и дать чуть подвялиться в сухом и проветриваемом месте.",
+    "cuisine": "Испанская кухня",
+    "cuisine_slug": "ispanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/4d/f580b9ceb64314d_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Лук-репку нарезать кольцами, обжарить на растительном масле до золотистого цвета. Сладкий болгарский перец нарезать кубиками, добавить в луковую массу, тушить вместе пять минут. Отварить, очистить и нарезать кубиками картофель. Добавить к перцу и луку и жарить до готовности, соль, перец – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Нарезать ветчину мелкими кубиками, добавить к взбитым яйцам. Овощи выложить в форму для запекания, залить яичной смесью. Печь фриттату с ветчиной по-испански в течение 10 – 13 минут при 180 – 200 градусах.  Готовое горячее блюдо посыпать сыром.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Картошка с сыром",
+            "slug": "kartoshka-s-syrom"
+        },
+        {
+            "name": "Картошка с сыром в духовке",
+            "slug": "kartoshka-s-syrom-v-duhovke"
+        },
+        {
+            "name": "Омлет",
+            "slug": "omlet"
+        },
+        {
+            "name": "Омлет без молока",
+            "slug": "omlet-bez-moloka"
+        },
+        {
+            "name": "Омлет на завтрак",
+            "slug": "omlet-na-zavtrak"
+        },
+        {
+            "name": "Омлет с ветчиной",
+            "slug": "omlet-s-vetchinoy"
+        },
+        {
+            "name": "Омлет с овощами",
+            "slug": "omlet-s-ovoschami"
+        },
+        {
+            "name": "Фриттата",
+            "slug": "frittata"
+        }
+    ]
+}

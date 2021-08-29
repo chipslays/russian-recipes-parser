@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/slivochnyj-krem-sup-so-shpinatom-i-kartofelem/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Сливочный крем-суп со шпинатом и картофелем",
+    "description": "Нежное, легкое, вкусное блюдо из доступных продуктов.",
+    "note": "Блюдо можно украсить несколькими ломтиками обжаренного картофеля, веточкой зелени.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/80/78645e57e970f80_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/orXcymNPgq0?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сливки 33%",
+                    "slug": "slivki-33",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "шпинат",
+                    "slug": "shpinat",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "зубчик",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Репчатый лук нарезать полукольцами, обжарить на сливочном масле на сковороде.",
+            "image": null
+        },
+        {
+            "text": "Переложить обжарку в кастрюлю, нарезанный кубиками картофель, подлить воду, варить до полной готовности.",
+            "image": null
+        },
+        {
+            "text": "Всыпать специи, измельченный чеснок и укроп.",
+            "image": null
+        },
+        {
+            "text": "Влить сливки.",
+            "image": null
+        },
+        {
+            "text": "Положить шпинат.",
+            "image": null
+        },
+        {
+            "text": "Все вместе варить пять минут.",
+            "image": null
+        },
+        {
+            "text": "Взбить содержимое кастрюли блендером и подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Крем-суп",
+            "slug": "krem-sup"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Сливочный суп",
+            "slug": "slivochniy-sup"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из шпината",
+            "slug": "sup-iz-shpinata"
+        },
+        {
+            "name": "Суп со сливками",
+            "slug": "sup-so-slivkami"
+        }
+    ]
+}

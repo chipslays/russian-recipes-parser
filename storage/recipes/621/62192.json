@@ -1,0 +1,123 @@
+{
+    "source": "https://vkuso.ru/recipe/tvorozhno-orexovyj-desert-s-medom/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Творожно-ореховый десерт с медом",
+    "description": "Небольшие шарики-пирожные, которые не требуют выпечки. К приготовлению блюда можно привлечь детей.",
+    "note": "Вместо орехов можно использовать вишню, черешню, клубнику, ежевику, малину. При подаче украсить десерт свежими или размороженными ягодами, листочками зеленой мяты.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/4d/81695e1732e2f4d_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "йогурт натуральный",
+                    "slug": "yogurt-naturalniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "какао-порошок",
+                    "slug": "kakao-poroshok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "миндаль",
+                    "slug": "mindal",
+                    "notes": " (грецкие орехи)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В глубокой тарелке растереть творог с йогуртом и натуральным мёдом.",
+            "image": null
+        },
+        {
+            "text": "Сформовать мокрыми руками небольшие лепешки, положить в каждую по грецкому или миндальному орешку.",
+            "image": null
+        },
+        {
+            "text": "Слепить творожные комочки, каждый обмакнуть в какао-порошок.",
+            "image": null
+        },
+        {
+            "text": "Выложить изделия на тарелку и поставить в морозилку на полчаса.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блюда из творога для детей",
+            "slug": "blyuda-iz-tvoroga-dlya-detey"
+        },
+        {
+            "name": "Десерт на скорую руку",
+            "slug": "desert-na-skoruyu-ruku"
+        },
+        {
+            "name": "Десерты для детей",
+            "slug": "deserty-dlya-detey"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Праздничные десерты",
+            "slug": "prazdnichnye-deserty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Простые рецепты для детей",
+            "slug": "prostye-recepty-dlya-detey"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        }
+    ]
+}

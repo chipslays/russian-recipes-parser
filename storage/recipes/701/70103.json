@@ -1,0 +1,223 @@
+{
+    "source": "https://vkuso.ru/recipe/70103-kurica-v-gorshochke-s-syrom-po-derevenski/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Курица в горшочке с сыром по-деревенски",
+    "description": "Нежное мясо курочки под ароматной сырной корочкой готовится по рецепту, пришедшему к нам из далекой старины, который по сей день популярен у современных хозяек. Для приготовления понадобятся простые продукты, которые всегда найдутся под рукой, а сам процесс не отнимет много времени. Блюдо готовится в маленьких керамических горшочках для запекания, в которых и подают сытный обед к столу.",
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f9/fbe9ef4356f8df9_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "50 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Филе курицы порезать на маленькие кусочки, посолить и разложить по горшочкам, на дно которых предварительно налить растительное масло.",
+            "image": null
+        },
+        {
+            "text": "Картофель очистить, нарезать кубиками, посыпать солью и выложить сверху мяса.",
+            "image": null
+        },
+        {
+            "text": "Репчатый лук мелко нарезать и добавить в горшочки.",
+            "image": null
+        },
+        {
+            "text": "Сверху добавить сливочное масло и залить майонезом.",
+            "image": null
+        },
+        {
+            "text": "Сыр, лучше твердых сортов, потереть на терке и распределить сверху майонеза.",
+            "image": null
+        },
+        {
+            "text": "Каждый горшочек закрыть крышкой и поставить запекаться в предварительно разогретый духовой шкаф до температуры 160 градусов.",
+            "image": null
+        },
+        {
+            "text": "Через 30 минуть блюдо готово, его можно украсить зеленью и подавать со свежим хрустящим хлебом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В горшочках",
+            "slug": "v-gorshochkah"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из картофеля",
+            "slug": "vtorye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Запеченное куриное филе",
+            "slug": "zapechennoe-kurinoe-file"
+        },
+        {
+            "name": "Картошка в горшочках",
+            "slug": "kartoshka-v-gorshochkah"
+        },
+        {
+            "name": "Картошка в духовке",
+            "slug": "kartoshka-v-duhovke"
+        },
+        {
+            "name": "Картошка с сыром",
+            "slug": "kartoshka-s-syrom"
+        },
+        {
+            "name": "Картошка с сыром в горшочках",
+            "slug": "kartoshka-s-syrom-v-gorshochkah"
+        },
+        {
+            "name": "Картошка с сыром в духовке",
+            "slug": "kartoshka-s-syrom-v-duhovke"
+        },
+        {
+            "name": "Куриное филе в духовке",
+            "slug": "kurinoe-file-v-duhovke"
+        },
+        {
+            "name": "Куриное филе в майонезе",
+            "slug": "kurinoe-file-v-mayoneze"
+        },
+        {
+            "name": "Куриное филе с картошкой",
+            "slug": "kurinoe-file-s-kartoshkoy"
+        },
+        {
+            "name": "Куриное филе с картошкой в духовке",
+            "slug": "kurinoe-file-s-kartoshkoy-v-duhovke"
+        },
+        {
+            "name": "Куриное филе с овощами",
+            "slug": "kurinoe-file-s-ovoschami"
+        },
+        {
+            "name": "Куриное филе с сыром",
+            "slug": "kurinoe-file-s-syrom"
+        },
+        {
+            "name": "Куриное филе с сыром в духовке",
+            "slug": "kurinoe-file-s-syrom-v-duhovke"
+        },
+        {
+            "name": "Курица в горшочках",
+            "slug": "kurica-v-gorshochkah"
+        },
+        {
+            "name": "Курица в духовке",
+            "slug": "kurica-v-duhovke"
+        },
+        {
+            "name": "Курица с картошкой",
+            "slug": "kurica-s-kartoshkoy"
+        },
+        {
+            "name": "Курица с картошкой в горшочках",
+            "slug": "kurica-s-kartoshkoy-v-gorshochkah"
+        },
+        {
+            "name": "Курица с картошкой в духовке",
+            "slug": "kurica-s-kartoshkoy-v-duhovke"
+        },
+        {
+            "name": "Курица с овощами",
+            "slug": "kurica-s-ovoschami"
+        },
+        {
+            "name": "Курица с сыром",
+            "slug": "kurica-s-syrom"
+        },
+        {
+            "name": "Курица с сыром в духовке",
+            "slug": "kurica-s-syrom-v-duhovke"
+        }
+    ]
+}

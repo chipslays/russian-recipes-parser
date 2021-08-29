@@ -1,0 +1,123 @@
+{
+    "source": "https://vkuso.ru/recipe/yajco-v-sosiske-k-zavtraku/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Яйцо в сосиске к завтраку",
+    "description": null,
+    "note": "Можно дополнительно украсить блюдо помидорами черри или дольками обычных помидоров, консервированными маслинами, в зимнее время закуску подать с соленьями и маринадами.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/36/47a40fa65d73436_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сосиски",
+                    "slug": "sosiski",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сосиску надрезать на одинаковые кусочки, не прорезать до конца. Свернуть их в виде «колечек», скрепить зубочистками или деревянными шпажками. Выпустить в миску яйца, добавить майонез, соль, взбить.",
+            "image": null
+        },
+        {
+            "text": "Разогреть на сковороде сливочное или растительное масло, обжарить сосиски с одной стороны, перевернуть. Залить в середину «кольца» яично-майонезную смесь, прогреть до готовности.",
+            "image": null
+        },
+        {
+            "text": "При подаче выложить яйцо в сосиске на хорошо вымытые листья зеленого салата, посыпать мелко нарубленной петрушкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блюда из яиц",
+            "slug": "blyuda-iz-yaic"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Вторые блюда на скорую руку",
+            "slug": "vtorye-blyuda-na-skoruyu-ruku"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Яичница",
+            "slug": "yaichnica"
+        },
+        {
+            "name": "Яичница с сосисками",
+            "slug": "yaichnica-s-sosiskami"
+        }
+    ]
+}

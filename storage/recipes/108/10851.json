@@ -1,0 +1,83 @@
+{
+    "source": "https://vkuso.ru/recipe/syr-krem-maskarpone-dlya-vypechki/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Сыр-крем «Маскарпоне» для выпечки",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/cb/7d62581c5e9e5cb_660x440.gif",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Протереть творог через мелкое сито дважды. Влить к творогу холодные сливки. Творог и сливки взбить на малой скорости миксером.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Домашний маскарпоне",
+            "slug": "domashniy-maskarpone"
+        },
+        {
+            "name": "Крем",
+            "slug": "krem"
+        },
+        {
+            "name": "Крем для пирожных",
+            "slug": "krem-dlya-pirojnyh"
+        },
+        {
+            "name": "Крем для торта",
+            "slug": "krem-dlya-torta"
+        },
+        {
+            "name": "Сыр из творога",
+            "slug": "syr-iz-tvoroga"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        },
+        {
+            "name": "Творожный крем",
+            "slug": "tvorojniy-krem"
+        },
+        {
+            "name": "Торт без яиц",
+            "slug": "tort-bez-yaic"
+        }
+    ]
+}

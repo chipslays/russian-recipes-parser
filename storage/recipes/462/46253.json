@@ -1,0 +1,195 @@
+{
+    "source": "https://vkuso.ru/recipe/kartofelnye-lodochki-s-kurinoj-nachinkoj/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Картофельные лодочки с куриной начинкой",
+    "description": null,
+    "note": "Если есть желание, то за 5 минут до окончания запекания можно сделать на рукаве надрез, присыпать верх картофеля натертым сыром и продолжить запекать до его расплавления.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/aa/3b02d8d00bdd1aa_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": " (кипяченая)",
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "смесь перцев молотых",
+                    "slug": "smes-percev-molotyh",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Клубни примерно одного размера почистить, разрезать вдоль, сделать с помощью чайной ложки подобие лодочек.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/db/727896a66ce73db_434x295.jpg"
+        },
+        {
+            "text": "Из порезанного на кубики филе с добавлением лука, соли, перца петрушки и пары ложек майонеза приготовить фарш, заполнить с горкой половинки картофеля.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/a1/c019abf1600aca1_434x295.jpg"
+        },
+        {
+            "text": "Для подливки перемешать стакан подсоленной воды с майонезом и перцем. Переложить картофельные лодочки, фаршированные мясом в рукав, влить подливку, тщательно завязать и поднять края рукава, поставить в духовку швом вверх, готовить полчаса при среднем нагреве.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из картофеля",
+            "slug": "vtorye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Запеченное куриное филе",
+            "slug": "zapechennoe-kurinoe-file"
+        },
+        {
+            "name": "Картофель фаршированный",
+            "slug": "kartofel-farshirovanniy"
+        },
+        {
+            "name": "Куриное филе в духовке",
+            "slug": "kurinoe-file-v-duhovke"
+        },
+        {
+            "name": "Куриное филе в майонезе",
+            "slug": "kurinoe-file-v-mayoneze"
+        },
+        {
+            "name": "Куриное филе с овощами",
+            "slug": "kurinoe-file-s-ovoschami"
+        },
+        {
+            "name": "Курица в духовке",
+            "slug": "kurica-v-duhovke"
+        },
+        {
+            "name": "Курица с баклажанами",
+            "slug": "kurica-s-baklajanami"
+        },
+        {
+            "name": "Курица с картошкой",
+            "slug": "kurica-s-kartoshkoy"
+        },
+        {
+            "name": "Курица с картошкой в духовке",
+            "slug": "kurica-s-kartoshkoy-v-duhovke"
+        },
+        {
+            "name": "Курица с овощами",
+            "slug": "kurica-s-ovoschami"
+        },
+        {
+            "name": "Курица с чесноком в духовке",
+            "slug": "kurica-s-chesnokom-v-duhovke"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из куриного филе",
+            "slug": "ujin-iz-kurinogo-file"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Фаршированные овощи",
+            "slug": "farshirovannye-ovoschi"
+        }
+    ]
+}

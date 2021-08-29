@@ -1,0 +1,95 @@
+{
+    "source": "https://vkuso.ru/recipe/puding-bananovyj-raj/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Пудинг «Банановый рай»",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e1/ab5ca4ca57f40e1_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бананы",
+                    "slug": "banany",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "манная крупа",
+                    "slug": "mannaya-krupa",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Соединить яйца и молоко, используя блендер. Насыпать манную крупу, хорошо взбить. Почистить бананы, порезать на кружки, выложить в специальную форму. Залить бананы смесью, отправить в мультиварку на 40 минут.",
+            "image": null
+        },
+        {
+            "text": "Достать пудинг из мультиварки, дать чуть-чуть остыть, чтобы жидкость, выступающая из блюда, впиталась обратно. Разрезать пудинг «Банановый рай» на кусочки и подавать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерт из бананов",
+            "slug": "desert-iz-bananov"
+        },
+        {
+            "name": "Десерты в мультиварке",
+            "slug": "deserty-v-multivarke"
+        },
+        {
+            "name": "Десерты для детей",
+            "slug": "deserty-dlya-detey"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Пудинг",
+            "slug": "puding"
+        }
+    ]
+}

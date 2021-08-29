@@ -1,0 +1,183 @@
+{
+    "source": "https://vkuso.ru/recipe/rasstegaj-s-ryboj-i-risom-v-duxovke/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Расстегай с рыбой и рисом в духовке",
+    "description": "Старинный рецепт пирожков из доступных ингредиентов.",
+    "note": "Рыбу для начинки можно побрызгать лимонным соком.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/cd/bb12c9717e811cd_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "450",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "филе рыбы",
+                    "slug": "file-ryby",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "150",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пакетик",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кусочек",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить тесто из молока, муки, сливочного масла, щепотки соли и сухих дрожжей.",
+            "image": null
+        },
+        {
+            "text": "Оставить на время.",
+            "image": null
+        },
+        {
+            "text": "Рыбное филе нарезать кусочками, посолить и обжарить.",
+            "image": null
+        },
+        {
+            "text": "Отварить рис до полуготовности, перемешать с рыбой.",
+            "image": null
+        },
+        {
+            "text": "Сформовать лепешки, выложить начинку.",
+            "image": null
+        },
+        {
+            "text": "Пирожки защипать так, чтобы осталось отверстие, в него положить кусочек сливочного масла.",
+            "image": null
+        },
+        {
+            "text": "Время выпекания – 25 минут, температура – 190 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка на молоке",
+            "slug": "vypechka-na-moloke"
+        },
+        {
+            "name": "Дрожжевые пирожки",
+            "slug": "drojjevye-pirojki"
+        },
+        {
+            "name": "Несладкая выпечка",
+            "slug": "nesladkaya-vypechka"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки без кефира",
+            "slug": "pirojki-bez-kefira"
+        },
+        {
+            "name": "Пирожки в духовке",
+            "slug": "pirojki-v-duhovke"
+        },
+        {
+            "name": "Пирожки дрожжевые в духовке",
+            "slug": "pirojki-drojjevye-v-duhovke"
+        },
+        {
+            "name": "Пирожки на молоке",
+            "slug": "pirojki-na-moloke"
+        },
+        {
+            "name": "Пирожки несладкие",
+            "slug": "pirojki-nesladkie"
+        },
+        {
+            "name": "Пирожки с рисом",
+            "slug": "pirojki-s-risom"
+        },
+        {
+            "name": "Пирожки с рыбой",
+            "slug": "pirojki-s-ryboy"
+        },
+        {
+            "name": "Расстегай",
+            "slug": "rasstegay"
+        },
+        {
+            "name": "Расстегай с рыбой",
+            "slug": "rasstegay-s-ryboy"
+        }
+    ]
+}

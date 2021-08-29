@@ -1,0 +1,184 @@
+{
+    "source": "https://vkuso.ru/recipe/klecki-iz-shpinata-s-kurinym-bulonom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Клецки из шпината с куриным бульоном",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/2f/8a33c075c76132f_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "шпинат",
+                    "slug": "shpinat",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для клецек",
+            "list": [
+                {
+                    "name": "курица",
+                    "slug": "kurica",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В кастрюлю положить курицу, залить ее водой, дать закипеть и шумовкой собрать образовавшуюся пену. Положить в кастрюлю с мясом лавровый лист, лук, морковь, зелень, и варить бульон, пока не будет готово мясо. Бульон вместе с мясом поперчить и посолить по вкусу, перемешать, достать из него овощи.",
+            "image": null
+        },
+        {
+            "text": "Для теста для клецек кефир взбить с яйцами, добавить измельченный шпинат, соль, соду, муку и вымесить мягкое тесто. Получившееся тесто разделить на желаемое количество небольших кусочков и, подсыпая чуть-чуть муки, придать каждому тестяному кусочку любую форму.",
+            "image": null
+        },
+        {
+            "text": "Поставить кастрюлю с водой на огонь, дать воде закипеть, посолить и отварить в ней клецки в районе 2-3 минут. Положить в каждую тарелку по несколько клецек и по кусочку отварной курятины, залить все куриным бульоном. Перед подачей клецки из шпината с куриным бульоном посыпать свежей рубленой зеленью.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Клецки",
+            "slug": "klecki"
+        },
+        {
+            "name": "Куриный бульон",
+            "slug": "kuriniy-bulon"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп из шпината",
+            "slug": "sup-iz-shpinata"
+        },
+        {
+            "name": "Суп с клецками",
+            "slug": "sup-s-kleckami"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

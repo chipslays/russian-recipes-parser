@@ -1,0 +1,91 @@
+{
+    "source": "https://vkuso.ru/recipe/klubnichno-chernichnyj-napitok-s-molokom/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Клубнично-черничный напиток с молоком",
+    "description": "Очень полезный и освежающий напиток из натуральных ингредиентов, прекрасно подойдет для детских праздников.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/4b/91302af5e4f344b_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "350",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "клубника",
+                    "slug": "klubnika",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "черника",
+                    "slug": "chernika",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мороженое ванильное",
+                    "slug": "morojenoe-vanilnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Высыпать отсортированную, промытую и обсушенную ягоду в чашу блендера, разбить до состояния пюре. Добавить ягоды клубники (крупную разрезать на несколько кусочков), взбить вместе с черничным пюре.",
+            "image": null
+        },
+        {
+            "text": "Откинуть смесь ягод на сито, дать соку стечь. Добавить к соку мороженое, взбить хорошо блендером в однородную смесь. Влить в чашу молоко, хорошо перемешать клубнично-черничный напиток с молоком, разлить по высоким стаканам, дополнить соломинками.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Безалкогольные коктейли",
+            "slug": "bezalkogolnye-kokteyli"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Детский праздник",
+            "slug": "detskiy-prazdnik"
+        },
+        {
+            "name": "Молочный коктейль",
+            "slug": "molochniy-kokteyl"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        }
+    ]
+}

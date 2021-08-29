@@ -1,0 +1,135 @@
+{
+    "source": "https://vkuso.ru/recipe/86051-salat-iz-pomidor-i-syra-s-zelenyu/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат из помидор и сыра с зеленью",
+    "description": "Блюдо быстро готовится, для его приготовления не нужно что-то отваривать.",
+    "note": "Помидоры можно очистить от кожицы и семенных камер. Кожица легко снимается, если окунуть овощи на пару минут в кипяток.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e2/59ba9699071a7e2_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "10 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "4-5",
+                    "type": "зубчиков",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": "½",
+                    "type": "пучка",
+                    "amount": null
+                },
+                {
+                    "name": "уксус яблочный",
+                    "slug": "uksus-yablochniy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Разрезать помидоры на несколько частей, разложить в тарелке.",
+            "image": null
+        },
+        {
+            "text": "Продукт побрызгать яблочным уксусом.",
+            "image": null
+        },
+        {
+            "text": "Натереть твердый сыр.",
+            "image": null
+        },
+        {
+            "text": "Порезать очищенный чеснок, порубить зелень петрушки, кинзы, укропа.",
+            "image": null
+        },
+        {
+            "text": "Чеснок, зелень и сыр перемешать отдельно, украсить помидоры.",
+            "image": null
+        },
+        {
+            "text": "Закуску сразу подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из помидоров",
+            "slug": "salat-iz-pomidorov"
+        },
+        {
+            "name": "Салат с помидорами и сыром",
+            "slug": "salat-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Салат с сыром и чесноком",
+            "slug": "salat-s-syrom-i-chesnokom"
+        },
+        {
+            "name": "Салат с твердым сыром",
+            "slug": "salat-s-tverdym-syrom"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        }
+    ]
+}

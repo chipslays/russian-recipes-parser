@@ -1,0 +1,283 @@
+{
+    "source": "https://vkuso.ru/recipe/klassicheskij-sup-xarcho-iz-govyadiny-po-domashnemu/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Классический суп харчо из говядины по-домашнему",
+    "description": "Выражение «дзрохис хорци харшот» в переводе с грузинского языка означает  «суп из говядины». Самый лучший выбор для классического рецепта – упитанная грудинка.",
+    "note": "Вместо консервированных помидоров можно взять свежие, кожицу снять путем бланширования.",
+    "cuisine": "Грузинская кухня",
+    "cuisine_slug": "gruzinskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/35/6c7bb8a1ef3b635_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "говядина",
+                    "slug": "govyadina",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "грецкие орехи измельченные",
+                    "slug": "greckie-orehi-izmelchennye",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры в собственном соку",
+                    "slug": "pomidory-v-sobstvennom-soku",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "&frac23;",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": "2",
+                    "type": "листика",
+                    "amount": null
+                },
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соус ткемали",
+                    "slug": "sous-tkemali",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "хмели-сунели",
+                    "slug": "hmeli-suneli",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "кориандр молотый",
+                    "slug": "koriandr-molotiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "специи для харчо",
+                    "slug": "specii-dlya-harcho",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень петрушки",
+                    "slug": "zelen-petrushki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "зелень укропа",
+                    "slug": "zelen-ukropa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "кинза",
+                    "slug": "kinza",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "базилик",
+                    "slug": "bazilik",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Положить мясо в кастрюлю большого объема (4,5 литра) , залить водой почти до краев, поставить на плиту, прогревать до кипения, пену снимать.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/34/1674430fd179a34_434x295.jpg"
+        },
+        {
+            "text": "Через полчаса всыпать тщательно промытый рис. Еще раз довести до кипения, огонь уменьшить, варить мясо до готовности под крышкой.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/81/3755a8e7f390281_434x295.jpg"
+        },
+        {
+            "text": "Поставить на плиту сковороду, подлить растительное масло.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/ea/e5dc3bdea1843ea_434x295.jpg"
+        },
+        {
+            "text": "Обжарить крупно нарезанный репчатый лук до прозрачного состояния.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/9f/dabfe478514699f_434x295.jpg"
+        },
+        {
+            "text": "Через две минуты положить нарезанный сладкий болгарский перец. Этот ингредиент необязателен, им можно пренебречь. Жарить все вместе еще полторы минуты.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/b9/808029b79f6f6b9_434x295.jpg"
+        },
+        {
+            "text": "Добавить порезанные свежие помидоры или консервированные в собственном соку.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/54/a95353bfb691854_434x295.jpg"
+        },
+        {
+            "text": "Положить соус ткемали, томатную пасту, все перемешать и тушить еще три минуты.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/2a/2a05bce83f13e2a_434x295.jpg"
+        },
+        {
+            "text": "Переложить обжарку в кастрюлю. Добавить хмели-сунели, лавровый лист, соль, черный молотый перец, кориандр.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/32/aedd48d9b448732_434x295.jpg"
+        },
+        {
+            "text": "Всыпать молотые грецкие орехи, оставшиеся специи, хорошо перемешать.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/a1/4a13345c8e13ca1_434x295.jpg"
+        },
+        {
+            "text": "Добавить сахарный песок, довести суп до кипения, пену снять, кипятить харчо еще пять минут.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/08/f07baf16c9f0108_434x295.jpg"
+        },
+        {
+            "text": "Всыпать нарубленную зелень, огонь выключить, дать супу постоять полчаса.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/f5/1057dfd829ab1f5_434x295.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Говядина классические рецепты",
+            "slug": "govyadina-klassicheskie-recepty"
+        },
+        {
+            "name": "Классические рецепты",
+            "slug": "klassicheskie-recepty"
+        },
+        {
+            "name": "Классические супы",
+            "slug": "klassicheskie-supy"
+        },
+        {
+            "name": "Мясо классические рецепты",
+            "slug": "myaso-klassicheskie-recepty"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп с рисом",
+            "slug": "sup-s-risom"
+        },
+        {
+            "name": "Суп Харчо",
+            "slug": "sup-harcho"
+        },
+        {
+            "name": "Харчо из говядины",
+            "slug": "harcho-iz-govyadiny"
+        },
+        {
+            "name": "Харчо классический",
+            "slug": "harcho-klassicheskiy"
+        },
+        {
+            "name": "Харчо по-грузински",
+            "slug": "harcho-po-gruzinski"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "source": "https://vkuso.ru/recipe/105432-sendvichi-s-syrom-i-sosiskami/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Сэндвичи с сыром и сосисками",
+    "description": "Рецепт простого и вкусного сэндвича с сыром и сосисками.",
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a4/e26182687efb9a4_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/mcA2ZlbBbUQ?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "сыр мягкий",
+                    "slug": "syr-myagkiy",
+                    "notes": null,
+                    "value": "125",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб тостовый",
+                    "slug": "hleb-tostoviy",
+                    "notes": null,
+                    "value": "8",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "сосиски",
+                    "slug": "sosiski",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сыр натираем на мелкой терке и перекладываем в тарелку.",
+            "image": null
+        },
+        {
+            "text": "Сосиски очищаем от заводской плёнки, и на разогретом растительном масле обжариваем их до корочки около 2-3 минут. Как только обжарили, перекладываем на тарелку с бумажным полотенцем.",
+            "image": null
+        },
+        {
+            "text": "Даём сосискам остыть, и далее нарезаем сосиски на 4 кусочка, сначала пополам, потом вдоль. Так же, сосиски можно порезать на маленькие кусочки.",
+            "image": null
+        },
+        {
+            "text": "На тостовый хлеб укладываем тонким слоем сыр, прижимаем его, далее подготовленную сосиску, снова сыр, и сверху ломтик тостового хлеба, хорошо прижимаем.",
+            "image": null
+        },
+        {
+            "text": "Снова разогреваем сковороду, и обжариваем сэндвичи с каждой стороны до золотистой корочки.\r\n",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды на скорую руку",
+            "slug": "buterbrody-na-skoruyu-ruku"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Закуски к пиву",
+            "slug": "zakuski-k-pivu"
+        },
+        {
+            "name": "Закуски на скорую руку",
+            "slug": "zakuski-na-skoruyu-ruku"
+        },
+        {
+            "name": "Сэндвич с сыром",
+            "slug": "sendvich-s-syrom"
+        },
+        {
+            "name": "Сэндвичи",
+            "slug": "sendvichi"
+        }
+    ]
+}

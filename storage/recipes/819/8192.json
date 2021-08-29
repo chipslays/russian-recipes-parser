@@ -1,0 +1,193 @@
+{
+    "source": "https://vkuso.ru/recipe/shokoladnyj-biskvitnyj-tort-v-glazuri/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Шоколадный бисквитный торт в глазури",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/0f/94b502e20e50d0f_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко сгущенное",
+                    "slug": "moloko-sguschennoe",
+                    "notes": null,
+                    "value": "350",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "125",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "какао",
+                    "slug": "kakao",
+                    "notes": null,
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для бисквита",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "какао",
+                    "slug": "kakao",
+                    "notes": null,
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для крема",
+            "list": [
+                {
+                    "name": "шоколад",
+                    "slug": "shokolad",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки 35%",
+                    "slug": "slivki-35",
+                    "notes": null,
+                    "value": "75",
+                    "type": "мл",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Включить прогреваться духовку до 180 градусов. Разбить в чашу блендера яйца, взбить до получения светлой массы, добавить муку и порошок какао, просто перемешать.",
+            "image": null
+        },
+        {
+            "text": "Подобрать подходящую форму, смазать маслом, перелить  тесто, задвинуть ее в уже прогретую духовку. Выпекать около 25 минут, достать, дать хорошо остыть, порезать на три коржа.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления крема в молоко добавить муку и яйца, перемешать, поставить кастрюльку на плиту, помешивая довести до состояния густой однородной смеси, всыпать какао, еще раз перемешать, остудить.",
+            "image": null
+        },
+        {
+            "text": "Коржи смазать кремом, сложить друг на друга в стопку, поставить в холодильник часов на шесть. Подогреть сливки, поломать шоколад, растопить, перемешать, достать торт, полить глазурью, дать ей застыть. Шоколадный бисквитный торт в глазури готов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Бисквитный торт",
+            "slug": "biskvitniy-tort"
+        },
+        {
+            "name": "Бисквитный торт со сгущенкой",
+            "slug": "biskvitniy-tort-so-sguschenkoy"
+        },
+        {
+            "name": "Выпечка с шоколадом",
+            "slug": "vypechka-s-shokoladom"
+        },
+        {
+            "name": "Выпечка со сгущенкой",
+            "slug": "vypechka-so-sguschenkoy"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Новогодний торт",
+            "slug": "novogodniy-tort"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Торт со сгущенкой",
+            "slug": "tort-so-sguschenkoy"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        },
+        {
+            "name": "Шоколадный торт",
+            "slug": "shokoladniy-tort"
+        }
+    ]
+}

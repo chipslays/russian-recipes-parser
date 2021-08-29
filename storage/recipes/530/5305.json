@@ -1,0 +1,160 @@
+{
+    "source": "https://vkuso.ru/recipe/nezhnye-bulochki-s-kunzhutom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Нежные булочки с кунжутом",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/49/0a01faaca6d3849_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молока",
+                    "slug": "moloka",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "воды",
+                    "slug": "vody",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "растительного масла",
+                    "slug": "rastitelnogo-masla",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйцо",
+                    "slug": "yayco",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "сухих дрожжей",
+                    "slug": "suhih-drojjey",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахара",
+                    "slug": "sahara",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соли",
+                    "slug": "soli",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "яйцо",
+                    "slug": "yayco",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "кунжут",
+                    "slug": "kunjut",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В хлебопечке приготовить тесто из муки, яйца, растительного масла, соли,  воды, молока, сахара и сухих дрожжей.",
+            "image": null
+        },
+        {
+            "text": "При отсутствии хлебопечки тесто нужно приготовить руками из тех же ингредиентов, только после замеса его нужно поставить в теплое место на полчаса.",
+            "image": null
+        },
+        {
+            "text": "Раскатать готовое тесто в жгут, порезать его одинаковыми кусочками и каждый скатать в шарик.",
+            "image": null
+        },
+        {
+            "text": "Выложить на смазанный растительным маслом противень тестяные заготовки и убрать их на полчаса в теплое место.",
+            "image": null
+        },
+        {
+            "text": "По прошествии отведенного времени сделать на каждой булочке надрез в виде креста, смазать все яичным белком и посыпать кунжутными семечками.",
+            "image": null
+        },
+        {
+            "text": "Выпекать  нежные булочки с кунжутом при 180 градусах на протяжении 1 часа, подавать со сливочным маслом (при желании).",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Булочки",
+            "slug": "bulochki"
+        },
+        {
+            "name": "Булочки на молоке",
+            "slug": "bulochki-na-moloke"
+        },
+        {
+            "name": "Булочки с кунжутом",
+            "slug": "bulochki-s-kunjutom"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Дрожжевые булочки",
+            "slug": "drojjevye-bulochki"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        }
+    ]
+}

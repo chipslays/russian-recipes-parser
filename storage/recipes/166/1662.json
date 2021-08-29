@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/svinina-s-syrom-po-karpatski/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Свинина с сыром по-карпатски",
+    "description": null,
+    "note": null,
+    "cuisine": "Украинская кухня",
+    "cuisine_slug": "ukrainskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/78/8896aa93fcb3b78_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "свинины",
+                    "slug": "svininy",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "тертого сыра",
+                    "slug": "tertogo-syra",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "маргарина",
+                    "slug": "margarina",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "тмина",
+                    "slug": "tmina",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "смесь перцев свежемолотая",
+                    "slug": "smes-percev-svejemolotaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "молотый мускатный орех",
+                    "slug": "molotiy-muskatniy-oreh",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Мякоть свинины помыть, разрезать на четыре порционных куска, каждый кусок хорошо отбить, натереть смесью из перцев (лучше свеже смолотой), мускатного ореха, соли, убрать на холод и дать пропитаться.",
+            "image": null
+        },
+        {
+            "text": "В плоской посуде взбить яйцо, смочить свинину в яйце, запанировать смесью тертого сыра с тмином.",
+            "image": null
+        },
+        {
+            "text": "Затем мясо можно либо обжарить на сковороде, либо на среднем огне запечь в духовке, предварительно смазав маслом противень.",
+            "image": null
+        },
+        {
+            "text": "К столу свинина с сыром по-карпатски подается с большим количеством зелени и жареным картофелем.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Мясо с сыром",
+            "slug": "myaso-s-syrom"
+        },
+        {
+            "name": "Свинина с сыром",
+            "slug": "svinina-s-syrom"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из свинины",
+            "slug": "ujin-iz-svininy"
+        }
+    ]
+}

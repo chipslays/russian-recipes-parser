@@ -1,0 +1,99 @@
+{
+    "source": "https://vkuso.ru/recipe/104885-brusnichnyj-mors-so-svezhej-myatoj/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Брусничный морс со свежей мятой",
+    "description": "Напиток с пикантной ноткой, освежающий и бодрящий.",
+    "note": "Напиток можно подать к сладкой свежей выпечке.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/62/dc791cd49148962_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "50 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 8 порции",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2.5-3",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "брусника",
+                    "slug": "brusnika",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "3-5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мята свежая",
+                    "slug": "myata-svejaya",
+                    "notes": null,
+                    "value": "2-4",
+                    "type": "веточки",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Бруснику вымыть, измельчить и отжать сок.",
+            "image": null
+        },
+        {
+            "text": "Листочки свежей мяты вымыть.",
+            "image": null
+        },
+        {
+            "text": "Мезгу присыпать сахаром, размешать оставить на пять минут.",
+            "image": null
+        },
+        {
+            "text": "Влить воду, положить мяту, довести до кипения и снять с огня.",
+            "image": null
+        },
+        {
+            "text": "Морс остудить, отцедить, перемешать с соком.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Брусничный морс",
+            "slug": "brusnichniy-mors"
+        },
+        {
+            "name": "Морс",
+            "slug": "mors"
+        },
+        {
+            "name": "Морс из брусники",
+            "slug": "mors-iz-brusniki"
+        },
+        {
+            "name": "Морс из ягод",
+            "slug": "mors-iz-yagod"
+        }
+    ]
+}

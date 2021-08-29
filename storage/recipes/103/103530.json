@@ -1,0 +1,151 @@
+{
+    "source": "https://vkuso.ru/recipe/103530-pirog-na-kefire-s-kartoshkoj-i-myasom/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Окрошка классическая с колбасой на кефире",
+    "description": "В жаркую погоду многие предпочитают холодный прием пищи. Сегодня мы готовим, я думаю всеми известное блюдо, окрошку. Окрошка — это национальное блюдо русской кухни, холодный суп.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/67/947d719eaead967_660x440.jpeg",
+    "difficulty": "Низкая",
+    "cooktime": "50 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/L1Ene0k2Xu0?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "350",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца куриные",
+                    "slug": "yayca-kurinye",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "колбаса вареная",
+                    "slug": "kolbasa-varenaya",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "редис",
+                    "slug": "redis",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Картофель хорошо вымыть и отварить до готовности (около 20 минут в кипящей воде). Яйца отварить вкрутую (варим 7 минут после закипания воды). Когда все отравится слить горячую воду и залить холодной до полного остывания.",
+            "image": null
+        },
+        {
+            "text": "Очистить картофель и яйца. Вымыть редис, зелень и огурцы. Колбасу, картошку, яйца, огурцы нарезать одинаково размера (небольшими кубиками). Редис разрезать пополам и нарезать слайсами. Все нарезанные ингредиенты сложить в глубокую миску или кастрюлю.",
+            "image": null
+        },
+        {
+            "text": "Укроп и зеленый лук мелко нарезать, добавить в кастрюлю и перемешать. Раскладываем окрошку по тарелкам и заливаем каждую стаканом кефира. По желанию можно добавить немного соли.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Окрошка",
+            "slug": "okroshka"
+        },
+        {
+            "name": "Окрошка классическая",
+            "slug": "okroshka-klassicheskaya"
+        },
+        {
+            "name": "Окрошка на кефире",
+            "slug": "okroshka-na-kefire"
+        },
+        {
+            "name": "Окрошка русская",
+            "slug": "okroshka-russkaya"
+        },
+        {
+            "name": "Окрошка с колбасой",
+            "slug": "okroshka-s-kolbasoy"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Суп с колбасой",
+            "slug": "sup-s-kolbasoy"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Холодные супы",
+            "slug": "holodnye-supy"
+        }
+    ]
+}

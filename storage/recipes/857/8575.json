@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnij-vafelnyj-tort-s-varenoj-sgushhenkoj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Домашний вафельный торт с вареной сгущенкой",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e5/40a053fd72f06e5_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "коржи вафельные",
+                    "slug": "korji-vafelnye",
+                    "notes": null,
+                    "value": "9",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко сгущенное вареное",
+                    "slug": "moloko-sguschennoe-varenoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нагреть масло до комнатной температуры, положить его, когда размякнет в чашку миксера, добавить около чайной ложки сока лимона, вареную сгущенку, взбить все на большой скорости до однородности и изменения цвета (примерно 3 минуты).",
+            "image": null
+        },
+        {
+            "text": "На плоское блюдо положить вафельный корж, промазать его кремом, накрыть вторым и т.д. Верх последнего коржа смазывать кремом не нужно, положить на него разделочную досочку, а на нее поставить не очень тяжелый груз, дать постоять так пару часов.",
+            "image": null
+        },
+        {
+            "text": "Оформить верх домашнего вафельного торта с вареной сгущенкой — шоколадной стружкой, фруктами, глазурью или присыпать рублеными орехами с кокосовой стружкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вафельный торт",
+            "slug": "vafelniy-tort"
+        },
+        {
+            "name": "Выпечка со сгущенкой",
+            "slug": "vypechka-so-sguschenkoy"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Торт без выпечки",
+            "slug": "tort-bez-vypechki"
+        },
+        {
+            "name": "Торт без выпечки со сгущенкой",
+            "slug": "tort-bez-vypechki-so-sguschenkoy"
+        },
+        {
+            "name": "Торт из готовых коржей",
+            "slug": "tort-iz-gotovyh-korjey"
+        },
+        {
+            "name": "Торт из готовых коржей со сгущенкой",
+            "slug": "tort-iz-gotovyh-korjey-so-sguschenkoy"
+        },
+        {
+            "name": "Торт с вареной сгущенкой",
+            "slug": "tort-s-varenoy-sguschenkoy"
+        },
+        {
+            "name": "Торт со сгущенкой",
+            "slug": "tort-so-sguschenkoy"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        }
+    ]
+}

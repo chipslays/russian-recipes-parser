@@ -1,0 +1,163 @@
+{
+    "source": "https://vkuso.ru/recipe/zharenye-v-teste-yabloki/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Жареные в тесте яблоки",
+    "description": null,
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f3/6a0749ffbf636f3_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яблок",
+                    "slug": "yablok",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "топленого масла",
+                    "slug": "toplenogo-masla",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "3"
+                },
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "2/3",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "молока",
+                    "slug": "moloka",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сахара для яблок",
+                    "slug": "sahara-dlya-yablok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л",
+                    "amount": null
+                },
+                {
+                    "name": "сметаны",
+                    "slug": "smetany",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахара для теста",
+                    "slug": "sahara-dlya-testa",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Вымытые и очищенные яблоки нарезать кружочками толщиной по полсантиметра, извлечь семена и посыпать сахаром.",
+            "image": null
+        },
+        {
+            "text": "Смешать сметану вместе с желтками яиц, сахаром, солью и мукой, хорошенько перемешать, добавить молоко.",
+            "image": null
+        },
+        {
+            "text": "В густую пену взбить белки, аккуратно мешая ввести в приготовленную массу.",
+            "image": null
+        },
+        {
+            "text": "В приготовленное тесто обмакнуть каждый кружок яблока, переложить на сковороду с разогретым маслом.",
+            "image": null
+        },
+        {
+            "text": "Яблоки обжарить до появления корочки золотистого цвета.",
+            "image": null
+        },
+        {
+            "text": "Жареные в тесте яблоки подать к столу, предварительно посыпав сахарной пудрой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В тесте",
+            "slug": "v-teste"
+        },
+        {
+            "name": "Выпечка без муки",
+            "slug": "vypechka-bez-muki"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Выпечка с яблоками",
+            "slug": "vypechka-s-yablokami"
+        },
+        {
+            "name": "Десерты из яблок",
+            "slug": "deserty-iz-yablok"
+        },
+        {
+            "name": "Мелкая выпечка",
+            "slug": "melkaya-vypechka"
+        },
+        {
+            "name": "Фрукты в тесте",
+            "slug": "frukty-v-teste"
+        },
+        {
+            "name": "Яблоки в тесте",
+            "slug": "yabloki-v-teste"
+        }
+    ]
+}

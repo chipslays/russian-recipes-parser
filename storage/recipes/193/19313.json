@@ -1,0 +1,136 @@
+{
+    "source": "https://vkuso.ru/recipe/shaurma-domashnyaya-so-svininoj/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Шаурма домашняя со свининой",
+    "description": null,
+    "note": null,
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/32/f45f5edcbc4de32_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "свинина",
+                    "slug": "svinina",
+                    "notes": null,
+                    "value": "350-400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "капуста пекинская",
+                    "slug": "kapusta-pekinskaya",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лаваш тонкий",
+                    "slug": "lavash-tonkiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для соуса",
+            "list": [
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Свинину поперчить, посолить и поджарить. Затем мясо мелко порезать. Измельчить огурцы и помидоры, капусту нашинковать, лук нарезать полукольцами. Соус: ингредиенты перемешать, чеснок пропустить сквозь пресс, мелко нашинковать укроп, все смешать.",
+            "image": null
+        },
+        {
+            "text": "Лаваш намазать соусом, выложить начинку, полить сверху соусом и скрутить рулетом. Края также необходимо закрыть. По желанию, шаурму со свининой можно поджарить, до образования румяной корочки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Капуста с мясом",
+            "slug": "kapusta-s-myasom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рулеты",
+            "slug": "rulety"
+        },
+        {
+            "name": "Шаурма",
+            "slug": "shaurma"
+        }
+    ]
+}

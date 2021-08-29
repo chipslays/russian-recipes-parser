@@ -1,0 +1,204 @@
+{
+    "source": "https://vkuso.ru/recipe/109439-pravilnye-chebureki-s-myasnoj-nachinkoj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Правильные чебуреки с мясной начинкой",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/86/fbd3795df230286_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час 20 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 7 порции",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "3.5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "350",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло топленое",
+                    "slug": "maslo-toplenoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "фарш",
+                    "slug": "farsh",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": " (вода)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Подсоленную воду с маслом довести до кипения.",
+            "image": null
+        },
+        {
+            "text": "Всыпать полстакана муки, энергично перемешать до гомогенного состояния.",
+            "image": null
+        },
+        {
+            "text": "Вбить яйцо, хорошо перемешать, добавить остаток муки, вымесить еще раз до однородности.",
+            "image": null
+        },
+        {
+            "text": "Полученное тесто должно быть пластичным и не липнуть к рукам, оставить его постоять около часа-двух.",
+            "image": null
+        },
+        {
+            "text": "За это время мясной фарш перемешать с перекрученным луком, кефиром (водой), добавить специи, подсолить, поперчить, хорошо вымесить.",
+            "image": null
+        },
+        {
+            "text": "Раскатать сочни, положить на одну половину фарш, накрыть второй, защипать с помощью вилки.",
+            "image": null
+        },
+        {
+            "text": "Обжарить правильные чебуреки с мясной начинкой в хорошо разогретом масле до золотисто-солнечного цвета с одной и другой стороны.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сахара",
+            "slug": "vypechka-bez-sahara"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка на кефире",
+            "slug": "vypechka-na-kefire"
+        },
+        {
+            "name": "Выпечка с луком",
+            "slug": "vypechka-s-lukom"
+        },
+        {
+            "name": "Выпечка с мясом и фаршем",
+            "slug": "vypechka-s-myasom-i-farshem"
+        },
+        {
+            "name": "Выпечка с фаршем",
+            "slug": "vypechka-s-farshem"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки без дрожжей",
+            "slug": "pirojki-bez-drojjey"
+        },
+        {
+            "name": "Пирожки на кефире",
+            "slug": "pirojki-na-kefire"
+        },
+        {
+            "name": "Пирожки с мясом",
+            "slug": "pirojki-s-myasom"
+        },
+        {
+            "name": "Пирожки с фаршем",
+            "slug": "pirojki-s-farshem"
+        },
+        {
+            "name": "Чебуреки",
+            "slug": "chebureki"
+        }
+    ]
+}

@@ -1,0 +1,264 @@
+{
+    "source": "https://vkuso.ru/recipe/85675-salat-sugrob-s-kuricej-i-bolgarskim-percem/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Сугроб» с курицей и болгарским перцем",
+    "description": "Новогоднее настроение от такого салата будет гарантированным.",
+    "note": "По краю салата можно выложить листочки зелени или тонко нарезанный огурец.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d8/9785843197694d8_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "7",
+                    "type": "зубчиков",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для украшения",
+            "list": [
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь вареная",
+                    "slug": "morkov-varenaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "листья салата",
+                    "slug": "listya-salata",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить куриное филе, вынуть из отвара и сразу нарезать.",
+            "image": null
+        },
+        {
+            "text": "Пропустить чеснок через чеснокодавку.",
+            "image": null
+        },
+        {
+            "text": "Помидоры нарезать мелкими кубиками, выложить на блюдо, добавить чеснок, майонез.",
+            "image": null
+        },
+        {
+            "text": "Нарезать небольшими кубиками сладкий болгарский перец, добавить чеснок и тоже выложить на блюдо.",
+            "image": null
+        },
+        {
+            "text": "Натереть сыр, посыпать салат.",
+            "image": null
+        },
+        {
+            "text": "Для украшения использовать листья зеленого салата, лепестки цветка вырезать из отваренной моркови, листочки – из свежего огурца.",
+            "image": null
+        },
+        {
+            "text": "Вырезать кожуру помидора, скрутить, сформовать маленький цветок.",
+            "image": null
+        },
+        {
+            "text": "Поставить салат в холодильник на два часа.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Куриное филе с помидорами и сыром",
+            "slug": "kurinoe-file-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новогодний салат с курицей",
+            "slug": "novogodniy-salat-s-kuricey"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат Cугроб",
+            "slug": "salat-cugrob"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из вареной моркови",
+            "slug": "salat-iz-varenoy-morkovi"
+        },
+        {
+            "name": "Салат из моркови",
+            "slug": "salat-iz-morkovi"
+        },
+        {
+            "name": "Салат из моркови с чесноком и майонезом",
+            "slug": "salat-iz-morkovi-s-chesnokom-i-mayonezom"
+        },
+        {
+            "name": "Салат из помидоров",
+            "slug": "salat-iz-pomidorov"
+        },
+        {
+            "name": "Салат с куриным филе",
+            "slug": "salat-s-kurinym-file"
+        },
+        {
+            "name": "Салат с курицей",
+            "slug": "salat-s-kuricey"
+        },
+        {
+            "name": "Салат с курицей и овощами",
+            "slug": "salat-s-kuricey-i-ovoschami"
+        },
+        {
+            "name": "Салат с курицей и огурцом",
+            "slug": "salat-s-kuricey-i-ogurcom"
+        },
+        {
+            "name": "Салат с курицей и помидорами",
+            "slug": "salat-s-kuricey-i-pomidorami"
+        },
+        {
+            "name": "Салат с курицей и сыром",
+            "slug": "salat-s-kuricey-i-syrom"
+        },
+        {
+            "name": "Салат с огурцом и сыром",
+            "slug": "salat-s-ogurcom-i-syrom"
+        },
+        {
+            "name": "Салат с помидорами и сыром",
+            "slug": "salat-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Салат с сыром и чесноком",
+            "slug": "salat-s-syrom-i-chesnokom"
+        },
+        {
+            "name": "Салат с твердым сыром",
+            "slug": "salat-s-tverdym-syrom"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салат с чесноком и майонезом",
+            "slug": "salat-s-chesnokom-i-mayonezom"
+        },
+        {
+            "name": "Салаты из огурцов и помидоров",
+            "slug": "salaty-iz-ogurcov-i-pomidorov"
+        },
+        {
+            "name": "Салаты с болгарским перцем",
+            "slug": "salaty-s-bolgarskim-percem"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        },
+        {
+            "name": "Слоеные салаты",
+            "slug": "sloenye-salaty"
+        },
+        {
+            "name": "Слоеный салат с курицей",
+            "slug": "sloeniy-salat-s-kuricey"
+        },
+        {
+            "name": "Слоеный салат с курицей и сыром",
+            "slug": "sloeniy-salat-s-kuricey-i-syrom"
+        }
+    ]
+}

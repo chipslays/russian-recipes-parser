@@ -1,0 +1,155 @@
+{
+    "source": "https://vkuso.ru/recipe/nezhnye-kurinye-kotlety-s-kabachkom-i-lukom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Нежные куриные котлеты с кабачком и луком",
+    "description": "Курица или индейка – мясо само по себе нежное. Еще большую мягкость и сочность придаст куриныым котлетам тертый кабачок.",
+    "note": "Готовые котлеты можно подать на листьях хорошо вымытого и обсушенного зеленого салата, нарезанными помидорами, зеленью. Гарнир – любой: овощи, рис, картофель.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b7/3eae52409c2abb7_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриный фарш",
+                    "slug": "kuriniy-farsh",
+                    "notes": " (фарш из индейки)",
+                    "value": "800",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кабачки",
+                    "slug": "kabachki",
+                    "notes": null,
+                    "value": "200-250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "4",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "имбирь",
+                    "slug": "imbir",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": " (для жарки)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Мелко нарезать репчатый лук. Кабачок натереть на мелкой терке, лишнюю жидкость слить.",
+            "image": null
+        },
+        {
+            "text": "Добавить готовый фарш из курицы или индейки, сырые куриные яйца или только белки для диетического варианта.  Молотый перец, соль, тертый имбирь – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Сформовать из полученной массы небольшие котлеты. Для приготовления понадобится сковорода с антипригарным покрытием, либо обычная, смазанная растительным маслом. Жарить изделия с двух сторон, до образования румяной, аппетитной корочки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Котлеты",
+            "slug": "kotlety"
+        },
+        {
+            "name": "Котлеты из кабачков",
+            "slug": "kotlety-iz-kabachkov"
+        },
+        {
+            "name": "Котлеты из куриного фарша",
+            "slug": "kotlety-iz-kurinogo-farsha"
+        },
+        {
+            "name": "Куриные котлеты",
+            "slug": "kurinye-kotlety"
+        },
+        {
+            "name": "Курица с овощами",
+            "slug": "kurica-s-ovoschami"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ужин из кабачков",
+            "slug": "ujin-iz-kabachkov"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "source": "https://vkuso.ru/recipe/novogodnij-salat-so-shprotami-i-syrom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Новогодний салат со шпротами и сыром",
+    "description": "Блюдо из простых и доступных продуктов, которые найдутся в каждом холодильнике.",
+    "note": "Салат-башенку можно украсить нарезанной зеленью укропа и тонкими ломтиками лимона.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/25/ecf14bea1e5a925_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/9JjaCXAV8YU?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "шпроты",
+                    "slug": "shproty",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "картофель отварной",
+                    "slug": "kartofel-otvarnoy",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы маринованные",
+                    "slug": "ogurcy-marinovannye",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать кубиками маринованные огурцы и отваренный картофель.",
+            "image": null
+        },
+        {
+            "text": "Натереть на терке сыр и отваренные яйца.",
+            "image": null
+        },
+        {
+            "text": "Репчатый лук очистить и также нарезать кубиками, ошпарить кипятком, чтобы удалить лишнюю горечь.",
+            "image": null
+        },
+        {
+            "text": "Шпроты открыть, слить масло, рыбу размять вилкой.",
+            "image": null
+        },
+        {
+            "text": "Выложить салат на тарелку башенкой, удобнее использовать круглую разъемную форму.",
+            "image": null
+        },
+        {
+            "text": "Первый слой – картофельный, промазать майонезом. Затем – лук, шпроты, огурцы, тертые яйца. Еще раз смазать майонезом.",
+            "image": null
+        },
+        {
+            "text": "Форму снять. Верх посыпать сыром.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с картофелем",
+            "slug": "salat-s-kartofelem"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с огурцом и сыром",
+            "slug": "salat-s-ogurcom-i-syrom"
+        },
+        {
+            "name": "Салат с огурцом и яйцом",
+            "slug": "salat-s-ogurcom-i-yaycom"
+        },
+        {
+            "name": "Салат с рыбными консервами",
+            "slug": "salat-s-rybnymi-konservami"
+        },
+        {
+            "name": "Салат с твердым сыром",
+            "slug": "salat-s-tverdym-syrom"
+        },
+        {
+            "name": "Салат с яйцом и сыром",
+            "slug": "salat-s-yaycom-i-syrom"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты с маринованными огурцами",
+            "slug": "salaty-s-marinovannymi-ogurcami"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        },
+        {
+            "name": "Салаты со шпротами",
+            "slug": "salaty-so-shprotami"
+        },
+        {
+            "name": "Слоеные салаты",
+            "slug": "sloenye-salaty"
+        }
+    ]
+}

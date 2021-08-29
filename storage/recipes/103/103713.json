@@ -1,0 +1,147 @@
+{
+    "source": "https://vkuso.ru/recipe/103713-brusketta-s-govyadinoj-i-vyalenymi-pomidorami/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Брускетта с говядиной и вялеными помидорами",
+    "description": "Вкусные бутерброды с соусом «Песто».",
+    "note": "Сытные бутерброды утолят голод на дальней пешей или велосипедной прогулке.",
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/67/067e7159dbca667_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "говядина",
+                    "slug": "govyadina",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры вяленые",
+                    "slug": "pomidory-vyalenye",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб ржаной",
+                    "slug": "hleb-rjanoy",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соус песто",
+                    "slug": "sous-pesto",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "руккола",
+                    "slug": "rukkola",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Говяжий стейк обжарить до готовности на оливковом масле.",
+            "image": null
+        },
+        {
+            "text": "Огонь выключить, мясо оставить на сковороде до остывания.",
+            "image": null
+        },
+        {
+            "text": "Остывший продукт нарезать ломтиками толщиной по два или три миллиметра острым ножом.",
+            "image": null
+        },
+        {
+            "text": "Ржаной хлеб побрызгать оливковым маслом, обжарить с двух сторон на сковороде.",
+            "image": null
+        },
+        {
+            "text": "Намазать соус «Песто», выложить нарезанные вяленые помидоры, далее – мясо и рукколу.",
+            "image": null
+        },
+        {
+            "text": "Посолить и поперчить, подать на стол.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Брускетта",
+            "slug": "brusketta"
+        },
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды в дорогу",
+            "slug": "buterbrody-v-dorogu"
+        },
+        {
+            "name": "Бутерброды на природу",
+            "slug": "buterbrody-na-prirodu"
+        },
+        {
+            "name": "Бутерброды открытые",
+            "slug": "buterbrody-otkrytye"
+        },
+        {
+            "name": "Бутерброды с помидорами",
+            "slug": "buterbrody-s-pomidorami"
+        },
+        {
+            "name": "Бутерброды с черным хлебом",
+            "slug": "buterbrody-s-chernym-hlebom"
+        },
+        {
+            "name": "Закуски для пикника",
+            "slug": "zakuski-dlya-piknika"
+        }
+    ]
+}

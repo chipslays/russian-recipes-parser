@@ -1,0 +1,87 @@
+{
+    "source": "https://vkuso.ru/recipe/nezhnoe-klassicheskoe-beze/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Нежное классическое безе",
+    "description": "Классический десерт на все времена.",
+    "note": "Безе можно склеить попарно при помощи любимого джема.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a3/d5c135c32ad19a3_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/09EDGzzOwzc?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "280",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар ванильный",
+                    "slug": "sahar-vanilniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Белки комнатной температуры взбить со щепоткой соли в крепкую пену, частями ввести сахар и ванилин. Масса должна получиться глянцевой.",
+            "image": null
+        },
+        {
+            "text": "Отсадить безе при помощи ложки или кондитерского мешка. Температура выпекания – 100 градусов, время – до полного высыхания.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безе и меренги",
+            "slug": "beze-i-merengi"
+        },
+        {
+            "name": "Десерты для детей",
+            "slug": "deserty-dlya-detey"
+        },
+        {
+            "name": "Детский день рождения",
+            "slug": "detskiy-den-rojdeniya"
+        },
+        {
+            "name": "Детский праздник",
+            "slug": "detskiy-prazdnik"
+        },
+        {
+            "name": "Классические рецепты",
+            "slug": "klassicheskie-recepty"
+        }
+    ]
+}

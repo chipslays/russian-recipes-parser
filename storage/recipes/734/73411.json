@@ -1,0 +1,212 @@
+{
+    "source": "https://vkuso.ru/recipe/73411-pirozhki-na-kefire-s-syrom-bez-drozhzhej/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пирожки на кефире с сыром без дрожжей",
+    "description": "Мягкие, воздушные, пышные, нежные и вкусные пирожки на кефире без дрожжей. Простые и быстрые в приготовлении. Тесто получается очень нежное и воздушное и пирожки у нас выпекались при 200 градусов ровно 15 минут. Рецепт пирожков на кефире с сырной начинкой. Получаются очень нежными на вкус и мягкими!",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b7/9a8c0c0c23c6cb7_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "15 минут",
+    "preparetime": "15 минут",
+    "video": "https://www.youtube.com/embed/jeYzF1EV89A?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 12 порции",
+            "list": [
+                {
+                    "name": "мука пшеничная",
+                    "slug": "muka-pshenichnaya",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "12",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца куриные",
+                    "slug": "yayca-kurinye",
+                    "notes": " (+ 1 белок)",
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "60",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "уксус 9%",
+                    "slug": "uksus-9",
+                    "notes": null,
+                    "value": "15",
+                    "type": "мл",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Тесто",
+            "list": [
+                {
+                    "name": "сыр адыгейский",
+                    "slug": "syr-adygeyskiy",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца куриные",
+                    "slug": "yayca-kurinye",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сливочное масло, растительное масло, уксус, кефир, сахар, соль, яйцо и 1 желток соединить и перемешать.",
+            "image": null
+        },
+        {
+            "text": "Понемногу добавляем муку с разрыхлителем. Замесить мягкое и воздушное тесто.",
+            "image": null
+        },
+        {
+            "text": "Тесто делим на 12 кусочков (по 65-68 грамм)",
+            "image": null
+        },
+        {
+            "text": "Для начинки берем сыр + 1 яйцо ,перемешать.",
+            "image": null
+        },
+        {
+            "text": "Разминаем тесто формируя кружок, выкладываем начинку, защипываем тесто.",
+            "image": null
+        },
+        {
+            "text": "Пирожки выкладываем на пергаментную бумагу, обязательно проколоть вилкой,чтобы не потрескались, смазать желтком.",
+            "image": null
+        },
+        {
+            "text": "Выпекаем в разогретой духовке 15-18 минут при 200 градусах.\r\n\r\nПриятного аппетита.",
+            "image": "https://vkuso.ru/data/cache/data/68/30af8eec9e83568_434x295_notrise.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка на кефире",
+            "slug": "vypechka-na-kefire"
+        },
+        {
+            "name": "Выпечка с сыром",
+            "slug": "vypechka-s-syrom"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Масленица",
+            "slug": "maslenica"
+        },
+        {
+            "name": "Несладкая выпечка",
+            "slug": "nesladkaya-vypechka"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки без дрожжей",
+            "slug": "pirojki-bez-drojjey"
+        },
+        {
+            "name": "Пирожки в духовке",
+            "slug": "pirojki-v-duhovke"
+        },
+        {
+            "name": "Пирожки на кефире",
+            "slug": "pirojki-na-kefire"
+        },
+        {
+            "name": "Пирожки с сыром",
+            "slug": "pirojki-s-syrom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        }
+    ]
+}

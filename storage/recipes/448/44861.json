@@ -1,0 +1,91 @@
+{
+    "source": "https://vkuso.ru/recipe/legkij-bananovyj-muss-koktejl/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Легкий банановый мусс-коктейль",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/89/f07e0c763c29589_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "5 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 1 порцию",
+            "list": [
+                {
+                    "name": "бананы",
+                    "slug": "banany",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Очищенный банан порезать на кусочки, пюрировать блендером с погружной насадкой.",
+            "image": null
+        },
+        {
+            "text": "Влить маленькими порциями молоко, взбить банановый мусс-коктейль еще раз, разлить в бокалы, желательно чуть охладить. Приятного аппетита!",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Банановый коктейль",
+            "slug": "bananoviy-kokteyl"
+        },
+        {
+            "name": "Безалкогольные коктейли",
+            "slug": "bezalkogolnye-kokteyli"
+        },
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Детские коктейли",
+            "slug": "detskie-kokteyli"
+        },
+        {
+            "name": "Коктейли",
+            "slug": "kokteyli"
+        },
+        {
+            "name": "Молочный коктейль",
+            "slug": "molochniy-kokteyl"
+        },
+        {
+            "name": "Напитки для детей",
+            "slug": "napitki-dlya-detey"
+        },
+        {
+            "name": "Новогодние коктейли",
+            "slug": "novogodnie-kokteyli"
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "source": "https://vkuso.ru/recipe/kovok-samsa-s-tykvoj-i-salom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Ковок самса с тыквой и салом",
+    "description": null,
+    "note": null,
+    "cuisine": "Узбекская кухня",
+    "cuisine_slug": "uzbekskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ed/212499bc13877ed_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи",
+                    "slug": "drojji",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "тыква",
+                    "slug": "tykva",
+                    "notes": null,
+                    "value": "1,5",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шкварки из сала",
+                    "slug": "shkvarki-iz-sala",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Залить дрожжи подогретой до теплого состояния водой, подсолить, всыпать порциями муку, вымесить до крутого теста, накрыть его тканью, поставить в тепло для созревания и набухания.",
+            "image": null
+        },
+        {
+            "text": "Почистить спелую (полезнее ярко оранжевого цвета) тыкву, удалить семена, порезать кубиком, объединить с мелко порубленным луком и шкварками, добавить чуть сахара, подсолить, сдобрить помолотым непосредственно перед добавлением (получается более душистым) перцем, размешать.",
+            "image": null
+        },
+        {
+            "text": "Готовое к выпечке тесто поделить на небольшие (напоминающие размером грецкий орех) шарики, раскатать их в сочни, как для пельменей. Положить на каждый по ложке начинки, защипать до получения четырехугольной формы. Самсу с тыквой и салом смазать взбитым с водой яйцом, разложить на противень, смазанный жиром. Готовое блюдо подать с охлажденной сметаной.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка с тыквой",
+            "slug": "vypechka-s-tykvoy"
+        },
+        {
+            "name": "Дрожжевые пирожки",
+            "slug": "drojjevye-pirojki"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки в духовке",
+            "slug": "pirojki-v-duhovke"
+        },
+        {
+            "name": "Пирожки дрожжевые в духовке",
+            "slug": "pirojki-drojjevye-v-duhovke"
+        },
+        {
+            "name": "Пирожки на воде",
+            "slug": "pirojki-na-vode"
+        },
+        {
+            "name": "Пирожки с тыквой",
+            "slug": "pirojki-s-tykvoy"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Самса",
+            "slug": "samsa"
+        },
+        {
+            "name": "Самса с тыквой",
+            "slug": "samsa-s-tykvoy"
+        },
+        {
+            "name": "Тыква в духовке",
+            "slug": "tykva-v-duhovke"
+        }
+    ]
+}

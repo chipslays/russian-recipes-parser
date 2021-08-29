@@ -1,0 +1,107 @@
+{
+    "source": "https://vkuso.ru/recipe/morkovnyj-salat-so-smetanoj-saxarom-i-yablokom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Морковный салат со сметаной, сахаром и яблоком",
+    "description": null,
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/25/c2ae04fb9bfda25_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "моркови",
+                    "slug": "morkovi",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2-3"
+                },
+                {
+                    "name": "сметаны",
+                    "slug": "smetany",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "яблоко",
+                    "slug": "yabloko",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Морковь почистить, помыть и мелко потереть на терке.",
+            "image": null
+        },
+        {
+            "text": "Яблоко натереть с помощью крупной терки.",
+            "image": null
+        },
+        {
+            "text": "К моркови и яблоку добавить сметану, сахар, все перемешать.",
+            "image": null
+        },
+        {
+            "text": "Немного охладить морковный салат со сметаной, сахаром и яблоком и подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из моркови",
+            "slug": "salat-iz-morkovi"
+        },
+        {
+            "name": "Салат из моркови и яблока",
+            "slug": "salat-iz-morkovi-i-yabloka"
+        },
+        {
+            "name": "Салат из свежей моркови",
+            "slug": "salat-iz-svejey-morkovi"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты на скорую руку",
+            "slug": "salaty-na-skoruyu-ruku"
+        },
+        {
+            "name": "Салаты с яблоками",
+            "slug": "salaty-s-yablokami"
+        },
+        {
+            "name": "Салаты со сметаной",
+            "slug": "salaty-so-smetanoy"
+        }
+    ]
+}

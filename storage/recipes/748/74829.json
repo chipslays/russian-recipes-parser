@@ -1,0 +1,211 @@
+{
+    "source": "https://vkuso.ru/recipe/echpochmak-s-indejkoj-iz-kefirnogo-testa/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Эчпочмак с индейкой из кефирного теста",
+    "description": "Такое тесто считается диетическим, для начинки можно использовать говядину, баранину, индейку.",
+    "note": "Перед выпеканием пирожки смазать маслом или взболтанным яйцом.",
+    "cuisine": "Татарская кухня",
+    "cuisine_slug": "tatarskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/36/0942aea24c41736_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "филе индейки",
+                    "slug": "file-indeyki",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "бульон",
+                    "slug": "bulon",
+                    "notes": null,
+                    "value": "300",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Кефир перемешать с пищевой содой, оставить на 15 минут.",
+            "image": null
+        },
+        {
+            "text": "Муку перетереть с маслом.",
+            "image": null
+        },
+        {
+            "text": "Перемешать сырые куриные яйца с кефиром масляной смесью, добавить соль и замесить тесто.",
+            "image": null
+        },
+        {
+            "text": "Порезать кубиками картофель и филе индейки, покрошить очищенный репчатый лук.",
+            "image": null
+        },
+        {
+            "text": "Продукты перемешать, добавить перец и соль.",
+            "image": null
+        },
+        {
+            "text": "Готовое тесто разделить на кусочки, раскатать, наполнить начинкой, сформовать пирожки треугольной формы.",
+            "image": null
+        },
+        {
+            "text": "Разогреть духовой шкаф до 180 градусов, поставить заготовки, печь 15 минут.",
+            "image": null
+        },
+        {
+            "text": "Влить овощной или нежирный мясной бульон, теплую воду в отверстия, печь еще 15 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка на кефире",
+            "slug": "vypechka-na-kefire"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Несладкая выпечка",
+            "slug": "nesladkaya-vypechka"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки без дрожжей",
+            "slug": "pirojki-bez-drojjey"
+        },
+        {
+            "name": "Пирожки в духовке",
+            "slug": "pirojki-v-duhovke"
+        },
+        {
+            "name": "Пирожки на кефире",
+            "slug": "pirojki-na-kefire"
+        },
+        {
+            "name": "Пирожки несладкие",
+            "slug": "pirojki-nesladkie"
+        },
+        {
+            "name": "Пирожки с картошкой",
+            "slug": "pirojki-s-kartoshkoy"
+        },
+        {
+            "name": "Татарская выпечка",
+            "slug": "tatarskaya-vypechka"
+        },
+        {
+            "name": "Татарские пирожки",
+            "slug": "tatarskie-pirojki"
+        },
+        {
+            "name": "Эчпочмак",
+            "slug": "echpochmak"
+        }
+    ]
+}

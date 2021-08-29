@@ -1,0 +1,123 @@
+{
+    "source": "https://vkuso.ru/recipe/poleznye-sardelki-iz-kuricy-i-tvoroga/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Полезные сардельки из курицы и творога",
+    "description": "Сардельки можно приготовить дома. Продукт получается нежным и сочным, избавленным от консервантов и других промышленных добавок.",
+    "note": "Домашние сардельки можно хранить в морозильной камере, отваривать по мере необходимости. Гарнировать блюдо листьями зеленого салата, нарезанными помидорами. Можно приготовить соус из нежирной сметаны с зеленью укропа.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/cf/31adcb7aeb8f0cf_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриная грудка",
+                    "slug": "kurinaya-grudka",
+                    "notes": null,
+                    "value": "800",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "творог мягкий",
+                    "slug": "tvorog-myagkiy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "приправы",
+                    "slug": "pripravy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Куриную грудку измельчить в мясорубке или в блендере.",
+            "image": null
+        },
+        {
+            "text": "Добавить мягкий творог, сырые куриные белки, соль, перец, чеснок, любые приправы. Массу хорошо перемешать.",
+            "image": null
+        },
+        {
+            "text": "Сформовать сардельки, закатать их в пищевую пленку. Варить в пароварке в течение получаса.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Домашние сосиски",
+            "slug": "domashnie-sosiski"
+        },
+        {
+            "name": "Заготовки из мяса",
+            "slug": "zagotovki-iz-myasa"
+        },
+        {
+            "name": "Пароварка",
+            "slug": "parovarka"
+        },
+        {
+            "name": "Ужин из куриной грудки",
+            "slug": "ujin-iz-kurinoy-grudki"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        }
+    ]
+}

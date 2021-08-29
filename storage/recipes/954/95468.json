@@ -1,0 +1,179 @@
+{
+    "source": "https://vkuso.ru/recipe/95468-kartofelnyj-sup-s-vetchinoj-i-syrom/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Картофельный суп с ветчиной и сыром",
+    "description": "Наивкуснейший картофельный суп, который сможет приготовить кто угодно: )",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a3/f767e770e0ee5a3_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/Twu5lFZVm0A?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "бульон куриный",
+                    "slug": "bulon-kuriniy",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "380",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": "130",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук",
+                    "slug": "luk",
+                    "notes": null,
+                    "value": "75",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать кубиками картофель, лук и ветчину.",
+            "image": null
+        },
+        {
+            "text": "В кастрюле разогреть растительное масло и обжарить ветчину на среднем огне.\r\nВыложить ветчину на тарелку и отставить (она нам понадобится в конце)",
+            "image": null
+        },
+        {
+            "text": "Растопить в кастрюле сливочное масло. Обжарить лук до золотистости.",
+            "image": null
+        },
+        {
+            "text": "Добавить муку и хорошо перемешать.",
+            "image": null
+        },
+        {
+            "text": "Влить куриный бульон и молоко.",
+            "image": null
+        },
+        {
+            "text": "Добавить картофель и варить на среднем огне около 15-25 минут (зависит от того как быстро сварится картошка).",
+            "image": null
+        },
+        {
+            "text": "Выложить в кастрюлю обжаренную ветчину. Посолить, поперчить по вкусу. Добавить сметану и сыр, хорошо перемешать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Картофельный суп",
+            "slug": "kartofelniy-sup"
+        },
+        {
+            "name": "Молочный суп",
+            "slug": "molochniy-sup"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Суп с ветчиной",
+            "slug": "sup-s-vetchinoy"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Сырный суп",
+            "slug": "syrniy-sup"
+        }
+    ]
+}

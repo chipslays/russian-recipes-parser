@@ -1,0 +1,171 @@
+{
+    "source": "https://vkuso.ru/recipe/zharkoe-iz-file-indejki-s-shampinonami/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Жаркое из филе индейки с шампиньонами",
+    "description": "Жаркое с восточной ноткой. Аппетитное и ароматное блюдо можно приготовить в порционных горшочках.",
+    "note": "При подаче блюдо по желанию посыпать рубленым укропом или другой зеленью.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/75/4f830766b136c75_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "бульон куриный",
+                    "slug": "bulon-kuriniy",
+                    "notes": " (вода)",
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "филе индейки",
+                    "slug": "file-indeyki",
+                    "notes": null,
+                    "value": "800",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "карри",
+                    "slug": "karri",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Филе индейки нарезать небольшими кусочками.",
+            "image": null
+        },
+        {
+            "text": "Крупно порубить очищенную морковь и репчатый лук.",
+            "image": null
+        },
+        {
+            "text": "Свежие шампиньоны разрезать на две или четыре части.",
+            "image": null
+        },
+        {
+            "text": "Нагреть в небольшой кастрюле или в сотейнике немного воды, положить измельченные овощи и потушить в течение пяти минут, помешивать.",
+            "image": null
+        },
+        {
+            "text": "Добавить карри и измельченный чеснок, прогреть еще минуту.",
+            "image": null
+        },
+        {
+            "text": "Выложить мясо, перемешать, подержать на огне две минуты, до изменения цвета.",
+            "image": null
+        },
+        {
+            "text": "Влить куриный бульон или воду, добавить перец и соль, довести смесь до кипения.",
+            "image": null
+        },
+        {
+            "text": "Тушить блюдо под крышкой, на тихом огне, в течение 40 минут, до готовности мяса и моркови.",
+            "image": null
+        },
+        {
+            "text": "За 10 минут до готовности добавить шампиньоны.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Вторые блюда из индейки",
+            "slug": "vtorye-blyuda-iz-indeyki"
+        },
+        {
+            "name": "Индейка с грибами",
+            "slug": "indeyka-s-gribami"
+        },
+        {
+            "name": "Индейка с овощами",
+            "slug": "indeyka-s-ovoschami"
+        },
+        {
+            "name": "Индейка тушеная",
+            "slug": "indeyka-tushenaya"
+        },
+        {
+            "name": "Тушеное мясо",
+            "slug": "tushenoe-myaso"
+        },
+        {
+            "name": "Тушеные блюда",
+            "slug": "tushenye-blyuda"
+        },
+        {
+            "name": "Тушеные грибы",
+            "slug": "tushenye-griby"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

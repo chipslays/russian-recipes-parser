@@ -1,0 +1,107 @@
+{
+    "source": "https://vkuso.ru/recipe/zavarnoe-testo-dlya-nesladkix-pirozhkov-i-pirogov/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Заварное тесто для несладких пирожков и пирогов",
+    "description": "Такой продукт подходит для приготовления пирожков с несладкой начинкой.",
+    "note": "Продукт можно использовать для приготовления пирожков, пирогов и рулетов.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/93/a352372e7204f93_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": "30 минут",
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "3",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": " (постное)",
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "2",
+                    "type": "щепотки",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Просеять муку, сделать в горке углубление.",
+            "image": null
+        },
+        {
+            "text": "Влить горячую воду с солью, замесить тесто ложкой, а затем вручную.",
+            "image": null
+        },
+        {
+            "text": "Оставить массу на полчаса.",
+            "image": null
+        },
+        {
+            "text": "Влить масло, замесить тесто еще раз.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Тесто домашнее",
+            "slug": "testo-domashnee"
+        },
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Бездрожжевое тесто",
+            "slug": "bezdrojjevoe-testo"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Заварное тесто",
+            "slug": "zavarnoe-testo"
+        },
+        {
+            "name": "Тесто для пирожков",
+            "slug": "testo-dlya-pirojkov"
+        },
+        {
+            "name": "Тесто для пирожков без дрожжей",
+            "slug": "testo-dlya-pirojkov-bez-drojjey"
+        },
+        {
+            "name": "тесто домашнее",
+            "slug": "testo-domashnee"
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "source": "https://vkuso.ru/recipe/103353-shhavelevyj-sup-s-kuricej-i-yajcom/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Щавелевый суп с курицей и яйцом",
+    "description": "Щавелевый суп или как его еще называют зеленый борщ. Вроде все просто щавелевый суп, конечно он готовится из картошки, морковки, лука, ну кто-то мяса добавит и конечно щавель, отсюда и название. Но оказывается название одно, а состав иногда удивляет. Кто на основе шпината готовит, а кто на сельдерее. Но мы обманывать не будем, сказали щавелевый суп, значит будем использовать щавель, и никакой иной зелени.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b7/d0352d85e03d4b7_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/R4VIvby_p7A?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "щавель",
+                    "slug": "schavel",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "170",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "170",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца куриные",
+                    "slug": "yayca-kurinye",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "перец душистый горошком",
+                    "slug": "perec-dushistiy-goroshkom",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Курицу нарезать кусочками (можно отварить целиком, а потом нарезать кусочками, когда она будет готова), отправить в кастрюлю и залить водой. Ставим на огонь, доводим до кипения и варим 15 минут.",
+            "image": null
+        },
+        {
+            "text": "Картофель очистить и нарезать небольшими кубиками, добавить в кастрюлю с курицей. Доводим до кипения и готовим еще 15 минут.",
+            "image": null
+        },
+        {
+            "text": "Лук очистить нарезать крупными кубиками, морковь очистить и нарезать тонкой соломкой. В сковороде с растительным маслом на сильном огне обжариваем лук с морковью в течении 5 минут, перемешивая. Затем отправляем в кастрюлю с супом и готовим еще 10 минут.",
+            "image": null
+        },
+        {
+            "text": "Щавель тонко порезать и отправить в кастрюлю, посолить и поперчить, накрыть крышкой, готовим 3 минуты.",
+            "image": null
+        },
+        {
+            "text": "Отварить яйца и очистить от скорлупы. Суп разлить по тарелкам и выложить в каждую тарелку по половине яичка.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Борщ",
+            "slug": "borsch"
+        },
+        {
+            "name": "Борщ без капусты",
+            "slug": "borsch-bez-kapusty"
+        },
+        {
+            "name": "Борщ без свеклы",
+            "slug": "borsch-bez-svekly"
+        },
+        {
+            "name": "Борщ с курицей",
+            "slug": "borsch-s-kuricey"
+        },
+        {
+            "name": "Борщ со щавелем",
+            "slug": "borsch-so-schavelem"
+        },
+        {
+            "name": "Зеленый борщ",
+            "slug": "zeleniy-borsch"
+        },
+        {
+            "name": "Картофельный суп",
+            "slug": "kartofelniy-sup"
+        },
+        {
+            "name": "Куриный суп",
+            "slug": "kuriniy-sup"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Суп из птицы",
+            "slug": "sup-iz-pticy"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Щавелевый суп",
+            "slug": "schaveleviy-sup"
+        }
+    ]
+}

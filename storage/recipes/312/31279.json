@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/legkij-syrno-kukuruznyj-sup/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Легкий сырно-кукурузный суп",
+    "description": "Рецепт для любителей консервированной кукурузы, которую большинство хозяек использует исключительно для приготовления салатов. Суп варится быстро, блюдо эклектично, это дает простор для кулинарной фантазии и экспериментов.",
+    "note": "Можно не делать пюре из кукурузы, оставить ее целой.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/eb/20f07fe72c95beb_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кукуруза консервированная",
+                    "slug": "kukuruza-konservirovannaya",
+                    "notes": null,
+                    "value": "560",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый",
+                    "slug": "syr-plavleniy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кукурузный крахмал",
+                    "slug": "kukuruzniy-krahmal",
+                    "notes": null,
+                    "value": "7",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка сушеная",
+                    "slug": "petrushka-sushenaya",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "укроп сушеный",
+                    "slug": "ukrop-susheniy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нагреть воду в кастрюле на плите, нарезать плавленые сырки на небольшие кусочки. Как только вода закипит – положить сырные кубики, прогревать и перемешивать массу до полного растворения. Половину содержимого банки с кукурузой без жидкости измельчить до состояния пюре в блендере.",
+            "image": null
+        },
+        {
+            "text": "Оставшиеся целые зерна положить в суп, влить пюре, добавить сушеный укроп и петрушку, поварить в течение 5 – 10 минут.  При желании суп можно сделать гуще, если добавить в него немного кукурузного крахмала, предварительно разведенного в холодной воде. Сырно-кукурузный суп еще раз перемешать и подать на стол.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп с консервированной кукурузой",
+            "slug": "sup-s-konservirovannoy-kukuruzoy"
+        },
+        {
+            "name": "Суп с плавленым сыром",
+            "slug": "sup-s-plavlenym-syrom"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Сырный суп",
+            "slug": "syrniy-sup"
+        }
+    ]
+}

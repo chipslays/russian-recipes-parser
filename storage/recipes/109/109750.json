@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/109750-klyukvennyj-sous-s-medom-k-rybe/",
+    "category": "Соусы",
+    "category_slug": "sousy",
+    "title": "Клюквенный соус с медом к рыбе",
+    "description": "Заправку подать к запеченной или жареной семге, курице.",
+    "note": "По мере остывания соус должен загустеть.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/2a/e18c182cdf17f2a_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/IK65Amh_BEc?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "клюква",
+                    "slug": "klyukva",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "апельсины",
+                    "slug": "apelsiny",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Прогреть на сковороде сливочное масло, обжарить рубленый репчатый лук.",
+            "image": null
+        },
+        {
+            "text": "Вымыть апельсин, снять цедру теркой, отжать сок.",
+            "image": null
+        },
+        {
+            "text": "В сотейнике перемешать клюкву, сок и цедру апельсина, лук со сливочным маслом со сковороды, немного меда.",
+            "image": null
+        },
+        {
+            "text": "Тушить соус на тихом огне пятнадцать минут.",
+            "image": null
+        },
+        {
+            "text": "Снять с плиты, поперчить, соль – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Массу протереть через сито. Заправка должна быть однородной.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Кисло-сладкий соус",
+            "slug": "kislo-sladkiy-sous"
+        },
+        {
+            "name": "Клюквенный соус",
+            "slug": "klyukvenniy-sous"
+        },
+        {
+            "name": "Медовый соус",
+            "slug": "medoviy-sous"
+        },
+        {
+            "name": "Соус для курицы",
+            "slug": "sous-dlya-kuricy"
+        },
+        {
+            "name": "Соус к рыбе",
+            "slug": "sous-k-rybe"
+        },
+        {
+            "name": "Ягодный соус",
+            "slug": "yagodniy-sous"
+        }
+    ]
+}

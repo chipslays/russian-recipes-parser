@@ -1,0 +1,231 @@
+{
+    "source": "https://vkuso.ru/recipe/olive-s-varenoj-kolbasoj-i-yablokami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Оливье с вареной колбасой и яблоками",
+    "description": "Максимум вкуса – минимум майонеза.",
+    "note": "Для приготовления салата необходимо использовать качественную вареную колбасу, она не должна разваливаться при нарезании.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/15/c024f9c62b62e15_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "колбаса вареная",
+                    "slug": "kolbasa-varenaya",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы маринованные",
+                    "slug": "ogurcy-marinovannye",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "зеленый горошек консервированный",
+                    "slug": "zeleniy-goroshek-konservirovanniy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца вареные",
+                    "slug": "yayca-varenye",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "картофель в мундире",
+                    "slug": "kartofel-v-mundire",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь вареная",
+                    "slug": "morkov-varenaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать вареную колбасу, картофель, морковь, яйца.",
+            "image": null
+        },
+        {
+            "text": "Нашинковать зеленое яблоко, маринованные огурцы, репчатый лук.",
+            "image": null
+        },
+        {
+            "text": "Открыть зеленый горошек.",
+            "image": null
+        },
+        {
+            "text": "Продукты смешать, посыпать рубленым укропом.",
+            "image": null
+        },
+        {
+            "text": "Заправить небольшим количеством майонезом.",
+            "image": null
+        },
+        {
+            "text": "Салат можно украсить полосками красного сладкого перца.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Оливье классический",
+            "slug": "olive-klassicheskiy"
+        },
+        {
+            "name": "Оливье с колбасой",
+            "slug": "olive-s-kolbasoy"
+        },
+        {
+            "name": "Оливье с солеными огурцами",
+            "slug": "olive-s-solenymi-ogurcami"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат из вареной моркови",
+            "slug": "salat-iz-varenoy-morkovi"
+        },
+        {
+            "name": "Салат из моркови и яблока",
+            "slug": "salat-iz-morkovi-i-yabloka"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат Оливье",
+            "slug": "salat-olive"
+        },
+        {
+            "name": "Салат Оливье с колбасой и солеными огурцами",
+            "slug": "salat-olive-s-kolbasoy-i-solenymi-ogurcami"
+        },
+        {
+            "name": "Салат с зеленым горошком",
+            "slug": "salat-s-zelenym-goroshkom"
+        },
+        {
+            "name": "Салат с картофелем",
+            "slug": "salat-s-kartofelem"
+        },
+        {
+            "name": "Салат с колбасой",
+            "slug": "salat-s-kolbasoy"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с огурцом и яйцом",
+            "slug": "salat-s-ogurcom-i-yaycom"
+        },
+        {
+            "name": "Салат с яйцом и морковью",
+            "slug": "salat-s-yaycom-i-morkovyu"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты с маринованными огурцами",
+            "slug": "salaty-s-marinovannymi-ogurcami"
+        },
+        {
+            "name": "Салаты с фруктами",
+            "slug": "salaty-s-fruktami"
+        },
+        {
+            "name": "Салаты с яблоками",
+            "slug": "salaty-s-yablokami"
+        }
+    ]
+}

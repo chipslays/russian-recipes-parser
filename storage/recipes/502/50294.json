@@ -1,0 +1,124 @@
+{
+    "source": "https://vkuso.ru/recipe/morkovnye-tryufeli-s-kuragoj/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Морковные трюфели с курагой",
+    "description": "Оригинальные конфеты с морковью и сухофруктами не только вкусные, но и очень полезные для детей и взрослых.",
+    "note": "Апельсин из рецепта можно полностью исключить, если есть аллергия на цитрусовые.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b1/be52e9ef51b53b1_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": " (крупная)",
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "апельсины",
+                    "slug": "apelsiny",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "курага",
+                    "slug": "kuraga",
+                    "notes": " (крупная)",
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "инжир сушеный",
+                    "slug": "injir-susheniy",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кешью",
+                    "slug": "keshyu",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для обваливания",
+            "list": [
+                {
+                    "name": "кокосовая стружка",
+                    "slug": "kokosovaya-strujka",
+                    "notes": " (кунжут)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Очистить и натереть на мелкой терке морковь.",
+            "image": null
+        },
+        {
+            "text": "Промыть сушеный инжир и крупную курагу, замочить в теплой воде на час.",
+            "image": null
+        },
+        {
+            "text": "Сложить ингредиенты в чашу блендера, добавить мякоть и цедру апельсина. Взбить смесь в однородную массу.",
+            "image": null
+        },
+        {
+            "text": "Сформовать шарики, внутрь положить по орешку кешью, обвалять в кунжутном семени или кокосовой стружке.",
+            "image": null
+        },
+        {
+            "text": "Положить изделия в морозильную камеру. В застывшем виде конфеты можно переложить в холодильник.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Домашние конфеты",
+            "slug": "domashnie-konfety"
+        },
+        {
+            "name": "На десерт",
+            "slug": "na-desert"
+        },
+        {
+            "name": "Новогодние десерты",
+            "slug": "novogodnie-deserty"
+        },
+        {
+            "name": "Праздничные десерты",
+            "slug": "prazdnichnye-deserty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        }
+    ]
+}

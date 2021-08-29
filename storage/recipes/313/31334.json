@@ -1,0 +1,164 @@
+{
+    "source": "https://vkuso.ru/recipe/zrazy-iz-kartofelya-s-nachinkoj-iz-govyazhej-pecheni/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Зразы из картофеля с начинкой из говяжьей печени",
+    "description": "Очень удобное блюдо, так как оно представляет собой одновременно и отваренную печень, и гарнир.",
+    "note": "Подать блюдо можно со сметаной или любым соусом. Напитки: крепкое виноградное вино, водка, настоянная на тмине, ягодная настойка, пиво.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/7a/9bdd60fcf20c67a_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для зраз",
+            "list": [
+                {
+                    "name": "говяжья печень",
+                    "slug": "govyajya-pechen",
+                    "notes": null,
+                    "value": "600",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Картофель очистить, вымыть, отварить, хорошо обсушить. Клубни растолочь в пюре. Остудить, добавить муку и сырое яйцо. Массу перемешать, она должна быть эластичной и не липнуть к рукам. Отварить говяжью печень, пропустить через мясорубку или измельчить с помощью блендера. Очистить и нарезать репчатый лук, обжарить на растительном масле.",
+            "image": null
+        },
+        {
+            "text": "Соединить с печенью, посолить и поперчить. Добавить две ложки пюре из картофеля, перемешать. Из пюре сформовать лепешки, выложить печеночную начинку, соединить противоположные края. Слепить «пирожки». Обвалять зразы в панировочных сухарях либо просто смазать верхнюю часть чуть взбитым сырым желтком. Печь зразы из картофеля в духовке при температуре 180–200 градусов в течение 15 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из говяжьей печени",
+            "slug": "vtorye-blyuda-iz-govyajey-pecheni"
+        },
+        {
+            "name": "Вторые блюда из печени",
+            "slug": "vtorye-blyuda-iz-pecheni"
+        },
+        {
+            "name": "Зразы",
+            "slug": "zrazy"
+        },
+        {
+            "name": "Картофельные зразы",
+            "slug": "kartofelnye-zrazy"
+        },
+        {
+            "name": "Картофельные котлеты",
+            "slug": "kartofelnye-kotlety"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Котлеты в духовке",
+            "slug": "kotlety-v-duhovke"
+        },
+        {
+            "name": "Печень в духовке",
+            "slug": "pechen-v-duhovke"
+        },
+        {
+            "name": "Печень с картошкой",
+            "slug": "pechen-s-kartoshkoy"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

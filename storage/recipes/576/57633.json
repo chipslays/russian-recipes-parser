@@ -1,0 +1,227 @@
+{
+    "source": "https://vkuso.ru/recipe/myasnye-tefteli-v-kartofelnyx-korzinochkax/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Мясные тефтели в картофельных корзиночках",
+    "description": null,
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/02/4b361a5562fa402_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мясной фарш",
+                    "slug": "myasnoy-farsh",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "4-5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "рис вареный",
+                    "slug": "ris-vareniy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сварить очищенный картофель, размять с маслом, яйцом, сыром и мукой в однородное пюре без комочков.",
+            "image": null
+        },
+        {
+            "text": "Пока варится картофель нашинковать кубиками лук, обжарить до прозрачного состояния, дать остыть, перемешать с рисом, фаршем, зеленью, яйцом, специями, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Заполнить картофельным пюре смазанные маслом формочки, сделать бортики, уложить сверху фарш, присыпать тефтели в картофельных корзиночках сыром, выпекать около 40 минут при температуре порядка 190 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из фарша",
+            "slug": "vtorye-blyuda-iz-farsha"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Детский обед",
+            "slug": "detskiy-obed"
+        },
+        {
+            "name": "Для детей от 2 до 3 лет",
+            "slug": "dlya-detey-ot-2-do-3-let"
+        },
+        {
+            "name": "Для детей от 3 до 5 лет",
+            "slug": "dlya-detey-ot-3-do-5-let"
+        },
+        {
+            "name": "Картошка с мясом в духовке",
+            "slug": "kartoshka-s-myasom-v-duhovke"
+        },
+        {
+            "name": "Картошка с сыром",
+            "slug": "kartoshka-s-syrom"
+        },
+        {
+            "name": "Картошка с сыром в духовке",
+            "slug": "kartoshka-s-syrom-v-duhovke"
+        },
+        {
+            "name": "Картошка с фаршем в духовке",
+            "slug": "kartoshka-s-farshem-v-duhovke"
+        },
+        {
+            "name": "Меню школьника",
+            "slug": "menyu-shkolnika"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рис в духовке",
+            "slug": "ris-v-duhovke"
+        },
+        {
+            "name": "Рис с мясом в духовке",
+            "slug": "ris-s-myasom-v-duhovke"
+        },
+        {
+            "name": "Рис с фаршем",
+            "slug": "ris-s-farshem"
+        },
+        {
+            "name": "Тефтели",
+            "slug": "tefteli"
+        },
+        {
+            "name": "Тефтели в духовке",
+            "slug": "tefteli-v-duhovke"
+        },
+        {
+            "name": "Тефтели из фарша",
+            "slug": "tefteli-iz-farsha"
+        },
+        {
+            "name": "Тефтели из фарша с рисом",
+            "slug": "tefteli-iz-farsha-s-risom"
+        },
+        {
+            "name": "Тефтели мясные",
+            "slug": "tefteli-myasnye"
+        },
+        {
+            "name": "Тефтели с рисом",
+            "slug": "tefteli-s-risom"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/borshh-iz-svinogo-yazyka-po-polski/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Борщ из свиного языка по-польски",
+    "description": null,
+    "note": null,
+    "cuisine": "Польская кухня",
+    "cuisine_slug": "polskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c5/b10250d2e9e33c5_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "свиного языка",
+                    "slug": "svinogo-yazyka",
+                    "notes": null,
+                    "value": "180",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "свеклы",
+                    "slug": "svekly",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "свежей капусты",
+                    "slug": "svejey-kapusty",
+                    "notes": null,
+                    "value": "120",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "черного хлеба",
+                    "slug": "chernogo-hleba",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "топленого сала",
+                    "slug": "toplenogo-sala",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "говяжьего бульона",
+                    "slug": "govyajego-bulona",
+                    "notes": null,
+                    "value": "4",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "клубня",
+                    "amount": null
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Положить подготовленный язык в кастрюлю с подсоленной водой, варить до готовности, достать, обдать холодной водой, снять кожу и нарезать кубиками, бульон процедить.",
+            "image": null
+        },
+        {
+            "text": "Обжарить на жире мелко нарезанный лук, добавить морковь порезанную кубиками, нашинкованную капусту и потушить почти до готовности.",
+            "image": null
+        },
+        {
+            "text": "Залить овощи смесью после варки языка и говяжьим бульоном, добавить язык, ломтики черного хлеба, дать закипеть и положить кубики картофеля.",
+            "image": null
+        },
+        {
+            "text": "Борщ из свиного языка по-польски варить на сильном огне 15 минут, заправить перцем, солью, снять с плиты, перед подачей дать настояться, отдельно подать сметану и чеснок.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Борщ",
+            "slug": "borsch"
+        },
+        {
+            "name": "Борщ с чесноком",
+            "slug": "borsch-s-chesnokom"
+        },
+        {
+            "name": "Борщ со свеклой",
+            "slug": "borsch-so-svekloy"
+        },
+        {
+            "name": "Борщ со свининой",
+            "slug": "borsch-so-svininoy"
+        },
+        {
+            "name": "Капуста с мясом",
+            "slug": "kapusta-s-myasom"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Красный борщ",
+            "slug": "krasniy-borsch"
+        },
+        {
+            "name": "Суп из свинины",
+            "slug": "sup-iz-svininy"
+        },
+        {
+            "name": "Суп с капустой",
+            "slug": "sup-s-kapustoy"
+        }
+    ]
+}

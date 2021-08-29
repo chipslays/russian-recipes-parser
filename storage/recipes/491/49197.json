@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/dieticheskaya-grusha-s-tvorogom/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Диетическая груша с творогом",
+    "description": "Это блюдо можно приготовить с кусочками и других фруктов: яблок, ананасов и т.д.",
+    "note": "Десерт можно украсить какао-порошком, листочком свежей мяты.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c8/309602cb94b02c8_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "груши",
+                    "slug": "grushi",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "бананы",
+                    "slug": "banany",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "заменитель сахара",
+                    "slug": "zamenitel-sahara",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сырое куриное яйцо и дополнительный белок взбить с нежирным творогом, добавить сахарозаменитель и фрукты, нарезанные кубиками.",
+            "image": null
+        },
+        {
+            "text": "Поставить смесь на три минуты в микроволновку. Форма для выпекания должна быть высокой: суфле в процессе приготовления поднимается. При готовности верхний слой запеканки должен стать плотным.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерт из бананов",
+            "slug": "desert-iz-bananov"
+        },
+        {
+            "name": "Десерт на скорую руку",
+            "slug": "desert-na-skoruyu-ruku"
+        },
+        {
+            "name": "Десерты для детей",
+            "slug": "deserty-dlya-detey"
+        },
+        {
+            "name": "Диетические десерты",
+            "slug": "dieticheskie-deserty"
+        },
+        {
+            "name": "Микроволновка",
+            "slug": "mikrovolnovka"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

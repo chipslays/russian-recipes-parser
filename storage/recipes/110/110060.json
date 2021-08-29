@@ -1,0 +1,326 @@
+{
+    "source": "https://vkuso.ru/recipe/110060-vatrushki-na-kefire-s-yablokami-i-shtrejzelem/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Ватрушки на кефире с яблоками и штрейзелем",
+    "description": "Штрейзель – это мучная крошка с маслом, которой посыпается изделие перед приготовлением. Ватрушки – лучшая выпечка к чаю или другому согревающему напитку, например, отвару из душистых трав.",
+    "note": "Мёд из рецепта можно исключить, если на него есть аллергия.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5a/e21064d8cdb9a5a_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час 30 минут",
+    "preparetime": "50 минут",
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 10 порции",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "400",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "11",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "ванильный экстракт",
+                    "slug": "vanilniy-ekstrakt",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "700",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "крахмал",
+                    "slug": "krahmal",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар ванильный",
+                    "slug": "sahar-vanilniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пакетик",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для штрейзеля",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Дрожжевое тесто можно замесить с вечера и поставить на ночь в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Для его приготовления потребуется мука, сухие дрожжи, сахарный песок, щепотка соли, молоко, кефир, сырые яйца, мягкое сливочное масло и ванильный экстракт.",
+            "image": null
+        },
+        {
+            "text": "Ингредиенты можно перемешать с помощью кухонной машины или вручную.",
+            "image": null
+        },
+        {
+            "text": "Во втором случае сначала нужно смешать сухие ингредиенты, а потом влить в них жидкие.",
+            "image": null
+        },
+        {
+            "text": "Месить удобнее смазанными растительным маслом руками.",
+            "image": null
+        },
+        {
+            "text": "Готовое тесто должно подняться, его нужно выкладывать в большую кастрюлю.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления начинки очистить и нарезать кубиками яблоки.",
+            "image": null
+        },
+        {
+            "text": "Пересыпать фрукт сахарным песком и перемешать.",
+            "image": null
+        },
+        {
+            "text": "Разогреть в сотейнике сливочное масло, добавить натуральный мёд, перемешать до однородного состояния.",
+            "image": null
+        },
+        {
+            "text": "Залить смесью яблоки, прогревать в течение 10 – 15 минут.",
+            "image": null
+        },
+        {
+            "text": "В конце добавить крахмал, перемешать, готовить две минуты, помешивать.",
+            "image": null
+        },
+        {
+            "text": "Начинку остудить, её тоже можно приготовить вечером и оставить на ночь в холодильнике.",
+            "image": null
+        },
+        {
+            "text": "Для штрейзеля смешать муку, натертое охлажденное сливочное масло, ванильный сахар и пудру.",
+            "image": null
+        },
+        {
+            "text": "Все ингредиенты перетереть в крошку.",
+            "image": null
+        },
+        {
+            "text": "Тесто из холодильника вынуть и дать постоять полчаса при комнатной температуре.",
+            "image": null
+        },
+        {
+            "text": "Руки смазать маслом, помять тесто и разделить его на равные кусочки.",
+            "image": null
+        },
+        {
+            "text": "Раскатать их в небольшие круглые лепешки, выложить на застеленный бумагой противень.",
+            "image": null
+        },
+        {
+            "text": "Между ватрушками должно быть расстояние, они увеличатся в размере.",
+            "image": null
+        },
+        {
+            "text": "Тесто накрыть тканью, оставить на 15 – 20 минут.",
+            "image": null
+        },
+        {
+            "text": "Дно стакана намазать растительным маслом и сделать им углубления для яблочной начинки.",
+            "image": null
+        },
+        {
+            "text": "Выложить её на ватрушки, бока смазать немного взбитым яйцом или только желтком.",
+            "image": null
+        },
+        {
+            "text": "Посыпать штрейзелем и печь при температуре 180 градусов в течение получаса, до готовности.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Ватрушки",
+            "slug": "vatrushki"
+        },
+        {
+            "name": "Ватрушки из дрожжевого теста",
+            "slug": "vatrushki-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка на кефире",
+            "slug": "vypechka-na-kefire"
+        },
+        {
+            "name": "Выпечка на молоке",
+            "slug": "vypechka-na-moloke"
+        },
+        {
+            "name": "Выпечка с медом",
+            "slug": "vypechka-s-medom"
+        },
+        {
+            "name": "Выпечка с фруктами",
+            "slug": "vypechka-s-fruktami"
+        },
+        {
+            "name": "Выпечка с яблоками",
+            "slug": "vypechka-s-yablokami"
+        },
+        {
+            "name": "Яблоки в духовке",
+            "slug": "yabloki-v-duhovke"
+        }
+    ]
+}

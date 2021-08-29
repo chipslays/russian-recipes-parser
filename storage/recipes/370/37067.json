@@ -1,0 +1,123 @@
+{
+    "source": "https://vkuso.ru/recipe/fokachcha-s-syrom-chesnokom-i-pomidorami/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Фокачча с сыром, чесноком и помидорами",
+    "description": null,
+    "note": null,
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/bd/46619e4e3bfd6bd_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "тесто слоеное",
+                    "slug": "testo-sloenoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "упаковка",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "5",
+                    "type": "зубчиков",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "базилик",
+                    "slug": "bazilik",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Готовое слоеное тесто разморозить, раскатать в виде квадрата или круга. Измельчить с помощью блендера очищенный чеснок, зеленый базилик, сыр, зелень петрушки, очищенный от кожуры помидор. В готовую смесь добавить оливковое масло. Намазать смесь на тесто, посыпать петрушкой и выпечь фокаччу в духовке в течение 25 минут при температуре 180 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из слоеного теста",
+            "slug": "vypechka-iz-sloenogo-testa"
+        },
+        {
+            "name": "Лепешки",
+            "slug": "lepeshki"
+        },
+        {
+            "name": "Лепешки в духовке",
+            "slug": "lepeshki-v-duhovke"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сырные лепешки",
+            "slug": "syrnye-lepeshki"
+        },
+        {
+            "name": "Фокачча",
+            "slug": "fokachcha"
+        }
+    ]
+}

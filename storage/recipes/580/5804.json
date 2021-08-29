@@ -1,0 +1,91 @@
+{
+    "source": "https://vkuso.ru/recipe/tushenka-v-multivarke-po-domashnemu/",
+    "category": "Заготовки",
+    "category_slug": "zagotovki",
+    "title": "Тушенка в мультиварке по-домашнему",
+    "description": null,
+    "note": "Для приготовления тушенки в мультиварке можно использовать любое другое мясо, хранить заготовку  в морозилке.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/14/867bcfe2a237714_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "говядины",
+                    "slug": "govyadiny",
+                    "notes": null,
+                    "value": "2",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "чеснока",
+                    "slug": "chesnoka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать мелкими кусочками мякоть говядины, переложить в чашу мультиварки, выставить режим «Тушение», оставить на 5 часов. Через 5 часов поперчить, посолить, добавить зубки чеснока и лавровый лист, готовить еще час.",
+            "image": null
+        },
+        {
+            "text": "Тушенка в мультиварке по-домашнему после окончания режима «Тушение» должна постоять час с закрытой крышкой и «дойти». Готовую остывшую тушенку переложить в банку.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Говядина в мультиварке",
+            "slug": "govyadina-v-multivarke"
+        },
+        {
+            "name": "Заготовки из мяса",
+            "slug": "zagotovki-iz-myasa"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Мясо в мультиварке",
+            "slug": "myaso-v-multivarke"
+        }
+    ]
+}

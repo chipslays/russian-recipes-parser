@@ -1,0 +1,175 @@
+{
+    "source": "https://vkuso.ru/recipe/84772-klassicheskij-gribnoj-krem-sup-so-slivkami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Классический грибной крем-суп со сливками",
+    "description": "Оригинальный классический вариант приготовления легкого грибного крем-супа. Подавать можно с гренками из батона.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a4/9280df8cbeb6aa4_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час 20 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/xims-vMED00?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2-2.5",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": "150-200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Овощи вымыть, очистить, нарезать.",
+            "image": null
+        },
+        {
+            "text": "Лук протушить с маслом, добавить морковь, перемешать, обжарить пару-тройку минут.",
+            "image": null
+        },
+        {
+            "text": "Добавить кубики картофеля, тушить еще около 5 минут.",
+            "image": null
+        },
+        {
+            "text": "Долить в кастрюлю воды, варить до размягчения овощей, добавив лавровый лист.",
+            "image": null
+        },
+        {
+            "text": "За это время очистить и порезать грибы, тушить шампиньоны минут 6-7, жидкость должна испариться вся, посолить, поперчить.",
+            "image": null
+        },
+        {
+            "text": "Из кастрюли с овощами убрать лавровый лист, блендером превратить содержимое в пюре.",
+            "image": null
+        },
+        {
+            "text": "Добавить грибную обжарку.",
+            "image": null
+        },
+        {
+            "text": "Влить сливки, хорошо перемешать, дать закипеть.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Грибной крем-суп",
+            "slug": "gribnoy-krem-sup"
+        },
+        {
+            "name": "Грибной суп",
+            "slug": "gribnoy-sup"
+        },
+        {
+            "name": "Классические рецепты",
+            "slug": "klassicheskie-recepty"
+        },
+        {
+            "name": "Классические супы",
+            "slug": "klassicheskie-supy"
+        },
+        {
+            "name": "Крем-суп",
+            "slug": "krem-sup"
+        },
+        {
+            "name": "Крем-суп из шампиньонов",
+            "slug": "krem-sup-iz-shampinonov"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из шампиньонов",
+            "slug": "sup-iz-shampinonov"
+        },
+        {
+            "name": "Суп со сливками",
+            "slug": "sup-so-slivkami"
+        }
+    ]
+}

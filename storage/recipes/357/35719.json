@@ -1,0 +1,164 @@
+{
+    "source": "https://vkuso.ru/recipe/sochnye-manty-s-myasnym-farshem/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Сочные манты с мясным фаршем",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b6/9aa676df11e06b6_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "500-600",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "говяжий фарш",
+                    "slug": "govyajiy-farsh",
+                    "notes": null,
+                    "value": "600",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "свиной фарш",
+                    "slug": "svinoy-farsh",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "перец красный молотый",
+                    "slug": "perec-krasniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Просеять муку, сделать горку с углублением. Влить в углубление яйцо, ложку воды, насыпать соль. Собрать с краев муку к центру, чтобы не вытекли яйцо с водой. Замесить тесто, постепенно добавляя остальную воду, пока оно не будет однородным. Накрыть полотенцем, отставить на полчаса.",
+            "image": null
+        },
+        {
+            "text": "Сделать начинку: почистить лук, измельчить, чуть-чуть обжарить. Соединить свиной и говяжий фарш, положить лук, прессованный чеснок. Посыпать перцем, солью, налить чуть-чуть кипятка, перемешать до однородности. Раскатать тесто, вырезать круги по 7-8 в диаметре. Края раскатывать тоньше, чем середину. Защипнуть тесто, слегка оттягивая края и собирая складочками. В середине оставить отверстие.",
+            "image": null
+        },
+        {
+            "text": "В позницу налить воду, закипятить, положить лавровый лист. Обмакивать дно каждой позы в растительное масло и выкладывать на решетку позницы. Накрыть крышкой, готовить 20 минут на пару. Выложить сочные манты с мясным фаршем на блюдо, подавать с соевым соусом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Горячие блюда на праздничный стол",
+            "slug": "goryachie-blyuda-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Манты",
+            "slug": "manty"
+        },
+        {
+            "name": "Мучные блюда",
+            "slug": "muchnye-blyuda"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Свинина с луком",
+            "slug": "svinina-s-lukom"
+        },
+        {
+            "name": "Ужин из говядины",
+            "slug": "ujin-iz-govyadiny"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из свинины",
+            "slug": "ujin-iz-svininy"
+        }
+    ]
+}

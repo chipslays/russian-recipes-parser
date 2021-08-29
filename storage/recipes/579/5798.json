@@ -1,0 +1,103 @@
+{
+    "source": "https://vkuso.ru/recipe/farshirovannye-bulochki-vkusnyj-zavtrak/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Фаршированные булочки «Вкусный завтрак»",
+    "description": null,
+    "note": "Наполнитель для булочек может быть любым: мясо, ветчина, картофель с зеленью, сыр, обжаренный лук с грибами и т.д.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/09/14bdf3d9efb1109_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "булочек",
+                    "slug": "bulochek",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "8"
+                },
+                {
+                    "name": "яиц",
+                    "slug": "yaic",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "8"
+                },
+                {
+                    "name": "сливочного масла",
+                    "slug": "slivochnogo-masla",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "cоль",
+                    "slug": "col",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Срезать с булочек верхушки, вынуть из середины мякоть, смазать дно и стенки жидким сливочным маслом, чуть присолить и поперчить. Включить на разогрев духовку (примерно до 180 градусов), заняться начинкой.",
+            "image": null
+        },
+        {
+            "text": "Наполнить булочки ветчиной. Вбить сверху по яйцу, сдобрить солью и черным перцем.",
+            "image": null
+        },
+        {
+            "text": " Запекать Фаршированные булочки «Вкусный завтрак» минут 10, затем осторожно накрыть горячий противень двумя слоями фольги, отправить в духовку еще на треть часа, пока не «схватится» белок яйца.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Булочки",
+            "slug": "bulochki"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        }
+    ]
+}

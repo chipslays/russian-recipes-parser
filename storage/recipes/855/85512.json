@@ -1,0 +1,151 @@
+{
+    "source": "https://vkuso.ru/recipe/85512-salat-iz-maslin-limona-i-luka/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат из маслин, лимона и лука",
+    "description": "Универсальное кушанье для мясоедов и вегетарианцев. Можно использовать, как дополнение к говядине, котлетам.",
+    "note": "Для салата можно использовать кинзу, укроп, петрушку.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/9f/0a5a7d7f542ac9f_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "10 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "маслины без косточек",
+                    "slug": "masliny-bez-kostochek",
+                    "notes": " (зеленые)",
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "45",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "уксус яблочный",
+                    "slug": "uksus-yablochniy",
+                    "notes": null,
+                    "value": "15",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "перец красный молотый",
+                    "slug": "perec-krasniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Лимон вымыть и нарезать тонкими дольками.",
+            "image": null
+        },
+        {
+            "text": "Почистить, вымыть, нарезать полукольцами репчатый лук.",
+            "image": null
+        },
+        {
+            "text": "Перемешать продукты с маслинами и любой зеленью.",
+            "image": null
+        },
+        {
+            "text": "Заправить оливковым маслом и яблочным уксусом, острый красный перец и соль – по вкусу, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Подать к столу сразу, чтобы продукты не успели потечь.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Легкий салат",
+            "slug": "legkiy-salat"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с маслинами",
+            "slug": "salat-s-maslinami"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты на скорую руку",
+            "slug": "salaty-na-skoruyu-ruku"
+        }
+    ]
+}

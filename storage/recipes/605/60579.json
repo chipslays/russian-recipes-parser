@@ -1,0 +1,199 @@
+{
+    "source": "https://vkuso.ru/recipe/svinina-so-smetanoj-i-kartofelem-v-gorshochke/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Свинина со сметаной и картофелем в горшочке",
+    "description": "Что может быть лучше блюда, приготовленного в горшочке? Картофель с мясом и сметаной – классика жанра.",
+    "note": "При подаче посыпать кушанье любой измельченной зеленью.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a7/d007f87aab504a7_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "700",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мясо",
+                    "slug": "myaso",
+                    "notes": null,
+                    "value": "450",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "5-6",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Филе нарезать небольшими кусочками, обжарить с растительным маслом на сковороде.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/83/5ca478f2c882483_434x295.jpg"
+        },
+        {
+            "text": "Очищенный репчатый лук нарезать и тоже обжарить на масле.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/8f/441b2542072028f_434x295.jpg"
+        },
+        {
+            "text": "Развести водой сметану, хорошо перемешать, посолить и поперчить.",
+            "image": null
+        },
+        {
+            "text": "Мясо выложить в горшочки, положить лук, перец и соль – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Нарезать картофель небольшими кусочками, разложить поровну в горшочки.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/5a/0e2ef0448f11e5a_434x295.jpg"
+        },
+        {
+            "text": "Подлить сметанный соус.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/7f/29238e84bf6717f_434x295.jpg"
+        },
+        {
+            "text": "Запекать порции в заранее разогретой духовке в течение получаса, температура приготовления – 240-260 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "В горшочках",
+            "slug": "v-gorshochkah"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из картофеля",
+            "slug": "vtorye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Вторые блюда из свинины",
+            "slug": "vtorye-blyuda-iz-svininy"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Картошка в горшочках",
+            "slug": "kartoshka-v-gorshochkah"
+        },
+        {
+            "name": "Картошка в духовке",
+            "slug": "kartoshka-v-duhovke"
+        },
+        {
+            "name": "Картошка в сметане",
+            "slug": "kartoshka-v-smetane"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Картошка с мясом в духовке",
+            "slug": "kartoshka-s-myasom-v-duhovke"
+        },
+        {
+            "name": "Мясо в горшочках",
+            "slug": "myaso-v-gorshochkah"
+        },
+        {
+            "name": "Мясо в духовке",
+            "slug": "myaso-v-duhovke"
+        },
+        {
+            "name": "Мясо с картошкой в горшочках",
+            "slug": "myaso-s-kartoshkoy-v-gorshochkah"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Мясо с овощами в горшочках",
+            "slug": "myaso-s-ovoschami-v-gorshochkah"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Свинина с картошкой в горшочках",
+            "slug": "svinina-s-kartoshkoy-v-gorshochkah"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

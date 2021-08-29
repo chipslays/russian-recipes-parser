@@ -1,0 +1,79 @@
+{
+    "source": "https://vkuso.ru/recipe/apelsinovo-karamelnoe-varene/",
+    "category": "Заготовки",
+    "category_slug": "zagotovki",
+    "title": "Апельсиново-карамельное варенье",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/2c/b0fdc45cda85e2c_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "апельсины",
+                    "slug": "apelsiny",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "700",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "имбирь",
+                    "slug": "imbir",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Залить стаканом воды сахар, нагреть почти до кипения, перемешать, всыпать дольки апельсина, заранее убрать косточки и прожилки, довести все до кипения, дать «варенью» остыть, еще раз повторить процедуру, остудить, и если соус еще не очень густой, то повторить еще раз.",
+            "image": null
+        },
+        {
+            "text": "Аккуратно снятую с апельсина цедру залить кипящей водой на 10 минут, добавить вместе с порезанным имбирем, погреть минуту.",
+            "image": null
+        },
+        {
+            "text": "Разлить варенье по небольшим баночкам, убрать после остывания в прохладное место. Это идеальное дополнение к оладьям и блинам.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Варенье",
+            "slug": "varene"
+        },
+        {
+            "name": "Варенье из апельсинов",
+            "slug": "varene-iz-apelsinov"
+        },
+        {
+            "name": "Медленноварка",
+            "slug": "medlennovarka"
+        },
+        {
+            "name": "На десерт",
+            "slug": "na-desert"
+        }
+    ]
+}

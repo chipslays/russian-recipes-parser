@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/sup-s-kurinymi-serdechkami-i-svinoj-grudinkoj/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Суп с куриными сердечками и свиной грудинкой",
+    "description": "Несложный «сердечный» супчик, который готовится в течение часа.",
+    "note": "Готовое блюдо можно украсить еще одной порцией свежей зелени, положить половинку заранее сваренного куриного яйца или два перепелиных.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/14/1491d27db432014_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2.5",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "куриные сердечки",
+                    "slug": "kurinye-serdechki",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "свиная грудинка",
+                    "slug": "svinaya-grudinka",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лапша",
+                    "slug": "lapsha",
+                    "notes": " (фигурная)",
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "смесь сухих приправ",
+                    "slug": "smes-suhih-priprav",
+                    "notes": " (паприка+укроп+лук+чеснок)",
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный горошком",
+                    "slug": "perec-cherniy-goroshkom",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Свиную грудинку и куриные сердечки нарезать кусочками. Выложить мясо и субпродукты в кастрюлю, залить водой.",
+            "image": null
+        },
+        {
+            "text": "Нарезать кубиками очищенный картофель, натереть на терке морковь. Овощи добавить в суп.",
+            "image": null
+        },
+        {
+            "text": "Всыпать фигурную лапшу, сушеную ароматную смесь, состоящую из молотой паприки, лука, чеснока и укропа, перец-горошек, свежую зелень, влить немного растительного масла, соль – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Готовить блюдо на тихом огне в течение часа.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Куриный суп",
+            "slug": "kuriniy-sup"
+        },
+        {
+            "name": "Куриный суп с лапшой",
+            "slug": "kuriniy-sup-s-lapshoy"
+        },
+        {
+            "name": "Суп из свинины",
+            "slug": "sup-iz-svininy"
+        },
+        {
+            "name": "Суп лапша с курицей",
+            "slug": "sup-lapsha-s-kuricey"
+        },
+        {
+            "name": "Суп с лапшой",
+            "slug": "sup-s-lapshoy"
+        },
+        {
+            "name": "Суп с макаронами",
+            "slug": "sup-s-makaronami"
+        }
+    ]
+}

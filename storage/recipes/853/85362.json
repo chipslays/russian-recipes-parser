@@ -1,0 +1,147 @@
+{
+    "source": "https://vkuso.ru/recipe/85362-syrnyj-krem-sup-s-kuricej-i-kartoshkoj/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Сырный крем-суп с курицей и картошкой",
+    "description": "Сытный и очень простой крем суп с сыром, по желанию можно добавить больше сыра!",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ce/76ef807dd5194ce_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/hvi7XVIotug?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "курица",
+                    "slug": "kurica",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый",
+                    "slug": "syr-plavleniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2",
+                    "type": "л",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В 2 литрах воды отварить курицу с лаврушкой. (10 минут в кипящей воде).",
+            "image": null
+        },
+        {
+            "text": "Крупно нарезать морковь, лук и картофель, добавить к курице. Варить 20 минут в кипящей воде.",
+            "image": null
+        },
+        {
+            "text": "В чашу блендера сложить все овощи, курицу (отделить от костей), сыр плавленный. Измельчить.\r\nРазбавить бульоном до нужной консистенции.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блендер",
+            "slug": "blender"
+        },
+        {
+            "name": "Картофельный суп",
+            "slug": "kartofelniy-sup"
+        },
+        {
+            "name": "Крем-суп",
+            "slug": "krem-sup"
+        },
+        {
+            "name": "Куриный суп",
+            "slug": "kuriniy-sup"
+        },
+        {
+            "name": "Куриный суп-пюре",
+            "slug": "kuriniy-sup-pyure"
+        },
+        {
+            "name": "Суп из птицы",
+            "slug": "sup-iz-pticy"
+        },
+        {
+            "name": "Суп картофельный с мясом",
+            "slug": "sup-kartofelniy-s-myasom"
+        },
+        {
+            "name": "Суп с курицей и плавленным сыром",
+            "slug": "sup-s-kuricey-i-plavlennym-syrom"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Суп-пюре картофельный",
+            "slug": "sup-pyure-kartofelniy"
+        },
+        {
+            "name": "Сырный крем-суп",
+            "slug": "syrniy-krem-sup"
+        },
+        {
+            "name": "Сырный суп-пюре",
+            "slug": "syrniy-sup-pyure"
+        }
+    ]
+}

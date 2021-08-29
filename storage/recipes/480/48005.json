@@ -1,0 +1,99 @@
+{
+    "source": "https://vkuso.ru/recipe/kurinoe-file-s-yajcom-i-ukropom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Куриное филе с яйцом и укропом",
+    "description": null,
+    "note": "На гарнир можно приготовить тушеные или жареные овощи, отварить длиннозерный рис.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/07/256684cd5ff1007_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "укроп сушеный",
+                    "slug": "ukrop-susheniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Снять кожу с грудки, мясо нарезать на кусочки, жарить без масла до образования золотистой корочки. Использовать сковороду с антипригарным покрытием или керамическую, можно подлить немного воды. Не допускать пригорания продукта.",
+            "image": null
+        },
+        {
+            "text": "Взбить яйца, посолить и поперчить по вкусу. Посыпать сухим укропом и перемешать с курицей, прогреть.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Жареная курица",
+            "slug": "jarenaya-kurica"
+        },
+        {
+            "name": "Курица на сковороде",
+            "slug": "kurica-na-skovorode"
+        },
+        {
+            "name": "Ужин из куриного филе",
+            "slug": "ujin-iz-kurinogo-file"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "source": "https://vkuso.ru/recipe/goroxovoe-pyure-s-shampinonami-i-lukom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Гороховое пюре с шампиньонами и луком",
+    "description": "Правильное сочетание продуктов, блюдо получается не только аппетитным и ароматным, но и сытным.",
+    "note": "Блюдо можно подать к столу с квашеной капустой, маринованными овощами.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c9/7d5af2dfbd273c9_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "горох колотый",
+                    "slug": "goroh-kolotiy",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шампиньоны свежие",
+                    "slug": "shampinony-svejie",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "280",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Бобовые промыть, затем отварить в кипящей воде, соль – по вкусу. Жидкость должна испариться.",
+            "image": null
+        },
+        {
+            "text": "Обжарить репчатый лук, затем к нему добавить нарезанные небольшими кусочками шампиньоны.  Смесь посолить и поперчить, прогревать все вместе около десяти минут.",
+            "image": null
+        },
+        {
+            "text": "Из гороха приготовить пюре при помощи блендера, соединить с обжаркой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Вторые блюда из бобовых",
+            "slug": "vtorye-blyuda-iz-bobovyh"
+        },
+        {
+            "name": "Гарнир к курице",
+            "slug": "garnir-k-kurice"
+        },
+        {
+            "name": "Гарниры",
+            "slug": "garniry"
+        },
+        {
+            "name": "Гороховое пюре",
+            "slug": "gorohovoe-pyure"
+        },
+        {
+            "name": "Постные блюда с грибами",
+            "slug": "postnye-blyuda-s-gribami"
+        },
+        {
+            "name": "Постный ужин",
+            "slug": "postniy-ujin"
+        },
+        {
+            "name": "Пюре",
+            "slug": "pyure"
+        }
+    ]
+}

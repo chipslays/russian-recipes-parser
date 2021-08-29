@@ -1,0 +1,91 @@
+{
+    "source": "https://vkuso.ru/recipe/ovsyanyj-smuzi-s-izyumom-i-kuragoj/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Овсяный смузи с изюмом и курагой",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/be/f89b846b47538be_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молока",
+                    "slug": "moloka",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "кураги",
+                    "slug": "kuragi",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "темного изюма",
+                    "slug": "temnogo-izyuma",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "овсяных хлопьев",
+                    "slug": "ovsyanyh-hlopev",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "меда",
+                    "slug": "meda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Промыть тщательно сухофрукты, залить горячей водой, когда размякнут взбить в блендере с молоком (яблочным соком), хлопьями и медом до гомогенного состояния.",
+            "image": null
+        },
+        {
+            "text": "Подавать овсяный смузи с изюмом и курагой в охлажденном виде.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Молочный коктейль",
+            "slug": "molochniy-kokteyl"
+        },
+        {
+            "name": "Смузи",
+            "slug": "smuzi"
+        },
+        {
+            "name": "Смузи с овсянкой",
+            "slug": "smuzi-s-ovsyankoy"
+        }
+    ]
+}

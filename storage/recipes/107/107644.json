@@ -1,0 +1,163 @@
+{
+    "source": "https://vkuso.ru/recipe/107644-xot-dog-s-venskimi-sosiskami-i-ogurcami/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Хот-дог с венскими сосисками и огурцами",
+    "description": "Еще один вариант приготовления всемирно известной закуски, солоноватый вкус придают маринованные огурцы.",
+    "note": "В начинку можно добавить зелень.",
+    "cuisine": "Датская кухня",
+    "cuisine_slug": "datskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/34/df3278308851134_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "15 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/k8bARXZsi2Q?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "сосиски венские",
+                    "slug": "sosiski-venskie",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "булочки",
+                    "slug": "bulochki",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы маринованные",
+                    "slug": "ogurcy-marinovannye",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чипсы",
+                    "slug": "chipsy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "кетчуп",
+                    "slug": "ketchup",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "горчица",
+                    "slug": "gorchica",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Репчатый лук покрошить и обжарить на растительном масле сковороде до румяной корочки.",
+            "image": null
+        },
+        {
+            "text": "Переложить на противень, посушить пять минут.",
+            "image": null
+        },
+        {
+            "text": "Добавить к луковой обжарке чипсы, поломанные в крошку.",
+            "image": null
+        },
+        {
+            "text": "Венские сосиски обжарить на гриле или подогреть на сковороде, выложить в разрезанные булочки.",
+            "image": null
+        },
+        {
+            "text": "Обмазать начинку горчицей, кетчупом или майонезом, посыпать луком с чипсами.",
+            "image": null
+        },
+        {
+            "text": "Украсить кружками маринованных огурцов и свежих помидоров.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды на природу",
+            "slug": "buterbrody-na-prirodu"
+        },
+        {
+            "name": "Бутерброды с огурцом",
+            "slug": "buterbrody-s-ogurcom"
+        },
+        {
+            "name": "Бутерброды с помидорами",
+            "slug": "buterbrody-s-pomidorami"
+        },
+        {
+            "name": "Домашний фаст фуд",
+            "slug": "domashniy-fast-fud"
+        },
+        {
+            "name": "Закуски для пикника",
+            "slug": "zakuski-dlya-piknika"
+        },
+        {
+            "name": "Хот-дог",
+            "slug": "hot-dog"
+        }
+    ]
+}

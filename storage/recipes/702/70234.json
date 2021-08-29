@@ -1,0 +1,180 @@
+{
+    "source": "https://vkuso.ru/recipe/pasxalnyj-kulich-na-kefire-bez-drozhzhej-i-yaic/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пасхальный кулич на кефире без дрожжей и яиц",
+    "description": "Такой кулич можно приготовить достаточно быстро, поскольку он готовится без дрожжей с опарой, а еще и без яиц. Для улучшения вкуса и аромата добавляется цедра лимона с изюмом.",
+    "note": "Кефир можно заменить ряженкой.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d0/fe187883a4d79d0_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "365",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "375",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "цукаты",
+                    "slug": "cukaty",
+                    "notes": null,
+                    "value": "260",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "210",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "155",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "цедра лимона",
+                    "slug": "cedra-limona",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "изюм",
+                    "slug": "izyum",
+                    "notes": null,
+                    "value": "3",
+                    "type": "горсти",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для глазури",
+            "list": [
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "55",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кислота лимонная",
+                    "slug": "kislota-limonnaya",
+                    "notes": null,
+                    "value": "7",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нагреть на слабом огне в сковороде масло, добавить сахар, перемешать массу до его растворения, добавить цедру лимона, размешать.",
+            "image": null
+        },
+        {
+            "text": "Разрыхлитель залить теплым кефиром, перемешать, соединить со смесью масла и сахара, хорошо вымешать.",
+            "image": null
+        },
+        {
+            "text": "Добавить по частям муку, постоянно помешивая венчиком.",
+            "image": null
+        },
+        {
+            "text": "Вымыть изюм, высушить, обвалять в муке, хорошо перемешать с тестом.",
+            "image": null
+        },
+        {
+            "text": "Заполнить форму тестом, выпекать быстрый рецепт кулича без дрожжей в прогретой заранее духовке до готовности.",
+            "image": null
+        },
+        {
+            "text": "Куличи вынуть, установить на решетку, дать остыть, покрыть верх глазурью из взбитого белка с сахаром, украсить измельченными цукатами.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка с изюмом",
+            "slug": "vypechka-s-izyumom"
+        },
+        {
+            "name": "Пасха",
+            "slug": "pasha"
+        },
+        {
+            "name": "Пасхальная выпечка",
+            "slug": "pashalnaya-vypechka"
+        },
+        {
+            "name": "Пасхальные куличи",
+            "slug": "pashalnye-kulichi"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        }
+    ]
+}

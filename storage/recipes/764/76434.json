@@ -1,0 +1,191 @@
+{
+    "source": "https://vkuso.ru/recipe/xarcho-iz-telyatiny-po-gruzinski-v-multivarke/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Харчо из телятины по-грузински в мультиварке",
+    "description": "Классический рецепт и современная кухонная техника – отличный результат.",
+    "note": "Готовый суп можно посыпать рубленым зеленым луком.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/28/b4ef8507dcec728_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/uIplAA1XWCU?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "телятина",
+                    "slug": "telyatina",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соус ткемали",
+                    "slug": "sous-tkemali",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грецкие орехи измельченные",
+                    "slug": "greckie-orehi-izmelchennye",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "хмели-сунели",
+                    "slug": "hmeli-suneli",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец красный молотый",
+                    "slug": "perec-krasniy-molotiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный горошком",
+                    "slug": "perec-cherniy-goroshkom",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Телятину вымыть, нарезать кусочками среднего размера, положить в чашу мультиварки.",
+            "image": null
+        },
+        {
+            "text": "Влить воду, выставить режим «Тушение» или «Суп» на час.",
+            "image": null
+        },
+        {
+            "text": "Бульон процедить.",
+            "image": null
+        },
+        {
+            "text": "Репчатый лук очистить, вымыть, нарезать, обжарить в мультиварке в режиме «Выпечка» в течение пяти минут.",
+            "image": null
+        },
+        {
+            "text": "Влить в обжарку бульон, положить нарезанное мясо, всыпать рис, соус, орехи, соль, специи.",
+            "image": null
+        },
+        {
+            "text": "Выставить режим «Тушение» на двадцать минут.",
+            "image": null
+        },
+        {
+            "text": "В конце приготовления добавить давленый чеснок, выставить режим «Подогрев» на десять минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп в мультиварке",
+            "slug": "sup-v-multivarke"
+        },
+        {
+            "name": "Суп из говядины",
+            "slug": "sup-iz-govyadiny"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Суп с рисом",
+            "slug": "sup-s-risom"
+        },
+        {
+            "name": "Суп Харчо",
+            "slug": "sup-harcho"
+        },
+        {
+            "name": "Супы с крупами",
+            "slug": "supy-s-krupami"
+        },
+        {
+            "name": "Харчо в мультиварке",
+            "slug": "harcho-v-multivarke"
+        },
+        {
+            "name": "Харчо из говядины",
+            "slug": "harcho-iz-govyadiny"
+        },
+        {
+            "name": "Харчо по-грузински",
+            "slug": "harcho-po-gruzinski"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "source": "https://vkuso.ru/recipe/100732-popkorn-so-speciyami-v-mikrovolnovke/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Попкорн со специями в микроволновке",
+    "description": "Еще один способ приготовления всемирно известного блюда без специальных средств.",
+    "note": "Попкорн можно приправить цедрой лимона, лайма, апельсина, ванилью или корицей.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/3b/b35442f13769a3b_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "5 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "попкорн",
+                    "slug": "popkorn",
+                    "notes": null,
+                    "value": "50-80",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": " (масло сливочное)",
+                    "value": "2-3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В глубокую посуду из стекла или керамики влить растопленное сливочное или растительное масло.",
+            "image": null
+        },
+        {
+            "text": "Всыпать зерна кукурузы, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Продукт должен лежать в один слой.",
+            "image": null
+        },
+        {
+            "text": "Включить микроволновую печь на максимум, время приготовления – три минуты.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Закуски для пикника",
+            "slug": "zakuski-dlya-piknika"
+        },
+        {
+            "name": "Микроволновка",
+            "slug": "mikrovolnovka"
+        },
+        {
+            "name": "Попкорн",
+            "slug": "popkorn"
+        }
+    ]
+}

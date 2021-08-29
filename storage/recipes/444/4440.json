@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/alivanka-v-multivarke/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Аливанка в мультиварке",
+    "description": null,
+    "note": null,
+    "cuisine": "Молдавская кухня",
+    "cuisine_slug": "moldavskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/0f/d5802777c56930f_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творога",
+                    "slug": "tvoroga",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливочного масла",
+                    "slug": "slivochnogo-masla",
+                    "notes": null,
+                    "value": "65",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "сметаны",
+                    "slug": "smetany",
+                    "notes": null,
+                    "value": "1,5",
+                    "type": "мультистакана",
+                    "amount": null
+                },
+                {
+                    "name": "кукурузной муки",
+                    "slug": "kukuruznoy-muki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "мультистакан",
+                    "amount": null
+                },
+                {
+                    "name": "пшеничной муки",
+                    "slug": "pshenichnoy-muki",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "мультистакана",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Растереть творог, вбить яйца, перемешать, посолить, добавить сметану, масло, всыпать смесь муки (кукурузная и пшеничная), хорошо перемешать.",
+            "image": null
+        },
+        {
+            "text": "Смазать чашу маслом, переложить смесь в мультиварку, выставить режим «Выпечка», аливанка в мультиварке будет готова через 40 минут.",
+            "image": null
+        },
+        {
+            "text": "Подавать аливанку к столу лучше горячей, это молдавское блюдо в мультиварке получается ароматным и сочным, для любителей сладкого можно добавить в творожную смесь сахар.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в мультиварке",
+            "slug": "pirogi-v-multivarke"
+        },
+        {
+            "name": "Творожный пирог",
+            "slug": "tvorojniy-pirog"
+        },
+        {
+            "name": "Творожный торт",
+            "slug": "tvorojniy-tort"
+        },
+        {
+            "name": "Торт в мультиварке",
+            "slug": "tort-v-multivarke"
+        }
+    ]
+}

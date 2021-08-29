@@ -1,0 +1,139 @@
+{
+    "source": "https://vkuso.ru/recipe/okroshka-s-revenem-morkovyu-i-redisom/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Окрошка с ревенем, морковью и редисом",
+    "description": null,
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/64/9428ac9a90b3464_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "хлебного кваса",
+                    "slug": "hlebnogo-kvasa",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "стеблей ревеня",
+                    "slug": "stebley-revenya",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "редиса",
+                    "slug": "redisa",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "зеленого лука",
+                    "slug": "zelenogo-luka",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "укропа",
+                    "slug": "ukropa",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "горчица",
+                    "slug": "gorchica",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Почистить стебли ревеня, нарезать на 3-4 части вдоль, а потом тонкими ломтиками поперек, прокипятить в небольшом количестве воды несколько минут, процедить (воду оставить).",
+            "image": null
+        },
+        {
+            "text": "Отварить морковь и яйца, остудить, нарезать морковь и белки на маленькие кубики. Растереть горчицу с желтками, всыпать соль, перемешать до однородного состояния.",
+            "image": null
+        },
+        {
+            "text": "Нашинковать редис кружочками, перья лука промыть, обсушить, порубить. Пересыпать все в кастрюлю, посолить, добавить горчицу с желтками, перемешать аккуратно, залить холодным квасом, перемешать еще раз. При подаче окрошку украсить измельченным укропом. Для любителей кислых блюд в окрошку с ревенем, морковью и редисом можно влить отвар ревеня.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Окрошка",
+            "slug": "okroshka"
+        },
+        {
+            "name": "Окрошка на квасе",
+            "slug": "okroshka-na-kvase"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Холодные супы",
+            "slug": "holodnye-supy"
+        }
+    ]
+}

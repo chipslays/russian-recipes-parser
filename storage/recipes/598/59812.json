@@ -1,0 +1,171 @@
+{
+    "source": "https://vkuso.ru/recipe/sendvich-s-myasom-bekonom-i-pomidorami/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Сэндвич с мясом, беконом и помидорами",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ae/0fc1bde277eb0ae_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "бекон",
+                    "slug": "bekon",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб",
+                    "slug": "hleb",
+                    "notes": null,
+                    "value": "8",
+                    "type": "ломтиков",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "8",
+                    "type": "ломтиков",
+                    "amount": null
+                },
+                {
+                    "name": "мясо",
+                    "slug": "myaso",
+                    "notes": null,
+                    "value": "8",
+                    "type": "ломтиков",
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ломтика",
+                    "amount": null
+                },
+                {
+                    "name": "листья салата",
+                    "slug": "listya-salata",
+                    "notes": null,
+                    "value": "4",
+                    "type": "листика",
+                    "amount": null
+                },
+                {
+                    "name": "лук-шалот красный",
+                    "slug": "luk-shalot-krasniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Обжарить на разогретой сковороде ломти хлеба только с одной стороны, другую сторону промазать майонезом.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/de/e6e849b5a5891de_434x295.jpg"
+        },
+        {
+            "text": "Уложить на него по кусочку сыра, бекона (заранее приготовленного) и мяса.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/40/8df0da90eec1140_434x295.jpg"
+        },
+        {
+            "text": "Прикрыть парой кружочков помидора, присыпать измельченным луком, положить листья салата.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/8c/ab5cdc2c1888a8c_434x295.jpg"
+        },
+        {
+            "text": "Накрыть готовый сэндвич с мясом, беконом и помидорами другим ломтем хлеба, подать к столу.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/e5/7651b79b659a2e5_434x295.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды в дорогу",
+            "slug": "buterbrody-v-dorogu"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды на природу",
+            "slug": "buterbrody-na-prirodu"
+        },
+        {
+            "name": "Бутерброды с помидорами",
+            "slug": "buterbrody-s-pomidorami"
+        },
+        {
+            "name": "Бутерброды с помидорами и сыром",
+            "slug": "buterbrody-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Детский завтрак",
+            "slug": "detskiy-zavtrak"
+        },
+        {
+            "name": "Закрытые бутерброды",
+            "slug": "zakrytye-buterbrody"
+        },
+        {
+            "name": "Меню школьника",
+            "slug": "menyu-shkolnika"
+        },
+        {
+            "name": "Полдник",
+            "slug": "poldnik"
+        },
+        {
+            "name": "Сэндвич с мясом",
+            "slug": "sendvich-s-myasom"
+        },
+        {
+            "name": "Сэндвич с сыром",
+            "slug": "sendvich-s-syrom"
+        },
+        {
+            "name": "Сэндвичи",
+            "slug": "sendvichi"
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/106799-tykvennyj-sup-pyure-s-bekonom-na-kurinom-bulone/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Тыквенный суп-пюре с беконом на курином бульоне",
+    "description": "Несложный рецепт из доступных и полезных продуктов. Вкус супа – насыщенный и оригинальный.",
+    "note": "Для блюда использовать базилик в сушеном или свежем виде.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a7/025180966b08ba7_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час 20 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/o5ZPMftQoRU?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 8 порции",
+            "list": [
+                {
+                    "name": "бульон куриный",
+                    "slug": "bulon-kuriniy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "тыква",
+                    "slug": "tykva",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "бекон",
+                    "slug": "bekon",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "базилик",
+                    "slug": "bazilik",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сварить бульон из курицы с костями, мясо вынуть, удалить кожу и кости, отложить в сторону.",
+            "image": null
+        },
+        {
+            "text": "Нарезать тыкву и картофель кубиками.",
+            "image": null
+        },
+        {
+            "text": "Часть бульона отлить.",
+            "image": null
+        },
+        {
+            "text": "Овощи перемолоть при помощи блендера.",
+            "image": null
+        },
+        {
+            "text": "Долить горячее молоко, разбавить бульоном, довести до кипения и снять с огня.",
+            "image": null
+        },
+        {
+            "text": "Положить в тарелку куриное мясо, зелень, нарезанный мелкими кусочками бекон.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Суп на курином бульоне",
+            "slug": "sup-na-kurinom-bulone"
+        },
+        {
+            "name": "Суп на мясном бульоне",
+            "slug": "sup-na-myasnom-bulone"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Суп-пюре из тыквы",
+            "slug": "sup-pyure-iz-tykvy"
+        },
+        {
+            "name": "Суп-пюре картофельный",
+            "slug": "sup-pyure-kartofelniy"
+        },
+        {
+            "name": "Тыквенный суп",
+            "slug": "tykvenniy-sup"
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "source": "https://vkuso.ru/recipe/107947-drozhzhevoj-shokoladno-vanilnyj-xleb/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Дрожжевой шоколадно-ванильный хлеб",
+    "description": "Выпечку подать к чаю или кофе.",
+    "note": "При подаче нарезать ломтиками.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5d/2a31b2e5289575d_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "50 минут",
+    "preparetime": "2 часа 40 минут",
+    "video": "https://www.youtube.com/embed/GC60ehSQ2Z0?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад темный",
+                    "slug": "shokolad-temniy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "8",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ванилин",
+                    "slug": "vanilin",
+                    "notes": null,
+                    "value": "5",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "3",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сухие дрожжи растворить в подогретой воде, оставить на десять минут.",
+            "image": null
+        },
+        {
+            "text": "Влить в кастрюлю теплое молоко, всыпать сахарный песок, сливочное масло, просеянную муку, ванилин, соль, яйца, разведенные дрожжи.",
+            "image": null
+        },
+        {
+            "text": "Замесить тесто, поставить в тепло на два часа.",
+            "image": null
+        },
+        {
+            "text": "Горький шоколад поломать кусочками, вмесить в тесто.",
+            "image": null
+        },
+        {
+            "text": "Форму для выпекания смазать растительным маслом, выложить тесто, накрыть полотенцем, убрать в тепло на полчаса.",
+            "image": null
+        },
+        {
+            "text": "Духовку прогреть, поставить форму с пирогом, время выпекания – сорок минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка на молоке",
+            "slug": "vypechka-na-moloke"
+        },
+        {
+            "name": "Выпечка с шоколадом",
+            "slug": "vypechka-s-shokoladom"
+        },
+        {
+            "name": "Сладкий хлеб",
+            "slug": "sladkiy-hleb"
+        },
+        {
+            "name": "Хлеб в духовке",
+            "slug": "hleb-v-duhovke"
+        },
+        {
+            "name": "Хлеб домашний",
+            "slug": "hleb-domashniy"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "source": "https://vkuso.ru/recipe/pechenyj-syr-s-pomidorami-k-zavtraku/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Печеный сыр с помидорами к завтраку",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/8f/78959c000081d8f_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр сулугуни",
+                    "slug": "syr-suluguni",
+                    "notes": null,
+                    "value": "350",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "орегано сушеный",
+                    "slug": "oregano-susheniy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сыр сулгуни нарезать пластинками, выложить слоем в чугунную сковороду или керамическую форму. Посыпать нарезанными помидорами, печь в духовом шкафу в течение 7–10 минут до расплавления сыра. Блюдо вынуть, посыпать сухим орегано и сразу подать на стол.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Горячие закуски",
+            "slug": "goryachie-zakuski"
+        },
+        {
+            "name": "Закуски из сыра",
+            "slug": "zakuski-iz-syra"
+        },
+        {
+            "name": "Помидоры в духовке",
+            "slug": "pomidory-v-duhovke"
+        },
+        {
+            "name": "Помидоры с сыром",
+            "slug": "pomidory-s-syrom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

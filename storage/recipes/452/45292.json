@@ -1,0 +1,188 @@
+{
+    "source": "https://vkuso.ru/recipe/pankejki-pod-yablochnym-sousom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Панкейки под яблочным соусом",
+    "description": "Большие оладушки-панкейки можно подавать с любым вареньем, джемом или мёдом. Данный рецепт предлагает в качестве сладкого дополнения приготовить соус из свежих ароматных яблок.",
+    "note": "По желанию блюдо можно дополнительно украсить ягодами малины, ежевики, черники.",
+    "cuisine": "Американская кухня, Канадская кухня",
+    "cuisine_slug": "amerikanskaya-kuhnya-kanadskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/db/ed6aa6a182074db_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "300",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "230",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар коричневый",
+                    "slug": "sahar-korichneviy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "пекарский порошок",
+                    "slug": "pekarskiy-poroshok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "корица",
+                    "slug": "korica",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для соуса",
+            "list": [
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар коричневый",
+                    "slug": "sahar-korichneviy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "корица",
+                    "slug": "korica",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Перемешать просеянную пшеничную муку, молотую корицу, пекарский порошок, соль и сахарный песок. Вбить сырое куриное яйцо, влить молоко, перемешать, дать постоять при комнатной температуре 20 минут, чтобы набухла клейковина.",
+            "image": null
+        },
+        {
+            "text": "Влить растопленное сливочное масло, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Жарить блины на горячей сковороде без жира, по минуте с каждой стороны. Выложить на тарелку стопкой, в таком виде выпечка будет дольше остывать.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления соуса вымыть яблоки, удалить сердцевину и очистить кожуру, мякоть нарезать дольками. В емкости с толстым дном перемешать сливочное масло и коричневый сахар, добавить корицу и яблоки. Тушить смесь в течение 10 минут до мягкости.",
+            "image": null
+        },
+        {
+            "text": "Соус выложить поверх панкейков и полить яблоки кленовым сиропом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Блины",
+            "slug": "bliny"
+        },
+        {
+            "name": "Блины без дрожжей",
+            "slug": "bliny-bez-drojjey"
+        },
+        {
+            "name": "Блины на молоке",
+            "slug": "bliny-na-moloke"
+        },
+        {
+            "name": "Выпечка с корицей",
+            "slug": "vypechka-s-koricey"
+        },
+        {
+            "name": "Выпечка с яблоками",
+            "slug": "vypechka-s-yablokami"
+        },
+        {
+            "name": "Детский завтрак",
+            "slug": "detskiy-zavtrak"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Панкейки",
+            "slug": "pankeyki"
+        },
+        {
+            "name": "Панкейки на молоке",
+            "slug": "pankeyki-na-moloke"
+        }
+    ]
+}

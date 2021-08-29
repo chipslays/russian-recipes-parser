@@ -1,0 +1,203 @@
+{
+    "source": "https://vkuso.ru/recipe/bananovo-ovsyanoe-pechene-s-koricej/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Бананово-овсяное печенье с корицей",
+    "description": "Корица произрастает повсюду в зоне тропиков: на Шри-Ланке, Сейшелах, в Вест-Индии, Бразилии, на Мадагаскаре и в Египте. Пряность известна с глубокой древности, в отдаленные времена ее преподносили в дар монархам и другим властителям.",
+    "note": "Печенье можно хранить в закрытой посуде в течение пяти дней.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d5/f3c0d21e126d6d5_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "изюм",
+                    "slug": "izyum",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "овсяные хлопья",
+                    "slug": "ovsyanye-hlopya",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "банановое пюре",
+                    "slug": "bananovoe-pyure",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "фундук",
+                    "slug": "funduk",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "ореховое/оливковое масло",
+                    "slug": "orehovoe-olivkovoe-maslo",
+                    "notes": null,
+                    "value": "1/4",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "ванильный сироп",
+                    "slug": "vanilniy-sirop",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "корица молотая",
+                    "slug": "korica-molotaya",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить с помощью миксера банановое пюре. Соединить массу с ванильным сиропом или пастой, корицей, любым ореховым или оливковым маслом, добавить мёд, овсяные или ячменные хлопья быстрого приготовления, молотый фундук или кокос, изюм. Массу перемешать руками.",
+            "image": null
+        },
+        {
+            "text": "Из полученного теста сформировать двенадцать шариков, обвалять их в овсяных хлопьях и немного расплющить. Печь бананово-овсяное печенье с корицей при температуре 160 градусов в течение получаса или чуть больше, до золотистого цвета. Охладить.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Без яиц",
+            "slug": "bez-yaic"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка с бананами",
+            "slug": "vypechka-s-bananami"
+        },
+        {
+            "name": "Выпечка с изюмом",
+            "slug": "vypechka-s-izyumom"
+        },
+        {
+            "name": "Выпечка с корицей",
+            "slug": "vypechka-s-koricey"
+        },
+        {
+            "name": "Выпечка с медом",
+            "slug": "vypechka-s-medom"
+        },
+        {
+            "name": "Выпечка с орехами",
+            "slug": "vypechka-s-orehami"
+        },
+        {
+            "name": "Выпечка с сухофруктами",
+            "slug": "vypechka-s-suhofruktami"
+        },
+        {
+            "name": "Новогоднее печенье",
+            "slug": "novogodnee-pechene"
+        },
+        {
+            "name": "Новогодняя выпечка",
+            "slug": "novogodnyaya-vypechka"
+        },
+        {
+            "name": "Овсяное печенье",
+            "slug": "ovsyanoe-pechene"
+        },
+        {
+            "name": "Овсяное печенье с бананом",
+            "slug": "ovsyanoe-pechene-s-bananom"
+        },
+        {
+            "name": "Печенье",
+            "slug": "pechene"
+        },
+        {
+            "name": "Печенье без муки",
+            "slug": "pechene-bez-muki"
+        },
+        {
+            "name": "Печенье без яиц",
+            "slug": "pechene-bez-yaic"
+        },
+        {
+            "name": "Печенье из овсяных хлопьев",
+            "slug": "pechene-iz-ovsyanyh-hlopev"
+        },
+        {
+            "name": "Печенье с изюмом",
+            "slug": "pechene-s-izyumom"
+        },
+        {
+            "name": "Печенье с корицей",
+            "slug": "pechene-s-koricey"
+        },
+        {
+            "name": "Печенье с орехами",
+            "slug": "pechene-s-orehami"
+        },
+        {
+            "name": "Печенье с сухофруктами",
+            "slug": "pechene-s-suhofruktami"
+        },
+        {
+            "name": "Печенье с сухофруктами и орехами",
+            "slug": "pechene-s-suhofruktami-i-orehami"
+        },
+        {
+            "name": "Постная выпечка",
+            "slug": "postnaya-vypechka"
+        },
+        {
+            "name": "Постное печенье",
+            "slug": "postnoe-pechene"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        }
+    ]
+}

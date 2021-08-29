@@ -1,0 +1,144 @@
+{
+    "source": "https://vkuso.ru/recipe/desert-s-tvorozhnym-sloem-i-vishnej/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Десерт с творожным слоем и вишней",
+    "description": "Кроме вишни и других ингредиентов в состав пирога входят овсяные хлопья – ценный, полезный продукт, источник полисахаридов, пищевых волокон, которые снижают концентрацию холестерина.",
+    "note": "При подаче украсить выпечку целыми ягодами вишни без косточек.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/44/3e8a0b3205ecb44_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "йогурт нежирный",
+                    "slug": "yogurt-nejirniy",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "курага",
+                    "slug": "kuraga",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "овсяные хлопья молотые",
+                    "slug": "ovsyanye-hlopya-molotye",
+                    "notes": null,
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "отруби",
+                    "slug": "otrubi",
+                    "notes": null,
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "ванилин",
+                    "slug": "vanilin",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для творожного слоя",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вишня без косточек",
+                    "slug": "vishnya-bez-kostochek",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Курагу на час замочить в холодной воде. Мелко измельчить в блендере, вбить сырое яйцо, нежирный йогурт, снова взбить. Ввести молотые овсяные хлопья, смесь пшеничных и овсяных отрубей, всыпать пищевую соду и ванилин. Перемешать.",
+            "image": null
+        },
+        {
+            "text": "Печь тесто в течение 15 минут при температуре 160 градусов. Остудить. Корж разрезать по горизонтали на два коржа острым ножом. Для начинки смешать мягкий творог и вишню без косточек. Прослоить массой коржи, поставить десерт в холодильник на несколько часов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Десерт с вишней",
+            "slug": "desert-s-vishney"
+        },
+        {
+            "name": "Другие десерты",
+            "slug": "drugie-deserty"
+        },
+        {
+            "name": "Праздничные десерты",
+            "slug": "prazdnichnye-deserty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        },
+        {
+            "name": "Фруктово-ягодные десерты",
+            "slug": "fruktovo-yagodnye-deserty"
+        }
+    ]
+}

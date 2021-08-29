@@ -1,0 +1,175 @@
+{
+    "source": "https://vkuso.ru/recipe/kartofelnyj-salat-s-seldyu-i-yajcami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Картофельный салат с сельдью и яйцами",
+    "description": "Классическое сочетание продуктов, картофель и селедка «встретились» в этом салате на радость гостям.",
+    "note": "Такой салат лучше подать теплым.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c0/8da8de98e87a7c0_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "600",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сельдь маринованная",
+                    "slug": "seld-marinovannaya",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "йогурт натуральный",
+                    "slug": "yogurt-naturalniy",
+                    "notes": null,
+                    "value": "8",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "маслины",
+                    "slug": "masliny",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "горчица",
+                    "slug": "gorchica",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить картофель до готовности, размять при помощи вилки.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления заправки понадобится йогурт и майонез, горчица, продукты хорошо перемешать.",
+            "image": null
+        },
+        {
+            "text": "Половину мелко нарезанного зеленого лука и огурца добавить в заправку.",
+            "image": null
+        },
+        {
+            "text": "Полить смесью картофель.",
+            "image": null
+        },
+        {
+            "text": "Остатки огурцов и лука добавить вместе с измельченными яйцами сверху. Ингредиенты перемешать.",
+            "image": null
+        },
+        {
+            "text": "Сельдь, приготовленную в укропном маринаде, выложить поверх салата вместе с маслинами, поперчить по вкусу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Картофельный салат",
+            "slug": "kartofelniy-salat"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с йогуртом",
+            "slug": "salat-s-yogurtom"
+        },
+        {
+            "name": "Салат с картофелем",
+            "slug": "salat-s-kartofelem"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с огурцом и яйцом",
+            "slug": "salat-s-ogurcom-i-yaycom"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты с селедкой",
+            "slug": "salaty-s-seledkoy"
+        }
+    ]
+}

@@ -1,0 +1,200 @@
+{
+    "source": "https://vkuso.ru/recipe/99841-tureckie-rogaliki-s-tvorozhno-syrnoj-nachinkoj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Турецкие рогалики с творожно-сырной начинкой",
+    "description": "Солоноватая выпечка, приготовленная из безопарного дрожжевого теста. Подавать с чаем или молоком.",
+    "note": "Выпечку можно есть горячей и остывшей. Вместо брынзы подойдет «Российский» сыр.",
+    "cuisine": "Турецкая кухня",
+    "cuisine_slug": "tureckaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/99/c70c5b04d5b2699_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час",
+    "preparetime": "1 час 15 минут",
+    "video": "https://www.youtube.com/embed/5I2c01_gnf4?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 3 порции",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пакетик",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "брынза",
+                    "slug": "brynza",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "творог жирный",
+                    "slug": "tvorog-jirniy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Замесить тесто из муки, теплого молока, сухих дрожжей, растительного масла, желтка, сахара, соли.",
+            "image": null
+        },
+        {
+            "text": "Оставить массу на час.",
+            "image": null
+        },
+        {
+            "text": "Разделить на жгуты, нарезать кусочками, раскатать.",
+            "image": null
+        },
+        {
+            "text": "Приготовить начинку из жирного домашнего творога, брынзы, белка, соли, свежей зелени.",
+            "image": null
+        },
+        {
+            "text": "Выложить массу на кружки, свернуть рогалики.",
+            "image": null
+        },
+        {
+            "text": "Придать форму круга или подковы.",
+            "image": null
+        },
+        {
+            "text": "Пергамент смазать маслом, выложить на противень.",
+            "image": null
+        },
+        {
+            "text": "Выложить рогалики, смазать взбитым яйцом, присыпать кунжутом.",
+            "image": null
+        },
+        {
+            "text": "Дать постоять пятнадцать минут, печь при температуре 180 градусов. Уровень в духовке – средний.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка на молоке",
+            "slug": "vypechka-na-moloke"
+        },
+        {
+            "name": "Выпечка с зеленью",
+            "slug": "vypechka-s-zelenyu"
+        },
+        {
+            "name": "Выпечка с сыром",
+            "slug": "vypechka-s-syrom"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Рогалики",
+            "slug": "rogaliki"
+        },
+        {
+            "name": "Рогалики из дрожжевого теста",
+            "slug": "rogaliki-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Творожные рогалики",
+            "slug": "tvorojnye-rogaliki"
+        }
+    ]
+}

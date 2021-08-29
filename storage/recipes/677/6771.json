@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/lobiani-iz-drozhzhevogo-testa/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Лобиани из дрожжевого теста",
+    "description": null,
+    "note": null,
+    "cuisine": "Грузинская кухня",
+    "cuisine_slug": "gruzinskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/92/66c78bb90cd4b92_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "тесто дрожжевое",
+                    "slug": "testo-drojjevoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "фасоль красная",
+                    "slug": "fasol-krasnaya",
+                    "notes": null,
+                    "value": "300-400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное/сало топленое",
+                    "slug": "maslo-slivochnoe-salo-toplenoe",
+                    "notes": null,
+                    "value": "130",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Залить на ночь фасоль холодной водой, отцедить воду через дуршлаг, залить свежей водой, поставить варить на среднем огне, после закипания варить 2 часа. Слить отвар, оставить полстакана для пюре. Приготовить из фасоли однородное пюре, добавить масло, перец, соль, перемешать, остудить.",
+            "image": null
+        },
+        {
+            "text": "Разделить готовое тесто на порции, раскатать в лепешки, положить в середину начинку из фасоли, защипать. Перевернуть лепешку швом вниз, раскатать толщиной в 1 см, запечь полчаса при 180 градусах. Можно запекать и под крышкой на сковороде.",
+            "image": null
+        },
+        {
+            "text": "Лобиани из дрожжевого теста смазать салом или маслом, сложить в стопку, нарезать на треугольные порции.",
+            "image": null
+        },
+        {
+            "text": "Удобнее сделать эти лепешки небольшими, тогда есть удобно. Вкуснее блюдо есть с копченым окороком, а запивать красным сухим вином.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Лепешки",
+            "slug": "lepeshki"
+        },
+        {
+            "name": "Лепешки на сковороде",
+            "slug": "lepeshki-na-skovorode"
+        },
+        {
+            "name": "Пирог без яиц",
+            "slug": "pirog-bez-yaic"
+        },
+        {
+            "name": "Пироги из дрожжевого теста",
+            "slug": "pirogi-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Пироги с начинкой",
+            "slug": "pirogi-s-nachinkoy"
+        }
+    ]
+}

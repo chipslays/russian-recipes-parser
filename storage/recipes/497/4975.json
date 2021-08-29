@@ -1,0 +1,143 @@
+{
+    "source": "https://vkuso.ru/recipe/okroshka-myasnaya-na-kvase/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Окрошка мясная на квасе",
+    "description": null,
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5d/db17168127bfe5d_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "хлебного кваса",
+                    "slug": "hlebnogo-kvasa",
+                    "notes": null,
+                    "value": "1,2",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "говядины",
+                    "slug": "govyadiny",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "огурцов",
+                    "slug": "ogurcov",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "зеленого лука",
+                    "slug": "zelenogo-luka",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яиц",
+                    "slug": "yaic",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "6"
+                },
+                {
+                    "name": "укропа",
+                    "slug": "ukropa",
+                    "notes": null,
+                    "value": "2",
+                    "type": "пучка",
+                    "amount": null
+                },
+                {
+                    "name": "сметаны",
+                    "slug": "smetany",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахара",
+                    "slug": "sahara",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "горчицы",
+                    "slug": "gorchicy",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать отварную говядину и картофель на кубики, белки яиц порубить (2 яйца оставить для украшения целыми), желтки растереть с горчицей, солью и сахаром, влить чуть кваса, размешать, добавить остальной квас, убрать на холод.",
+            "image": null
+        },
+        {
+            "text": "Очистить и нарезать огурцы на кубики, укроп и треть зеленого лука мелко нашинковать, остаток лука растереть с солью, добавить мясо, яйца и картофель, перемешать, залить холодным квасом.",
+            "image": null
+        },
+        {
+            "text": "Разлить окрошку мясную на квасе по тарелкам, положить в каждую по столовой ложке сметаны, по половинке яйца, чуть посыпать зеленью.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Окрошка",
+            "slug": "okroshka"
+        },
+        {
+            "name": "Окрошка на квасе",
+            "slug": "okroshka-na-kvase"
+        },
+        {
+            "name": "Суп из говядины",
+            "slug": "sup-iz-govyadiny"
+        },
+        {
+            "name": "Холодные супы",
+            "slug": "holodnye-supy"
+        }
+    ]
+}

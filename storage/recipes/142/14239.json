@@ -1,0 +1,95 @@
+{
+    "source": "https://vkuso.ru/recipe/pirozhki-iz-tonkogo-lavasha-s-syrom-i-vetchinoj/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Пирожки из тонкого лаваша с сыром и ветчиной",
+    "description": null,
+    "note": null,
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/92/6818bf55ed38d92_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "колбаса/ветчина",
+                    "slug": "kolbasa-vetchina",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лаваш тонкий",
+                    "slug": "lavash-tonkiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Порезать колбасу на маленькие кусочки, мелко натереть сыр, измельчить зелень. Перемешать. Порезать на полосочки лаваш с помощью ножниц или ножа. Развернуть.",
+            "image": null
+        },
+        {
+            "text": "На краешек полоски положить начинку, свернуть уголком раза в четыре, чтобы скрыть всю начинку, лишнее обрезать. Таким способом свернуть все пирожки.",
+            "image": null
+        },
+        {
+            "text": "Разогреть на сковороде растительное масло, обжарить пирожки из тонкого лаваша с сыром и ветчиной с двух сторон. На обжарку уйдет всего несколько минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Закуски из лаваша",
+            "slug": "zakuski-iz-lavasha"
+        },
+        {
+            "name": "Лаваш с начинкой",
+            "slug": "lavash-s-nachinkoy"
+        },
+        {
+            "name": "Лаваш с сыром",
+            "slug": "lavash-s-syrom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рулет из лаваша",
+            "slug": "rulet-iz-lavasha"
+        },
+        {
+            "name": "Сырный рулет",
+            "slug": "syrniy-rulet"
+        }
+    ]
+}

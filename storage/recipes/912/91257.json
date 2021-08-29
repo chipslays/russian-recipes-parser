@@ -1,0 +1,87 @@
+{
+    "source": "https://vkuso.ru/recipe/91257-nezhnyj-tvorog-iz-moloka-s-kefirom/",
+    "category": "Молочные продукты домашние",
+    "category_slug": "molochnye-produkty-domashnie",
+    "title": "Нежный творог из молока с кефиром",
+    "description": "Нежный продукт, который способен заменить сыр «Маскарпоне».",
+    "note": "Домашний сыр можно добавлять в десерты, закуски.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/8f/d1f70db1513178f_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "12 часов 20 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/6i4eqZ9ww7Q?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "2",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Влить молоко в емкость мультиварки, выставить режим «Выпечка», прогреть три или четыре минуты.",
+            "image": null
+        },
+        {
+            "text": "Кефир комнатной температуры перемешать с молоком, накрыть мультиварку крышкой.",
+            "image": null
+        },
+        {
+            "text": "Оставить продукт для созревания, время – от десяти до двенадцати часов.",
+            "image": null
+        },
+        {
+            "text": "Выставить режим «Подогрев» на 120 минут.",
+            "image": null
+        },
+        {
+            "text": "Чашу вынуть из мультиварки и поместить в большой емкости с ледяной водой.",
+            "image": null
+        },
+        {
+            "text": "Творог отжать через марлю.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Творог в мультиварке",
+            "slug": "tvorog-v-multivarke"
+        },
+        {
+            "name": "Творог домашний",
+            "slug": "tvorog-domashniy"
+        },
+        {
+            "name": "Творог из кефира",
+            "slug": "tvorog-iz-kefira"
+        },
+        {
+            "name": "Творог из молока",
+            "slug": "tvorog-iz-moloka"
+        }
+    ]
+}

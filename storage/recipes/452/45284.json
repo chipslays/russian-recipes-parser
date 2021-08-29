@@ -1,0 +1,315 @@
+{
+    "source": "https://vkuso.ru/recipe/tort-malinovo-shokoladnyj-tryufel/",
+    "category": null,
+    "category_slug": null,
+    "title": "Торт «Малиново-шоколадный трюфель»",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/98/f9f8bd5113e3a98_660x440.jpg",
+    "difficulty": "Высокая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука миндальная",
+                    "slug": "muka-mindalnaya",
+                    "notes": null,
+                    "value": "120",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "какао",
+                    "slug": "kakao",
+                    "notes": " (без сахара)",
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для бисквита",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "малина",
+                    "slug": "malina",
+                    "notes": " (отжать сок)",
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ликер малиновый",
+                    "slug": "liker-malinoviy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для сиропа",
+            "list": [
+                {
+                    "name": "шоколад черный горький",
+                    "slug": "shokolad-cherniy-gorkiy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": " (комнатной температуры)",
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "малина",
+                    "slug": "malina",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ликер малиновый",
+                    "slug": "liker-malinoviy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для малинового ганаша",
+            "list": [
+                {
+                    "name": "малина",
+                    "slug": "malina",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "агар-агар",
+                    "slug": "agar-agar",
+                    "notes": null,
+                    "value": "4",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для малинового мармелада",
+            "list": [
+                {
+                    "name": "шоколад черный горький",
+                    "slug": "shokolad-cherniy-gorkiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки 38%",
+                    "slug": "slivki-38",
+                    "notes": null,
+                    "value": "150",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "глюкоза",
+                    "slug": "glyukoza",
+                    "notes": " (сироп кукурузный)",
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Засыпать в чашу миксера муку, сахар, какао порошок, вбить яйца, добавить миндальную муку, желтки, перемешать пару минут при средней скорости.",
+            "image": null
+        },
+        {
+            "text": "Взбить белки и сахарную пудру до устойчивой пены, объединить с тестом, осторожно перемешать. Выпекать бисквит при 180 градусах до готовности, дать остыть, разрезать вдоль на 4 части, коржи можно выпечь и по отдельности, если так удобнее.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления сиропа дать воде с сахаром закипеть, влить ликер и отжатый малиновый сок, перемешать, уварить до слабой густоты. Взбить блендером сахарную пудру с малиной, протереть сквозь сито, удалить косточки, добавить малиновый ликер, прогреть при слабом нагреве до 40 градусов.",
+            "image": null
+        },
+        {
+            "text": "Шоколад поломать на кусочки, растопить в микроволновке или на водяной бане, положить мягкое масло, измельченную с сахарной пудрой малину, добавить ликер, хорошо перемешать, дать остыть. Поставить на пару часов в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления мармелада, прогреть сахар с малиной до однородности, взбить блендером, протереть сквозь сито, убрать все косточки, перелить в сотейник с толстым дном, поставить на плиту, положить агар-агар, прогреть до кипения, залить в круглую форму, дать застыть.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления глазури растворить глюкозу в сливках, дать закипеть, перемешать с растопленным шоколадом.",
+            "image": null
+        },
+        {
+            "text": "Собрать торт «Малиново-шоколадный трюфель» в нижеследующем порядке. Уложить корж в кольцо, равномерно пропитать остывшим сиропом, нанести треть ганаша, прикрыть вторым коржом, пропитать еще раз сиропом, уложить ровным слоем мармелад, уложить еще один корж, полить сиропом, нанести ганаш, прикрыть последним коржом, промазать с боков и сверху оставшимся ганашом, украсить торт охлажденной глазурью и поставить его в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Достать, оформить орехами, ягодами малины и пищевым золотом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бисквитный торт",
+            "slug": "biskvitniy-tort"
+        },
+        {
+            "name": "Красивый торт",
+            "slug": "krasiviy-tort"
+        },
+        {
+            "name": "Новогодний торт",
+            "slug": "novogodniy-tort"
+        },
+        {
+            "name": "Новогодняя выпечка",
+            "slug": "novogodnyaya-vypechka"
+        },
+        {
+            "name": "Праздничные торты",
+            "slug": "prazdnichnye-torty"
+        },
+        {
+            "name": "Рождественский торт",
+            "slug": "rojdestvenskiy-tort"
+        },
+        {
+            "name": "Торт без мастики",
+            "slug": "tort-bez-mastiki"
+        },
+        {
+            "name": "Торт на 14 февраля",
+            "slug": "tort-na-14-fevralya"
+        },
+        {
+            "name": "Торт на день рождения",
+            "slug": "tort-na-den-rojdeniya"
+        },
+        {
+            "name": "Торт с желе",
+            "slug": "tort-s-jele"
+        },
+        {
+            "name": "Торт с малиной",
+            "slug": "tort-s-malinoy"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        },
+        {
+            "name": "Шоколадный торт",
+            "slug": "shokoladniy-tort"
+        }
+    ]
+}

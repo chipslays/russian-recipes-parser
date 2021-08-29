@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/sup-syrnyj-s-frikadelkami-po-francuzski/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Суп сырный с фрикадельками по-французски",
+    "description": null,
+    "note": null,
+    "cuisine": "Французская кухня",
+    "cuisine_slug": "francuzskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b1/b10047dfbe400b1_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "600",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мясного фарша",
+                    "slug": "myasnogo-farsha",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "моркови",
+                    "slug": "morkovi",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "душистого перца",
+                    "slug": "dushistogo-perca",
+                    "notes": null,
+                    "value": "6",
+                    "type": "горошин",
+                    "amount": null
+                },
+                {
+                    "name": "плавленых сырка",
+                    "slug": "plavlenyh-syrka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "4"
+                },
+                {
+                    "name": "лавровых листа",
+                    "slug": "lavrovyh-lista",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "4"
+                },
+                {
+                    "name": "зелени",
+                    "slug": "zeleni",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Клубни картофеля очистить и отварить целиком, затем достать из воды, нарезать и положить обратно в воду.",
+            "image": null
+        },
+        {
+            "text": "Репчатый лук очистить, мелко нарезать и обжарить до золотистого цвета, половину лука добавить в мясной фарш, оставшийся обжарить вместе с одной натертой морковью, обжаренные овощи добавить к картофелю.",
+            "image": null
+        },
+        {
+            "text": "В мясной фарш с луком вбить яйца, добавить соль и черный молотый перец,  из фарша слепить фрикадельки и добавить в суп, проварить суп 10 – 15 минут и положить в него нарезанные кубиками плавленые сырки, через 10 минут положить мелко нарезанную зелень.",
+            "image": null
+        },
+        {
+            "text": "Суп сырный с фрикадельками по-французски подавать к столу горячим.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Суп с плавленым сыром",
+            "slug": "sup-s-plavlenym-syrom"
+        },
+        {
+            "name": "Сырный суп",
+            "slug": "syrniy-sup"
+        }
+    ]
+}

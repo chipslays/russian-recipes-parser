@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnie-bulochki-s-plavlenym-syrom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Домашние булочки с плавленым сыром",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b8/e70304e5c5356b8_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый",
+                    "slug": "syr-plavleniy",
+                    "notes": null,
+                    "value": "10",
+                    "type": "пластинок",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Прогреть молоко, всыпать дрожжи, сахарный песок, смеси дать постоять до появления пузырьков. Добавить растительное масло, просеянную пшеничную муку. Замесить некрутое тесто, накрыть его тканью, поставить в тепло.",
+            "image": null
+        },
+        {
+            "text": "Поднявшееся тесто обмять, разделить на десять частей. Каждый кусок раскатать в тонкие прямоугольные лепешки, на один край положить нарезанный плавленый сыр, второй край надрезать. Свернуть рулетом, не плотно, начинать сворачивать с края, где лежит сыр. Края защипать.",
+            "image": null
+        },
+        {
+            "text": "Выложить булочки на застеленный пергаментом противень, оставить на 25 минут, накрыть полотенцем. Перед выпечкой поверхность булочек с плавленым сыром смазать взбитым желтком. Печь в течение 15 минут при температуре 200 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Булочки",
+            "slug": "bulochki"
+        },
+        {
+            "name": "Булочки на молоке",
+            "slug": "bulochki-na-moloke"
+        },
+        {
+            "name": "Булочки с сыром",
+            "slug": "bulochki-s-syrom"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Домашние булочки",
+            "slug": "domashnie-bulochki"
+        },
+        {
+            "name": "Дрожжевые булочки",
+            "slug": "drojjevye-bulochki"
+        },
+        {
+            "name": "Сдобные булочки",
+            "slug": "sdobnye-bulochki"
+        },
+        {
+            "name": "Сырные булочки",
+            "slug": "syrnye-bulochki"
+        }
+    ]
+}

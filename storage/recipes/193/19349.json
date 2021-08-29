@@ -1,0 +1,224 @@
+{
+    "source": "https://vkuso.ru/recipe/postnye-golubcy-s-gribnoj-nachinkoj/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Постные голубцы с грибной начинкой",
+    "description": "Диетический вариант голубцов без мяса.",
+    "note": "При подаче можно украсить блюдо помидорами черри и зеленью укропа и петрушки.",
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b1/f7fd8106c3895b1_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "капуста(листья)",
+                    "slug": "kapusta-listya",
+                    "notes": null,
+                    "value": "10",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "грибы",
+                    "slug": "griby",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Грибы вымыть и отварить. Можно использовать как свежие грибы, так и сушеные. Продукт мелко нарезать, смешать с томатной пастой и рисом, соль – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Проварить в кипящей воде несколько листьев белокочанной капусты в течение 2-3 минут, вынуть из воды. Дать воде полностью стечь.",
+            "image": null
+        },
+        {
+            "text": "Выложить на листья начинку, завернуть и обжарить постные голубцы с грибной начинкой в растительном масле, затем потушить на противне в духовке или в кастрюле на плите.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Веганство",
+            "slug": "veganstvo"
+        },
+        {
+            "name": "Вегетарианские вторые блюда",
+            "slug": "vegetarianskie-vtorye-blyuda"
+        },
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из овощей",
+            "slug": "vtorye-blyuda-iz-ovoschey"
+        },
+        {
+            "name": "Вторые блюда из риса",
+            "slug": "vtorye-blyuda-iz-risa"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Гарнир из грибов",
+            "slug": "garnir-iz-gribov"
+        },
+        {
+            "name": "Гарнир к курице",
+            "slug": "garnir-k-kurice"
+        },
+        {
+            "name": "Гарниры",
+            "slug": "garniry"
+        },
+        {
+            "name": "Голубцы",
+            "slug": "golubcy"
+        },
+        {
+            "name": "Голубцы в духовке",
+            "slug": "golubcy-v-duhovke"
+        },
+        {
+            "name": "Голубцы из свежей капусты",
+            "slug": "golubcy-iz-svejey-kapusty"
+        },
+        {
+            "name": "Голубцы с рисом",
+            "slug": "golubcy-s-risom"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Капуста в духовке",
+            "slug": "kapusta-v-duhovke"
+        },
+        {
+            "name": "Овощи в духовке",
+            "slug": "ovoschi-v-duhovke"
+        },
+        {
+            "name": "Овощные голубцы",
+            "slug": "ovoschnye-golubcy"
+        },
+        {
+            "name": "Постные блюда в духовке",
+            "slug": "postnye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Постные блюда из капусты",
+            "slug": "postnye-blyuda-iz-kapusty"
+        },
+        {
+            "name": "Постные блюда из риса",
+            "slug": "postnye-blyuda-iz-risa"
+        },
+        {
+            "name": "Постные блюда с грибами",
+            "slug": "postnye-blyuda-s-gribami"
+        },
+        {
+            "name": "Постные рецепты",
+            "slug": "postnye-recepty"
+        },
+        {
+            "name": "Постный ужин",
+            "slug": "postniy-ujin"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рис в духовке",
+            "slug": "ris-v-duhovke"
+        },
+        {
+            "name": "Рис с грибами",
+            "slug": "ris-s-gribami"
+        },
+        {
+            "name": "Рис с овощами",
+            "slug": "ris-s-ovoschami"
+        },
+        {
+            "name": "Ужин из капусты",
+            "slug": "ujin-iz-kapusty"
+        },
+        {
+            "name": "Ужин из овощей",
+            "slug": "ujin-iz-ovoschey"
+        },
+        {
+            "name": "Фаршированные овощи",
+            "slug": "farshirovannye-ovoschi"
+        }
+    ]
+}

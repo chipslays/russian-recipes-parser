@@ -1,0 +1,91 @@
+{
+    "source": "https://vkuso.ru/recipe/84469-kompot-iz-vishni-i-shelkovicy-s-limonnoj-kislotoj/",
+    "category": "Заготовки",
+    "category_slug": "zagotovki",
+    "title": "Компот из вишни и шелковицы с лимонной кислотой",
+    "description": "Напиток с красивым, насыщенным цветом.",
+    "note": "В компот по желанию можно добавить яблоки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/9e/91726fd03456b9e_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вишня",
+                    "slug": "vishnya",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шелковица",
+                    "slug": "shelkovica",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кислота лимонная",
+                    "slug": "kislota-limonnaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Вишню и шелковицу перебрать, всыпать в банки, добавить лимонную кислоту и сахарный песок.",
+            "image": null
+        },
+        {
+            "text": "Влить кипяток, закатать крышками.",
+            "image": null
+        },
+        {
+            "text": "Банки перевернуть, укутать, оставить до остывания.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Компот в банках на зиму",
+            "slug": "kompot-v-bankah-na-zimu"
+        },
+        {
+            "name": "Компот из вишни на зиму",
+            "slug": "kompot-iz-vishni-na-zimu"
+        },
+        {
+            "name": "Компот из шелковицы на зиму",
+            "slug": "kompot-iz-shelkovicy-na-zimu"
+        },
+        {
+            "name": "Компот из ягод на зиму",
+            "slug": "kompot-iz-yagod-na-zimu"
+        },
+        {
+            "name": "Компоты на зиму",
+            "slug": "kompoty-na-zimu"
+        }
+    ]
+}

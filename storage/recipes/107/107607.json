@@ -1,0 +1,95 @@
+{
+    "source": "https://vkuso.ru/recipe/107607-romshteks-iz-telyatiny-na-grile/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Ромштекс из телятины на гриле",
+    "description": "Блюдо для дачи с ароматом дыма и нежным вкусом.",
+    "note": "К блюду подать овощи, приготовленные на гриле.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b7/e43cb074451bfb7_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": "2 часа",
+    "video": "https://www.youtube.com/embed/G_RVpt_ZNAE?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "телятина",
+                    "slug": "telyatina",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Мясо отбить, обвалять в специях, полить оливковым маслом.",
+            "image": null
+        },
+        {
+            "text": "Дать полежать несколько часов.",
+            "image": null
+        },
+        {
+            "text": "Выложить продукт на гриль, жарить по семь минут с каждой стороны.",
+            "image": null
+        },
+        {
+            "text": "Несколько раз в процессе приготовления полить мясо минеральной водой или маринадом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из говядины",
+            "slug": "vtorye-blyuda-iz-govyadiny"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Гриль и барбекю",
+            "slug": "gril-i-barbekyu"
+        },
+        {
+            "name": "Отбивные",
+            "slug": "otbivnye"
+        },
+        {
+            "name": "Отбивные из говядины",
+            "slug": "otbivnye-iz-govyadiny"
+        },
+        {
+            "name": "Ромштекс",
+            "slug": "romshteks"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

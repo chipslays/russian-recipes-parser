@@ -1,0 +1,196 @@
+{
+    "source": "https://vkuso.ru/recipe/appetitnyj-shokoladnyj-keks-s-oreshkami/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Аппетитный шоколадный кекс с орешками",
+    "description": "Простой и доступный рецепт, ингредиенты найдутся на кухне любой запасливой хозяйки.",
+    "note": "По желанию в тесто вместо шоколада можно добавить рубленые орехи.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b4/e621ec9ecf42eb4_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/5PxEmBaAgEQ?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": " (несладкий йогурт)",
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад",
+                    "slug": "shokolad",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "какао",
+                    "slug": "kakao",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для украшения",
+            "list": [
+                {
+                    "name": "шоколад",
+                    "slug": "shokolad",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "орехи",
+                    "slug": "orehi",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Пшеничную муку просеять в емкость большого размера.",
+            "image": null
+        },
+        {
+            "text": "Всыпать какао-порошок и сахар, хорошо перемешать.",
+            "image": null
+        },
+        {
+            "text": "Отдельно вбить сырые куриные яйца в кефир или несладкий йогурт, добавить растительное масло, также перемешать.",
+            "image": null
+        },
+        {
+            "text": "Соединить обе смеси и перемешать до однородного состояния при помощи блендера.",
+            "image": null
+        },
+        {
+            "text": "Шоколадную плитку порубить крупными кусочками и добавить в тесто.",
+            "image": null
+        },
+        {
+            "text": "Смазать маслом форму для выпекания, налить тесто, поставить в духовой шкаф на 40 минут, температура приготовления – 180 градусов.",
+            "image": null
+        },
+        {
+            "text": "Готовность выпечки можно проверить зубочисткой. Кекс остудить, полить шоколадом и присыпать рублеными грецкими орехами.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка на кефире",
+            "slug": "vypechka-na-kefire"
+        },
+        {
+            "name": "Выпечка с орехами",
+            "slug": "vypechka-s-orehami"
+        },
+        {
+            "name": "Выпечка с шоколадом",
+            "slug": "vypechka-s-shokoladom"
+        },
+        {
+            "name": "Кекс в духовке",
+            "slug": "keks-v-duhovke"
+        },
+        {
+            "name": "Кексы",
+            "slug": "keksy"
+        },
+        {
+            "name": "Кексы на скорую руку",
+            "slug": "keksy-na-skoruyu-ruku"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Шоколадный кекс",
+            "slug": "shokoladniy-keks"
+        }
+    ]
+}

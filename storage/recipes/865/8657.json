@@ -1,0 +1,172 @@
+{
+    "source": "https://vkuso.ru/recipe/limonnyj-tart-so-sgushhennym-molokom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Лимонный тарт со сгущенным молоком",
+    "description": "В последнее время вкусный и нежный тарт стал фаворитом среди десертной выпечки. И не надо пугаться непривычного названия, на самом деле приготовить его совсем не сложно, попробуйте.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/9e/db8969e76cf289e_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "80",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "цедра лимона",
+                    "slug": "cedra-limona",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для основы",
+            "list": [
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": "110",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "1,5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "молоко сгущенное",
+                    "slug": "moloko-sguschennoe",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Смешать комбайном яйца с холодным маслом, мукой и лимонной цедрой, полученное тесто скатать в колобок и размять в руках до эластичности, обернуть пленкой, убрать на полчаса в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Прогреть духовку чуть ниже 200 градусов, подготовить форму для выпечки. Вынуть тесто, раскатать в пласт небольшой толщины, выложить в форму, прижать к стенкам и дну, проколоть вилкой, застелить бумагой для выпечки, засыпать слоем сухой фасоли или риса, выпекать примерно четверть часа. Достать основу тарта, убрать фасоль, подержать при 150 градусах еще 5 минут в духовке.",
+            "image": null
+        },
+        {
+            "text": "Приготовить начинку из яиц, сахарной пудры (оставить немного пудры для посыпки тарта), сгущенки, сливок, цедры и сока 3 лимонов, процедить ее, залить в испеченную основу.",
+            "image": null
+        },
+        {
+            "text": "Выпекать лимонный тарт со сгущенным молоком около получаса до легкого прихватывания начинки. Перед подачей присыпать поверхность тремя ложками сахарной пудры.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка с фруктами",
+            "slug": "vypechka-s-fruktami"
+        },
+        {
+            "name": "Выпечка со сгущенкой",
+            "slug": "vypechka-so-sguschenkoy"
+        },
+        {
+            "name": "Десерт со сгущенкой",
+            "slug": "desert-so-sguschenkoy"
+        },
+        {
+            "name": "Лимонный пирог",
+            "slug": "limonniy-pirog"
+        },
+        {
+            "name": "Пирог со сгущенкой",
+            "slug": "pirog-so-sguschenkoy"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги с начинкой",
+            "slug": "pirogi-s-nachinkoy"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Сладкие пироги",
+            "slug": "sladkie-pirogi"
+        },
+        {
+            "name": "Тарт",
+            "slug": "tart"
+        }
+    ]
+}

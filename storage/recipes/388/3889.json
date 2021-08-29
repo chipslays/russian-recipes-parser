@@ -1,0 +1,123 @@
+{
+    "source": "https://vkuso.ru/recipe/tvorozhnyj-keks-s-limonnym-sokom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Творожный кекс с лимонным соком",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5c/5cf1bb5a56dcc5c_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творога",
+                    "slug": "tvoroga",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливочного масла",
+                    "slug": "slivochnogo-masla",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "4"
+                },
+                {
+                    "name": "сахара",
+                    "slug": "sahara",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "лимона",
+                    "slug": "limona",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1/2"
+                },
+                {
+                    "name": "соды",
+                    "slug": "sody",
+                    "notes": null,
+                    "value": "3/4",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Взбить сахар с маслом, вбить яйца по одному, добавить протертый сквозь сито творог, просеянную муку, цедру лимона, влить сок и гашеную соком соду, все тщательно перемешать.",
+            "image": null
+        },
+        {
+            "text": "Подготовить форму для выпечки, смазать маслом, присыпать мукой, переложить в нее тесто.",
+            "image": null
+        },
+        {
+            "text": "Выпекать творожный кекс с лимонным соком около 50 минут при 170 градусах.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Кексы",
+            "slug": "keksy"
+        },
+        {
+            "name": "Лимонный кекс",
+            "slug": "limonniy-keks"
+        },
+        {
+            "name": "Творожный кекс",
+            "slug": "tvorojniy-keks"
+        },
+        {
+            "name": "Фруктовый кекс",
+            "slug": "fruktoviy-keks"
+        }
+    ]
+}

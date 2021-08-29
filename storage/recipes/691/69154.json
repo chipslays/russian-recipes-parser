@@ -1,0 +1,175 @@
+{
+    "source": "https://vkuso.ru/recipe/minestrone-s-govyadinoj-i-makaronami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Минестроне с говядиной и макаронами",
+    "description": "К овощам можно добавить и мясо, например, говядину или курицу. Все овощи надо нарезать одинаковыми кубиками, чтобы они не разваливались и не теряли форму.",
+    "note": null,
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/75/7f11448dabe3575_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "говядина",
+                    "slug": "govyadina",
+                    "notes": null,
+                    "value": "320",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "фасоль консервированная",
+                    "slug": "fasol-konservirovannaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "макароны",
+                    "slug": "makarony",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кабачки",
+                    "slug": "kabachki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "сыр пармезан тертый",
+                    "slug": "syr-parmezan-tertiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Влить в кастрюлю с толстым дном масло, разогреть его, обжарить мясо.",
+            "image": null
+        },
+        {
+            "text": "Добавить нарезку овощей в следующем порядке: лук, морковь, картофель, кабачки, сладкий перец, измельченные помидоры, приправить специями, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Тушить на малом огне около 10 минут",
+            "image": null
+        },
+        {
+            "text": "Добавить фасоль и воду (количество регулировать по своему вкусу).",
+            "image": null
+        },
+        {
+            "text": "Через 5 минут положить макароны.",
+            "image": null
+        },
+        {
+            "text": "Сварить суп до готовности всех ингредиентов.",
+            "image": null
+        },
+        {
+            "text": "Заправить чесноком, пропущенным через пресс.",
+            "image": null
+        },
+        {
+            "text": "Блюдо подать с тертым пармезаном.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Итальянский суп",
+            "slug": "italyanskiy-sup"
+        },
+        {
+            "name": "Минестроне",
+            "slug": "minestrone"
+        },
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Суп из бобовых",
+            "slug": "sup-iz-bobovyh"
+        },
+        {
+            "name": "Суп из говядины",
+            "slug": "sup-iz-govyadiny"
+        },
+        {
+            "name": "Суп из кабачков",
+            "slug": "sup-iz-kabachkov"
+        },
+        {
+            "name": "Суп с макаронами",
+            "slug": "sup-s-makaronami"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Суп с фасолью",
+            "slug": "sup-s-fasolyu"
+        }
+    ]
+}

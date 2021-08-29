@@ -1,0 +1,148 @@
+{
+    "source": "https://vkuso.ru/recipe/tvorozhnyj-keks-v-saxarnoj-glazuri/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Творожный кекс в сахарной глазури",
+    "description": "Кексы готовили еще древние римляне, они смешивали орехи, зерна граната, изюм и другие компоненты с ячменным пюре, тесто выпекалось в раскаленных каменных печах. Новая жизнь кексов началась с появлением на столе европейцев сахарного песка, который позволил долгое время сохранять фрукты.",
+    "note": "В тесто можно добавить любые ингредиенты: молотые орехи, изюм, любые сухофрукты.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/15/5b138d64712f615_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пачка",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "120",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар ванильный",
+                    "slug": "sahar-vanilniy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для глазури",
+            "list": [
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Растереть со сливочным маслом сахарный песок и ванилин из пакетика, взбить. Добавить пачку творога, снова взбить. Добавить по одному три сырых яйца. Всыпать просеянную муку с разрыхлителем. Перемешать.",
+            "image": null
+        },
+        {
+            "text": "Выложить массу в смазанную форму на две трети объема. Печь при 180 градусах в течение 40 минут. Готовность выпечки проверить зубочисткой, она должна остаться сухой. Приготовить глазурь из молока и сахарной пудры, немного поварить и остудить. Украсить творожный кекс сахарной глазурью.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Кексы",
+            "slug": "keksy"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Творожный кекс",
+            "slug": "tvorojniy-keks"
+        }
+    ]
+}

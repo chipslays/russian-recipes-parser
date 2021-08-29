@@ -1,0 +1,83 @@
+{
+    "source": "https://vkuso.ru/recipe/klassicheskij-smetannyj-sous-s-orexami/",
+    "category": "Соусы",
+    "category_slug": "sousy",
+    "title": "Классический сметанный соус с орехами",
+    "description": null,
+    "note": null,
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e2/466e8055cf60ce2_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грецкие орехи",
+                    "slug": "greckie-orehi",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соус соевый",
+                    "slug": "sous-soeviy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Орехи измельчить с помощью ступки и пестика, смешать с остальными компонентами. Все тщательно взбить. Классический сметанный соус с орехами подавать к мясу, салатам.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Классические рецепты",
+            "slug": "klassicheskie-recepty"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сметанный соус",
+            "slug": "smetanniy-sous"
+        },
+        {
+            "name": "Соус для шашлыка",
+            "slug": "sous-dlya-shashlyka"
+        },
+        {
+            "name": "Соус к рыбе",
+            "slug": "sous-k-rybe"
+        },
+        {
+            "name": "Соусы для салатов",
+            "slug": "sousy-dlya-salatov"
+        },
+        {
+            "name": "Соусы к мясу",
+            "slug": "sousy-k-myasu"
+        }
+    ]
+}

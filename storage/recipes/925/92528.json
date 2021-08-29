@@ -1,0 +1,175 @@
+{
+    "source": "https://vkuso.ru/recipe/92528-dolma-iz-vinogradnyx-listev-s-govyadinoj-i-svininoj/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Долма из виноградных листьев с говядиной и свининой",
+    "description": "Это блюдо очень вкусное и легкое в приготовлении, занимает минимум времени. Из мясного фарша получается вкуснота в два шага.",
+    "note": null,
+    "cuisine": "Армянская кухня",
+    "cuisine_slug": "armyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/36/e6e7dcbb2f35636_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/gWa75bpwX4Y?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 8 порции",
+            "list": [
+                {
+                    "name": "говядина",
+                    "slug": "govyadina",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "свинина",
+                    "slug": "svinina",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "рис круглозерный",
+                    "slug": "ris-kruglozerniy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "виноградные листья",
+                    "slug": "vinogradnye-listya",
+                    "notes": null,
+                    "value": "40",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "приправа для мяса",
+                    "slug": "priprava-dlya-myasa",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Мясо и лук пропускаем через мясорубку.",
+            "image": null
+        },
+        {
+            "text": "Добавляем специи и рис и все перемешиваем.",
+            "image": null
+        },
+        {
+            "text": "Далее берем виноградные листья, кладем мясо и заворачиваем.",
+            "image": null
+        },
+        {
+            "text": "Перекладываем в кастрюлю, где будем варить, заливаем водой и варим 30 минут на тихом огне.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из говядины",
+            "slug": "vtorye-blyuda-iz-govyadiny"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Вторые блюда из риса",
+            "slug": "vtorye-blyuda-iz-risa"
+        },
+        {
+            "name": "Вторые блюда из свинины",
+            "slug": "vtorye-blyuda-iz-svininy"
+        },
+        {
+            "name": "Голубцы",
+            "slug": "golubcy"
+        },
+        {
+            "name": "Голубцы из виноградных листьев",
+            "slug": "golubcy-iz-vinogradnyh-listev"
+        },
+        {
+            "name": "Голубцы с мясом",
+            "slug": "golubcy-s-myasom"
+        },
+        {
+            "name": "Голубцы с рисом",
+            "slug": "golubcy-s-risom"
+        },
+        {
+            "name": "Горячие блюда на день рождения",
+            "slug": "goryachie-blyuda-na-den-rojdeniya"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Долма",
+            "slug": "dolma"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Рис с мясом",
+            "slug": "ris-s-myasom"
+        },
+        {
+            "name": "Свинина с луком",
+            "slug": "svinina-s-lukom"
+        },
+        {
+            "name": "Ужин из говядины",
+            "slug": "ujin-iz-govyadiny"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из свинины",
+            "slug": "ujin-iz-svininy"
+        }
+    ]
+}

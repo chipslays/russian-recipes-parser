@@ -1,0 +1,123 @@
+{
+    "source": "https://vkuso.ru/recipe/nesladkij-yablochnyj-kompot-dlya-detej/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Несладкий яблочный компот для детей",
+    "description": "Такой напиток полезен даже грудничкам.",
+    "note": "Прежде чем поить ребенка компотом из сухофруктов, посоветуйтесь с врачом.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/8f/73f342dbe91738f_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": "20 минут",
+    "video": "https://www.youtube.com/embed/XA-XBUhXRJI?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яблоки сушеные",
+                    "slug": "yabloki-sushenye",
+                    "notes": null,
+                    "value": "1",
+                    "type": "горсть",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сушеные яблоки залить теплой водой на 20 минут.",
+            "image": null
+        },
+        {
+            "text": "Разбухшие фрукты промыть, переложить в кипяток.",
+            "image": null
+        },
+        {
+            "text": "Время варки – около двадцати минут.",
+            "image": null
+        },
+        {
+            "text": "Крышку кастрюли закрыть, дать напитку настояться.",
+            "image": null
+        },
+        {
+            "text": "Готовый, остывший компот процедить.",
+            "image": null
+        },
+        {
+            "text": "Для сладости можно положить фруктозу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Для детей до 1 года",
+            "slug": "dlya-detey-do-1-goda"
+        },
+        {
+            "name": "Для детей от 1 года до 1,5-2 лет",
+            "slug": "dlya-detey-ot-1-goda-do-1-5-2-let"
+        },
+        {
+            "name": "Для детей от 2 до 3 лет",
+            "slug": "dlya-detey-ot-2-do-3-let"
+        },
+        {
+            "name": "Для детей от 3 до 5 лет",
+            "slug": "dlya-detey-ot-3-do-5-let"
+        },
+        {
+            "name": "Домашний компот",
+            "slug": "domashniy-kompot"
+        },
+        {
+            "name": "Компот из сухофруктов",
+            "slug": "kompot-iz-suhofruktov"
+        },
+        {
+            "name": "Компот из яблок",
+            "slug": "kompot-iz-yablok"
+        },
+        {
+            "name": "Меню школьника",
+            "slug": "menyu-shkolnika"
+        },
+        {
+            "name": "Напитки для детей",
+            "slug": "napitki-dlya-detey"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рецепты для грудничков",
+            "slug": "recepty-dlya-grudnichkov"
+        },
+        {
+            "name": "Фруктовые напитки",
+            "slug": "fruktovye-napitki"
+        }
+    ]
+}

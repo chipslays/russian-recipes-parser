@@ -1,0 +1,175 @@
+{
+    "source": "https://vkuso.ru/recipe/skandinavskij-pashtet-iz-myasnogo-assorti/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Скандинавский паштет из мясного ассорти",
+    "description": null,
+    "note": null,
+    "cuisine": "Скандинавская кухня",
+    "cuisine_slug": "skandinavskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/1e/a8aca13ba41921e_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "ассорти из говяжьего и свиного фарша",
+                    "slug": "assorti-iz-govyajego-i-svinogo-farsha",
+                    "notes": null,
+                    "value": "750",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыра",
+                    "slug": "syra",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливочного масла",
+                    "slug": "slivochnogo-masla",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "свежих грибов",
+                    "slug": "svejih-gribov",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сметаны",
+                    "slug": "smetany",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "яйцо",
+                    "slug": "yayco",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "соли",
+                    "slug": "soli",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень петрушки",
+                    "slug": "zelen-petrushki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Замесить из сметаны, муки, сливочного масла (200 г), яйца и соли тесто, убрать на час в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Измельчить зелень, грибы, лук, сыр натереть.",
+            "image": null
+        },
+        {
+            "text": "На растопленном сливочном масле поджарить грибы, сыр, лук, зелень петрушки, фарш, посолить, поперчить.",
+            "image": null
+        },
+        {
+            "text": "Раскатать половину теста, перенести на противень, смазанный маслом, на центр пласта выложить грибную начинку, разровнять, положить сверху раскатанный пласт из второй половины теста, края тщательно защипать.",
+            "image": null
+        },
+        {
+            "text": "Смазать скандинавский паштет из мясного ассорти яйцом и поставить запекаться, подавать паштет горячим со сметаной.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Выпечка с мясом и фаршем",
+            "slug": "vypechka-s-myasom-i-farshem"
+        },
+        {
+            "name": "Выпечка с фаршем",
+            "slug": "vypechka-s-farshem"
+        },
+        {
+            "name": "Закуски из грибов",
+            "slug": "zakuski-iz-gribov"
+        },
+        {
+            "name": "Мясной паштет",
+            "slug": "myasnoy-pashtet"
+        },
+        {
+            "name": "Мясо с сыром",
+            "slug": "myaso-s-syrom"
+        },
+        {
+            "name": "Паштеты",
+            "slug": "pashtety"
+        },
+        {
+            "name": "Пирог с луком и яйцом",
+            "slug": "pirog-s-lukom-i-yaycom"
+        },
+        {
+            "name": "Пирог с фаршем",
+            "slug": "pirog-s-farshem"
+        },
+        {
+            "name": "Пироги с мясом",
+            "slug": "pirogi-s-myasom"
+        }
+    ]
+}

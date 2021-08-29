@@ -1,0 +1,151 @@
+{
+    "source": "https://vkuso.ru/recipe/buterbrody-s-maslom-i-ikroj-treski/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Бутерброды с маслом и икрой трески",
+    "description": "Недорогой, но вкусный продукт хорошо сочетается с овощами.",
+    "note": "Закуску можно украсить помидорами, оливками.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/42/ae97ddb8c6f8442_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/tVkzErlGVi8?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "хлеб серый",
+                    "slug": "hleb-seriy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ломтик",
+                    "amount": null
+                },
+                {
+                    "name": "икра трески",
+                    "slug": "ikra-treski",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л. с горкой",
+                    "amount": null
+                },
+                {
+                    "name": "зелень укропа",
+                    "slug": "zelen-ukropa",
+                    "notes": null,
+                    "value": "1",
+                    "type": "веточка",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы свежие",
+                    "slug": "ogurcy-svejie",
+                    "notes": null,
+                    "value": "несколько",
+                    "type": "ломтиков",
+                    "amount": null
+                },
+                {
+                    "name": "чесночный порошок",
+                    "slug": "chesnochniy-poroshok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Перемешать мягкое сливочное масло с отваренным и растертым яичным желтком, перцем и чесночным порошком. Масса должна получиться однородной.",
+            "image": null
+        },
+        {
+            "text": "Смазать ломтики серого хлеба.",
+            "image": null
+        },
+        {
+            "text": "Выложить икру тонким слоем.",
+            "image": null
+        },
+        {
+            "text": "Украсить зеленью и красиво нарезанными ломтиками свежего огурца.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды открытые",
+            "slug": "buterbrody-otkrytye"
+        },
+        {
+            "name": "Бутерброды с икрой",
+            "slug": "buterbrody-s-ikroy"
+        },
+        {
+            "name": "Бутерброды с огурцом",
+            "slug": "buterbrody-s-ogurcom"
+        },
+        {
+            "name": "Бутерброды с яйцом",
+            "slug": "buterbrody-s-yaycom"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Праздничный стол на скорую руку",
+            "slug": "prazdnichniy-stol-na-skoruyu-ruku"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Холодные закуски",
+            "slug": "holodnye-zakuski"
+        }
+    ]
+}

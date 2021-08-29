@@ -1,0 +1,139 @@
+{
+    "source": "https://vkuso.ru/recipe/sendvich-so-slabosolenoj-semgoj-i-slivochnym-syrom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Сэндвич со слабосоленой семгой и сливочным сыром",
+    "description": "Сэндвич – это не только известный многослойный бутерброд, но и город на юго-востоке Англии, численность его населения – меньше пяти тысяч человек. Название переводится с древне-английского, как «торговый центр на песке».",
+    "note": "Вместо сыра Филадельфия можно взять любой другой мягкий сыр, размять брынзу и смешать ее со сметаной или майонезом.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/45/f3df31cb9b20f45_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "семга слабосоленая",
+                    "slug": "semga-slabosolenaya",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр Филадельфия",
+                    "slug": "syr-filadelfiya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сок лимона",
+                    "slug": "sok-limona",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "соль морская",
+                    "slug": "sol-morskaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "хлеб",
+                    "slug": "hleb",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Обжарить на сковороде хлеб для сэндвичей, без масла. Нарезать зеленый лук, перемешать с размятым сыром Филадельфия, добавить соль и перец, сок лимона. Полученную заправку намазать на хлеб.",
+            "image": null
+        },
+        {
+            "text": "Положить по ломтику слабосоленой семги и твердого сыра. Сделать еще один такой бутерброд и сложить их друг на друга, начинкой внутрь. Прогреть сэндвич с семгой и сыром в течение двух минут на сковороде или на гриле.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды в дорогу",
+            "slug": "buterbrody-v-dorogu"
+        },
+        {
+            "name": "Бутерброды с красной рыбой",
+            "slug": "buterbrody-s-krasnoy-ryboy"
+        },
+        {
+            "name": "Бутерброды с рыбой",
+            "slug": "buterbrody-s-ryboy"
+        },
+        {
+            "name": "Бутерброды с семгой",
+            "slug": "buterbrody-s-semgoy"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Закрытые бутерброды",
+            "slug": "zakrytye-buterbrody"
+        },
+        {
+            "name": "Закуски с красной рыбой",
+            "slug": "zakuski-s-krasnoy-ryboy"
+        },
+        {
+            "name": "Семга с сыром",
+            "slug": "semga-s-syrom"
+        },
+        {
+            "name": "Сэндвич с сыром",
+            "slug": "sendvich-s-syrom"
+        },
+        {
+            "name": "Сэндвичи",
+            "slug": "sendvichi"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "source": "https://vkuso.ru/recipe/yablochno-medovyj-koktejl-na-kefire/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Яблочно-медовый коктейль на кефире",
+    "description": "Коктейль, выпитый на ночь, улучшает пищеварение и способствует выводу токсинов.",
+    "note": "Готовый десерт украсить дольками яблока, их можно сбрызнуть лимонным соком, чтобы не почернели.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/85/3f360fa320ed385_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "400",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "корица молотая",
+                    "slug": "korica-molotaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Яблоки вымыть, очистить от кожуры, сердцевину удалить. Фрукт натереть на мелкой терке, сделать пюре, залить холодным кефиром и взбить. Добавить в напиток мед и немного молотой корицы, взбить еще раз. Разлить яблочно-медовый коктейль на кефире по бокалам.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные коктейли",
+            "slug": "bezalkogolnye-kokteyli"
+        },
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Фруктовые напитки",
+            "slug": "fruktovye-napitki"
+        }
+    ]
+}

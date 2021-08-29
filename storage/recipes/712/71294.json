@@ -1,0 +1,115 @@
+{
+    "source": "https://vkuso.ru/recipe/paelya-s-morskim-koktejlem-i-chesnokom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Паэлья с морским коктейлем и чесноком",
+    "description": "Для приготовления блюда нужно приобрести в магазине укомплектованный пакет с морепродуктами.",
+    "note": "Для паэльи можно использовать листочки тимьяна, свежего или сушеного.",
+    "cuisine": "Испанская кухня",
+    "cuisine_slug": "ispanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/68/0f655fc17cb0b68_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бульон овощной",
+                    "slug": "bulon-ovoschnoy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "морской коктейль замороженный",
+                    "slug": "morskoy-kokteyl-zamorojenniy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "шафран",
+                    "slug": "shafran",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок сушеный молотый",
+                    "slug": "chesnok-susheniy-molotiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Морепродукты разморозить, прогреть на сковороде, чтобы испарилась влага.",
+            "image": null
+        },
+        {
+            "text": "Обжарить на сковороде большого диаметра вместе с чесноком.",
+            "image": null
+        },
+        {
+            "text": "Всыпать шафран, рис, сладкий перец, нарезанный полосками.",
+            "image": null
+        },
+        {
+            "text": "Влить овощной бульон.",
+            "image": null
+        },
+        {
+            "text": "Сковороду накрыть крышкой, потушить блюдо до полной готовности.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из риса",
+            "slug": "vtorye-blyuda-iz-risa"
+        },
+        {
+            "name": "Паэлья",
+            "slug": "paelya"
+        },
+        {
+            "name": "Паэлья с морепродуктами",
+            "slug": "paelya-s-moreproduktami"
+        },
+        {
+            "name": "Рис с морепродуктами",
+            "slug": "ris-s-moreproduktami"
+        },
+        {
+            "name": "Тушеные блюда",
+            "slug": "tushenye-blyuda"
+        }
+    ]
+}

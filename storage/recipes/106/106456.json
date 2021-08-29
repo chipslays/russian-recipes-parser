@@ -1,0 +1,355 @@
+{
+    "source": "https://vkuso.ru/recipe/106456-korolevskij-bujabes-s-lososem/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Королевский буйабес с лососем",
+    "description": "Такой вариант блюда французской кухни подавали к столу монархов.",
+    "note": "Для приготовления блюда использовать белое сухое вино.",
+    "cuisine": "Французская кухня",
+    "cuisine_slug": "francuzskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/4a/e6773f55b920d4a_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "2 часа 30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "субпродукты",
+                    "slug": "subprodukty",
+                    "notes": " (плавники, головы, хвосты)",
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "камбала",
+                    "slug": "kambala",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "филе трески",
+                    "slug": "file-treski",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "филе лосося",
+                    "slug": "file-lososya",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "креветки",
+                    "slug": "krevetki",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мидии",
+                    "slug": "midii",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры консервированные",
+                    "slug": "pomidory-konservirovannye",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук-порей",
+                    "slug": "luk-porey",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "фенхель",
+                    "slug": "fenhel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец чили",
+                    "slug": "perec-chili",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень петрушки",
+                    "slug": "zelen-petrushki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "тимьян свежий",
+                    "slug": "timyan-svejiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "вино белое сухое",
+                    "slug": "vino-beloe-suhoe",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "64",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "5",
+                    "type": "зубчиков",
+                    "amount": null
+                },
+                {
+                    "name": "шафран",
+                    "slug": "shafran",
+                    "notes": null,
+                    "value": "8",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный горошком",
+                    "slug": "perec-cherniy-goroshkom",
+                    "notes": null,
+                    "value": "12",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный горошком",
+                    "slug": "perec-cherniy-goroshkom",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль морская",
+                    "slug": "sol-morskaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Вскипятить воду, замочить шафран в небольшом количестве жидкости.",
+            "image": null
+        },
+        {
+            "text": "Приготовить бульон из рыбных обрезков, моркови, лука, перца-горошка и лаврового листа.",
+            "image": null
+        },
+        {
+            "text": "Жидкость отцедить.",
+            "image": null
+        },
+        {
+            "text": "Прогреть в кастрюле оливковое масло, обжарить репчатый лук, фенхель, лук-порей.",
+            "image": null
+        },
+        {
+            "text": "Нарезать кубиками картофель, добавить в кастрюлю.",
+            "image": null
+        },
+        {
+            "text": "Добавить консервированные томаты, давленый чеснок, порезанный тимьян.",
+            "image": null
+        },
+        {
+            "text": "Потушить на тихом огне в течение пяти минут. Влить вино.",
+            "image": null
+        },
+        {
+            "text": "Поварить до исчезновения алкогольного запаха.",
+            "image": null
+        },
+        {
+            "text": "Влить рыбный бульон, добавить настойку шафрана, перец-горошек, соль, томить пять минут. Лучше использовать морскую соль.",
+            "image": null
+        },
+        {
+            "text": "Выложить в кастрюлю нарезанную треску, камбалу, лосось и тигровые креветки. Довести до кипения на среднем огне, огонь уменьшить, всыпать петрушку.",
+            "image": null
+        },
+        {
+            "text": "Тушить до готовности рыбы и морепродуктов под крышкой.",
+            "image": null
+        },
+        {
+            "text": "Приготовить соус: запечь в духовке красный болгарский перец. Можно сделать это в пакете для запекания.",
+            "image": null
+        },
+        {
+            "text": "Вынуть семена, удалить шкурку.",
+            "image": null
+        },
+        {
+            "text": "Нарезать крупными кусочками.",
+            "image": null
+        },
+        {
+            "text": "Мелко покрошить красный острый перец.",
+            "image": null
+        },
+        {
+            "text": "Взбить сырой желток при помощи миксера, влить порциями оливковое масло, лимонный сок.",
+            "image": null
+        },
+        {
+            "text": "Превратить в пюре при помощи блендера мякиш размоченной в молоке булки, мякоть перца, чеснок – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Обе массы соединить, взбить до получения соуса.",
+            "image": null
+        },
+        {
+            "text": "Подсушить ломтики багета. Подать суп с багетом и соусом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Буйабес",
+            "slug": "buyabes"
+        },
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Рыбный суп",
+            "slug": "rybniy-sup"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из лосося",
+            "slug": "sup-iz-lososya"
+        },
+        {
+            "name": "Суп из морепродуктов",
+            "slug": "sup-iz-moreproduktov"
+        },
+        {
+            "name": "Суп из субпродуктов",
+            "slug": "sup-iz-subproduktov"
+        },
+        {
+            "name": "Суп из трески",
+            "slug": "sup-iz-treski"
+        },
+        {
+            "name": "Суп с креветками",
+            "slug": "sup-s-krevetkami"
+        }
+    ]
+}

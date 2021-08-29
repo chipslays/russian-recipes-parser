@@ -1,0 +1,220 @@
+{
+    "source": "https://vkuso.ru/recipe/golubcy-pod-shuboj-s-myasnym-farshem/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Голубцы «под шубой» с мясным фаршем",
+    "description": "У наших капустных голубцов есть немало «родственников» в других странах мира: сарма, национальное блюдо Турции или долма с Кавказа. Начинка в этих случаях заворачивается в виноградные листья. В Греции готовят «капустную долму», первое упоминание о ней есть в комедии Аристофана.",
+    "note": "При приготовлении блюда можно обойтись без микроволновки и отварить капустный кочан в воде до полуготовности на обычной плите.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/37/38aaf59618a2537_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "капуста",
+                    "slug": "kapusta",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кочан",
+                    "amount": null
+                },
+                {
+                    "name": "мясной фарш",
+                    "slug": "myasnoy-farsh",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "головки",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для шубки",
+            "list": [
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Кочан капусты очистить от грязных листьев и поставить в микроволновую печь на 5 – 10 минут. При готовности листья должны легко отделяться. Приготовить фарш. Отварить рис до полуготовности, обжарить натертый лук, морковь и яблоко. Все продукты перемешать.",
+            "image": null
+        },
+        {
+            "text": "Для «шубы» натереть сыр, нарезать два помидора, по пучку укропа и петрушки, нарубить чеснок. Массу перемешать, посолить, поперчить и добавить майонез. Сформовать голубцы, уложить на противень, смазанный маслом, накрыть сырной массой. Запечь голубцы с мясным фаршем до готовности.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Голубцы",
+            "slug": "golubcy"
+        },
+        {
+            "name": "Голубцы в духовке",
+            "slug": "golubcy-v-duhovke"
+        },
+        {
+            "name": "Голубцы из свежей капусты",
+            "slug": "golubcy-iz-svejey-kapusty"
+        },
+        {
+            "name": "Голубцы с мясом",
+            "slug": "golubcy-s-myasom"
+        },
+        {
+            "name": "Голубцы с рисом",
+            "slug": "golubcy-s-risom"
+        },
+        {
+            "name": "Голубцы с фаршем",
+            "slug": "golubcy-s-farshem"
+        },
+        {
+            "name": "Капуста в духовке",
+            "slug": "kapusta-v-duhovke"
+        },
+        {
+            "name": "Капуста с мясом",
+            "slug": "kapusta-s-myasom"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Мясо с помидорами и сыром в духовке",
+            "slug": "myaso-s-pomidorami-i-syrom-v-duhovke"
+        },
+        {
+            "name": "Мясо с сыром",
+            "slug": "myaso-s-syrom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рис в духовке",
+            "slug": "ris-v-duhovke"
+        },
+        {
+            "name": "Рис с мясом",
+            "slug": "ris-s-myasom"
+        },
+        {
+            "name": "Рис с мясом в духовке",
+            "slug": "ris-s-myasom-v-duhovke"
+        },
+        {
+            "name": "Рис с овощами",
+            "slug": "ris-s-ovoschami"
+        },
+        {
+            "name": "Рис с фаршем",
+            "slug": "ris-s-farshem"
+        },
+        {
+            "name": "Ужин из капусты",
+            "slug": "ujin-iz-kapusty"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

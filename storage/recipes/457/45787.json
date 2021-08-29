@@ -1,0 +1,107 @@
+{
+    "source": "https://vkuso.ru/recipe/neobychnye-polosatye-buterbrody/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Необычные полосатые бутерброды",
+    "description": "Оригинальное блюдо с полосками разного цвета. Кушанье скрасит серое осеннее утро.",
+    "note": "К охлажденным бутербродам подать горячий чай, напиток из ароматных трав, кофе.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/6e/2f06374d2a0896e_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/h1nGNT2HoLo?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "хлеб серый",
+                    "slug": "hleb-seriy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "колбаса",
+                    "slug": "kolbasa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить несколько видов масел: сливочное с тертой колбасой, сливочное с тертым сыром и сливочное с рубленой зеленью.",
+            "image": null
+        },
+        {
+            "text": "Кусок серого  хлеба намазать зеленым маслом, накрыть вторым куском хлеба, намазать колбасным маслом, накрыть хлебом, намазать сырным маслом. Верхний слой – хлеб.",
+            "image": null
+        },
+        {
+            "text": "Положить в холодильник для застывания, затем аккуратно нарезать поперек, чтобы полоски были ровными.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды на праздничный стол",
+            "slug": "buterbrody-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Бутерброды с колбасой",
+            "slug": "buterbrody-s-kolbasoy"
+        },
+        {
+            "name": "Бутерброды с колбасой и сыром",
+            "slug": "buterbrody-s-kolbasoy-i-syrom"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        }
+    ]
+}

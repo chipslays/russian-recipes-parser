@@ -1,0 +1,79 @@
+{
+    "source": "https://vkuso.ru/recipe/proteinovoe-morozhenoe-so-smorodinoj/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Протеиновое мороженое со смородиной",
+    "description": "Мороженое без замораживания. Холодным блюдо будет от мороженых ягод черной смородины.",
+    "note": "Десерт можно подать в креманках или других порционных емкостях, украсить замороженными ягодами черной смородины.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a1/3c349f3fc465ea1_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "протеин сывороточный",
+                    "slug": "protein-syvorotochniy",
+                    "notes": " (ванильный)",
+                    "value": "15",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "1-1.5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "смородина черная",
+                    "slug": "smorodina-chernaya",
+                    "notes": " (замороженная)",
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "стевия",
+                    "slug": "steviya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В блендер выложить сывороточный ванильный протеин, замороженную смородину, влить молоко, добавить по вкусу стевию.",
+            "image": null
+        },
+        {
+            "text": "Массу взбивать в течение трех-четырех минут. Масса должна получиться гладкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Диетические десерты",
+            "slug": "dieticheskie-deserty"
+        },
+        {
+            "name": "Домашнее мороженое",
+            "slug": "domashnee-morojenoe"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

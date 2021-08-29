@@ -1,0 +1,191 @@
+{
+    "source": "https://vkuso.ru/recipe/86039-salat-zimnij-s-kvashennoj-kapustoj-i-syrom-feta/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Зимний» с квашенной капустой и сыром фета",
+    "description": "Ароматное яблоко, зелень петрушки, квашеная капуста – кладезь витаминов и минералов.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d3/ce67bc901939dd3_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час 30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "капуста квашеная",
+                    "slug": "kapusta-kvashenaya",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр фета",
+                    "slug": "syr-feta",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "свекла",
+                    "slug": "svekla",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень петрушки",
+                    "slug": "zelen-petrushki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "зубчика",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить свеклу, натереть и перемешать с квашеной капустой.",
+            "image": null
+        },
+        {
+            "text": "Яблоко любого сорта порезать кубиками небольшого размера.",
+            "image": null
+        },
+        {
+            "text": "Порубить чеснок и зелень петрушки.",
+            "image": null
+        },
+        {
+            "text": "Все ингредиенты перемешать, заправить оливковым маслом.",
+            "image": null
+        },
+        {
+            "text": "Украсить блюдо кубиками сыра «Фета».",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Зимний салат",
+            "slug": "zimniy-salat"
+        },
+        {
+            "name": "Классические салаты",
+            "slug": "klassicheskie-salaty"
+        },
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новогодние салаты без майонеза",
+            "slug": "novogodnie-salaty-bez-mayoneza"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из свеклы",
+            "slug": "salat-iz-svekly"
+        },
+        {
+            "name": "Салат из свеклы с чесноком",
+            "slug": "salat-iz-svekly-s-chesnokom"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салат с сыром и чесноком",
+            "slug": "salat-s-syrom-i-chesnokom"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салат со свеклой и сыром",
+            "slug": "salat-so-svekloy-i-syrom"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без майонеза на праздничный стол",
+            "slug": "salaty-bez-mayoneza-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с квашеной капустой",
+            "slug": "salaty-s-kvashenoy-kapustoy"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        },
+        {
+            "name": "Салаты с сыром фета",
+            "slug": "salaty-s-syrom-feta"
+        },
+        {
+            "name": "Салаты с яблоками",
+            "slug": "salaty-s-yablokami"
+        }
+    ]
+}

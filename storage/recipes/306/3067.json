@@ -1,0 +1,167 @@
+{
+    "source": "https://vkuso.ru/recipe/sendvich-amerikanskij-s-syrom-i-yajcom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Сэндвич американский с сыром и яйцом",
+    "description": null,
+    "note": null,
+    "cuisine": "Американская кухня",
+    "cuisine_slug": "amerikanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b8/1a34652476fdbb8_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "твердого сыра",
+                    "slug": "tverdogo-syra",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "зеленого лука",
+                    "slug": "zelenogo-luka",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "ржаная булочка / хлеб",
+                    "slug": "rjanaya-bulochka-hleb",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "сладкий перец",
+                    "slug": "sladkiy-perec",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "помидор",
+                    "slug": "pomidor",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "рубленой петрушки",
+                    "slug": "rublenoy-petrushki",
+                    "notes": null,
+                    "value": "10",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Взбить яйца венчиком, добавить нашинкованную зелень, посолить, поперчить, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Разогреть сковороду, налить чуть масла, вылить яичную смесь, дать немного схватиться.",
+            "image": null
+        },
+        {
+            "text": "Выложить по центру мелко нарезанный сыр, лопаточкой загнуть края омлета к центру в форме конверта, закрыть крышкой и запечь.",
+            "image": null
+        },
+        {
+            "text": "Разрезать ржаную булочку и омлет пополам, смазать одну половинку булочки томатной пастой, положить кусочки перца, тонко нарезанные кольца помидора, кусочек омлета, сделать еще один такой же сэндвич американский с сыром и яйцом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды с помидорами",
+            "slug": "buterbrody-s-pomidorami"
+        },
+        {
+            "name": "Бутерброды с помидорами и сыром",
+            "slug": "buterbrody-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Бутерброды с яйцом",
+            "slug": "buterbrody-s-yaycom"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Закрытые бутерброды",
+            "slug": "zakrytye-buterbrody"
+        },
+        {
+            "name": "Сэндвич с сыром",
+            "slug": "sendvich-s-syrom"
+        },
+        {
+            "name": "Сэндвич с яйцом",
+            "slug": "sendvich-s-yaycom"
+        },
+        {
+            "name": "Сэндвичи",
+            "slug": "sendvichi"
+        }
+    ]
+}

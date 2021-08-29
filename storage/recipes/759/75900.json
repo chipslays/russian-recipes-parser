@@ -1,0 +1,155 @@
+{
+    "source": "https://vkuso.ru/recipe/rassolnik-s-pochkami-i-chesnokom/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Рассольник с почками и чесноком",
+    "description": "Еще один классический вариант супа с солеными огурцами.",
+    "note": "При подаче украсить мясной рассольник свежей зеленью.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/40/ae82adb6dda0340_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/yZ_9KCivZRc?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "свинина",
+                    "slug": "svinina",
+                    "notes": " (говядина)",
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы соленые",
+                    "slug": "ogurcy-solenye",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "говяжьи почки",
+                    "slug": "govyaji-pochki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка сушеная",
+                    "slug": "petrushka-sushenaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "масло подсолнечное",
+                    "slug": "maslo-podsolnechnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Свиное или говяжье мясо, почку нарезать кусочками и отварить до готовности.",
+            "image": null
+        },
+        {
+            "text": "Очистить и нарезать репчатый лук, морковь и чеснок.",
+            "image": null
+        },
+        {
+            "text": "Ингредиенты выложить на разогретую сковороду с маслом, время пассировки – три минуты.",
+            "image": null
+        },
+        {
+            "text": "В бульон добавить томатную пасту и муку, смесь поварить на тихом огне.",
+            "image": null
+        },
+        {
+            "text": "В кипящий суп всыпать нарезанные соленые огурцы и картофель, добавить обжарку.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Рассольник",
+            "slug": "rassolnik"
+        },
+        {
+            "name": "Рассольник домашний",
+            "slug": "rassolnik-domashniy"
+        },
+        {
+            "name": "Рассольник с почками",
+            "slug": "rassolnik-s-pochkami"
+        },
+        {
+            "name": "Суп из свинины",
+            "slug": "sup-iz-svininy"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        }
+    ]
+}

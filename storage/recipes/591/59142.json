@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/italyanskie-pirozhki-s-rikottoj-i-pomidorami/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Итальянские пирожки с рикоттой и помидорами",
+    "description": "Рикотта – итальянский молочный продукт, который часто называют сыром, хотя это неправильно. Он готовится из сыворотки, которая остается после приготовления Моцареллы. Продукт сладковат на вкус, малокалориен.",
+    "note": "В начинку можно добавить нарезанный сладкий болгарский перец.",
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/59/813fc835baf0259_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "тесто слоеное",
+                    "slug": "testo-sloenoe",
+                    "notes": null,
+                    "value": "500-700",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр рикотта",
+                    "slug": "syr-rikotta",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "базилик",
+                    "slug": "bazilik",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Помидоры нарезать мелким квадратиками, смешать с рубленым базиликом, добавить молотый перец, соль, итальянские травы. Добавить рикотту.",
+            "image": null
+        },
+        {
+            "text": "Готовое слоеное тесто разрезать на квадраты, смазать чуть взбитым желтком. Выложить начинку, скрепить края, начинка должна остаться открытой.",
+            "image": null
+        },
+        {
+            "text": "Печь итальянские пирожки с рикоттой в течение 20–25 минут при температуре 200 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из слоеного теста",
+            "slug": "vypechka-iz-sloenogo-testa"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки без дрожжей",
+            "slug": "pirojki-bez-drojjey"
+        },
+        {
+            "name": "Пирожки в духовке",
+            "slug": "pirojki-v-duhovke"
+        },
+        {
+            "name": "Пирожки с сыром",
+            "slug": "pirojki-s-syrom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Слоеные пирожки",
+            "slug": "sloenye-pirojki"
+        }
+    ]
+}

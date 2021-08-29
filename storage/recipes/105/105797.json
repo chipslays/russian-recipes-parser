@@ -1,0 +1,203 @@
+{
+    "source": "https://vkuso.ru/recipe/105797-salat-cezar-s-kuricej-vetchinoj-i-pekinskoj-kapustoj/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Цезарь» с курицей, ветчиной и пекинской капустой",
+    "description": "Блюдо для любителей мяса.",
+    "note": "Остатки сухариков выложить поверх готового салата для украшения.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/90/5b2f3a164756690_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/Z-s7-nNwQzI?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "550",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "капуста пекинская",
+                    "slug": "kapusta-pekinskaya",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб",
+                    "slug": "hleb",
+                    "notes": null,
+                    "value": "190",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": "165",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Хлеб нарезать кубиками, прогреть в духовке при температуре 180 градусов.",
+            "image": null
+        },
+        {
+            "text": "Вынуть подрумяненные гренки, остудить.",
+            "image": null
+        },
+        {
+            "text": "Нарезать кубиками куриную грудку и ветчину, жарить на растительном масле до получения золотистого оттенка.",
+            "image": null
+        },
+        {
+            "text": "Пекинскую капусту нарезать кубиками, высыпать в миску.",
+            "image": null
+        },
+        {
+            "text": "Выложить курицу, часть сухариков и ветчину.",
+            "image": null
+        },
+        {
+            "text": "Перец молотый и соль – по вкусу, заправить салат майонезом. Перемешать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Классические салаты",
+            "slug": "klassicheskie-salaty"
+        },
+        {
+            "name": "Мясные салаты на Новый год",
+            "slug": "myasnye-salaty-na-noviy-god"
+        },
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новогодний салат с курицей",
+            "slug": "novogodniy-salat-s-kuricey"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из капусты",
+            "slug": "salat-iz-kapusty"
+        },
+        {
+            "name": "Салат из пекинской капусты",
+            "slug": "salat-iz-pekinskoy-kapusty"
+        },
+        {
+            "name": "Салат с ветчиной",
+            "slug": "salat-s-vetchinoy"
+        },
+        {
+            "name": "Салат с куриным филе",
+            "slug": "salat-s-kurinym-file"
+        },
+        {
+            "name": "Салат с курицей",
+            "slug": "salat-s-kuricey"
+        },
+        {
+            "name": "Салат с курицей и капустой",
+            "slug": "salat-s-kuricey-i-kapustoy"
+        },
+        {
+            "name": "Салат с курицей и овощами",
+            "slug": "salat-s-kuricey-i-ovoschami"
+        },
+        {
+            "name": "Салат с курицей и пекинской капустой",
+            "slug": "salat-s-kuricey-i-pekinskoy-kapustoy"
+        },
+        {
+            "name": "Салат с пекинской капустой и ветчиной",
+            "slug": "salat-s-pekinskoy-kapustoy-i-vetchinoy"
+        },
+        {
+            "name": "Салат Цезарь",
+            "slug": "salat-cezar"
+        },
+        {
+            "name": "Салат Цезарь с курицей",
+            "slug": "salat-cezar-s-kuricey"
+        },
+        {
+            "name": "Салат Цезарь с курицей и сухариками",
+            "slug": "salat-cezar-s-kuricey-i-suharikami"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        }
+    ]
+}

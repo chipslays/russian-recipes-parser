@@ -1,0 +1,139 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-lobio-iz-fasoli-s-orexami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат Лобио из фасоли с орехами",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f1/5372254df21bbf1_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "фасоли",
+                    "slug": "fasoli",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "очищенных грецких орехов",
+                    "slug": "ochischennyh-greckih-orehov",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "растительного масла",
+                    "slug": "rastitelnogo-masla",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснока",
+                    "slug": "chesnoka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "черного молотого перца",
+                    "slug": "chernogo-molotogo-perca",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Замочить любую фасоль в воде минимум на 4 часа, воду отцедить, переложить в кастрюлю, залить кипятком, отварить до готовности не закрывая крышкой, фасоль должна стать мягкой, но не развариться.",
+            "image": null
+        },
+        {
+            "text": "Нарезать лук на мелкие кубики и поджарить на растительном масле, орехи измельчить в блендере, смешать фасоль с луком, добавить растертый чеснок, орехи, заправить перцем, солью и хорошо перемешать.",
+            "image": null
+        },
+        {
+            "text": "Подавать салат Лобио из фасоли с орехами охлажденным.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Лобио",
+            "slug": "lobio"
+        },
+        {
+            "name": "Постные блюда из фасоли",
+            "slug": "postnye-blyuda-iz-fasoli"
+        },
+        {
+            "name": "Постные салаты",
+            "slug": "postnye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат с грецкими орехами",
+            "slug": "salat-s-greckimi-orehami"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с орехами",
+            "slug": "salat-s-orehami"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салат с фасолью",
+            "slug": "salat-s-fasolyu"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        }
+    ]
+}

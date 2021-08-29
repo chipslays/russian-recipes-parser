@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/myaso-v-gorshochkax-po-skandinavski/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Мясо в горшочках по-скандинавски",
+    "description": null,
+    "note": null,
+    "cuisine": "Скандинавская кухня",
+    "cuisine_slug": "skandinavskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ab/6b639f7a51fa7ab_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "говяжьей вырезки",
+                    "slug": "govyajey-vyrezki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "шпика",
+                    "slug": "shpika",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "маргарина",
+                    "slug": "margarina",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "горчицы",
+                    "slug": "gorchicy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "10",
+                    "type": "клубней",
+                    "amount": null
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать мелкими кубиками шпик, обжарить и выложить на дно керамического горшочка.",
+            "image": null
+        },
+        {
+            "text": "Отбить нарезанное кусочками мясо, смазать каждый горчицей, дать постоять, обжарить на маргарине с двух сторон.",
+            "image": null
+        },
+        {
+            "text": "Нашинковать лук полукольцами, картофель порезать кубиками и положить на шпик, посолить, поперчить.",
+            "image": null
+        },
+        {
+            "text": "Мясо уложить на картофель, залить бульоном, бросить лавровый лист, разогреть духовку до средней температуры и поставить горшочки на 30-40 минут.",
+            "image": null
+        },
+        {
+            "text": "На стол поставить мясо в горшочках по-скандинавски, а рядом глубокую тарелку, чтобы при желании можно было переложить в нее блюдо.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В горшочках",
+            "slug": "v-gorshochkah"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из говядины",
+            "slug": "vtorye-blyuda-iz-govyadiny"
+        },
+        {
+            "name": "Вторые блюда из картофеля",
+            "slug": "vtorye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Говядина в горшочках",
+            "slug": "govyadina-v-gorshochkah"
+        },
+        {
+            "name": "Говядина в духовке",
+            "slug": "govyadina-v-duhovke"
+        },
+        {
+            "name": "Говядина с овощами",
+            "slug": "govyadina-s-ovoschami"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Картошка с мясом в духовке",
+            "slug": "kartoshka-s-myasom-v-duhovke"
+        },
+        {
+            "name": "Мясо в горшочках",
+            "slug": "myaso-v-gorshochkah"
+        },
+        {
+            "name": "Мясо в духовке",
+            "slug": "myaso-v-duhovke"
+        },
+        {
+            "name": "Мясо с овощами в горшочках",
+            "slug": "myaso-s-ovoschami-v-gorshochkah"
+        },
+        {
+            "name": "Ужин из говядины",
+            "slug": "ujin-iz-govyadiny"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "source": "https://vkuso.ru/recipe/kabachkovyj-sup-pyure-s-seldereem-i-lukom-poreem/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Кабачковый суп-пюре с сельдереем и луком-пореем",
+    "description": "Ингредиенты для этого блюда можно купить в любом магазине.",
+    "note": "Подать суп к столу можно с домашними сухариками.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f4/9be3d335c0ee4f4_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кабачки",
+                    "slug": "kabachki",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "корень сельдерея",
+                    "slug": "koren-seldereya",
+                    "notes": null,
+                    "value": "½",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": "2",
+                    "type": "пучка",
+                    "amount": null
+                },
+                {
+                    "name": "лук-порей",
+                    "slug": "luk-porey",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стебель",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "5",
+                    "type": "зубчиков",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать крупно кабачки и сладкий болгарский перец, картофель, морковь, сельдерей.",
+            "image": null
+        },
+        {
+            "text": "Лук-порей нашинковать полукольцами.",
+            "image": null
+        },
+        {
+            "text": "Налить в кастрюлю растительное масло, добавить лук и все остальные овощи, жарить семь минут.",
+            "image": null
+        },
+        {
+            "text": "Влить 3 литра воды, прогревать до готовности овощей.",
+            "image": null
+        },
+        {
+            "text": "Взбить готовые овощи блендером.",
+            "image": null
+        },
+        {
+            "text": "Всыпать рубленый чеснок, молотый перец, соль, лавровый лист, петрушку.",
+            "image": null
+        },
+        {
+            "text": "Все вместе прокипятить в течение трех минут, снять с огня.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Крем-суп",
+            "slug": "krem-sup"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Постные блюда из кабачков",
+            "slug": "postnye-blyuda-iz-kabachkov"
+        },
+        {
+            "name": "Постные блюда из картофеля",
+            "slug": "postnye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Постный крем-суп",
+            "slug": "postniy-krem-sup"
+        },
+        {
+            "name": "Постный овощной суп",
+            "slug": "postniy-ovoschnoy-sup"
+        },
+        {
+            "name": "Постный суп",
+            "slug": "postniy-sup"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из кабачков",
+            "slug": "sup-iz-kabachkov"
+        },
+        {
+            "name": "Суп из сельдерея",
+            "slug": "sup-iz-seldereya"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Суп-пюре овощной",
+            "slug": "sup-pyure-ovoschnoy"
+        }
+    ]
+}

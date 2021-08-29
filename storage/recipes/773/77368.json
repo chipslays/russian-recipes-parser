@@ -1,0 +1,180 @@
+{
+    "source": "https://vkuso.ru/recipe/77368-ponchiki-s-glazuryu/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пончики с глазурью",
+    "description": "Очень воздушные, тающие во рту.",
+    "note": "Не складывайте горячие кольца один на один, иначе они помнутся и не будут воздушными и красивыми.",
+    "cuisine": "Испанская кухня",
+    "cuisine_slug": "ispanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e4/30551afdf5270e4_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "20 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/-qFqIE0qp9E?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 15 порции",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": " (стакан 250 мл)",
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца куриные",
+                    "slug": "yayca-kurinye",
+                    "notes": " (3 яйца + 2 белка)",
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Глазурь",
+            "list": [
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мед жидкий",
+                    "slug": "med-jidkiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В воду добавить сахар, соль, сливочное масло. Поставить закипеть. Быстро добавить муку, ложкой размешать. Оставить на маленьком огне на 1 минуту и постоянно перемешивать, чтобы не было комочков.",
+            "image": null
+        },
+        {
+            "text": "Немного остудить, чтобы масса была приятно теплая, но не горячая.",
+            "image": null
+        },
+        {
+            "text": "Добавить по одному яйца, затем белки. Взбивать все миксером. Масло подогреть но не сильно.",
+            "image": null
+        },
+        {
+            "text": "Вырезать квадратики из пергамента. Тесто переложить в кондитерский мешок и отсадить колечки на пергаменте. Опустить колечки аккуратно в масло вместе с пергаментом. Убрать бумагу. Жарить, на небольшом огне, с обеих сторон, до румяного цвета. Выложить колечки на бумажное полотенце и дать им остыть.",
+            "image": null
+        },
+        {
+            "text": "Смешиваем сахарную пудру, молоко и жидкий мед. Этой глазурью поливаем охлажденные колечки. Это очень вкусно. Мои не могли дождаться пока я глазурью полью, кушали их просто так.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Выпечка на молоке",
+            "slug": "vypechka-na-moloke"
+        },
+        {
+            "name": "Выпечка с медом",
+            "slug": "vypechka-s-medom"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Детский праздник",
+            "slug": "detskiy-prazdnik"
+        },
+        {
+            "name": "Жареные блюда",
+            "slug": "jarenye-blyuda"
+        },
+        {
+            "name": "Пончики",
+            "slug": "ponchiki"
+        },
+        {
+            "name": "Пончики без дрожжей",
+            "slug": "ponchiki-bez-drojjey"
+        },
+        {
+            "name": "Пончики на молоке",
+            "slug": "ponchiki-na-moloke"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        },
+        {
+            "name": "Хэллоуин",
+            "slug": "hellouin"
+        }
+    ]
+}

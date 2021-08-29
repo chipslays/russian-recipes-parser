@@ -1,0 +1,155 @@
+{
+    "source": "https://vkuso.ru/recipe/testo-na-smetane-i-kefire-dlya-pirozhkov/",
+    "category": "Тесто домашнее",
+    "category_slug": "testo-domashnee",
+    "title": "Тесто на сметане и кефире для пирожков",
+    "description": "Приготовление такого теста не требует особых кулинарных способностей.",
+    "note": "Из такого теста можно приготовить нежные булочки или пирожки с любой начинкой.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/fa/8b046475104a5fa_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/sUWLCNXepGU?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Муку просеять через сито два раза.",
+            "image": null
+        },
+        {
+            "text": "Сделать ямку, вбить сырые яйца, всыпать соль и разрыхлитель, добавить нежирную сметану.",
+            "image": null
+        },
+        {
+            "text": "Тесто вымесить.",
+            "image": null
+        },
+        {
+            "text": "Подливать кефир порциями.",
+            "image": null
+        },
+        {
+            "text": "Готовое тесто должно получиться средней плотности.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Тесто домашнее",
+            "slug": "testo-domashnee"
+        },
+        {
+            "name": "Бездрожжевое тесто",
+            "slug": "bezdrojjevoe-testo"
+        },
+        {
+            "name": "Пресное тесто",
+            "slug": "presnoe-testo"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сдобное тесто",
+            "slug": "sdobnoe-testo"
+        },
+        {
+            "name": "Тесто для булочек",
+            "slug": "testo-dlya-bulochek"
+        },
+        {
+            "name": "Тесто для пирожков",
+            "slug": "testo-dlya-pirojkov"
+        },
+        {
+            "name": "Тесто для пирожков без дрожжей",
+            "slug": "testo-dlya-pirojkov-bez-drojjey"
+        },
+        {
+            "name": "тесто домашнее",
+            "slug": "testo-domashnee"
+        },
+        {
+            "name": "Тесто на кефире",
+            "slug": "testo-na-kefire"
+        },
+        {
+            "name": "Тесто на кефире без дрожжей",
+            "slug": "testo-na-kefire-bez-drojjey"
+        },
+        {
+            "name": "Тесто на кефире для пирожков",
+            "slug": "testo-na-kefire-dlya-pirojkov"
+        },
+        {
+            "name": "Тесто на сметане",
+            "slug": "testo-na-smetane"
+        }
+    ]
+}

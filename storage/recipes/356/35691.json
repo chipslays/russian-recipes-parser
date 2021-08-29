@@ -1,0 +1,225 @@
+{
+    "source": "https://vkuso.ru/recipe/blinnyj-pirog-s-tvorogom-v-zalivke/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Блинный пирог с творогом в заливке",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/28/31006b32c4f2128_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кефир 1%",
+                    "slug": "kefir-1",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "мука овсяная",
+                    "slug": "muka-ovsyanaya",
+                    "notes": null,
+                    "value": "63",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для блинов",
+            "list": [
+                {
+                    "name": "творог обезжиренный",
+                    "slug": "tvorog-obezjirenniy",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "курага/изюм",
+                    "slug": "kuraga-izyum",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "йогурт натуральный",
+                    "slug": "yogurt-naturalniy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить блины: перемолоть хлопья в порошок, взбить яйцо и соль. Налить воду и теплый кефир. Насыпать перемолотые хлопья. Все взбить. Готовить на сухой сковороде. Приготовить начинку: растереть творог, яйцо, ванилин, подсластитель, измельченную курагу. Перемешать. Положить чуть-чуть начинки на блин, свернуть в виде рулетика.",
+            "image": null
+        },
+        {
+            "text": "Намазать маслом форму. Выложить начиненные блины по спирали. Сделать заливку: чуть-чуть взбить яйца и подсластитель, положить йогурт, перемешать до однородности. Вылить заливку на блины, отправить блинный пирог в духовку на 30-35 минут, соблюдать температуру 190 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Блинный пирог",
+            "slug": "blinniy-pirog"
+        },
+        {
+            "name": "Блинчики на кефире",
+            "slug": "blinchiki-na-kefire"
+        },
+        {
+            "name": "Блины",
+            "slug": "bliny"
+        },
+        {
+            "name": "Блины без молока",
+            "slug": "bliny-bez-moloka"
+        },
+        {
+            "name": "Блины на кефире",
+            "slug": "bliny-na-kefire"
+        },
+        {
+            "name": "Блины с творогом",
+            "slug": "bliny-s-tvorogom"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка на кефире",
+            "slug": "vypechka-na-kefire"
+        },
+        {
+            "name": "Выпечка с изюмом",
+            "slug": "vypechka-s-izyumom"
+        },
+        {
+            "name": "Выпечка с сухофруктами",
+            "slug": "vypechka-s-suhofruktami"
+        },
+        {
+            "name": "Заливной пирог",
+            "slug": "zalivnoy-pirog"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог на кефире",
+            "slug": "pirog-na-kefire"
+        },
+        {
+            "name": "Пирог на кефире в духовке",
+            "slug": "pirog-na-kefire-v-duhovke"
+        },
+        {
+            "name": "Пирог с изюмом",
+            "slug": "pirog-s-izyumom"
+        },
+        {
+            "name": "Пирог с курагой",
+            "slug": "pirog-s-kuragoy"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги с начинкой",
+            "slug": "pirogi-s-nachinkoy"
+        },
+        {
+            "name": "Творожный пирог",
+            "slug": "tvorojniy-pirog"
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "source": "https://vkuso.ru/recipe/sup-xarcho-po-gruzinski-s-greckimi-orexami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Суп харчо по-грузински с грецкими орехами",
+    "description": null,
+    "note": null,
+    "cuisine": "Грузинская кухня",
+    "cuisine_slug": "gruzinskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5a/f43fb3493c7255a_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "говядина(на косточке)",
+                    "slug": "govyadina-na-kostochke",
+                    "notes": null,
+                    "value": "800",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грецкие орехи",
+                    "slug": "greckie-orehi",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "аджика острая",
+                    "slug": "adjika-ostraya",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "специи для харчо",
+                    "slug": "specii-dlya-harcho",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сварить мясо: положить его в холодную воду, варить 60 минут периодически снимая пенку. Посолить. Готовое мясо порезать на кусочки и положить снова в кастрюлю.",
+            "image": null
+        },
+        {
+            "text": "Нарезать и обжарить лук. Положить томатную пасту или тертые помидоры, измельченный чеснок, приправы, аджику, все обжаривать 5 минут.",
+            "image": null
+        },
+        {
+            "text": "Промыть рис и добавить в кастрюлю. Минут через 20 заправить супчик зажаркой.  Готовить еще 5 минут. Положить в  суп харчо по-грузински, грецкие орешки. Дать супу настояться.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рис с мясом",
+            "slug": "ris-s-myasom"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп из говядины",
+            "slug": "sup-iz-govyadiny"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Суп с рисом",
+            "slug": "sup-s-risom"
+        },
+        {
+            "name": "Суп Харчо",
+            "slug": "sup-harcho"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Супы с крупами",
+            "slug": "supy-s-krupami"
+        },
+        {
+            "name": "Харчо из говядины",
+            "slug": "harcho-iz-govyadiny"
+        },
+        {
+            "name": "Харчо по-грузински",
+            "slug": "harcho-po-gruzinski"
+        }
+    ]
+}

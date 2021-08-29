@@ -1,0 +1,168 @@
+{
+    "source": "https://vkuso.ru/recipe/semga-s-sousom-iz-chesnoka-i-bazilika/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Семга с соусом из чеснока и базилика",
+    "description": null,
+    "note": "В качестве гарнира можно подать рис, картофель или салат из овощей.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f3/5d799877a8d39f3_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "семга",
+                    "slug": "semga",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стейка",
+                    "amount": null
+                },
+                {
+                    "name": "розмарин свежий",
+                    "slug": "rozmarin-svejiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "веточка",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для соуса",
+            "list": [
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "базилик",
+                    "slug": "bazilik",
+                    "notes": null,
+                    "value": "4",
+                    "type": "веточки",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Включить для прогревания до 180 градусов духовку.",
+            "image": null
+        },
+        {
+            "text": "Разрезать пополам пару-тройку больших головок чеснока, положить на фольгу, побрызгать маслом, посолить, завернуть, но не плотно, а чтобы выходил пар, запекать 25 минут.",
+            "image": null
+        },
+        {
+            "text": "Удалить с чеснока шелуху, измельчить блендером с базиликом и оливковым маслом, посолить, соус готов.",
+            "image": null
+        },
+        {
+            "text": "Стейки без кожи обжарить по 2-3 минуты с каждой стороны в оливковом масле с добавлением веточки розмарина, полить лимонным соком, готовить до золотистой корочки.",
+            "image": null
+        },
+        {
+            "text": "Со второй стороны обжаривать на малом огне.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Вторые блюда из рыбы",
+            "slug": "vtorye-blyuda-iz-ryby"
+        },
+        {
+            "name": "Горячие блюда на день рождения",
+            "slug": "goryachie-blyuda-na-den-rojdeniya"
+        },
+        {
+            "name": "Горячие блюда на праздничный стол",
+            "slug": "goryachie-blyuda-na-prazdnichniy-stol"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Жареные блюда",
+            "slug": "jarenye-blyuda"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рыба жареная",
+            "slug": "ryba-jarenaya"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

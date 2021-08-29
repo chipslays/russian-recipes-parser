@@ -1,0 +1,107 @@
+{
+    "source": "https://vkuso.ru/recipe/klyukvennyj-kompot-s-lyuboj-smorodinoj/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Клюквенный компот с любой смородиной",
+    "description": "Еще один вариант вкусного напитка, его можно сварить из свежих или размороженных ягод.",
+    "note": "Точно так же можно приготовить напиток в мультиварке: ингредиенты поместить в чашу, выставить режим «Суп» на полчаса.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/6c/b8e9e2c53d1146c_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "3",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "клюква",
+                    "slug": "klyukva",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "смородина",
+                    "slug": "smorodina",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Влить воду в кастрюлю, всыпать сахарный песок по вкусу, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Жидкость должна закипеть.",
+            "image": null
+        },
+        {
+            "text": "Добавить любую смородину и клюкву.",
+            "image": null
+        },
+        {
+            "text": "Ягоды должны быть чистыми, хорошо промытыми, без мусора.",
+            "image": null
+        },
+        {
+            "text": "Варить компот десять минут, затем остудить.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Домашний компот",
+            "slug": "domashniy-kompot"
+        },
+        {
+            "name": "Компот из клюквы",
+            "slug": "kompot-iz-klyukvy"
+        },
+        {
+            "name": "Компот из смородины",
+            "slug": "kompot-iz-smorodiny"
+        },
+        {
+            "name": "Напитки для детей",
+            "slug": "napitki-dlya-detey"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

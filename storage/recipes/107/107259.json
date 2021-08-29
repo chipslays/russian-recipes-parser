@@ -1,0 +1,216 @@
+{
+    "source": "https://vkuso.ru/recipe/107259-vinegret-s-krasnokochannoj-kapustoj-i-solenymi-ogurcami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Винегрет с краснокочанной капустой и солеными огурцами",
+    "description": "Вкус блюда не с белокочанной, а с краснокочанной капустой приобретет новые нотки.",
+    "note": "По желанию добавить в салат зеленый консервированный горошек.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/9a/4a71fdb39459e9a_660x440.png",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/9OGqlDtHC6k?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "капуста краснокочанная",
+                    "slug": "kapusta-krasnokochannaya",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "грибы соленые",
+                    "slug": "griby-solenye",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы соленые",
+                    "slug": "ogurcy-solenye",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "свекла",
+                    "slug": "svekla",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для заправки",
+            "list": [
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "70",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "горчица",
+                    "slug": "gorchica",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить морковь, картофель, свеклу, охладить, очистить, нарезать небольшими кубиками.",
+            "image": null
+        },
+        {
+            "text": "Нашинковать краснокочанную капусту, посолить и помять руками.",
+            "image": null
+        },
+        {
+            "text": "Затем полить продукт лимонным соком, уксусом, оставить на десять минут для пропитывания.",
+            "image": null
+        },
+        {
+            "text": "Соленые огурцы очистить от кожицы, нарезать мелкими кубиками.",
+            "image": null
+        },
+        {
+            "text": "Нарезать соломкой соленые грибы.",
+            "image": null
+        },
+        {
+            "text": "Приготовить заправку: растереть горчицу с растительным маслом, добавить соль и сахарный песок, молотый перец.",
+            "image": null
+        },
+        {
+            "text": "Ингредиенты соединить, полить соусом, перемешать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Винегрет",
+            "slug": "vinegret"
+        },
+        {
+            "name": "Винегрет со свежей капустой",
+            "slug": "vinegret-so-svejey-kapustoy"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из капусты",
+            "slug": "salat-iz-kapusty"
+        },
+        {
+            "name": "Салат из капусты и огурцов",
+            "slug": "salat-iz-kapusty-i-ogurcov"
+        },
+        {
+            "name": "Салат из свежей капусты и моркови",
+            "slug": "salat-iz-svejey-kapusty-i-morkovi"
+        },
+        {
+            "name": "Салат из свеклы",
+            "slug": "salat-iz-svekly"
+        },
+        {
+            "name": "Салат с грибами",
+            "slug": "salat-s-gribami"
+        },
+        {
+            "name": "Салат с картофелем",
+            "slug": "salat-s-kartofelem"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салат с солеными огурцами",
+            "slug": "salat-s-solenymi-ogurcami"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        }
+    ]
+}

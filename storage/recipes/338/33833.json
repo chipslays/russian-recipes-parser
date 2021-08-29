@@ -1,0 +1,196 @@
+{
+    "source": "https://vkuso.ru/recipe/tortik-iz-blinov-s-shokoladnym-kremom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Тортик из блинов с шоколадным кремом",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/20/4fdad890073fe20_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "200-220",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "160",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "свекольный сок",
+                    "slug": "svekolniy-sok",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для крема",
+            "list": [
+                {
+                    "name": "апельсины",
+                    "slug": "apelsiny",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад белый",
+                    "slug": "shokolad-beliy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "плитка",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Взбить яйца, соль, сахар и разрыхлитель. Налить молоко, свекольный сок или пюре, размешать при помощи венчика. Насыпать муку, размешать. Налить растительное масло, замесить тесто. Испечь блинчики на сухой разогретой сковороде.",
+            "image": null
+        },
+        {
+            "text": "Измельчить в блендере очищенный апельсин, положить яблоко, почищенное и потертое. Насыпать сахар. Поставить на огонь, тушить минут шесть. Добавить сливочное масло и разломанный шоколад. Непрерывно помешивая, нагревать, пока не растает шоколад. Остудить крем.",
+            "image": null
+        },
+        {
+            "text": "Положить блины стопочкой, каждый промазывать кремом. Поставить тортик из блинов с шоколадным кремом часа на три в холодильник. Украсить можно потертым черным или молочным шоколадом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блинный торт",
+            "slug": "blinniy-tort"
+        },
+        {
+            "name": "Блины",
+            "slug": "bliny"
+        },
+        {
+            "name": "Блины на молоке",
+            "slug": "bliny-na-moloke"
+        },
+        {
+            "name": "Выпечка с апельсинами",
+            "slug": "vypechka-s-apelsinami"
+        },
+        {
+            "name": "Выпечка с шоколадом",
+            "slug": "vypechka-s-shokoladom"
+        },
+        {
+            "name": "Выпечка с яблоками",
+            "slug": "vypechka-s-yablokami"
+        },
+        {
+            "name": "Кремовый торт",
+            "slug": "kremoviy-tort"
+        },
+        {
+            "name": "Масленица",
+            "slug": "maslenica"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Торт на сковороде",
+            "slug": "tort-na-skovorode"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        }
+    ]
+}

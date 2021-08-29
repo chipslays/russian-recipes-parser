@@ -1,0 +1,103 @@
+{
+    "source": "https://vkuso.ru/recipe/prostoj-plavlenyj-syr-iz-tvoroga/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Простой плавленый сыр из творога",
+    "description": "Все знают, еще с советских времен, сыр «Янтарь». В те времена, когда разнообразие продуктов на прилавках было невелико, он считался лакомством. Этот продукт можно сделать в домашних условиях, он будет очень похож на вкус, но гораздо полезнее: ведь в нем не будет консервантов.",
+    "note": "Такой сыр можно использовать для приготовления бутербродов или сырного супа с овощами, грибами, зеленью и гренками.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/4d/09d51dbe311ac4d_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Взбить с помощью блендера протертый творог, мягкое сливочное масло, соль и соду. Масса должна стать однородной. Варить на водяной бане, помешивать, прогревать до тех пор, пока смесь не начнет плавиться.",
+            "image": null
+        },
+        {
+            "text": "Форму для сыра смазать растопленным сливочным маслом, вылить горячую сырную смесь. Убрать плавленый сыр из творога в прохладное место на 8–10 часов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Закуски с творогом",
+            "slug": "zakuski-s-tvorogom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сыр домашний",
+            "slug": "syr-domashniy"
+        },
+        {
+            "name": "Сыр из творога",
+            "slug": "syr-iz-tvoroga"
+        }
+    ]
+}

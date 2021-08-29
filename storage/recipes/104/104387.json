@@ -1,0 +1,203 @@
+{
+    "source": "https://vkuso.ru/recipe/104387-svinaya-otbivnaya-kotleta-v-panirovke-tonkacu/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Свиная отбивная котлета в панировке Тонкацу",
+    "description": "Тонкацу - свиная котлета в панировке, обжаренная во фритюре или на сковороде с большим количеством масла. Котлета получается хрустящей снаружи и сочной внутри. Готовится легко и быстро",
+    "note": null,
+    "cuisine": "Японская кухня",
+    "cuisine_slug": "yaponskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/74/699ca8e23bd1374_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/dP0e7BwFa4o?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "свинина",
+                    "slug": "svinina",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца куриные",
+                    "slug": "yayca-kurinye",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сухари панировочные",
+                    "slug": "suhari-panirovochnye",
+                    "notes": " (панко или темпура)",
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отбить с двух сторон свинину.",
+            "image": null
+        },
+        {
+            "text": "Посолить, поперчить, обвалять в муке, затем в яйце и после в панировочных сухарях.",
+            "image": null
+        },
+        {
+            "text": "Разогреть в сковороде масло (нагрев можно проверить кинув кусочек панировочных сухарей, если будет шипеть на поверхности, значит можно жарить)",
+            "image": null
+        },
+        {
+            "text": "Выложить свиные отбивные и обжарить 2 мин с одной стороны, затем 2 мин с другой на сильном огне.",
+            "image": null
+        },
+        {
+            "text": "Перевернуть отбивные, убавить огонь на минимум и обжарить еще по 1-2 мин с каждой стороны.",
+            "image": null
+        },
+        {
+            "text": "Выложить готовые отбивные на бумажное полотенце, чтобы дать лишнему жиру впитаться.\r\nРазрезать на полоски и подавать с любым гарниром.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В панировке",
+            "slug": "v-panirovke"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Вторые блюда из свинины",
+            "slug": "vtorye-blyuda-iz-svininy"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Вторые блюда на скорую руку",
+            "slug": "vtorye-blyuda-na-skoruyu-ruku"
+        },
+        {
+            "name": "Жареная свинина",
+            "slug": "jarenaya-svinina"
+        },
+        {
+            "name": "Жареные блюда",
+            "slug": "jarenye-blyuda"
+        },
+        {
+            "name": "Котлеты",
+            "slug": "kotlety"
+        },
+        {
+            "name": "Котлеты в панировочных сухарях",
+            "slug": "kotlety-v-panirovochnyh-suharyah"
+        },
+        {
+            "name": "Котлеты из свинины",
+            "slug": "kotlety-iz-svininy"
+        },
+        {
+            "name": "Котлеты отбивные",
+            "slug": "kotlety-otbivnye"
+        },
+        {
+            "name": "Мясные котлеты",
+            "slug": "myasnye-kotlety"
+        },
+        {
+            "name": "Мясо в панировке",
+            "slug": "myaso-v-panirovke"
+        },
+        {
+            "name": "Мясо на сковороде",
+            "slug": "myaso-na-skovorode"
+        },
+        {
+            "name": "Отбивные",
+            "slug": "otbivnye"
+        },
+        {
+            "name": "Отбивные из свинины",
+            "slug": "otbivnye-iz-svininy"
+        },
+        {
+            "name": "Отбивные на сковороде",
+            "slug": "otbivnye-na-skovorode"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Свинина на сковороде",
+            "slug": "svinina-na-skovorode"
+        },
+        {
+            "name": "Сковорода",
+            "slug": "skovoroda"
+        },
+        {
+            "name": "Сочные отбивные из свинины на сковороде",
+            "slug": "sochnye-otbivnye-iz-svininy-na-skovorode"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из свинины",
+            "slug": "ujin-iz-svininy"
+        },
+        {
+            "name": "Фритюр",
+            "slug": "frityur"
+        }
+    ]
+}

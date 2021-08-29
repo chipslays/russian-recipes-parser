@@ -1,0 +1,91 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnee-dieticheskoe-morozhenoe/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Домашнее диетическое мороженое",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/04/e757706e225fb04_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "обезжиренного творога",
+                    "slug": "obezjirennogo-tvoroga",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кефира 1%",
+                    "slug": "kefira-1",
+                    "notes": null,
+                    "value": "150",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "клубники",
+                    "slug": "klubniki",
+                    "notes": null,
+                    "value": "130",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "минеральной воды",
+                    "slug": "mineralnoy-vody",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "изюма",
+                    "slug": "izyuma",
+                    "notes": null,
+                    "value": "15",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В чашу блендера влить минеральную воду и кефир, добавить к ним нежирный творог, изюм и замороженную клубнику, тщательно взбить все ингредиенты блендером, после чего разлить по формочкам.",
+            "image": null
+        },
+        {
+            "text": "Будущее домашнее диетическое мороженое убрать до полного застывания в морозилку.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетические десерты",
+            "slug": "dieticheskie-deserty"
+        },
+        {
+            "name": "Домашнее мороженое",
+            "slug": "domashnee-morojenoe"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        }
+    ]
+}

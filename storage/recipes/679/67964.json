@@ -1,0 +1,216 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-svinka-s-tuncom-risom-i-krabovymi-palochkami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Свинка» с тунцом, рисом и крабовыми палочками",
+    "description": "Оригинальный салат с крабовыми палочками.",
+    "note": "Салат можно украсить листочками петрушки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/16/c0e05815da7c416_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/ApYi35-2XJU?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы соленые",
+                    "slug": "ogurcy-solenye",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "крабовые палочки",
+                    "slug": "krabovye-palochki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пачка",
+                    "amount": null
+                },
+                {
+                    "name": "тунец",
+                    "slug": "tunec",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        },
+        {
+            "name": "Для украшения",
+            "list": [
+                {
+                    "name": "маслины",
+                    "slug": "masliny",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "колбаса",
+                    "slug": "kolbasa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Репчатый лук нашинковать, обжарить до готовности в масле на сковороде.",
+            "image": null
+        },
+        {
+            "text": "Отварить рис. Если в него добавить немного свекольного сока, то продукт станет приятного розового цвета.",
+            "image": null
+        },
+        {
+            "text": "Нарезать отваренные яйца, соленые огурцы, крабовые палочки.",
+            "image": null
+        },
+        {
+            "text": "Открыть банку с консервами, жидкость слить, рыбу размять вилкой.",
+            "image": null
+        },
+        {
+            "text": "Все продукты перемешать, заправить майонезом, выложить на блюдо, сверху – розовый рис.",
+            "image": null
+        },
+        {
+            "text": "Глаза сделать из яйца и маслин, пятачок и ушки – из колбасы или ветчины.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Крабовый салат на Новый Год",
+            "slug": "kraboviy-salat-na-noviy-god"
+        },
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новогодний салат Свинка",
+            "slug": "novogodniy-salat-svinka"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рыба на Новый год",
+            "slug": "ryba-na-noviy-god"
+        },
+        {
+            "name": "Рыбный салат с рисом",
+            "slug": "rybniy-salat-s-risom"
+        },
+        {
+            "name": "Салат в виде свиньи",
+            "slug": "salat-v-vide-svini"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с крабовыми палочками",
+            "slug": "salat-s-krabovymi-palochkami"
+        },
+        {
+            "name": "Салат с крабовыми палочками и огурцом",
+            "slug": "salat-s-krabovymi-palochkami-i-ogurcom"
+        },
+        {
+            "name": "Салат с крабовыми палочками и рисом",
+            "slug": "salat-s-krabovymi-palochkami-i-risom"
+        },
+        {
+            "name": "Салат с крабовыми палочками и яйцом",
+            "slug": "salat-s-krabovymi-palochkami-i-yaycom"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с огурцом и яйцом",
+            "slug": "salat-s-ogurcom-i-yaycom"
+        },
+        {
+            "name": "Салат с рисом",
+            "slug": "salat-s-risom"
+        },
+        {
+            "name": "Салат с рыбой",
+            "slug": "salat-s-ryboy"
+        },
+        {
+            "name": "Салат с солеными огурцами",
+            "slug": "salat-s-solenymi-ogurcami"
+        },
+        {
+            "name": "Салат с тунцом",
+            "slug": "salat-s-tuncom"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        }
+    ]
+}

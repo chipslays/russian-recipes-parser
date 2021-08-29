@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/105011-ovsyanaya-kasha-s-apelsinami-izyumom-i-medom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Овсяная каша с апельсинами, изюмом и медом",
+    "description": "Ароматное блюдо для яркого начала дня.",
+    "note": "Готовую кашу можно украсить еще одной порцией тертой цедры.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d3/d7a09f6bdecf8d3_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "20 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "400",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "овсяные хлопья",
+                    "slug": "ovsyanye-hlopya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "апельсины",
+                    "slug": "apelsiny",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "изюм",
+                    "slug": "izyum",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Апельсины вымыть, один ошпарить кипящей водой, натереть цедру, выдавить сок.",
+            "image": null
+        },
+        {
+            "text": "Второй апельсин очистить и поделить на дольки.",
+            "image": null
+        },
+        {
+            "text": "В кастрюлю влить сок, выложить цедру, всыпать овсяные хлопья, влить молоко, варить блюдо на тихом огне, помешивать.",
+            "image": null
+        },
+        {
+            "text": "В готовую кашу положить мед, изюм, выложить в тарелки, украсить дольками апельсина.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Геркулесовая каша",
+            "slug": "gerkulesovaya-kasha"
+        },
+        {
+            "name": "Каша",
+            "slug": "kasha"
+        },
+        {
+            "name": "Каша на молоке",
+            "slug": "kasha-na-moloke"
+        },
+        {
+            "name": "Каша с изюмом",
+            "slug": "kasha-s-izyumom"
+        },
+        {
+            "name": "Каши на завтрак",
+            "slug": "kashi-na-zavtrak"
+        },
+        {
+            "name": "Овсяная каша",
+            "slug": "ovsyanaya-kasha"
+        },
+        {
+            "name": "Овсяная каша на завтрак",
+            "slug": "ovsyanaya-kasha-na-zavtrak"
+        },
+        {
+            "name": "Овсянка на завтрак",
+            "slug": "ovsyanka-na-zavtrak"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сладкая каша",
+            "slug": "sladkaya-kasha"
+        }
+    ]
+}

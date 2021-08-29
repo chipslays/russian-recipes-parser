@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/kasha-mannaya-s-konyakom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Каша манная с коньяком",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/fa/03c18798b0362fa_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "10 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "манная крупа",
+                    "slug": "mannaya-krupa",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "коньяк",
+                    "slug": "konyak",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "На маленьком огне довести до кипения молоко.",
+            "image": null
+        },
+        {
+            "text": "Насыпать соль, сахар.",
+            "image": null
+        },
+        {
+            "text": "Тонкой струей добавить в молоко манную крупу, непрерывно помешивать.",
+            "image": null
+        },
+        {
+            "text": "Не переставая мешать, готовить 4 минуты.",
+            "image": null
+        },
+        {
+            "text": "Положить сливочное масло.",
+            "image": null
+        },
+        {
+            "text": "Добавить коньяк, готовить еще минуту.",
+            "image": null
+        },
+        {
+            "text": "Можно подавать кашу манную с коньяком.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Каша",
+            "slug": "kasha"
+        },
+        {
+            "name": "Каша на молоке",
+            "slug": "kasha-na-moloke"
+        },
+        {
+            "name": "Каши на завтрак",
+            "slug": "kashi-na-zavtrak"
+        },
+        {
+            "name": "Манная каша",
+            "slug": "mannaya-kasha"
+        },
+        {
+            "name": "Манная каша на молоке",
+            "slug": "mannaya-kasha-na-moloke"
+        },
+        {
+            "name": "Сладкая каша",
+            "slug": "sladkaya-kasha"
+        }
+    ]
+}

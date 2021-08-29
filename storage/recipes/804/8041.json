@@ -1,0 +1,128 @@
+{
+    "source": "https://vkuso.ru/recipe/kabachki-marinovannye-zakusochnye-po-svetinski/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Кабачки маринованные закусочные по-светински",
+    "description": "Незатейливая, легкая в приготовлении, вкусная и аппетитно хрустящая закуска привлекательно вида.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/39/50ffb14242edf39_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кабачки",
+                    "slug": "kabachki",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1,5",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для маринада",
+            "list": [
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "5-6",
+                    "type": "зубчиков",
+                    "amount": null
+                },
+                {
+                    "name": "уксус",
+                    "slug": "uksus",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Обмыть кабачки, удалить кожуру (у молодых кабачков можно оставить), настругать вдоль на длинные пластины овощечисткой очень тонко. Из масла, чеснока, меда, перца, нашинкованной мелко зелени и уксуса приготовить маринад.",
+            "image": null
+        },
+        {
+            "text": "Переложить пластинки в широкую миску, залить маринадом, поставить кабачки маринованные закусочные по-светински на пару часов в холодильник.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Закуска из кабачков",
+            "slug": "zakuska-iz-kabachkov"
+        },
+        {
+            "name": "Закуски из овощей",
+            "slug": "zakuski-iz-ovoschey"
+        },
+        {
+            "name": "Постные блюда из кабачков",
+            "slug": "postnye-blyuda-iz-kabachkov"
+        },
+        {
+            "name": "Постные закуски",
+            "slug": "postnye-zakuski"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        }
+    ]
+}

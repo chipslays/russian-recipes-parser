@@ -1,0 +1,152 @@
+{
+    "source": "https://vkuso.ru/recipe/bliny-shokoladnye-s-nachinkoj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Блины шоколадные с начинкой",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a2/d7b185e4f5ea4a2_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молока",
+                    "slug": "moloka",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливочного масла",
+                    "slug": "slivochnogo-masla",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "какао",
+                    "slug": "kakao",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "шоколадная паста",
+                    "slug": "shokoladnaya-pasta",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "тертый шоколад",
+                    "slug": "tertiy-shokolad",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "мороженое",
+                    "slug": "morojenoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "малина",
+                    "slug": "malina",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Просеять муку и какао в миску, добавить яйца, растопленное масло, влить молоко, тщательно перемешать, дать тесту постоять 30 минут.",
+            "image": null
+        },
+        {
+            "text": "Раскалить сковороду, налить половником порцию теста, жарить как обычные блины (примерно по 1 минуте с каждой стороны)",
+            "image": null
+        },
+        {
+            "text": "Смазать каждый блин шоколадной пастой, положить ложку малины, разровнять и свернуть блин в трубочку.",
+            "image": null
+        },
+        {
+            "text": "Подавать блины шоколадные с начинкой с мороженым и натертым шоколадом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блины",
+            "slug": "bliny"
+        },
+        {
+            "name": "Выпечка с малиной",
+            "slug": "vypechka-s-malinoy"
+        },
+        {
+            "name": "Выпечка с шоколадом",
+            "slug": "vypechka-s-shokoladom"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Фаршированные блины с начинкой",
+            "slug": "farshirovannye-bliny-s-nachinkoy"
+        },
+        {
+            "name": "Шоколадные блины",
+            "slug": "shokoladnye-bliny"
+        }
+    ]
+}

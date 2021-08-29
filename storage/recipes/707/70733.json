@@ -1,0 +1,167 @@
+{
+    "source": "https://vkuso.ru/recipe/nezhnyj-pirog-s-grushami-i-belkovym-kremom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Нежный пирог с грушами и белковым кремом",
+    "description": "Нежная выпечка для настоящего гурмана.",
+    "note": "При подаче пирог можно украсить листочками мяты.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/12/ae823f559e0cb12_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/1czwJzInXRs?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "груши",
+                    "slug": "grushi",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное рафинированное",
+                    "slug": "maslo-rastitelnoe-rafinirovannoe",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отделить желтки от белков. Белки охладить в морозильной камере в течение 15 – 20 минут.",
+            "image": null
+        },
+        {
+            "text": "Желтки взбить с половиной стакана сахарной пудры при помощи миксера, всыпать в смесь муку, влить растительное масло, соду, погашенную уксусом или лимонным соком, немного воды, замесить тесто.",
+            "image": null
+        },
+        {
+            "text": "Форму смазать маслом, присыпать мукой и перелить тесто. Время выпекания – от 30 до 35 минут, температура – 180 градусов.",
+            "image": null
+        },
+        {
+            "text": "Груши вымыть, тонко нарезать, побрызгать лимонным соком, чтобы не изменили цвет.",
+            "image": null
+        },
+        {
+            "text": "Взбить белки из холодильника с оставшейся сахарной пудрой в плотную массу. Вынуть пирог, выложить груши, намазать взбитыми белками, печь еще 20 – 25 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка с грушами",
+            "slug": "vypechka-s-grushami"
+        },
+        {
+            "name": "Выпечка с фруктами",
+            "slug": "vypechka-s-fruktami"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги с грушами",
+            "slug": "pirogi-s-grushami"
+        },
+        {
+            "name": "Пироги с фруктами",
+            "slug": "pirogi-s-fruktami"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Сладкие пироги",
+            "slug": "sladkie-pirogi"
+        }
+    ]
+}

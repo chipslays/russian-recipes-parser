@@ -1,0 +1,99 @@
+{
+    "source": "https://vkuso.ru/recipe/klassicheskij-chikenburger/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Классический чикенбургер",
+    "description": "Устроить себе домашний Макдональдс – это реально?  Да! Прекрасный рецепт поможет это сделать легко и быстро.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5a/1a62598fc784a5a_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "булочки для гамбургеров",
+                    "slug": "bulochki-dlya-gamburgerov",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "куриная грудка",
+                    "slug": "kurinaya-grudka",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "листья салата",
+                    "slug": "listya-salata",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "шт",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "кетчуп",
+                    "slug": "ketchup",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Прожарить куриные грудки до золотистого колера и аппетитной корочки с обеих сторон. Готовые булочки (специально для гамбургеров) зажарить в прогретой духовке, разделить на половинки.",
+            "image": null
+        },
+        {
+            "text": "Смазать разрез кетчупом и майонезом, уложить салат, золотистые кусочки курятины, прикрыть второй половинкой булочки. Все, классический чикенбургер готов, минимум времени, максимум удовольствия!",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бургер",
+            "slug": "burger"
+        },
+        {
+            "name": "Домашний фаст фуд",
+            "slug": "domashniy-fast-fud"
+        },
+        {
+            "name": "Закуски из курицы",
+            "slug": "zakuski-iz-kuricy"
+        },
+        {
+            "name": "Классические рецепты",
+            "slug": "klassicheskie-recepty"
+        },
+        {
+            "name": "Курица классические рецепты",
+            "slug": "kurica-klassicheskie-recepty"
+        },
+        {
+            "name": "Мясо классические рецепты",
+            "slug": "myaso-klassicheskie-recepty"
+        }
+    ]
+}

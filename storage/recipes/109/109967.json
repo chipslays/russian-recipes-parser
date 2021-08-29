@@ -1,0 +1,215 @@
+{
+    "source": "https://vkuso.ru/recipe/109967-ovoshhnoe-ragu-s-goroshkom-v-tykve/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Овощное рагу с горошком в тыкве",
+    "description": "Постное блюдо, легкое и полезное.",
+    "note": "Для приготовления блюда использовать консервированный, свежий или мороженый зеленый горошек.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d9/4d9c83b2a3ae3d9_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/2m_wsHRXNsc?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "тыква",
+                    "slug": "tykva",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "капуста цветная",
+                    "slug": "kapusta-cvetnaya",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "зеленый горошек",
+                    "slug": "zeleniy-goroshek",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сельдерей",
+                    "slug": "selderey",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стебля",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "зелень свежая",
+                    "slug": "zelen-svejaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Мякоть тыквы срезать, порубить кубиками.",
+            "image": null
+        },
+        {
+            "text": "Нарезать морковь и сельдерей кружками. Чеснок – прозрачными слайсами.",
+            "image": null
+        },
+        {
+            "text": "Мелко нарезать цветную капусту.",
+            "image": null
+        },
+        {
+            "text": "Прогреть в сотейнике растительное масло, обжарить морковь и сельдерей.",
+            "image": null
+        },
+        {
+            "text": "Добавить цветную капусту и тыкву, потушить.",
+            "image": null
+        },
+        {
+            "text": "В почти готовое рагу добавить зеленый горошек, специи, соль.",
+            "image": null
+        },
+        {
+            "text": "Выложить начинку в тыкву, накрыть срезанной крышкой.",
+            "image": null
+        },
+        {
+            "text": "Тушить в духовке полчаса при температуре 200 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из овощей",
+            "slug": "vtorye-blyuda-iz-ovoschey"
+        },
+        {
+            "name": "Вторые блюда с тыквой",
+            "slug": "vtorye-blyuda-s-tykvoy"
+        },
+        {
+            "name": "Капуста в духовке",
+            "slug": "kapusta-v-duhovke"
+        },
+        {
+            "name": "Постные блюда в духовке",
+            "slug": "postnye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Постные блюда из овощей",
+            "slug": "postnye-blyuda-iz-ovoschey"
+        },
+        {
+            "name": "Постные блюда из тыквы",
+            "slug": "postnye-blyuda-iz-tykvy"
+        },
+        {
+            "name": "Постные вторые блюда",
+            "slug": "postnye-vtorye-blyuda"
+        },
+        {
+            "name": "Постные рецепты",
+            "slug": "postnye-recepty"
+        },
+        {
+            "name": "Постный ужин",
+            "slug": "postniy-ujin"
+        },
+        {
+            "name": "Специальное питание",
+            "slug": "specialnoe-pitanie"
+        },
+        {
+            "name": "Тыква в духовке",
+            "slug": "tykva-v-duhovke"
+        },
+        {
+            "name": "Тыква фаршированная",
+            "slug": "tykva-farshirovannaya"
+        },
+        {
+            "name": "Ужин из капусты",
+            "slug": "ujin-iz-kapusty"
+        },
+        {
+            "name": "Ужин из овощей",
+            "slug": "ujin-iz-ovoschey"
+        },
+        {
+            "name": "Фаршированные блюда",
+            "slug": "farshirovannye-blyuda"
+        },
+        {
+            "name": "Фаршированные овощи",
+            "slug": "farshirovannye-ovoschi"
+        },
+        {
+            "name": "Цветная капуста в духовке",
+            "slug": "cvetnaya-kapusta-v-duhovke"
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/kurica-s-fasolyu-pomidorami-i-zelenyu/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Курица с фасолью, помидорами и зеленью",
+    "description": "Восточное второе блюдо из курицы, которое готовится в казане.",
+    "note": "При подаче курицу можно посыпать свежей рубленой зеленью укропа.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ee/a11e6c7ba7f76ee_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриная грудка",
+                    "slug": "kurinaya-grudka",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "фасоль стручковая",
+                    "slug": "fasol-struchkovaya",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "кинза",
+                    "slug": "kinza",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Куриное филе отварить до полуготовности, нарезать, немного обжарить на растительном масле. Мясо переложить в казан.",
+            "image": null
+        },
+        {
+            "text": "Промыть холодной водой стручки молодой зеленой фасоли, отделить от твердых частей, поломать сами стручки на две-три части.",
+            "image": null
+        },
+        {
+            "text": "Отварить фасоль в небольшом количестве воды до готовности, она должна легко разламываться.",
+            "image": null
+        },
+        {
+            "text": "Нарезать тонкими кольцами репчатый лук, помидоры – кружками. То и другое обжарить на растительном масле, которое осталось от приготовления курицы.",
+            "image": null
+        },
+        {
+            "text": "Добавить рубленую зелень петрушки, кинзы, нарезанный чеснок, посыпать смесь по вкусу солью и перцем, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Овощи переложить к куриному мясу, добавить фасоль, долить немного воды, она должна покрыть мясо с овощами.",
+            "image": null
+        },
+        {
+            "text": "Тушить блюдо на тихом огне в течение 10 – 15 минут. Блюдо подать в горячем виде.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Диетическая куриная грудка",
+            "slug": "dieticheskaya-kurinaya-grudka"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Курица с овощами",
+            "slug": "kurica-s-ovoschami"
+        },
+        {
+            "name": "Курица с фасолью",
+            "slug": "kurica-s-fasolyu"
+        },
+        {
+            "name": "Тушеная курица",
+            "slug": "tushenaya-kurica"
+        },
+        {
+            "name": "Тушеная фасоль",
+            "slug": "tushenaya-fasol"
+        },
+        {
+            "name": "Тушеные блюда",
+            "slug": "tushenye-blyuda"
+        },
+        {
+            "name": "Ужин из куриной грудки",
+            "slug": "ujin-iz-kurinoy-grudki"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Фасоль с мясом",
+            "slug": "fasol-s-myasom"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

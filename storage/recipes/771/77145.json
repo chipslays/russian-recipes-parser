@@ -1,0 +1,311 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-lesnaya-polyana-s-kuricej-i-marinovannymi-opyatami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Лесная поляна» с курицей и маринованными опятами",
+    "description": "Сытное и аппетитное блюдо-перевертыш для особых случаев.",
+    "note": "Блюдо можно подать в качестве самостоятельного кушанья или с гарниром. Чтобы снизить калорийность закуски – можно использовать нежирный майонез.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b0/5b0e6b8182daab0_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/xZ3cgdWvoFY?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриная грудка вареная",
+                    "slug": "kurinaya-grudka-varenaya",
+                    "notes": null,
+                    "value": "450",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "опята маринованные",
+                    "slug": "opyata-marinovannye",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "185",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "120",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "зелень укропа",
+                    "slug": "zelen-ukropa",
+                    "notes": null,
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Вымыть и отварить картофель, морковь.",
+            "image": null
+        },
+        {
+            "text": "Очистить, натереть продукты на крупной терке.",
+            "image": null
+        },
+        {
+            "text": "Свежие огурцы нарезать кружками, отваренную курицу – квадратами.",
+            "image": null
+        },
+        {
+            "text": "Натереть сыр, нарезать крутые яйца, порубить зелень.",
+            "image": null
+        },
+        {
+            "text": "В прозрачную салатницу выложить маринованные опята, шляпки должны быть внизу.",
+            "image": null
+        },
+        {
+            "text": "Посыпать рубленой зеленью, намазать майонезом.",
+            "image": null
+        },
+        {
+            "text": "Следующие слои: кусочки курицы, майонез, вареные яйца, соус.",
+            "image": null
+        },
+        {
+            "text": "Далее – огурцы, майонез.",
+            "image": null
+        },
+        {
+            "text": "Готовый салат поставить в холодильник на час.",
+            "image": null
+        },
+        {
+            "text": "Накрыть блюдо тарелкой и перевернуть. Емкость снять.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новогодний салат с курицей",
+            "slug": "novogodniy-salat-s-kuricey"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат Грибная лесная поляна",
+            "slug": "salat-gribnaya-lesnaya-polyana"
+        },
+        {
+            "name": "Салат из моркови",
+            "slug": "salat-iz-morkovi"
+        },
+        {
+            "name": "Салат с грибами",
+            "slug": "salat-s-gribami"
+        },
+        {
+            "name": "Салат с грибами и сыром",
+            "slug": "salat-s-gribami-i-syrom"
+        },
+        {
+            "name": "Салат с картофелем",
+            "slug": "salat-s-kartofelem"
+        },
+        {
+            "name": "Салат с куриной грудкой",
+            "slug": "salat-s-kurinoy-grudkoy"
+        },
+        {
+            "name": "Салат с куриной грудкой и сыром",
+            "slug": "salat-s-kurinoy-grudkoy-i-syrom"
+        },
+        {
+            "name": "Салат с курицей",
+            "slug": "salat-s-kuricey"
+        },
+        {
+            "name": "Салат с курицей и грибами",
+            "slug": "salat-s-kuricey-i-gribami"
+        },
+        {
+            "name": "Салат с курицей и морковью",
+            "slug": "salat-s-kuricey-i-morkovyu"
+        },
+        {
+            "name": "Салат с курицей и овощами",
+            "slug": "salat-s-kuricey-i-ovoschami"
+        },
+        {
+            "name": "Салат с курицей и огурцом",
+            "slug": "salat-s-kuricey-i-ogurcom"
+        },
+        {
+            "name": "Салат с курицей и сыром",
+            "slug": "salat-s-kuricey-i-syrom"
+        },
+        {
+            "name": "Салат с курицей и яйцом",
+            "slug": "salat-s-kuricey-i-yaycom"
+        },
+        {
+            "name": "Салат с курицей, грибами и огурцами",
+            "slug": "salat-s-kuricey-gribami-i-ogurcami"
+        },
+        {
+            "name": "Салат с курицей, грибами и сыром",
+            "slug": "salat-s-kuricey-gribami-i-syrom"
+        },
+        {
+            "name": "Салат с курицей, грибами, огурцами и сыром",
+            "slug": "salat-s-kuricey-gribami-ogurcami-i-syrom"
+        },
+        {
+            "name": "Салат с курицей, грибами, огурцами и яйцом",
+            "slug": "salat-s-kuricey-gribami-ogurcami-i-yaycom"
+        },
+        {
+            "name": "Салат с курицей, грибами, яйцами и сыром",
+            "slug": "salat-s-kuricey-gribami-yaycami-i-syrom"
+        },
+        {
+            "name": "Салат с курицей, огурцом и яйцом",
+            "slug": "salat-s-kuricey-ogurcom-i-yaycom"
+        },
+        {
+            "name": "Салат с курицей, сыром и яйцом",
+            "slug": "salat-s-kuricey-syrom-i-yaycom"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с огурцом и сыром",
+            "slug": "salat-s-ogurcom-i-syrom"
+        },
+        {
+            "name": "Салат с опятами",
+            "slug": "salat-s-opyatami"
+        },
+        {
+            "name": "Салат с яйцом и морковью",
+            "slug": "salat-s-yaycom-i-morkovyu"
+        },
+        {
+            "name": "Салат с яйцом и сыром",
+            "slug": "salat-s-yaycom-i-syrom"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        },
+        {
+            "name": "Слоеные салаты",
+            "slug": "sloenye-salaty"
+        },
+        {
+            "name": "Слоеный салат с грибами",
+            "slug": "sloeniy-salat-s-gribami"
+        },
+        {
+            "name": "Слоеный салат с курицей и грибами",
+            "slug": "sloeniy-salat-s-kuricey-i-gribami"
+        },
+        {
+            "name": "Слоеный салат с курицей и сыром",
+            "slug": "sloeniy-salat-s-kuricey-i-syrom"
+        },
+        {
+            "name": "Слоеный салат с курицей, грибами и сыром",
+            "slug": "sloeniy-salat-s-kuricey-gribami-i-syrom"
+        }
+    ]
+}

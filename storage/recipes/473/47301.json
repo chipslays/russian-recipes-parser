@@ -1,0 +1,107 @@
+{
+    "source": "https://vkuso.ru/recipe/osvezhayushhij-koktejl-margarita-na-ldu/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Освежающий коктейль «Маргарита на льду»",
+    "description": "Коктейль никого не оставит равнодушным.",
+    "note": "Можно добавить желток.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/cb/f1a046cfeb9d2cb_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 1 порцию",
+            "list": [
+                {
+                    "name": "текила",
+                    "slug": "tekila",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сок лайма",
+                    "slug": "sok-layma",
+                    "notes": " (лимонный сок)",
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "ликер Куантро",
+                    "slug": "liker-kuantro",
+                    "notes": " (Трипл Сек)",
+                    "value": "25",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "лед колотый",
+                    "slug": "led-kolotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Поместить в шейкер ликер Трипл-Сек или Куантро, текилу, лед, сок лайма. Потрясти, отфильтровать ото льда, вылить в бокал.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/93/2e9c6476a2ab793_434x295.jpg"
+        },
+        {
+            "text": "Края бокала должны быть посыпаны солью. Для этого нужно сделать следующую процедуру: на тарелку налить сок лайма, на вторую насыпать соль. Взять бокал за ножку, обмокнуть его в сок и сразу в соль. Лишнее стряхнуть. Получается красивый белый соленый поясок.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/7e/25aa44113058f7e_434x295.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Алкогольные коктейли",
+            "slug": "alkogolnye-kokteyli"
+        },
+        {
+            "name": "Коктейли",
+            "slug": "kokteyli"
+        },
+        {
+            "name": "Коктейли с ликером",
+            "slug": "kokteyli-s-likerom"
+        },
+        {
+            "name": "Коктейли с текилой",
+            "slug": "kokteyli-s-tekiloy"
+        },
+        {
+            "name": "Коктейль Маргарита",
+            "slug": "kokteyl-margarita"
+        },
+        {
+            "name": "Новогодние коктейли",
+            "slug": "novogodnie-kokteyli"
+        },
+        {
+            "name": "Праздничные коктейли и напитки",
+            "slug": "prazdnichnye-kokteyli-i-napitki"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "source": "https://vkuso.ru/recipe/dieticheskij-shokoladnyj-chizkejk-s-tvorogom/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Диетический шоколадный чизкейк с творогом",
+    "description": "Легкий десерт с шоколадным вкусом может быть диетическим. Особенно это важно весной и летом, когда девушки следят за фигурой.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5b/a8f665be0efdc5b_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог обезжиренный",
+                    "slug": "tvorog-obezjirenniy",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко 1%",
+                    "slug": "moloko-1",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "какао-порошок",
+                    "slug": "kakao-poroshok",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "15",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Замочить желатин в воде, чтобы он набух. Затем слить воду, а желатин развести с теплым молоком, добавить творог, мед и какао-порошок. Ингредиенты взбить блендером или миксером в пышную однородную массу.",
+            "image": null
+        },
+        {
+            "text": "Разлить в подготовленные формочки и поставить в холодильник до полного остывания. Украсить диетический шоколадный чизкейк веточкой мяты или долькой апельсина.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Медовый торт",
+            "slug": "medoviy-tort"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        },
+        {
+            "name": "Торт без выпечки",
+            "slug": "tort-bez-vypechki"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        },
+        {
+            "name": "Чизкейк",
+            "slug": "chizkeyk"
+        },
+        {
+            "name": "Чизкейк без выпечки",
+            "slug": "chizkeyk-bez-vypechki"
+        },
+        {
+            "name": "Шоколадный чизкейк",
+            "slug": "shokoladniy-chizkeyk"
+        }
+    ]
+}

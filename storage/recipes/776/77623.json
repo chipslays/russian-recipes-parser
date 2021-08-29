@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/tartar-iz-kopchenogo-lososya-s-petrushkoj/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Тартар из копченого лосося с петрушкой",
+    "description": "Известная закуска в копченом варианте – это насыщенный вкус и аромат.",
+    "note": "Блюдо можно гарнировать помидорами черри, тонко нарезанными ломтиками лимона, любой зеленью.",
+    "cuisine": "Французская кухня",
+    "cuisine_slug": "francuzskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/16/b10074f04f76a16_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": "30 минут",
+    "video": "https://www.youtube.com/embed/EiclIk8dCpU?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "лосось копченый",
+                    "slug": "losos-kopcheniy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук красный",
+                    "slug": "luk-krasniy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень петрушки",
+                    "slug": "zelen-petrushki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Красный лук и рыбу нарезать мелкими кубиками.",
+            "image": null
+        },
+        {
+            "text": "Порубить петрушку, перемешать с рыбой.",
+            "image": null
+        },
+        {
+            "text": "Массу полить лимонным соком, поставить в холод на полчаса.",
+            "image": null
+        },
+        {
+            "text": "Выложить смесь в форму на тарелке, украсить по своему вкусу и желанию.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "закуски",
+            "slug": "zakuski"
+        },
+        {
+            "name": "Закуски из рыбы",
+            "slug": "zakuski-iz-ryby"
+        },
+        {
+            "name": "Закуски на день рождения",
+            "slug": "zakuski-na-den-rojdeniya"
+        },
+        {
+            "name": "Закуски с красной рыбой",
+            "slug": "zakuski-s-krasnoy-ryboy"
+        },
+        {
+            "name": "Новогодние закуски",
+            "slug": "novogodnie-zakuski"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рыба на Новый год",
+            "slug": "ryba-na-noviy-god"
+        },
+        {
+            "name": "Тартар",
+            "slug": "tartar"
+        },
+        {
+            "name": "Тартар из лосося",
+            "slug": "tartar-iz-lososya"
+        },
+        {
+            "name": "Холодные закуски",
+            "slug": "holodnye-zakuski"
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/sup-s-konservirovannoj-fasolyu-i-kolbaskami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Суп с консервированной фасолью и колбасками",
+    "description": "Такой суп с ароматом и вкусом копченой колбасы очень быстро готовится, если накануне сварить бульон. Часть бульона можно оставить на другой день, например для приготовления супа с крупами или макаронными изделиями.",
+    "note": "Конечно, суп с колбаскам и ветчиной будет выглядеть более аппетитно, но можно использовать и любую другую копченую колбасу. При подаче в каждую тарелку положить по ложечке сметаны и любую измельченную зелень.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a1/d83d8e5cc6beaa1_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "помидоры в собственном соку",
+                    "slug": "pomidory-v-sobstvennom-soku",
+                    "notes": null,
+                    "value": "450",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "фасоль красная консервированная",
+                    "slug": "fasol-krasnaya-konservirovannaya",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "капуста белокочанная",
+                    "slug": "kapusta-belokochannaya",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "колбаски охотничьи",
+                    "slug": "kolbaski-ohotnichi",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "сельдерей",
+                    "slug": "selderey",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стебель",
+                    "amount": null
+                },
+                {
+                    "name": "бульон",
+                    "slug": "bulon",
+                    "notes": null,
+                    "value": "1,5",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "тмин",
+                    "slug": "tmin",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Подготовить овощи, порезать все (кроме капусты) на кубики, всыпать в горячий бульон. Порезать очень мелко помидоры, поместить в бульон, приправить размолотым тмином, дать супу закипеть, варить треть часа, прикрыв крышкой.",
+            "image": null
+        },
+        {
+            "text": "Тоненько нашинковать капусту, чуть примять, всыпать в кастрюлю, открыть фасоль и добавить в суп, нагрев уменьшить, варить четверть часа.",
+            "image": null
+        },
+        {
+            "text": "Нарезать ветчину на небольшие кусочки, колбаску – кружочками, высыпать в суп. Приправить суп с консервированной фасолью и колбасками черным перцем, солью, прогреть еще 4-5 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Суп из красной фасоли",
+            "slug": "sup-iz-krasnoy-fasoli"
+        },
+        {
+            "name": "Суп из сельдерея",
+            "slug": "sup-iz-seldereya"
+        },
+        {
+            "name": "Суп с ветчиной",
+            "slug": "sup-s-vetchinoy"
+        },
+        {
+            "name": "Суп с капустой",
+            "slug": "sup-s-kapustoy"
+        },
+        {
+            "name": "Суп с колбасой",
+            "slug": "sup-s-kolbasoy"
+        },
+        {
+            "name": "Суп с копченостями",
+            "slug": "sup-s-kopchenostyami"
+        },
+        {
+            "name": "Суп с охотничьими колбасками",
+            "slug": "sup-s-ohotnichimi-kolbaskami"
+        },
+        {
+            "name": "Суп с фасолью",
+            "slug": "sup-s-fasolyu"
+        }
+    ]
+}

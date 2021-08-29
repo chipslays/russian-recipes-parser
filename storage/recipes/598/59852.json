@@ -1,0 +1,221 @@
+{
+    "source": "https://vkuso.ru/recipe/chizkejk-iz-pechenya-s-tvorozhnoj-nachinkoj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Чизкейк из печенья с творожной начинкой",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/bf/8e96a83b6f8ddbf_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "печенье",
+                    "slug": "pechene",
+                    "notes": " (любое)",
+                    "value": "200-250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "варенье",
+                    "slug": "varene",
+                    "notes": null,
+                    "value": "5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сметана 15%",
+                    "slug": "smetana-15",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "отруби",
+                    "slug": "otrubi",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для оформления",
+            "list": [
+                {
+                    "name": "шоколадная крошка",
+                    "slug": "shokoladnaya-kroshka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "орехи измельченные",
+                    "slug": "orehi-izmelchennye",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В чашу блендера положить масло, покрошить печенье, смешать в однородную массу.",
+            "image": null
+        },
+        {
+            "text": "Переложить в форму, сформовать бортики, выпекать основу 15 минут в заранее прогретой до 170 градусов духовке.",
+            "image": null
+        },
+        {
+            "text": "Сложить в блендер все ингредиенты начинки. Взбить.",
+            "image": null
+        },
+        {
+            "text": "Заполнить ею готовую основу для чизкейка из печенья с творожной начинкой.",
+            "image": null
+        },
+        {
+            "text": "Оформить верх шоколадной крошкой и дробленым орехом.",
+            "image": null
+        },
+        {
+            "text": "Убрать в морозильную камеру холодильника на пару часов.",
+            "image": null
+        },
+        {
+            "text": "Достать десерт, вынуть из формы, переложить на тарелку, подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка на скорую руку",
+            "slug": "vypechka-na-skoruyu-ruku"
+        },
+        {
+            "name": "Выпечка с вареньем",
+            "slug": "vypechka-s-varenem"
+        },
+        {
+            "name": "Выпечка с шоколадом",
+            "slug": "vypechka-s-shokoladom"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "Десерт на скорую руку",
+            "slug": "desert-na-skoruyu-ruku"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Праздничный стол на скорую руку",
+            "slug": "prazdnichniy-stol-na-skoruyu-ruku"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        },
+        {
+            "name": "Творожный чизкейк",
+            "slug": "tvorojniy-chizkeyk"
+        },
+        {
+            "name": "Торт из печенья и творога",
+            "slug": "tort-iz-pechenya-i-tvoroga"
+        },
+        {
+            "name": "Торт с вареньем",
+            "slug": "tort-s-varenem"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        },
+        {
+            "name": "Чизкейк",
+            "slug": "chizkeyk"
+        },
+        {
+            "name": "Чизкейк с выпечкой",
+            "slug": "chizkeyk-s-vypechkoy"
+        },
+        {
+            "name": "Шоколадный чизкейк",
+            "slug": "shokoladniy-chizkeyk"
+        }
+    ]
+}

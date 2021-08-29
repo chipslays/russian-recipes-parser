@@ -1,0 +1,144 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnie-pelmeshki-s-myasnym-farshem/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Домашние пельмешки с мясным фаршем",
+    "description": "У каждой семьи свои рецепты блюда, давно ставшего национальным. Для приготовления лучше использовать смесь разных фаршей.",
+    "note": "Подавать пельмени можно со сметаной, солеными или маринованными огурцами, аджикой, хреном, в бульоне.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/4a/af2c4485833cd4a_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "700",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "300",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "мясной фарш",
+                    "slug": "myasnoy-farsh",
+                    "notes": null,
+                    "value": "650",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Измельчить через мясорубку репчатый лук. Добавить мясной фарш, молотый перец, молоко. Массу перемешать до однородного состояния.",
+            "image": null
+        },
+        {
+            "text": "Для теста соединить муку, немного взбитое вилкой яйцо, влить подсоленную воду. Замесить тесто. Обернуть пленкой, оставить на полчаса, затем еще немного обмять. Тесто разделить на части, раскатать и вырезать кружочки.",
+            "image": null
+        },
+        {
+            "text": "Сформовать пельмени, заморозить, хранить в морозилке, в полиэтиленовом пакете. Отваривать домашние пельмени с мясным фаршем в кипящей воде, соль, лавровый лист, перец-горошек – по вкусу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Горячие блюда на Новый год",
+            "slug": "goryachie-blyuda-na-noviy-god"
+        },
+        {
+            "name": "Мясо на Новый год",
+            "slug": "myaso-na-noviy-god"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Пельмени",
+            "slug": "pelmeni"
+        },
+        {
+            "name": "Пельмени с мясом",
+            "slug": "pelmeni-s-myasom"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "source": "https://vkuso.ru/recipe/makovye-blinchiki-s-rikottoj-i-medom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Маковые блинчики с рикоттой и медом",
+    "description": "Особенность данного блюда в том, что в тесто добавляется маковое семя, а в начинку – творожный сыр «Рикотта».",
+    "note": "При подаче блинчики можно полить дополнительной порцией мёда.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/24/a627271934f5b24_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр рикотта",
+                    "slug": "syr-rikotta",
+                    "notes": null,
+                    "value": "400-450",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "блины тонкие",
+                    "slug": "bliny-tonkie",
+                    "notes": null,
+                    "value": "6-7",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мак",
+                    "slug": "mak",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мед жидкий",
+                    "slug": "med-jidkiy",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для подачи",
+            "list": [
+                {
+                    "name": "мед жидкий",
+                    "slug": "med-jidkiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Испечь несколько тонких блинчиков по любимому и поверенному рецепту, в тесто добавить маковое семя, предварительно подсушенное на сковороде.",
+            "image": null
+        },
+        {
+            "text": "Для начинки соединить натуральный мёд, лимонный сок, рикотту, ингредиенты взбить до однородности.",
+            "image": null
+        },
+        {
+            "text": "Выложить готовую начинку на каждый блинчик, свернуть их рулетами.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блинчики",
+            "slug": "blinchiki"
+        },
+        {
+            "name": "Блины",
+            "slug": "bliny"
+        },
+        {
+            "name": "Блины с сыром",
+            "slug": "bliny-s-syrom"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка с медом",
+            "slug": "vypechka-s-medom"
+        },
+        {
+            "name": "Начинки для блинов",
+            "slug": "nachinki-dlya-blinov"
+        },
+        {
+            "name": "Тонкие блины",
+            "slug": "tonkie-bliny"
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "source": "https://vkuso.ru/recipe/bystrye-kurinye-kotletki-s-plavlenym-syrom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Быстрые куриные котлетки с плавленым сыром",
+    "description": "Блюдо быстро готовится, его можно подать с любым гарниром, овощным салатом, зеленью.",
+    "note": "Майонез в рецепте можно заменить на сметану.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ac/f91c7f89ed2ebac_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сырок плавленый",
+                    "slug": "syrok-plavleniy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "крахмал",
+                    "slug": "krahmal",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Хорошо охлажденное куриное филе нарезать кубиками. Добавить сырые куриные яйца, майонез, всыпать картофельный крахмал, молотый черный перец, соль, рубленую зелень и нарезанный кубиками плавленый сыр. Ингредиенты перемешать.",
+            "image": null
+        },
+        {
+            "text": "На сковороду налить растительное масло, прогреть, массу из курицы и сыра выкладывать в виде котлет. Подрумянить, перевернуть на другую сторону. Жарить куриные котлетки с сыром недолго, в течение нескольких минут, не пересушивать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блюда из курицы для детей",
+            "slug": "blyuda-iz-kuricy-dlya-detey"
+        },
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Вторые блюда на скорую руку",
+            "slug": "vtorye-blyuda-na-skoruyu-ruku"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Детский обед",
+            "slug": "detskiy-obed"
+        },
+        {
+            "name": "Детский ужин",
+            "slug": "detskiy-ujin"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Котлеты",
+            "slug": "kotlety"
+        },
+        {
+            "name": "Котлеты диетические",
+            "slug": "kotlety-dieticheskie"
+        },
+        {
+            "name": "Котлеты с сыром",
+            "slug": "kotlety-s-syrom"
+        },
+        {
+            "name": "Куриное филе в майонезе",
+            "slug": "kurinoe-file-v-mayoneze"
+        },
+        {
+            "name": "Куриные котлеты",
+            "slug": "kurinye-kotlety"
+        },
+        {
+            "name": "Курица с сыром",
+            "slug": "kurica-s-syrom"
+        },
+        {
+            "name": "Мясо с сыром",
+            "slug": "myaso-s-syrom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ужин из куриного филе",
+            "slug": "ujin-iz-kurinogo-file"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-so-svezhimi-ogurcami-i-kirieshkami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат со свежими огурцами и кириешками",
+    "description": "Аромат огурца пробуждает аппетит. Блюдо лучше готовить в сезон огородных овощей.",
+    "note": "В салат с огурцами можно добавить сыр или консервированный зеленый горошек.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c3/b70a213debeabc3_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/kXT7O2hGqMI?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кукуруза консервированная",
+                    "slug": "kukuruza-konservirovannaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "фасоль красная консервированная",
+                    "slug": "fasol-krasnaya-konservirovannaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сухарики ржаные",
+                    "slug": "suhariki-rjanye",
+                    "notes": " (кириешки)",
+                    "value": "1",
+                    "type": "пачка",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Свежий огурец вымыть, нарезать полукольцами.",
+            "image": null
+        },
+        {
+            "text": "Слить жидкость от кукурузы, выложить к огурцу вместе с консервированной красной фасолью.",
+            "image": null
+        },
+        {
+            "text": "Продукты посолить по вкусу и заправить майонезом.",
+            "image": null
+        },
+        {
+            "text": "Перед подачей посыпать салат сухарями.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Постные блюда из фасоли",
+            "slug": "postnye-blyuda-iz-fasoli"
+        },
+        {
+            "name": "Постные салаты",
+            "slug": "postnye-salaty"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Праздничный стол на скорую руку",
+            "slug": "prazdnichniy-stol-na-skoruyu-ruku"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из фасоли и кукурузы с сухариками",
+            "slug": "salat-iz-fasoli-i-kukuruzy-s-suharikami"
+        },
+        {
+            "name": "Салат с кириешками",
+            "slug": "salat-s-kirieshkami"
+        },
+        {
+            "name": "Салат с консервированной кукурузой",
+            "slug": "salat-s-konservirovannoy-kukuruzoy"
+        },
+        {
+            "name": "Салат с консервированной фасолью",
+            "slug": "salat-s-konservirovannoy-fasolyu"
+        },
+        {
+            "name": "Салат с сухариками",
+            "slug": "salat-s-suharikami"
+        },
+        {
+            "name": "Салат с сухариками и кукурузой",
+            "slug": "salat-s-suharikami-i-kukuruzoy"
+        },
+        {
+            "name": "Салат с фасолью",
+            "slug": "salat-s-fasolyu"
+        },
+        {
+            "name": "Салат с фасолью и кукурузой",
+            "slug": "salat-s-fasolyu-i-kukuruzoy"
+        },
+        {
+            "name": "Салат с фасолью и сухариками",
+            "slug": "salat-s-fasolyu-i-suharikami"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты из огурцов",
+            "slug": "salaty-iz-ogurcov"
+        },
+        {
+            "name": "Салаты к шашлыку",
+            "slug": "salaty-k-shashlyku"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты на скорую руку",
+            "slug": "salaty-na-skoruyu-ruku"
+        },
+        {
+            "name": "Салаты с кукурузой",
+            "slug": "salaty-s-kukuruzoy"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        }
+    ]
+}

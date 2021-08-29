@@ -1,0 +1,148 @@
+{
+    "source": "https://vkuso.ru/recipe/sup-lapsha-s-myasom-po-tatarski/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Суп-лапша с мясом по-татарски",
+    "description": null,
+    "note": null,
+    "cuisine": "Татарская кухня",
+    "cuisine_slug": "tatarskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/58/be6a986052e9658_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "баранины / говядины",
+                    "slug": "baraniny-govyadiny",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "воды",
+                    "slug": "vody",
+                    "notes": null,
+                    "value": "2",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "80",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "перец",
+                    "slug": "perec",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для лапши",
+            "list": [
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйцо",
+                    "slug": "yayco",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить до готовности в подсоленной воде говядину.",
+            "image": null
+        },
+        {
+            "text": "Пока варится мясо можно приготовить домашнюю лапшу, для этого в горке просеянной муки сделать углубление, влить яйцо, подсолить и постепенно, добавляя охлажденную воду замесить тесто, дать ему созреть 40 минут.",
+            "image": null
+        },
+        {
+            "text": "Нашинковать лук кольцами, а морковь кружками, положить в кипящий, бульон (предварительно достать готовое мясо) и варить15 минут.",
+            "image": null
+        },
+        {
+            "text": "Раскатать тесто в тонкий пласт, подсушить 10 минут, нарезать в форме тонкой лапши, можно ромбами, треугольниками или квадратами, и дать лапше подсохнуть.",
+            "image": null
+        },
+        {
+            "text": "Добавить в суп подсохшую домашнюю лапшу бросить лавровый лист, поперчить, посолить и варить, пока лапша не всплывет. Убрать нагрев, и дать супу настояться.",
+            "image": null
+        },
+        {
+            "text": "Суп-лапша с мясом по-татарски разлить по тарелкам, в каждую добавить порезанное брусочками отварное мясо.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп из баранины",
+            "slug": "sup-iz-baraniny"
+        },
+        {
+            "name": "Суп из говядины",
+            "slug": "sup-iz-govyadiny"
+        }
+    ]
+}

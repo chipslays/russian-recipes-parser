@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/buzhenina-v-multivarke-po-domashnemu/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Буженина в мультиварке по-домашнему",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/55/ebac4ddca40a255_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "свиной шейки",
+                    "slug": "svinoy-sheyki",
+                    "notes": null,
+                    "value": "800",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснока",
+                    "slug": "chesnoka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "растительного масла",
+                    "slug": "rastitelnogo-masla",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сушеного укропа",
+                    "slug": "sushenogo-ukropa",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Подготовить, помыть и обсушить свинину, натереть смесью масла с раздавленным чесноком, укропом, солью и черным перцем, положить в контейнер, дать постоять пару часов в холодильнике (можно ночь).",
+            "image": null
+        },
+        {
+            "text": "Переложить мясо в чашу мультиварки, залить маринадом, готовить 15-20 минут в режиме «Выпечка», перевернуть и еще 15-20 минут, затем переключить в режим «Тушение» на 3 часа.",
+            "image": null
+        },
+        {
+            "text": "Открыть крышку после отключения, подержать готовое мясо в чаше, чтобы подсохло, буженина в мультиварке по-домашнему вкусная как горячее блюдо, так и как холодная закуска.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Закуски из мяса",
+            "slug": "zakuski-iz-myasa"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Мясо в мультиварке",
+            "slug": "myaso-v-multivarke"
+        },
+        {
+            "name": "Свинина в мультиварке",
+            "slug": "svinina-v-multivarke"
+        },
+        {
+            "name": "Ужин в мультиварке",
+            "slug": "ujin-v-multivarke"
+        }
+    ]
+}

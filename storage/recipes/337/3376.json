@@ -1,0 +1,143 @@
+{
+    "source": "https://vkuso.ru/recipe/shhi-polskie-iz-kvashenoj-kapusty/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Щи польские из квашеной капусты",
+    "description": null,
+    "note": null,
+    "cuisine": "Польская кухня",
+    "cuisine_slug": "polskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/3d/c9a20dcedbcfb3d_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "квашеной капусты",
+                    "slug": "kvashenoy-kapusty",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "свиных костей",
+                    "slug": "svinyh-kostey",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "корня петрушки",
+                    "slug": "kornya-petrushki",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "копченой грудинки",
+                    "slug": "kopchenoy-grudinki",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец",
+                    "slug": "perec",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сварить из костей и копченой грудинки бульон, грудинку достать и порезать кубиками, добавить и проварить овощи.",
+            "image": null
+        },
+        {
+            "text": "Капусту, положить в кипяток, закрыть крышкой, дать закипеть, после этого проварить до мягкости без крышки.",
+            "image": null
+        },
+        {
+            "text": "Порезать лук кубиками и обжарить на сале, добавить муку, перемешать и обжарить все вместе.",
+            "image": null
+        },
+        {
+            "text": "Процедить бульон, переложить в него капусту, нагреть до кипения, развести небольшим количеством бульона зажарку и вылить в кастрюлю, добавить грудинку, влить капустный рассол, подсолить, поперчить, бросить лавровый лист, варить до готовности.",
+            "image": null
+        },
+        {
+            "text": "Подавать щи польские из квашеной капусты с вареным картофелем и сметаной.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Капуста с мясом",
+            "slug": "kapusta-s-myasom"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп с капустой",
+            "slug": "sup-s-kapustoy"
+        },
+        {
+            "name": "Суп с копченостями",
+            "slug": "sup-s-kopchenostyami"
+        },
+        {
+            "name": "Щи",
+            "slug": "schi"
+        },
+        {
+            "name": "Щи из квашеной капусты",
+            "slug": "schi-iz-kvashenoy-kapusty"
+        }
+    ]
+}

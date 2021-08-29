@@ -1,0 +1,196 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-s-rukkoloj-syrom-i-kedrovymi-orexami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат с рукколой, сыром и кедровыми орехами",
+    "description": "Салат руккола еще называют посевным гусеничником. Растение выращивалось на территории Средиземноморья еще во времена существования Римской империи. Острый вкус позволяет использовать рукколу для приготовления пиццы и как приправу к различным мясным блюдам.",
+    "note": "В заправку для салата можно добавить сухие специи, орегано, базилик. Сыр «Моцарелла» можно заменить брынзой.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/55/0acffb30a6a7d55_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр моцарелла",
+                    "slug": "syr-mocarella",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры черри",
+                    "slug": "pomidory-cherri",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кедровые орехи",
+                    "slug": "kedrovye-orehi",
+                    "notes": null,
+                    "value": "1/4",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "руккола",
+                    "slug": "rukkola",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для салата",
+            "list": [
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Порвать руками листья салата, порезать помидоры черри и сыр моцарелла и выложить на зелень. Немного обжарить очищенные кедровые орехи на сухой сковороде.  Для заправки смешать оливковое масло, лимонный сок, посолить, поперчить по вкусу. Полить смесью салат и посыпать кедровыми орехами.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Веганство",
+            "slug": "veganstvo"
+        },
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетические салаты",
+            "slug": "dieticheskie-salaty"
+        },
+        {
+            "name": "Зеленые салаты",
+            "slug": "zelenye-salaty"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из помидоров",
+            "slug": "salat-iz-pomidorov"
+        },
+        {
+            "name": "Салат с кедровыми орешками",
+            "slug": "salat-s-kedrovymi-oreshkami"
+        },
+        {
+            "name": "Салат с моцареллой и помидорами",
+            "slug": "salat-s-mocarelloy-i-pomidorami"
+        },
+        {
+            "name": "Салат с орехами",
+            "slug": "salat-s-orehami"
+        },
+        {
+            "name": "Салат с помидорами и сыром",
+            "slug": "salat-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Салат с помидорами черри",
+            "slug": "salat-s-pomidorami-cherri"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салат с рукколой и кедровыми орешками",
+            "slug": "salat-s-rukkoloy-i-kedrovymi-oreshkami"
+        },
+        {
+            "name": "Салат с рукколой и помидорами",
+            "slug": "salat-s-rukkoloy-i-pomidorami"
+        },
+        {
+            "name": "Салат с рукколой и сыром моцарелла",
+            "slug": "salat-s-rukkoloy-i-syrom-mocarella"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты из сырых овощей",
+            "slug": "salaty-iz-syryh-ovoschey"
+        },
+        {
+            "name": "Салаты на скорую руку",
+            "slug": "salaty-na-skoruyu-ruku"
+        },
+        {
+            "name": "Салаты с рукколой",
+            "slug": "salaty-s-rukkoloy"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        }
+    ]
+}

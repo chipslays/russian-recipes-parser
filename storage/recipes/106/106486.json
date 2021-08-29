@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/106486-pashtet-iz-kurinoj-pecheni-s-syrom-i-maslom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Паштет из куриной печени с сыром и маслом",
+    "description": "Сыр хорошо сочетается как со сливочным маслом, так и с печенью.",
+    "note": "Количество сыра в рецепте можно варьировать – вкус паштета будет немного разным.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/86/a450fcd21e31886_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 10 порции",
+            "list": [
+                {
+                    "name": "куриная печень",
+                    "slug": "kurinaya-pechen",
+                    "notes": null,
+                    "value": "450",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук белый",
+                    "slug": "luk-beliy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "½",
+                    "type": "пачки",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Репчатый лук и куриную печень нарезать крупными кусочками.",
+            "image": null
+        },
+        {
+            "text": "Отварить продукты в подсоленной воде до готовности.",
+            "image": null
+        },
+        {
+            "text": "Откинуть на дуршлаг, дать воде стечь.",
+            "image": null
+        },
+        {
+            "text": "Продукты пропустить через мясорубку или измельчить при помощи блендера.",
+            "image": null
+        },
+        {
+            "text": "Добавить мягкое сливочное масло, тертый сыр. Перец и соль – по вкусу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Куриный паштет",
+            "slug": "kuriniy-pashtet"
+        },
+        {
+            "name": "Паштет из куриной печени",
+            "slug": "pashtet-iz-kurinoy-pecheni"
+        },
+        {
+            "name": "Паштет из печени",
+            "slug": "pashtet-iz-pecheni"
+        },
+        {
+            "name": "Паштеты",
+            "slug": "pashtety"
+        }
+    ]
+}

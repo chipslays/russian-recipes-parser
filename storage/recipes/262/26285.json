@@ -1,0 +1,87 @@
+{
+    "source": "https://vkuso.ru/recipe/limonad-iz-zelenogo-chaya-s-myatoj/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Лимонад из зеленого чая с мятой",
+    "description": "Зеленый чай содержит более пятисот химических элементов и около четырехсот пятидесяти органических соединений, чуть ли не все группы витаминов. Такой богатый состав делает его кладезем полезных веществ, незаменимым продуктом питания.",
+    "note": "Вместо лимонного сока можно использовать сок лайма, он не такой острый на вкус.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/28/dec9d24b630a628_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чай зеленый",
+                    "slug": "chay-zeleniy",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "мята",
+                    "slug": "myata",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Налить в кувшин заваренный зеленый чай, добавить лимонный сок, листочки мяты и кипяченую воду. Охладить, разлить в стаканы, при подаче украсить мятой и тонкими ломтиками лимона.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Веганство",
+            "slug": "veganstvo"
+        },
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Лимонад",
+            "slug": "limonad"
+        },
+        {
+            "name": "Праздничные коктейли и напитки",
+            "slug": "prazdnichnye-kokteyli-i-napitki"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

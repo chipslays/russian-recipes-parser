@@ -1,0 +1,207 @@
+{
+    "source": "https://vkuso.ru/recipe/83445-sendvich-s-kopchenoj-kuricej-i-chesnokom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Сэндвич с копченой курицей и чесноком",
+    "description": "Закуску можно приготовить для нежданно пришедших гостей.",
+    "note": "Рецепт можно дополнить листьями салата, полосками сладкого болгарского перца.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e9/e2a91d46a9cd0e9_660x440.png",
+    "difficulty": "Низкая",
+    "cooktime": "15 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "хлеб черный",
+                    "slug": "hleb-cherniy",
+                    "notes": null,
+                    "value": "4",
+                    "type": "кусочка",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы соленые",
+                    "slug": "ogurcy-solenye",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "курица копченая",
+                    "slug": "kurica-kopchenaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "окорочек",
+                    "amount": null
+                },
+                {
+                    "name": "сыр мягкий",
+                    "slug": "syr-myagkiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "горчица зернистая",
+                    "slug": "gorchica-zernistaya",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "зубчик",
+                    "amount": null
+                },
+                {
+                    "name": "зелень укропа",
+                    "slug": "zelen-ukropa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить соус из кремового сыра и зернистой горчицы.",
+            "image": null
+        },
+        {
+            "text": "По желанию использовать острую горчицу.",
+            "image": null
+        },
+        {
+            "text": "Мелко порубить чеснок, укроп, соленые огурцы.",
+            "image": null
+        },
+        {
+            "text": "Добавить в соус, перемешать, пасту посолить и поперчить по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Черный хлеб нарезать ломтиками, смазать полученным соусом.",
+            "image": null
+        },
+        {
+            "text": "Помидоры нарезать кружками, выложить на хлеб.",
+            "image": null
+        },
+        {
+            "text": "Куриное филе порвать на волокна, выложить поверх помидоров.",
+            "image": null
+        },
+        {
+            "text": "Бутерброд накрыть второй частью хлеба, подать на стол.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды в дорогу",
+            "slug": "buterbrody-v-dorogu"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды на природу",
+            "slug": "buterbrody-na-prirodu"
+        },
+        {
+            "name": "Бутерброды на скорую руку",
+            "slug": "buterbrody-na-skoruyu-ruku"
+        },
+        {
+            "name": "Бутерброды с курицей",
+            "slug": "buterbrody-s-kuricey"
+        },
+        {
+            "name": "Бутерброды с огурцом",
+            "slug": "buterbrody-s-ogurcom"
+        },
+        {
+            "name": "Бутерброды с помидорами",
+            "slug": "buterbrody-s-pomidorami"
+        },
+        {
+            "name": "Бутерброды с сыром и чесноком",
+            "slug": "buterbrody-s-syrom-i-chesnokom"
+        },
+        {
+            "name": "Бутерброды с черным хлебом",
+            "slug": "buterbrody-s-chernym-hlebom"
+        },
+        {
+            "name": "Закрытые бутерброды",
+            "slug": "zakrytye-buterbrody"
+        },
+        {
+            "name": "Закуски для пикника",
+            "slug": "zakuski-dlya-piknika"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сэндвич с курицей",
+            "slug": "sendvich-s-kuricey"
+        },
+        {
+            "name": "Сэндвич с сыром",
+            "slug": "sendvich-s-syrom"
+        },
+        {
+            "name": "Сэндвичи",
+            "slug": "sendvichi"
+        },
+        {
+            "name": "Холодные закуски",
+            "slug": "holodnye-zakuski"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "source": "https://vkuso.ru/recipe/syr-brynza-iz-smetany-yaic-i-moloka/",
+    "category": "Молочные продукты домашние",
+    "category_slug": "molochnye-produkty-domashnie",
+    "title": "Сыр брынза из сметаны, яиц и молока",
+    "description": "Необходимо использовать самые свежие и качественные яйца, сметану и молоко.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f2/53628b02aceecf2_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": " (пастеризованное)",
+                    "value": "2",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Налить молоко в кастрюлю, посолить, поставить на огонь, закипятить, мешать, чтобы не подгорело.",
+            "image": null
+        },
+        {
+            "text": "Взбить яйца, соединить со сметаной.",
+            "image": null
+        },
+        {
+            "text": "Убавить огонь, налить яично-сметанную смесь в молоко, готовить 5-6 минут, непрерывно помешивая, пока сыворотка не отделится от творога.",
+            "image": null
+        },
+        {
+            "text": "Постелить на сито или дуршлаг сложенную в 2 слоя марлю.",
+            "image": null
+        },
+        {
+            "text": "Под сито поставить кастрюлю, налить сырную смесь, подождать, пока сыворотка стечет.",
+            "image": null
+        },
+        {
+            "text": "Сито с сыром поставить в емкость, накрыть свисающими краями марли, положить сверху тарелку поменьше диаметром, на тарелку поставить литровую банку с водой.",
+            "image": null
+        },
+        {
+            "text": "Отставить на 4-6 часов, через 60 минут можно поставить сыр в холодильник.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Сыр домашний",
+            "slug": "syr-domashniy"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        }
+    ]
+}

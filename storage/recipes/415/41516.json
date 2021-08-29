@@ -1,0 +1,157 @@
+{
+    "source": "https://vkuso.ru/recipe/dieticheskij-ruletik-s-yagodami/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Диетический рулетик с ягодами",
+    "description": "Диетический рулет с протеиновым кремом и ягодным соусом, который сделает суховатое блюдо сочным и привлекательным.",
+    "note": "Такой рулет лучше есть охлажденным. Для приготовления соуса годятся любые ягоды: клубника, малина, ежевика, вишня или черешня.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/11/a5d2fdb92d8dc11_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "20",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "клетчатка",
+                    "slug": "kletchatka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "заменитель сахара стевия",
+                    "slug": "zamenitel-sahara-steviya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        },
+        {
+            "name": "Для коржа",
+            "list": [
+                {
+                    "name": "протеин",
+                    "slug": "protein",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "какао-порошок",
+                    "slug": "kakao-poroshok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для крема",
+            "list": [
+                {
+                    "name": "ягоды замороженные",
+                    "slug": "yagody-zamorojennye",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "заменитель сахара стевия",
+                    "slug": "zamenitel-sahara-steviya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления коржа смешать сырые куриные белки с водой, клетчаткой и стевией по вкусу. Дать массе постоять в течение трех-пяти минут для набухания. Выпечь в духовке или на сухой сковороде в течение пяти-десяти минут при температуре 160 градусов.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления крема смешать протеин, воду и какао-порошок. Масса должна по густоте напоминать сметану.",
+            "image": null
+        },
+        {
+            "text": "Для соуса замороженные ягоды поставить в микроволновую печь на две-три минуты вместе со стевией.",
+            "image": null
+        },
+        {
+            "text": "Протеиновый крем выложить на корж, свернуть рулетом. Сверху выпечку полить ягодным сиропом и поставить в холодильник на несколько минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка на скорую руку",
+            "slug": "vypechka-na-skoruyu-ruku"
+        },
+        {
+            "name": "Выпечка с фруктами",
+            "slug": "vypechka-s-fruktami"
+        },
+        {
+            "name": "Выпечка с ягодами",
+            "slug": "vypechka-s-yagodami"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Мелкая выпечка",
+            "slug": "melkaya-vypechka"
+        },
+        {
+            "name": "Рулеты из теста",
+            "slug": "rulety-iz-testa"
+        }
+    ]
+}

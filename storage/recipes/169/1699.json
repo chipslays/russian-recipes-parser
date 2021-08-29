@@ -1,0 +1,191 @@
+{
+    "source": "https://vkuso.ru/recipe/myaso-tushenoe-s-ovoshhami-po-tatarski/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Мясо тушеное с овощами по-татарски",
+    "description": null,
+    "note": null,
+    "cuisine": "Татарская кухня",
+    "cuisine_slug": "tatarskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/41/55476b30777eb41_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мяса",
+                    "slug": "myasa",
+                    "notes": null,
+                    "value": "600",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "140",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "топленого масла",
+                    "slug": "toplenogo-masla",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "6",
+                    "type": "клубней",
+                    "amount": null
+                },
+                {
+                    "name": "моркови",
+                    "slug": "morkovi",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "бульона",
+                    "slug": "bulona",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "целый душистый перец",
+                    "slug": "celiy-dushistiy-perec",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "целый черный перец",
+                    "slug": "celiy-cherniy-perec",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Чтобы приготовить мясо тушеное с овощами по-татарски можно взять мякоть говядины или баранины, нарезать вырезку крупными кусками по 300 г.",
+            "image": null
+        },
+        {
+            "text": "Поставить варить, приправив лавровым листом, солью, горошками черного и душистого перцев.",
+            "image": null
+        },
+        {
+            "text": "Достать готовое мясо из бульона, дать остыть и порезать на небольшие кусочки.",
+            "image": null
+        },
+        {
+            "text": "Отварить порезанный на четвертинки картофель в воде с солью.",
+            "image": null
+        },
+        {
+            "text": "Из бульона и нашинкованных овощей сварить соус с добавлением молотого черного перца, соли, лаврового листа и топленого масла, варить 5 минут.",
+            "image": null
+        },
+        {
+            "text": "Порезанное мясо положить в сковороду, на него — слой картофеля, залить овощным бульоном, добавить несколько горошин черного перца, тушить либо на плите, либо в духовке 45-50 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из картофеля",
+            "slug": "vtorye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Картошка с мясом в духовке",
+            "slug": "kartoshka-s-myasom-v-duhovke"
+        },
+        {
+            "name": "Мясо в духовке",
+            "slug": "myaso-v-duhovke"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Мясо с овощами",
+            "slug": "myaso-s-ovoschami"
+        },
+        {
+            "name": "Тушеная картошка",
+            "slug": "tushenaya-kartoshka"
+        },
+        {
+            "name": "Тушеная картошка с мясом",
+            "slug": "tushenaya-kartoshka-s-myasom"
+        },
+        {
+            "name": "Тушеное мясо",
+            "slug": "tushenoe-myaso"
+        },
+        {
+            "name": "Тушеные блюда",
+            "slug": "tushenye-blyuda"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

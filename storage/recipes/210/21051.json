@@ -1,0 +1,99 @@
+{
+    "source": "https://vkuso.ru/recipe/prostoj-sup-iz-kopchenyx-kolbasok/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Простой суп из копченых колбасок",
+    "description": "В целом суп готовится 30 минут. Получается блюдо вкусным и питательным.",
+    "note": null,
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/14/dfa142ab7517014_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "колбаски охотничьи",
+                    "slug": "kolbaski-ohotnichi",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления супа необходимо в первую очередь очистить картофель, порезать его на кубики и отварить. Нарезать мелко лук, натереть морковь. Положить овощи на сковороду. Не слишком мелко порезать колбаски. Выложить кусочки колбасы на сковороду, к моркови и луку.",
+            "image": null
+        },
+        {
+            "text": "Обжарить смесь на небольшом огне. Когда картофель будет готов, переложить содержимое из сковороды в кастрюлю. Положить зелень и лавровый лист. Готовить простой суп из копченых колбасок еще минут 5. Разлить готовый суп по тарелкам и подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Суп с колбасой",
+            "slug": "sup-s-kolbasoy"
+        },
+        {
+            "name": "Суп с копченостями",
+            "slug": "sup-s-kopchenostyami"
+        },
+        {
+            "name": "Суп с охотничьими колбасками",
+            "slug": "sup-s-ohotnichimi-kolbaskami"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Супы на скорую руку",
+            "slug": "supy-na-skoruyu-ruku"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "source": "https://vkuso.ru/recipe/zharenaya-utka-v-multivarke-po-domashnemu/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Жареная утка в мультиварке по-домашнему",
+    "description": "Жареная утка в мультиварке по-домашнему всегда получается сочной, в отличие от утки приготовленной на сковороде или в духовке.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/3a/02a53d8ffd26b3a_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "соевого соуса",
+                    "slug": "soevogo-sousa",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "утка",
+                    "slug": "utka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать на куски утку, вымочить в воде 15 минут, обсушить, переложить в мультиварку, подсолить, поперчить, полить соевым соусом.",
+            "image": null
+        },
+        {
+            "text": "Выставить режим «Выпечка» и время 50 минут, переключить после сигнала на «Тушение», готовить 20-40 минут (проверять готовность).",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда в мультиварке",
+            "slug": "vtorye-blyuda-v-multivarke"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        }
+    ]
+}

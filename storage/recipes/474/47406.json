@@ -1,0 +1,199 @@
+{
+    "source": "https://vkuso.ru/recipe/goryachij-salat-iz-kuricy-perca-i-struchkovoj-fasoli/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Горячий салат из курицы, перца и стручковой фасоли",
+    "description": "Вкусное и полноценное блюдо с мясом и овощами. Его трудно назвать салатом, отличие кушанья от второго блюда только в том, что ингредиенты, используемые для приготовления, нарезаны соломкой и перемешаны.",
+    "note": "По желанию готовое блюдо можно посыпать рубленой зеленью петрушки, укропа, орегано, базиликом, сбрызнуть лимонным соком.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b9/fe867289530feb9_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриная грудка",
+                    "slug": "kurinaya-grudka",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "фасоль стручковая",
+                    "slug": "fasol-struchkovaya",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец болгарский красный",
+                    "slug": "perec-bolgarskiy-krasniy",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "уксус бальзамический",
+                    "slug": "uksus-balzamicheskiy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соус соевый",
+                    "slug": "sous-soeviy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Стручковую фасоль отварить в воде в течение двух минут, откинуть на дуршлаг.",
+            "image": null
+        },
+        {
+            "text": "Нарезать соломкой куриную грудку, репчатый лук, сладкий болгарский красный перец.",
+            "image": null
+        },
+        {
+            "text": "Мясо обсушить бумажным полотенцем и обжарить на сковороде, на оливковом масле, до готовности.",
+            "image": null
+        },
+        {
+            "text": "Лук бланшировать в кипятке в течение пяти минут, затем перец, прогреть пять минут, затем фасоль.",
+            "image": null
+        },
+        {
+            "text": "Соединить овощи с грудкой, тушить все вместе три-пять минуты. Салат снять с огня, влить соевый соус и бальзамический уксус, соль и молотый перец – по вкусу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Курица с болгарским перцем",
+            "slug": "kurica-s-bolgarskim-percem"
+        },
+        {
+            "name": "Курица с фасолью",
+            "slug": "kurica-s-fasolyu"
+        },
+        {
+            "name": "Овощные салаты",
+            "slug": "ovoschnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат с куриной грудкой",
+            "slug": "salat-s-kurinoy-grudkoy"
+        },
+        {
+            "name": "Салат с курицей",
+            "slug": "salat-s-kuricey"
+        },
+        {
+            "name": "Салат с курицей и овощами",
+            "slug": "salat-s-kuricey-i-ovoschami"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салат с соевым соусом",
+            "slug": "salat-s-soevym-sousom"
+        },
+        {
+            "name": "Салат с фасолью",
+            "slug": "salat-s-fasolyu"
+        },
+        {
+            "name": "Салат с фасолью и курицей",
+            "slug": "salat-s-fasolyu-i-kuricey"
+        },
+        {
+            "name": "Салат со стручковой фасолью",
+            "slug": "salat-so-struchkovoy-fasolyu"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без майонеза на праздничный стол",
+            "slug": "salaty-bez-mayoneza-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Салаты на скорую руку",
+            "slug": "salaty-na-skoruyu-ruku"
+        },
+        {
+            "name": "Теплый салат",
+            "slug": "tepliy-salat"
+        },
+        {
+            "name": "Теплый салат с куриной грудкой",
+            "slug": "tepliy-salat-s-kurinoy-grudkoy"
+        },
+        {
+            "name": "Теплый салат с курицей",
+            "slug": "tepliy-salat-s-kuricey"
+        },
+        {
+            "name": "Ужин из куриной грудки",
+            "slug": "ujin-iz-kurinoy-grudki"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Фасоль с мясом",
+            "slug": "fasol-s-myasom"
+        }
+    ]
+}

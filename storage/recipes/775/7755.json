@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/syrnye-krekery-iz-parmezana/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Сырные крекеры из пармезана",
+    "description": "Возьмите на заметку рецепт быстрого приготовления аппетитно хрустящего печенья и  тогда, внезапный приход гостей не застанет вас врасплох.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b4/caca6a9f5799db4_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр пармезан",
+                    "slug": "syr-parmezan",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Смешать просеянную муку с мелко натертым сыром и холодным маслом, растереть руками в однородную маслянистую крошку. Вымесить, постепенно добавляя по ст.л. чуть подсоленной воды, тесто, положить на час охладится.",
+            "image": null
+        },
+        {
+            "text": "Включить прогреться духовку (200 градусов), подготовить противень. Тесто достать из холодильника, раскатать до максимально тонкого пласта, разрезать фигурным ножом на небольшие ромбики.",
+            "image": null
+        },
+        {
+            "text": "Переложить сырные крекеры из пармезана на противень, поставить в духовку, достать примерно через 10 минут, остудить, переложить в вазочку, подать к столу.",
+            "image": null
+        },
+        {
+            "text": "Для пикантного вкуса в крекеры можно положить немного красного перца, зелени или паприки, а верх присыпать маком или обжаренными зернами кунжута.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Без яиц",
+            "slug": "bez-yaic"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Крекеры",
+            "slug": "krekery"
+        },
+        {
+            "name": "Печенье",
+            "slug": "pechene"
+        },
+        {
+            "name": "Печенье без яиц",
+            "slug": "pechene-bez-yaic"
+        },
+        {
+            "name": "Сырное печенье",
+            "slug": "syrnoe-pechene"
+        }
+    ]
+}

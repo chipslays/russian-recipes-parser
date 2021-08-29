@@ -1,0 +1,139 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-po-korejski-iz-baklazhanov-s-kunzhutom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат по-корейски из баклажанов с кунжутом",
+    "description": "Салаты по-корейски можно подавать как витаминную закуску, а можно как гарнир к мясным блюдам.",
+    "note": "Во многие салаты по-корейски добавляется дробленое семя кунжута, поэтому его можно заготовить впрок и хранить в плотно закрытой банке.  Разогреть маленькую сковороду (желательно чугунную с толстым дном) на среднем огне, насыпать семя, поджарить до темного колера и появления приятного аромата, чуть остудить. В ступку насыпать соль, добавить семена кунжута, растереть пестиком, ссыпать в банку, убрать в темное место.",
+    "cuisine": "Корейская кухня",
+    "cuisine_slug": "koreyskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ff/798a10285c247ff_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "баклажаны",
+                    "slug": "baklajany",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соус соевый",
+                    "slug": "sous-soeviy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "семена кунжута",
+                    "slug": "semena-kunjuta",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "уксус рисовый",
+                    "slug": "uksus-risoviy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло кунжутное",
+                    "slug": "maslo-kunjutnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать баклажаны на длинные полосы квадратного сечения (2,5 х 2,5 см), сварить, отцедить, дать остыть.",
+            "image": null
+        },
+        {
+            "text": "Из рисового уксуса, кунжутного масла, сахара, соевого соуса, небольшого количества соли с добавлением дробленого кунжута приготовить заправку.",
+            "image": null
+        },
+        {
+            "text": "Разделить остывшие баклажаны на длинные тоненькие полоски, переложить в салатник, приправить нашинкованным зеленым луком, добавить заправку, размешать, дать постоять. Перед подачей салат по-корейски из баклажанов с кунжутом будет неплохо подержать в холодильнике.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Баклажаны по-корейски",
+            "slug": "baklajany-po-koreyski"
+        },
+        {
+            "name": "Корейские салаты",
+            "slug": "koreyskie-salaty"
+        },
+        {
+            "name": "Постные салаты",
+            "slug": "postnye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салат с соевым соусом",
+            "slug": "salat-s-soevym-sousom"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты с баклажанами",
+            "slug": "salaty-s-baklajanami"
+        }
+    ]
+}

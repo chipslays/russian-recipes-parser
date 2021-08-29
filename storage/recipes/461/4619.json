@@ -1,0 +1,239 @@
+{
+    "source": "https://vkuso.ru/recipe/damlama-v-multivarke/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Дамлама в мультиварке",
+    "description": null,
+    "note": null,
+    "cuisine": "Узбекская кухня",
+    "cuisine_slug": "uzbekskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/1b/0a86b4ad8f8371b_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "говядины",
+                    "slug": "govyadiny",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "5-7",
+                    "type": "клубней",
+                    "amount": null
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "помидора",
+                    "slug": "pomidora",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2-3"
+                },
+                {
+                    "name": "болгарских перца",
+                    "slug": "bolgarskih-perca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "баклажана",
+                    "slug": "baklajana",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "капуста",
+                    "slug": "kapusta",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень петрушки",
+                    "slug": "zelen-petrushki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень укропа",
+                    "slug": "zelen-ukropa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Смазать дно чаши мультиварки растительным маслом, порезать мясо как для гуляша, переложить в чашу, а сверху – нашинкованный лук, мелко порезать картофель и высыпать на лук, на него слоями нарезанный полукольцами сладкий перец, кружочки моркови, помидоров, кубики баклажана и порезанную капусту, каждый слой приправить по вкусу и посолить.",
+            "image": null
+        },
+        {
+            "text": "Закрыть крышку, выставить режим «Тушение», а время 2 часа, после приготовления разложить по тарелкам, присыпать измельченной зеленью.",
+            "image": null
+        },
+        {
+            "text": "Дамлама в мультиварке будет вкуснее, если все овощи будут нарезаны мелко, для любителей можно добавить чеснок.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Баклажаны в мультиварке",
+            "slug": "baklajany-v-multivarke"
+        },
+        {
+            "name": "Баклажаны с помидорами",
+            "slug": "baklajany-s-pomidorami"
+        },
+        {
+            "name": "Вторые блюда из баклажанов",
+            "slug": "vtorye-blyuda-iz-baklajanov"
+        },
+        {
+            "name": "Вторые блюда из говядины",
+            "slug": "vtorye-blyuda-iz-govyadiny"
+        },
+        {
+            "name": "Вторые блюда из картофеля",
+            "slug": "vtorye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Говядина в мультиварке",
+            "slug": "govyadina-v-multivarke"
+        },
+        {
+            "name": "Говядина с овощами",
+            "slug": "govyadina-s-ovoschami"
+        },
+        {
+            "name": "Говядина тушеная",
+            "slug": "govyadina-tushenaya"
+        },
+        {
+            "name": "Капуста в мультиварке",
+            "slug": "kapusta-v-multivarke"
+        },
+        {
+            "name": "Капуста с мясом",
+            "slug": "kapusta-s-myasom"
+        },
+        {
+            "name": "Капуста с мясом и картошкой",
+            "slug": "kapusta-s-myasom-i-kartoshkoy"
+        },
+        {
+            "name": "Картошка в мультиварке",
+            "slug": "kartoshka-v-multivarke"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Картошка с мясом в мультиварке",
+            "slug": "kartoshka-s-myasom-v-multivarke"
+        },
+        {
+            "name": "Картошка с мясом и капустой",
+            "slug": "kartoshka-s-myasom-i-kapustoy"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Мясо в мультиварке",
+            "slug": "myaso-v-multivarke"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Тушеная капуста с картошкой",
+            "slug": "tushenaya-kapusta-s-kartoshkoy"
+        },
+        {
+            "name": "Тушеная капуста с мясом",
+            "slug": "tushenaya-kapusta-s-myasom"
+        },
+        {
+            "name": "Тушеное мясо",
+            "slug": "tushenoe-myaso"
+        },
+        {
+            "name": "Тушеное мясо в мультиварке",
+            "slug": "tushenoe-myaso-v-multivarke"
+        },
+        {
+            "name": "Тушеные блюда",
+            "slug": "tushenye-blyuda"
+        }
+    ]
+}

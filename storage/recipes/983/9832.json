@@ -1,0 +1,155 @@
+{
+    "source": "https://vkuso.ru/recipe/zakusochnye-rozochki-s-kuricej-i-syrom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Закусочные розочки с курицей и сыром",
+    "description": "История сохранила имя кулинара, придумавшего слоеное тесто, им был Клавдий  Геле, ученик известного французского кондитера. Это произошло в 1645 году, он придумал тесто для своего отца, который был вынужден сидеть на диете. Изобретение в дальнейшем принесло Клавдию имя и деньги.",
+    "note": "Закусочные булочки с куриной начинкой можно подать можно как горячими, так и холодными.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/6e/5cb5fc624a76f6e_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриная грудка",
+                    "slug": "kurinaya-grudka",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "тесто слоеное",
+                    "slug": "testo-sloenoe",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить начинку. Для этого нарезать сырое куриное филе на кубики со стороной 1 см. На крупной терке натереть твердый сыр. Смешать, добавить соль и перец, майонез, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Готовое слоеное тесто раскатать в пласт толщиной полсантиметра. Разрезать на квадраты со стороной в дециметр, сделать на них надрезы от угла, не доходя до центра. На середину положить начинку.",
+            "image": null
+        },
+        {
+            "text": "Сформировать «розы», для этого поднять один край и обернуть им начинку, затем следующий, им также обернуть начинку и предыдущий «лепесток».",
+            "image": null
+        },
+        {
+            "text": "Когда все «лепестки» будут завернуты и булочки сформированы, выложить их на противень и смазать взбитым желтком. Печь закусочные розочки с курицей и сыром 30–40 минут при температуре 180 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка из слоеного теста",
+            "slug": "vypechka-iz-sloenogo-testa"
+        },
+        {
+            "name": "Закуски из курицы",
+            "slug": "zakuski-iz-kuricy"
+        },
+        {
+            "name": "Куриная грудка в духовке",
+            "slug": "kurinaya-grudka-v-duhovke"
+        },
+        {
+            "name": "Мясо с сыром",
+            "slug": "myaso-s-syrom"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки без дрожжей",
+            "slug": "pirojki-bez-drojjey"
+        },
+        {
+            "name": "Пирожки в духовке",
+            "slug": "pirojki-v-duhovke"
+        },
+        {
+            "name": "Пирожки с курицей",
+            "slug": "pirojki-s-kuricey"
+        },
+        {
+            "name": "Пирожки с сыром",
+            "slug": "pirojki-s-syrom"
+        },
+        {
+            "name": "Розочки из теста",
+            "slug": "rozochki-iz-testa"
+        },
+        {
+            "name": "Слоеные пирожки",
+            "slug": "sloenye-pirojki"
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "source": "https://vkuso.ru/recipe/tomatnyj-krem-sup-s-kuricej-i-percem-chili/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Томатный крем-суп с курицей и перцем чили",
+    "description": "Блюдо для любителей острого и пряного. Перец чили хорошо сочетается с карри.",
+    "note": "Чтобы снять кожуру с помидоров, их бланшируют в кипятке в течение двух или трех минут. Количество перца чили – по желанию, продукт острый и нравится не всем.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/39/e1a15593933c339_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "куриные окорочка",
+                    "slug": "kurinye-okorochka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец чили",
+                    "slug": "perec-chili",
+                    "notes": null,
+                    "value": "&frac13;",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "карри",
+                    "slug": "karri",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Окорок отварить, посолить и поперчить.",
+            "image": null
+        },
+        {
+            "text": "Мясо вынуть, отделить от костей, нарезать кусочками.",
+            "image": null
+        },
+        {
+            "text": "На сливочном масле обжарить измельченную морковь и репчатый лук, перец чили, очищенные помидоры и сладкий болгарский перец.",
+            "image": null
+        },
+        {
+            "text": "Посыпать карри.",
+            "image": null
+        },
+        {
+            "text": "В куриный бульон добавить обжарку, картофель.",
+            "image": null
+        },
+        {
+            "text": "Варить до готовности.",
+            "image": null
+        },
+        {
+            "text": "Массу взбить в пюре при помощи погружного блендера.",
+            "image": null
+        },
+        {
+            "text": "Куриное мясо добавить при подаче.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Крем-суп",
+            "slug": "krem-sup"
+        },
+        {
+            "name": "Куриный суп",
+            "slug": "kuriniy-sup"
+        },
+        {
+            "name": "Куриный суп-пюре",
+            "slug": "kuriniy-sup-pyure"
+        },
+        {
+            "name": "Суп из птицы",
+            "slug": "sup-iz-pticy"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Томатный суп",
+            "slug": "tomatniy-sup"
+        }
+    ]
+}

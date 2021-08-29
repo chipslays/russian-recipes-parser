@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/legkij-desert-iz-tvoroga-s-fruktami/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Легкий десерт из творога с фруктами",
+    "description": "Легкий десерт со свежими и консервированными фруктами, не требует теплообработки, основа – желе.",
+    "note": "Консервированные персики можно заменить консервированными же ананасами, жидкость слить.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/41/6970a45a990d841_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "бананы",
+                    "slug": "banany",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "киви",
+                    "slug": "kivi",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "персик консервированный",
+                    "slug": "persik-konservirovanniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Творог размять вилкой, добавить сахар и сметану, массу взбить блендером или вручную. Очистить бананы и киви, консервированные персики, порезать кружочками, а затем сегментами. Залить желатин молоком и дать набухнуть, затем прогреть до растворения, кипятить не нужно. Влить его в творожную массу и перемешать.",
+            "image": null
+        },
+        {
+            "text": "В форму для выпечки выложить слой подготовленных фруктов, залить творожно-желатиновой массой, снова слой фруктов, чередовать слои до верха формы. Сверху – любой нежирный крем и кокосовая стружка. Охладить легкий десерт из творога с фруктами в холодильнике в течение получаса.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерт из бананов",
+            "slug": "desert-iz-bananov"
+        },
+        {
+            "name": "Десерт с персиками",
+            "slug": "desert-s-persikami"
+        },
+        {
+            "name": "Десерты с желатином",
+            "slug": "deserty-s-jelatinom"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Детский праздник",
+            "slug": "detskiy-prazdnik"
+        },
+        {
+            "name": "На десерт",
+            "slug": "na-desert"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        }
+    ]
+}

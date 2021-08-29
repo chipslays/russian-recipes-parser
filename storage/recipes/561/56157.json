@@ -1,0 +1,119 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnie-kurinye-kolbaski-s-molokom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Домашние куриные колбаски с молоком",
+    "description": null,
+    "note": "При желании можно потом их чуть обжарить, из полученных продуктов получается 14 колбасок.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/03/62fbcc791653203_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриный фарш",
+                    "slug": "kuriniy-farsh",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "паприка сладкая",
+                    "slug": "paprika-sladkaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "приправа для курицы",
+                    "slug": "priprava-dlya-kuricy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Влить в фарш молоко, перемешать, убрать на полчаса в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Добавить специи, еще раз перемешать, заполнить фаршем кондитерский шприц или п/э пакет, срезать у него уголок.",
+            "image": null
+        },
+        {
+            "text": "На прямоугольник из пищевой пленки выдавить «колбаску» фарша, осторожно свернуть, концы плотно завязать.",
+            "image": null
+        },
+        {
+            "text": "Закипятить воду, положить домашние куриные колбаски с молоком, варить 10 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Вторые блюда из фарша",
+            "slug": "vtorye-blyuda-iz-farsha"
+        },
+        {
+            "name": "Домашние колбаски",
+            "slug": "domashnie-kolbaski"
+        },
+        {
+            "name": "Заготовки из мяса",
+            "slug": "zagotovki-iz-myasa"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "source": "https://vkuso.ru/recipe/kotlety-kurinye-s-nachinkoj-iz-pecheni-s-yajcom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Котлеты куриные с начинкой из печени с яйцом",
+    "description": null,
+    "note": null,
+    "cuisine": "Скандинавская кухня",
+    "cuisine_slug": "skandinavskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/33/9cd669948100e33_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриного филе",
+                    "slug": "kurinogo-file",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "куриной печени",
+                    "slug": "kurinoy-pecheni",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливочного масла",
+                    "slug": "slivochnogo-masla",
+                    "notes": null,
+                    "value": "5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "белых панировочных сухарей",
+                    "slug": "belyh-panirovochnyh-suharey",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "черствого батона",
+                    "slug": "cherstvogo-batona",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ломоть",
+                    "amount": null
+                },
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "молотый красный перец",
+                    "slug": "molotiy-krasniy-perec",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень петрушки",
+                    "slug": "zelen-petrushki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Освободить куриное филе от пленки и сухожилий, зачистить косточки, отбить.",
+            "image": null
+        },
+        {
+            "text": "Подготовить фарш для начинки. мелко порубить обжаренную куриную печень, смешать с одним измельченным вареным яйцом, петрушкой, красным перцем, сливочным маслом и солью.",
+            "image": null
+        },
+        {
+            "text": "Положить по центру филе печеночный фарш, приподнять края и закрыть начинку, скрепить для надежности зубочистками, посолить, поперчить.",
+            "image": null
+        },
+        {
+            "text": "Запанировать котлету в муке, смочить взбитым яйцом, обвалять в сухарях, снова смочить в яйце и запанировать в мелких кубиках батона.",
+            "image": null
+        },
+        {
+            "text": "Аккуратно обжать руками, придать форму слегка удлиненного яйца, зарумянить котлету во фритюре, а потом запекать в духовке до готовности.",
+            "image": null
+        },
+        {
+            "text": "Котлеты куриные с начинкой из печени с яйцом подавать с картофелем пай и овощным салатом с зеленью.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из куриной печени",
+            "slug": "vtorye-blyuda-iz-kurinoy-pecheni"
+        },
+        {
+            "name": "Котлеты в панировочных сухарях",
+            "slug": "kotlety-v-panirovochnyh-suharyah"
+        },
+        {
+            "name": "Куриные котлеты",
+            "slug": "kurinye-kotlety"
+        },
+        {
+            "name": "Ужин из куриного филе",
+            "slug": "ujin-iz-kurinogo-file"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

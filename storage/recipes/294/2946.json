@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/starorusskij-rybnyj-salat-s-myasom-i-yablokom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Старорусский рыбный салат с мясом и яблоком",
+    "description": null,
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/25/4e0145024ae3725_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сельдь",
+                    "slug": "seld",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "мяса",
+                    "slug": "myasa",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "свеклы",
+                    "slug": "svekly",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметаны",
+                    "slug": "smetany",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "3"
+                },
+                {
+                    "name": "соленых огурца",
+                    "slug": "solenyh-ogurca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "яблока",
+                    "slug": "yabloka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1,5"
+                },
+                {
+                    "name": "горчицы",
+                    "slug": "gorchicy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "уксуса",
+                    "slug": "uksusa",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "хрен",
+                    "slug": "hren",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить картофель в мундире, затем почистить, нарезать небольшими кусочками.",
+            "image": null
+        },
+        {
+            "text": "Порезать сельдь, огурцы, яблоки, отварную свеклу, яйца и отварное мясо.",
+            "image": null
+        },
+        {
+            "text": "Смешать сметану, уксус, горчицу, зелень и тертый хрен.",
+            "image": null
+        },
+        {
+            "text": "Полить полученной заправкой салат и перемешать.",
+            "image": null
+        },
+        {
+            "text": "Старорусский рыбный салат с мясом и яблоком охладить, подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Салат из свеклы",
+            "slug": "salat-iz-svekly"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с картофелем",
+            "slug": "salat-s-kartofelem"
+        },
+        {
+            "name": "Салат с огурцом и яйцом",
+            "slug": "salat-s-ogurcom-i-yaycom"
+        },
+        {
+            "name": "Салат с рыбой",
+            "slug": "salat-s-ryboy"
+        },
+        {
+            "name": "Салат с солеными огурцами",
+            "slug": "salat-s-solenymi-ogurcami"
+        },
+        {
+            "name": "Салаты с мясом",
+            "slug": "salaty-s-myasom"
+        },
+        {
+            "name": "Салаты с селедкой",
+            "slug": "salaty-s-seledkoy"
+        },
+        {
+            "name": "Салаты с яблоками",
+            "slug": "salaty-s-yablokami"
+        },
+        {
+            "name": "Салаты со сметаной",
+            "slug": "salaty-so-smetanoy"
+        }
+    ]
+}

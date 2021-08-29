@@ -1,0 +1,237 @@
+{
+    "source": "https://vkuso.ru/recipe/rybnyj-salat-tort-k-prazdniku/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Рыбный салат-торт к празднику",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/1d/174c53cc779b51d_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "семга соленая",
+                    "slug": "semga-solenaya",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "крабовые палочки",
+                    "slug": "krabovye-palochki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "упаковка",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "4-5",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для основы",
+            "list": [
+                {
+                    "name": "сыр филадельфия",
+                    "slug": "syr-filadelfiya",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "8",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для крема",
+            "list": [
+                {
+                    "name": "икра красная",
+                    "slug": "ikra-krasnaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Потереть мелко крабовые палочки, белки и желтки. Формочку застелить полиэтиленом. Порезать рыбу полосочками, обложить ими стенки и дно формочки.",
+            "image": null
+        },
+        {
+            "text": "Положить слой риса, яиц, крабовых палочек, промазывать кремом. Поставить блюдо на ночь в холодильник. Достать, накрыть тарелкой, перевернуть рыбный салат-торт. Украсить салатик красной икрой и зеленью.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Крабовый салат на Новый Год",
+            "slug": "kraboviy-salat-na-noviy-god"
+        },
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Рыбный салат с рисом",
+            "slug": "rybniy-salat-s-risom"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с крабовыми палочками и рисом",
+            "slug": "salat-s-krabovymi-palochkami-i-risom"
+        },
+        {
+            "name": "Салат с крабовыми палочками и сыром",
+            "slug": "salat-s-krabovymi-palochkami-i-syrom"
+        },
+        {
+            "name": "Салат с крабовыми палочками и яйцом",
+            "slug": "salat-s-krabovymi-palochkami-i-yaycom"
+        },
+        {
+            "name": "Салат с красной икрой",
+            "slug": "salat-s-krasnoy-ikroy"
+        },
+        {
+            "name": "Салат с красной рыбой",
+            "slug": "salat-s-krasnoy-ryboy"
+        },
+        {
+            "name": "Салат с рисом",
+            "slug": "salat-s-risom"
+        },
+        {
+            "name": "Салат с рыбой",
+            "slug": "salat-s-ryboy"
+        },
+        {
+            "name": "Салат с семгой",
+            "slug": "salat-s-semgoy"
+        },
+        {
+            "name": "Салат с яйцом и сыром",
+            "slug": "salat-s-yaycom-i-syrom"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты из круп",
+            "slug": "salaty-iz-krup"
+        },
+        {
+            "name": "Салаты из морепродуктов",
+            "slug": "salaty-iz-moreproduktov"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с икрой",
+            "slug": "salaty-s-ikroy"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        },
+        {
+            "name": "Салаты со сметаной",
+            "slug": "salaty-so-smetanoy"
+        },
+        {
+            "name": "Семга с сыром",
+            "slug": "semga-s-syrom"
+        }
+    ]
+}

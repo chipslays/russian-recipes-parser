@@ -1,0 +1,128 @@
+{
+    "source": "https://vkuso.ru/recipe/shashlyk-po-karski-iz-svininy/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Шашлык по-карски из свинины",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/eb/6318ebc16b30feb_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "свинина",
+                    "slug": "svinina",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "1/3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "головки",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для маринада",
+            "list": [
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "80",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "коньяк",
+                    "slug": "konyak",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать репчатый лук полукольцами, переложить в глубокую посуду, влить коньяк, растительное масло, боржоми, лимонный сок, всыпать смесь пряных трав, все перемешать, положить в маринад целый кусок мяса, отправить ночевать в холодильник. Если нет времени, то выдержать в маринаде можно только 4 часа.",
+            "image": null
+        },
+        {
+            "text": "Насадить кусок на шампур вместе с овощами, завернуть в сетку из внутреннего жира. Жарить шашлык по-карски из свинины в мангале над углями минут 25-30. Блюдо можно готовить из любого мяса и птицы, соблюдая главное условие: мариновать и жарить мясо надо одним куском.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Свинина с луком",
+            "slug": "svinina-s-lukom"
+        },
+        {
+            "name": "Свинина с овощами",
+            "slug": "svinina-s-ovoschami"
+        },
+        {
+            "name": "Свинина с помидорами",
+            "slug": "svinina-s-pomidorami"
+        },
+        {
+            "name": "Шашлык",
+            "slug": "shashlyk"
+        },
+        {
+            "name": "Шашлык из свинины",
+            "slug": "shashlyk-iz-svininy"
+        },
+        {
+            "name": "Шашлык по-карски",
+            "slug": "shashlyk-po-karski"
+        }
+    ]
+}

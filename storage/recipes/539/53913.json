@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/sous-s-kefirom-dlya-shaurmy/",
+    "category": "Соусы",
+    "category_slug": "sousy",
+    "title": "Соус с кефиром для шаурмы",
+    "description": "В той продукции, которая есть на улицах крупных и мелких городов, обычно используется майонез. Для домашней шаурмы можно приготовить что-то посложнее и поинтереснее.",
+    "note": "Соус подходит к шаурме из куриного мяса, также его можно использовать в приготовлении любого мяса, с гарнирами и овощами, с черным хлебом в качестве закусочных бутербродов.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5f/c08f43e88a7855f_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "карри",
+                    "slug": "karri",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "хмели-сунели",
+                    "slug": "hmeli-suneli",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "паприка сладкая",
+                    "slug": "paprika-sladkaya",
+                    "notes": " (молотая)",
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Перемешать кефир, майонез, сметану. Лучше использовать продукты средней жирности, они гуще по консистенции.",
+            "image": null
+        },
+        {
+            "text": "Добавить карри, хмели-сунели, сладкую молотую паприку, пропущенный через пресс чеснок.",
+            "image": null
+        },
+        {
+            "text": "Ингредиенты перемешать, оставить на два-три часа, чтобы специи набухли и разошлись.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Сметанный соус",
+            "slug": "smetanniy-sous"
+        },
+        {
+            "name": "Соус для шаурмы",
+            "slug": "sous-dlya-shaurmy"
+        },
+        {
+            "name": "Соусы к мясу",
+            "slug": "sousy-k-myasu"
+        },
+        {
+            "name": "Чесночный соус",
+            "slug": "chesnochniy-sous"
+        }
+    ]
+}

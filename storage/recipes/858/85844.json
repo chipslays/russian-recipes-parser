@@ -1,0 +1,240 @@
+{
+    "source": "https://vkuso.ru/recipe/85844-picca-na-majoneze-i-smetane-s-kolbasoj-i-gribami/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пицца на майонезе и сметане с колбасой и грибами",
+    "description": "Вкусная и сытная пицца. Тесто хорошо и быстро пропекается, долго не черствеет.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/9a/2ed5f608d63669a_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "180",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "125",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "колбаса",
+                    "slug": "kolbasa",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "грибы маринованные",
+                    "slug": "griby-marinovannye",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лук красный",
+                    "slug": "luk-krasniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень свежая",
+                    "slug": "zelen-svejaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Взбить венчиком смесь из яиц, майонеза и сметаны, постепенно всыпать муку, продолжая перемешивать, должно получиться тесто, похожее на хорошую сметану.",
+            "image": null
+        },
+        {
+            "text": "Большую сковороду смазать маслом, вылить тесто, смазать поверхность кетчупом.",
+            "image": null
+        },
+        {
+            "text": "Нашинковать на тонкие полукольца лук, выложить на тесто, грибы порезать на пластины, уложить поверх лука.",
+            "image": null
+        },
+        {
+            "text": "Колбасу порезать на кубики, присыпать лук.",
+            "image": null
+        },
+        {
+            "text": "Начинку прикрыть тонкими колечками помидора, посолить, поперчить, присыпать сырной стружкой и нашинкованной мелко зеленью.",
+            "image": null
+        },
+        {
+            "text": "Выпекать пиццу на майонезе и сметане с колбасой и грибами при слабом нагреве, прикрыв сковороду крышкой, около 10 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Быстрая пицца на сковороде за 10 минут",
+            "slug": "bystraya-picca-na-skovorode-za-10-minut"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка с колбасой",
+            "slug": "vypechka-s-kolbasoy"
+        },
+        {
+            "name": "Домашняя пицца",
+            "slug": "domashnyaya-picca"
+        },
+        {
+            "name": "Пицца",
+            "slug": "picca"
+        },
+        {
+            "name": "Пицца без дрожжей",
+            "slug": "picca-bez-drojjey"
+        },
+        {
+            "name": "Пицца за 10 минут",
+            "slug": "picca-za-10-minut"
+        },
+        {
+            "name": "Пицца на жидком тесте",
+            "slug": "picca-na-jidkom-teste"
+        },
+        {
+            "name": "Пицца на майонезе",
+            "slug": "picca-na-mayoneze"
+        },
+        {
+            "name": "Пицца на сковороде",
+            "slug": "picca-na-skovorode"
+        },
+        {
+            "name": "Пицца на сковороде за 10 минут",
+            "slug": "picca-na-skovorode-za-10-minut"
+        },
+        {
+            "name": "Пицца на скорую руку",
+            "slug": "picca-na-skoruyu-ruku"
+        },
+        {
+            "name": "Пицца с грибами",
+            "slug": "picca-s-gribami"
+        },
+        {
+            "name": "Пицца с грибами и сыром",
+            "slug": "picca-s-gribami-i-syrom"
+        },
+        {
+            "name": "Пицца с колбасой",
+            "slug": "picca-s-kolbasoy"
+        },
+        {
+            "name": "Пицца с колбасой и грибами",
+            "slug": "picca-s-kolbasoy-i-gribami"
+        },
+        {
+            "name": "Пицца с колбасой и сыром",
+            "slug": "picca-s-kolbasoy-i-syrom"
+        },
+        {
+            "name": "Пицца с колбасой, помидорами и сыром",
+            "slug": "picca-s-kolbasoy-pomidorami-i-syrom"
+        },
+        {
+            "name": "Пицца с помидорами и сыром",
+            "slug": "picca-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Пицца с сыром",
+            "slug": "picca-s-syrom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

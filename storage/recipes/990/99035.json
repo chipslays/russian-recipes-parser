@@ -1,0 +1,87 @@
+{
+    "source": "https://vkuso.ru/recipe/99035-bystroe-varene-iz-kryzhovnika-s-apelsinami-bez-varki/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Быстрое варенье из крыжовника с апельсинами без варки",
+    "description": "Лакомство зеленого цвета с отличным вкусом, без термообработки.",
+    "note": "Апельсины можно заменить лимонами.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/20/ee5c2957d285620_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "15 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 8 порции",
+            "list": [
+                {
+                    "name": "крыжовник",
+                    "slug": "kryjovnik",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "апельсины",
+                    "slug": "apelsiny",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Апельсины вымыть, нарезать, удалить косточки.",
+            "image": null
+        },
+        {
+            "text": "Промыть зеленый крыжовник, удалить плодоножки.",
+            "image": null
+        },
+        {
+            "text": "Ингредиенты пропустить через мясорубку или размолоть при помощи блендера.",
+            "image": null
+        },
+        {
+            "text": "Всыпать сахарный песок, размешать и разлить в заранее стерилизованные банки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Варенье",
+            "slug": "varene"
+        },
+        {
+            "name": "Варенье из апельсинов",
+            "slug": "varene-iz-apelsinov"
+        },
+        {
+            "name": "Варенье из крыжовника",
+            "slug": "varene-iz-kryjovnika"
+        },
+        {
+            "name": "Варенье из ягод",
+            "slug": "varene-iz-yagod"
+        },
+        {
+            "name": "Варенье через мясорубку",
+            "slug": "varene-cherez-myasorubku"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnij-tvist-s-kurinym-file/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Домашний твист с куриным филе",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/30/f18ba12b5336430_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "салат айсберг",
+                    "slug": "salat-aysberg",
+                    "notes": null,
+                    "value": "50-70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лепешки",
+                    "slug": "lepeshki",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для панировки",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Разрезать вдоль филе, запанировать, обмакнуть в яйцо, потом в подсоленную и поперченную муку, обжарить с маслом до золотистого цвета. Салат порвать, помидоры порезать на кубики. Лепешки промазать майонезом, уложить на них салат, кусочки помидора, курицу, свернуть домашний твист в трубочку, обжарить на гриле до хрустящей корочки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бургер",
+            "slug": "burger"
+        },
+        {
+            "name": "Гриль и барбекю",
+            "slug": "gril-i-barbekyu"
+        },
+        {
+            "name": "Домашний фаст фуд",
+            "slug": "domashniy-fast-fud"
+        },
+        {
+            "name": "Закуски из курицы",
+            "slug": "zakuski-iz-kuricy"
+        }
+    ]
+}

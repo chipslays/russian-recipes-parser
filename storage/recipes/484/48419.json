@@ -1,0 +1,297 @@
+{
+    "source": "https://vkuso.ru/recipe/tatarskij-vak-belyash-s-ogurechnym-sousom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Татарский вак-беляш с огуречным соусом",
+    "description": "Беляши любят все, но не все знают, как их правильно приготовить дома. Настоящий пирожок с мясом должен быть сочным и нежным.",
+    "note": "После выпечки пирожки можно подержать на бумажных поленцах для впитывания излишков жира.",
+    "cuisine": "Татарская кухня",
+    "cuisine_slug": "tatarskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/0a/1631609d75cde0a_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "120",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "мясо",
+                    "slug": "myaso",
+                    "notes": " (фарш)",
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "4-5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "огурцы маринованные",
+                    "slug": "ogurcy-marinovannye",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "зубчик",
+                    "amount": null
+                },
+                {
+                    "name": "горчица",
+                    "slug": "gorchica",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "уксус яблочный",
+                    "slug": "uksus-yablochniy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления теста понадобится сырое куриное яйцо, пшеничная мука и кефир. Замесить тесто, оно должно быть мягким и эластичным. Разделить его на шарики среднего размера.",
+            "image": null
+        },
+        {
+            "text": "Нарезать мясо на небольшие кусочки или приготовить фарш. Репчатый лук и очищенный картофель нарезать кубиками. Ингредиенты для начинки соединить, поперчить, посолить, добавить специи и хорошо перемешать.",
+            "image": null
+        },
+        {
+            "text": "Каждый кусочек теста раскатать в лепешку, в середину выложить картофельно-мясную начинку и кусочек сливочного масла.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/c5/5d2ac0e804fd0c5_434x295.jpg"
+        },
+        {
+            "text": "Края беляшей собрать оборкой, не защипывая полностью, изделие должно напоминать мешочек.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/7f/1303574144bc57f_434x295.jpg"
+        },
+        {
+            "text": "Противень застелить пергаментом, выложить беляши, смазать их взбитым яйцом, поставить в духовку, разогретую до 200 градусов.",
+            "image": null
+        },
+        {
+            "text": "В процессе приготовления в оставленные отверстия подливать воду, это нужно сделать три-четыре раза за все время выпекания: начинка будет сочной, не пересохнет. Время приготовления – 40 минут.",
+            "image": null
+        },
+        {
+            "text": "Для соуса ошпарить помидоры, снять кожицу. Мякоть нарезать мелкими кубиками, потушить на сковороде с растительным маслом, солью, перцем, яблочным уксусом. В конце добавить горчицу, рубленый чеснок и тертые маринованные огурцы. Ингредиенты перемешать, беляши подать с полученным соусом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Тесто домашнее",
+            "slug": "testo-domashnee"
+        },
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Беляши",
+            "slug": "belyashi"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка с мясом и фаршем",
+            "slug": "vypechka-s-myasom-i-farshem"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки без дрожжей",
+            "slug": "pirojki-bez-drojjey"
+        },
+        {
+            "name": "Пирожки в духовке",
+            "slug": "pirojki-v-duhovke"
+        },
+        {
+            "name": "Пирожки на кефире",
+            "slug": "pirojki-na-kefire"
+        },
+        {
+            "name": "Пирожки с картошкой",
+            "slug": "pirojki-s-kartoshkoy"
+        },
+        {
+            "name": "Пирожки с мясом",
+            "slug": "pirojki-s-myasom"
+        },
+        {
+            "name": "Пирожки с фаршем",
+            "slug": "pirojki-s-farshem"
+        },
+        {
+            "name": "Полдник",
+            "slug": "poldnik"
+        },
+        {
+            "name": "Татарская выпечка",
+            "slug": "tatarskaya-vypechka"
+        },
+        {
+            "name": "Татарские пирожки",
+            "slug": "tatarskie-pirojki"
+        },
+        {
+            "name": "Тесто для беляшей",
+            "slug": "testo-dlya-belyashey"
+        },
+        {
+            "name": "Тесто на кефире",
+            "slug": "testo-na-kefire"
+        }
+    ]
+}

@@ -1,0 +1,219 @@
+{
+    "source": "https://vkuso.ru/recipe/96337-risovaya-kasha-s-ovoshhami-i-paprikoj/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Рисовая каша с овощами и паприкой",
+    "description": "Приятный цвет крупе придаст восточная приправа – куркума.",
+    "note": "При подаче кашу можно посыпать свежей рубленой зеленью.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a1/4c6ea2f879dc1a1_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "рис пропаренный",
+                    "slug": "ris-proparenniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "паприка молотая",
+                    "slug": "paprika-molotaya",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "куркума",
+                    "slug": "kurkuma",
+                    "notes": null,
+                    "value": "на кончике",
+                    "type": "ножа",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Пропаренный рис залить водой.",
+            "image": null
+        },
+        {
+            "text": "Нарезать кубиками сладкий болгарский перец, репчатый лук, морковь.",
+            "image": null
+        },
+        {
+            "text": "Налить в чашу растительное масло, обжарить лук в режиме «Выпечка» до прозрачного цвета.",
+            "image": null
+        },
+        {
+            "text": "Всыпать перец и морковь, тушить десять минут под крышкой.",
+            "image": null
+        },
+        {
+            "text": "Добавить заранее промытый рис, куркуму, паприку, соль.",
+            "image": null
+        },
+        {
+            "text": "Перемешать, влить воду, выставить режим «Рис», «Плов» или «Крупа».",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские вторые блюда",
+            "slug": "vegetarianskie-vtorye-blyuda"
+        },
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Вторые блюда в мультиварке",
+            "slug": "vtorye-blyuda-v-multivarke"
+        },
+        {
+            "name": "Вторые блюда из риса",
+            "slug": "vtorye-blyuda-iz-risa"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Каша",
+            "slug": "kasha"
+        },
+        {
+            "name": "Каша в мультиварке",
+            "slug": "kasha-v-multivarke"
+        },
+        {
+            "name": "Каша на воде",
+            "slug": "kasha-na-vode"
+        },
+        {
+            "name": "Крупы в мультиварке",
+            "slug": "krupy-v-multivarke"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Постные блюда из риса",
+            "slug": "postnye-blyuda-iz-risa"
+        },
+        {
+            "name": "Постные вторые блюда",
+            "slug": "postnye-vtorye-blyuda"
+        },
+        {
+            "name": "Постные каши",
+            "slug": "postnye-kashi"
+        },
+        {
+            "name": "Постные рецепты",
+            "slug": "postnye-recepty"
+        },
+        {
+            "name": "Постный ужин",
+            "slug": "postniy-ujin"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рис в мультиварке",
+            "slug": "ris-v-multivarke"
+        },
+        {
+            "name": "Рис с овощами",
+            "slug": "ris-s-ovoschami"
+        },
+        {
+            "name": "Рисовая каша",
+            "slug": "risovaya-kasha"
+        },
+        {
+            "name": "Рисовая каша в мультиварке",
+            "slug": "risovaya-kasha-v-multivarke"
+        },
+        {
+            "name": "Специальное питание",
+            "slug": "specialnoe-pitanie"
+        },
+        {
+            "name": "Ужин в мультиварке",
+            "slug": "ujin-v-multivarke"
+        }
+    ]
+}

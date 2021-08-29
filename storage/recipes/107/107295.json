@@ -1,0 +1,179 @@
+{
+    "source": "https://vkuso.ru/recipe/107295-vinegret-s-govyadinoj-i-yajcami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Винегрет с говядиной и яйцами",
+    "description": "Основное, насыщенное вкусами блюдо.",
+    "note": "Винегрет можно выложить на тарелки орками порционно. Украсить веточками зелени.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/37/4c17bd3b320fa37_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/6MYz0Wl4UK4?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "говядина вареная",
+                    "slug": "govyadina-varenaya",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "свекла",
+                    "slug": "svekla",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы соленые",
+                    "slug": "ogurcy-solenye",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить говядину заранее, охладить и тонко нарезать.",
+            "image": null
+        },
+        {
+            "text": "Куриные яйца отварить вкрутую, охладить и очистить, нарезать небольшими дольками.",
+            "image": null
+        },
+        {
+            "text": "Свеклу завернуть в лист фольги и запечь в духовке.",
+            "image": null
+        },
+        {
+            "text": "Отварить картофель с морковью, овощи очистить и нарезать маленькими кубиками.",
+            "image": null
+        },
+        {
+            "text": "Покрошить репчатый лук и соленый огурец.",
+            "image": null
+        },
+        {
+            "text": "Если кожица твердая, жесткая – срезать.",
+            "image": null
+        },
+        {
+            "text": "Перемешать майонез с лимонным соком.",
+            "image": null
+        },
+        {
+            "text": "Заправить продукты соусом, перемешать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Винегрет",
+            "slug": "vinegret"
+        },
+        {
+            "name": "Салат из свеклы",
+            "slug": "salat-iz-svekly"
+        },
+        {
+            "name": "Салат из свеклы и моркови",
+            "slug": "salat-iz-svekly-i-morkovi"
+        },
+        {
+            "name": "Салат с говядиной",
+            "slug": "salat-s-govyadinoy"
+        },
+        {
+            "name": "Салат с говядиной и огурцами",
+            "slug": "salat-s-govyadinoy-i-ogurcami"
+        },
+        {
+            "name": "Салат с картофелем",
+            "slug": "salat-s-kartofelem"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с огурцом и яйцом",
+            "slug": "salat-s-ogurcom-i-yaycom"
+        },
+        {
+            "name": "Салат с солеными огурцами",
+            "slug": "salat-s-solenymi-ogurcami"
+        },
+        {
+            "name": "Салат с яйцом и морковью",
+            "slug": "salat-s-yaycom-i-morkovyu"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты с мясом",
+            "slug": "salaty-s-myasom"
+        }
+    ]
+}

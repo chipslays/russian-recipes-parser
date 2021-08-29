@@ -1,0 +1,191 @@
+{
+    "source": "https://vkuso.ru/recipe/klab-sendvich-s-syrom-ovoshhami-i-ryboj/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Клаб сэндвич с сыром, овощами и рыбой",
+    "description": null,
+    "note": null,
+    "cuisine": "Американская кухня",
+    "cuisine_slug": "amerikanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/97/0b224ca7457ac97_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "белого хлеба",
+                    "slug": "belogo-hleba",
+                    "notes": null,
+                    "value": "4",
+                    "type": "куска",
+                    "amount": null
+                },
+                {
+                    "name": "копченой форели",
+                    "slug": "kopchenoy-foreli",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыра (Ламбер 50%-ной жирности)",
+                    "slug": "syra-lamber-50--noy-jirnosti",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "йогурта",
+                    "slug": "yogurta",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоров",
+                    "slug": "pomidorov",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "анчоусов",
+                    "slug": "anchousov",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "огурцов",
+                    "slug": "ogurcov",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шнитт-лука",
+                    "slug": "shnitt-luka",
+                    "notes": null,
+                    "value": "5",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснока",
+                    "slug": "chesnoka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "листья зеленого салата",
+                    "slug": "listya-zelenogo-salata",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Тонко нарезать сыр, помидор, форель, огурец, шнитт-лук.",
+            "image": null
+        },
+        {
+            "text": "Приготовить из растертых в ступке чеснока, анчоусов и йогурта соус.",
+            "image": null
+        },
+        {
+            "text": "Из белого хлеба сделать тосты (сильно не зажаривать).",
+            "image": null
+        },
+        {
+            "text": "Намазать соусом кусочек хлеба и поочередно выложить на него лист салата, помидор, огурец, сыр, шнитт-лук, форель и второй кусочек хлеба, все слои повторить и накрыть третьим тостом.",
+            "image": null
+        },
+        {
+            "text": "Перед подачей на стол клаб сэндвич с сыром, овощами и рыбой скрепить шпажкой и срезать с него корки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды в дорогу",
+            "slug": "buterbrody-v-dorogu"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды с красной рыбой",
+            "slug": "buterbrody-s-krasnoy-ryboy"
+        },
+        {
+            "name": "Бутерброды с огурцом",
+            "slug": "buterbrody-s-ogurcom"
+        },
+        {
+            "name": "Бутерброды с помидорами",
+            "slug": "buterbrody-s-pomidorami"
+        },
+        {
+            "name": "Бутерброды с помидорами и сыром",
+            "slug": "buterbrody-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Бутерброды с рыбой",
+            "slug": "buterbrody-s-ryboy"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Бутерброды с сыром и чесноком",
+            "slug": "buterbrody-s-syrom-i-chesnokom"
+        },
+        {
+            "name": "Закрытые бутерброды",
+            "slug": "zakrytye-buterbrody"
+        },
+        {
+            "name": "Закуски из рыбы",
+            "slug": "zakuski-iz-ryby"
+        },
+        {
+            "name": "Закуски с красной рыбой",
+            "slug": "zakuski-s-krasnoy-ryboy"
+        },
+        {
+            "name": "Клаб-сэндвич",
+            "slug": "klab-sendvich"
+        },
+        {
+            "name": "Сэндвич с сыром",
+            "slug": "sendvich-s-syrom"
+        },
+        {
+            "name": "Сэндвичи",
+            "slug": "sendvichi"
+        }
+    ]
+}

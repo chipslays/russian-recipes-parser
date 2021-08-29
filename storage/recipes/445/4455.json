@@ -1,0 +1,179 @@
+{
+    "source": "https://vkuso.ru/recipe/baklazhany-tushenye-s-myasom-v-multivarke/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Баклажаны тушеные с мясом в мультиварке",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/4a/cdc29ffbc78e14a_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мяса",
+                    "slug": "myasa",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "баклажана",
+                    "slug": "baklajana",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "помидора",
+                    "slug": "pomidora",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "майонез / сметана",
+                    "slug": "mayonez-smetana",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец",
+                    "slug": "perec",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать вымытые баклажаны кружками, подсолить, на полчаса убрать в холодильник, порезать на кусочки мясо, переложить на дно мультиварки, выложить на него полукольца лука, сдобрить прованскими травами, солью, лавровым листом, перцем, зернами горчицы.",
+            "image": null
+        },
+        {
+            "text": "Положить на лук слой баклажанов, а на него нарезанные кольцами помидоры, покрыть сеточкой из майонеза, следующим слоем выложить натертую морковь с зеленью, мелко нашинкованный чеснок, баклажаны, помидоры, сдобрит перцем, смазать майонезом.",
+            "image": null
+        },
+        {
+            "text": "Выставить мультиварку на режим «Выпечка», баклажаны тушеные с мясом в мультиварке будут готовиться в собственном соку 40 минут, для блюда лучше всего использовать молодые, сине-черные, вытянутые, немного недозрелые плоды баклажанов, а майонез можно заменить сметаной.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Баклажаны в мультиварке",
+            "slug": "baklajany-v-multivarke"
+        },
+        {
+            "name": "Баклажаны с помидорами",
+            "slug": "baklajany-s-pomidorami"
+        },
+        {
+            "name": "Вторые блюда из баклажанов",
+            "slug": "vtorye-blyuda-iz-baklajanov"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Мясо в мультиварке",
+            "slug": "myaso-v-multivarke"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Мясо с овощами",
+            "slug": "myaso-s-ovoschami"
+        },
+        {
+            "name": "Овощи в мультиварке",
+            "slug": "ovoschi-v-multivarke"
+        },
+        {
+            "name": "Тушеное мясо",
+            "slug": "tushenoe-myaso"
+        },
+        {
+            "name": "Тушеное мясо в мультиварке",
+            "slug": "tushenoe-myaso-v-multivarke"
+        },
+        {
+            "name": "Тушеные блюда",
+            "slug": "tushenye-blyuda"
+        },
+        {
+            "name": "Ужин в мультиварке",
+            "slug": "ujin-v-multivarke"
+        },
+        {
+            "name": "Ужин из баклажанов",
+            "slug": "ujin-iz-baklajanov"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/vareniki-lenivye-s-kartofelem-i-yajcom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Вареники ленивые с картофелем и яйцом",
+    "description": "Неплохой способ реабилитации вчерашнего пюре. Блюдо быстро готовится.",
+    "note": "Подать с рубленой свежей зеленью или с помидорами и жареным луком.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/86/16930ec959d5186_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "700-800",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "180",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Очистить клубни картофеля, промыть, разрезать на части и отварить в подсоленной воде.",
+            "image": null
+        },
+        {
+            "text": "Сцедить воду, клубни размять при помощи толкушки.",
+            "image": null
+        },
+        {
+            "text": "В почти остывшее пюре вбить куриные яйца, всыпать муку. По желанию – молотый перец, соль – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Раскатать легкое тесто в жгут, нарезать кусочками.",
+            "image": null
+        },
+        {
+            "text": "Отварить в кипящей подсоленной воде в течение трех минут. Вареники должны всплыть.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вареники",
+            "slug": "vareniki"
+        },
+        {
+            "name": "Вареники с картошкой",
+            "slug": "vareniki-s-kartoshkoy"
+        },
+        {
+            "name": "Вторые блюда из картофеля",
+            "slug": "vtorye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Детский обед",
+            "slug": "detskiy-obed"
+        },
+        {
+            "name": "Детский ужин",
+            "slug": "detskiy-ujin"
+        },
+        {
+            "name": "Ленивые вареники",
+            "slug": "lenivye-vareniki"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        }
+    ]
+}

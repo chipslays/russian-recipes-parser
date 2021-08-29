@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/99888-rogaliki-s-molochnym-shokoladom-iz-sloenogo-testa/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Рогалики с молочным шоколадом из слоеного теста",
+    "description": null,
+    "note": "Для приготовления выпечки лучше использовать молочный шоколад.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/6d/0f017a97fc53f6d_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/0Tlgdv73lWw?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 3 порции",
+            "list": [
+                {
+                    "name": "тесто слоеное",
+                    "slug": "testo-sloenoe",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад молочный",
+                    "slug": "shokolad-molochniy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Роскошный шоколадный десерт.",
+            "image": null
+        },
+        {
+            "text": "Из дрожжевого слоеного теста сделать треугольники, прослоить растопленным шоколадом.",
+            "image": null
+        },
+        {
+            "text": "Скатать круассаны и оставить на расстойку.",
+            "image": null
+        },
+        {
+            "text": "Смазать поверхность яйцом или медом, поставить в духовой шкаф.",
+            "image": null
+        },
+        {
+            "text": "Температура выпекания – 180 градусов, время – 15 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка из слоеного теста",
+            "slug": "vypechka-iz-sloenogo-testa"
+        },
+        {
+            "name": "Выпечка с шоколадом",
+            "slug": "vypechka-s-shokoladom"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Круассаны",
+            "slug": "kruassany"
+        },
+        {
+            "name": "Круассаны из готового слоеного теста",
+            "slug": "kruassany-iz-gotovogo-sloenogo-testa"
+        },
+        {
+            "name": "Круассаны с шоколадом",
+            "slug": "kruassany-s-shokoladom"
+        },
+        {
+            "name": "Рогалики",
+            "slug": "rogaliki"
+        },
+        {
+            "name": "Рогалики из слоеного теста",
+            "slug": "rogaliki-iz-sloenogo-testa"
+        }
+    ]
+}

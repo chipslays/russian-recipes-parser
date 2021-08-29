@@ -1,0 +1,135 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnij-pirog-s-frikadelkami/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Домашний пирог с фрикадельками",
+    "description": "Фрикадельки не только кладут в суп, из них можно приготовить и другие замечательные и неожиданные блюда. Очень простой и оригинальный пирог, недолго готовится, красиво выглядит.",
+    "note": "Можно использовать готовые фрикадельки, купленные в магазине, или приготовьте свои, домашние. Мясные шарики должны быть в слегка охлажденном, но не замороженном виде. Перед тем, как посыпать сыром, пирог можно смазать кетчупом или томатной пастой. При подаче посыпать зеленью или отдельно подать салат из огурцов и помидоров.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e8/6c4cddf803f96e8_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "фрикадельки",
+                    "slug": "frikadelki",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить тесто средней густоты, как для оладий. Для этого смешать чуть взбитые яйца со сметаной, затем добавить муку, просеянную с разрыхлителем и солью.",
+            "image": null
+        },
+        {
+            "text": "Тесто вылить в смазанную форму, вдавить в него фрикадельки, близко друг от друга. Натереть сыр, насыпать на тесто между фрикадельками.",
+            "image": null
+        },
+        {
+            "text": "Печь при температуре 180 градусов примерно полчаса. Дать домашнему пирогу с фрикадельками немного постоять и подать в теплом виде, разрезав на порции.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Быстрые пироги",
+            "slug": "bystrye-pirogi"
+        },
+        {
+            "name": "Быстрые пироги на скорую руку",
+            "slug": "bystrye-pirogi-na-skoruyu-ruku"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка на скорую руку",
+            "slug": "vypechka-na-skoruyu-ruku"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Выпечка с мясом и фаршем",
+            "slug": "vypechka-s-myasom-i-farshem"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги с мясом",
+            "slug": "pirogi-s-myasom"
+        }
+    ]
+}

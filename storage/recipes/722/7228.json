@@ -1,0 +1,168 @@
+{
+    "source": "https://vkuso.ru/recipe/makovaya-pletenka-iz-drozhzhevogo-testa/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Маковая плетенка из дрожжевого теста",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/1d/240c7216fbc871d_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "пакетика",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "мак",
+                    "slug": "mak",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Проварить в небольшом количестве воды мак около получаса, слить воду, всыпать сахар, пропустить через мясорубку, добавить яичный белок и мед, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Развести теплым молоком дрожжи, присолить, добавить сахар, влить сливочное масло, вбить яйцо, всыпать просеянную муку, вымесить тесто и дать ему постоять.",
+            "image": null
+        },
+        {
+            "text": "Раскатать из теста лепешку в форме овала, смазать сливочным маслом, разложить маковую начинку, разровнять ее, свернуть из теста рулет, надрезать по бокам и слегка развернуть.",
+            "image": null
+        },
+        {
+            "text": "Смазать маковую плетенку из дрожжевого теста желтком яйца, через четверть часа поставить на 20 минут в духовку, выпекать при 180 градусах.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Булочки",
+            "slug": "bulochki"
+        },
+        {
+            "name": "Булочки на молоке",
+            "slug": "bulochki-na-moloke"
+        },
+        {
+            "name": "Булочки с маком",
+            "slug": "bulochki-s-makom"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка с маком",
+            "slug": "vypechka-s-makom"
+        },
+        {
+            "name": "Выпечка с медом",
+            "slug": "vypechka-s-medom"
+        },
+        {
+            "name": "Дрожжевые булочки",
+            "slug": "drojjevye-bulochki"
+        },
+        {
+            "name": "Рулет с маком",
+            "slug": "rulet-s-makom"
+        }
+    ]
+}

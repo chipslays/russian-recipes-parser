@@ -1,0 +1,71 @@
+{
+    "source": "https://vkuso.ru/recipe/aktimel-v-multivarke/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Актимель в мультиварке",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c4/99afce11fafe7c4_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молока",
+                    "slug": "moloka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "сахара",
+                    "slug": "sahara",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "«Актимель» (желательно черника с ежевикой)",
+                    "slug": "aktimel-jelatelno-chernika-s-ejevikoy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "бутылочки",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Растворить сахар в половине кипяченого молока, дать остыть до 35 градусов, влить оставшееся молоко, «Актимель», тщательно взбить.",
+            "image": null
+        },
+        {
+            "text": "Перелить смесь в мультиварку, включить на  «Подогрев», выдержать 25 минут, отключить нагрев и оставить актимель в мультиварке на 7-8 часов.",
+            "image": null
+        },
+        {
+            "text": "Удобнее готовить напиток вечером, утром выпить по стаканчику, а остаток разлить по банкам и убрать в холодильник.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Напитки с молоком",
+            "slug": "napitki-s-molokom"
+        }
+    ]
+}

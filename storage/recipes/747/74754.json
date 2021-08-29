@@ -1,0 +1,207 @@
+{
+    "source": "https://vkuso.ru/recipe/echpochmak-so-svininoj-iz-sloenogo-testa/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Эчпочмак со свининой из слоеного теста",
+    "description": "Слоеное тесто можно купить в любом магазине, можно взять дрожжевой или бездрожжевой продукт.",
+    "note": "По желанию пирожки перед выпеканием посыпать семенами кунжута. Для приготовления можно использовать нежирное свиное мясо.",
+    "cuisine": "Татарская кухня",
+    "cuisine_slug": "tatarskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ad/ac9e12860ff0aad_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "тесто слоеное",
+                    "slug": "testo-sloenoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "свинина",
+                    "slug": "svinina",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "бульон мясной",
+                    "slug": "bulon-myasnoy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Пласты теста вынуть из упаковки, разобрать.",
+            "image": null
+        },
+        {
+            "text": "Баранину нарезать кусочками небольшого размера, сырой картофель – кубиками.",
+            "image": null
+        },
+        {
+            "text": "Покрошить репчатый лук.",
+            "image": null
+        },
+        {
+            "text": "Продукты перемешать, добавить перец и соль.",
+            "image": null
+        },
+        {
+            "text": "Пласты теста раскатать, вырезать круги, положить мясную начинку, защипать края в виде треугольника, оставить отверстие.",
+            "image": null
+        },
+        {
+            "text": "Из обрезков теста можно слепить еще несколько пирожков.",
+            "image": null
+        },
+        {
+            "text": "Противень смазать маслом, выложить пирожки, поставить в заранее разогретую духовку.",
+            "image": null
+        },
+        {
+            "text": "Температура приготовления – 200 градусов, время – 10 минут.",
+            "image": null
+        },
+        {
+            "text": "Температуру уменьшить до 160 градусов.",
+            "image": null
+        },
+        {
+            "text": "Почти готовые изделия вынуть, влить в оставленные отверстия бульон.",
+            "image": null
+        },
+        {
+            "text": "Пирожки поставить в духовой шкаф еще на десять минут.",
+            "image": null
+        },
+        {
+            "text": "Изделия смазать сырым взболтанным яйцом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из слоеного теста",
+            "slug": "vypechka-iz-sloenogo-testa"
+        },
+        {
+            "name": "Выпечка с мясом и фаршем",
+            "slug": "vypechka-s-myasom-i-farshem"
+        },
+        {
+            "name": "Несладкая выпечка",
+            "slug": "nesladkaya-vypechka"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки без дрожжей",
+            "slug": "pirojki-bez-drojjey"
+        },
+        {
+            "name": "Пирожки в духовке",
+            "slug": "pirojki-v-duhovke"
+        },
+        {
+            "name": "Пирожки на скорую руку",
+            "slug": "pirojki-na-skoruyu-ruku"
+        },
+        {
+            "name": "Пирожки несладкие",
+            "slug": "pirojki-nesladkie"
+        },
+        {
+            "name": "Пирожки с картошкой",
+            "slug": "pirojki-s-kartoshkoy"
+        },
+        {
+            "name": "Пирожки с мясом",
+            "slug": "pirojki-s-myasom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Слоеные пирожки",
+            "slug": "sloenye-pirojki"
+        },
+        {
+            "name": "Татарская выпечка",
+            "slug": "tatarskaya-vypechka"
+        },
+        {
+            "name": "Татарские пирожки",
+            "slug": "tatarskie-pirojki"
+        },
+        {
+            "name": "Эчпочмак",
+            "slug": "echpochmak"
+        }
+    ]
+}

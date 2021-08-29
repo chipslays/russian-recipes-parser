@@ -1,0 +1,223 @@
+{
+    "source": "https://vkuso.ru/recipe/postnyj-rassolnik-s-risom-i-chesnokom/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Постный рассольник с рисом и чесноком",
+    "description": "Блюдо понравится тем, кто придерживается вегетарианского питания или сидит на диете.",
+    "note": "К блюду можно предложить ржаной хлеб, рассольник заправить сметаной.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/9f/5d03aaea1b8e39f_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2.5",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы соленые",
+                    "slug": "ogurcy-solenye",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "зелень сушеная",
+                    "slug": "zelen-sushenaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "перец черный горошком",
+                    "slug": "perec-cherniy-goroshkom",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Рис промыть под проточной водой.",
+            "image": null
+        },
+        {
+            "text": "Клубни картофеля очистить, вымыть и нарезать кубиками.",
+            "image": null
+        },
+        {
+            "text": "Очистить от кожицы соленые огурцы, мелко нарезать.",
+            "image": null
+        },
+        {
+            "text": "Свежую морковь и репчатый лук также очистить, лук нарезать кубиками, морковь – соломкой.",
+            "image": null
+        },
+        {
+            "text": "Обжарить на растительном масле то и другое до золотистого цвета, добавить огурцы, жарить еще пять минут.",
+            "image": null
+        },
+        {
+            "text": "Вскипятить воду, положить рис и картофель, варить 10 – 15 минут.",
+            "image": null
+        },
+        {
+            "text": "Добавить жареные овощи, варить на тихом огне до полной готовности.",
+            "image": null
+        },
+        {
+            "text": "Почти готовый суп снять с огня, добавить лавровый лист, измельченный чеснок и сушеную зелень, дать постоять в течение десяти минут и подать на стол.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетический суп",
+            "slug": "dieticheskiy-sup"
+        },
+        {
+            "name": "Картофельный суп",
+            "slug": "kartofelniy-sup"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Постные блюда из картофеля",
+            "slug": "postnye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Постные блюда из риса",
+            "slug": "postnye-blyuda-iz-risa"
+        },
+        {
+            "name": "Постный овощной суп",
+            "slug": "postniy-ovoschnoy-sup"
+        },
+        {
+            "name": "Постный рассольник",
+            "slug": "postniy-rassolnik"
+        },
+        {
+            "name": "Постный суп",
+            "slug": "postniy-sup"
+        },
+        {
+            "name": "Рассольник",
+            "slug": "rassolnik"
+        },
+        {
+            "name": "Рассольник с рисом",
+            "slug": "rassolnik-s-risom"
+        },
+        {
+            "name": "Рассольник с рисом и солеными огурцами",
+            "slug": "rassolnik-s-risom-i-solenymi-ogurcami"
+        },
+        {
+            "name": "Специальное питание",
+            "slug": "specialnoe-pitanie"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп для похудения",
+            "slug": "sup-dlya-pohudeniya"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

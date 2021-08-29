@@ -1,0 +1,179 @@
+{
+    "source": "https://vkuso.ru/recipe/lvovskij-syrnik-s-glazuryu/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Львовский сырник с глазурью",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e1/9245cf88eb0a9e1_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творога",
+                    "slug": "tvoroga",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахара",
+                    "slug": "sahara",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливочного масла",
+                    "slug": "slivochnogo-masla",
+                    "notes": null,
+                    "value": "140",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "4"
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "изюма",
+                    "slug": "izyuma",
+                    "notes": null,
+                    "value": "1",
+                    "type": "горсть",
+                    "amount": null
+                },
+                {
+                    "name": "сметаны",
+                    "slug": "smetany",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "какао",
+                    "slug": "kakao",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "манной крупы",
+                    "slug": "mannoy-krupy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соли",
+                    "slug": "soli",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Творог пожирнее при необходимости отжать через марлю, пропустить через мясорубку или протереть через сито, чтобы консистенция получилась кремообразной.",
+            "image": null
+        },
+        {
+            "text": "Белки, отделенные от желтков, взбить с щепоткой соли в устойчивую пену.",
+            "image": null
+        },
+        {
+            "text": "В пышную массу взбить желтки с сахаром, затем добавить творог, лимонную цедру, изюм, 100 г мягкого сливочного масла и манную крупу, все вымешать до получения однородной массы, в конце добавить взбитые белки и осторожно перемешать.",
+            "image": null
+        },
+        {
+            "text": "В форму, предварительно смазанную маслом и посыпанную мукой, переложить полученную массу, поставить ее в разогретую до 190 градусов духовку и запекать сырник в течение 50 минут.",
+            "image": null
+        },
+        {
+            "text": "На среднем огне разогреть сливочное масло и сахар, затем добавить какао и сметану,  постоянно помешивая довести глазурь до кипения.",
+            "image": null
+        },
+        {
+            "text": "Готовый львовский сырник с глазурью переложить на тарелку или блюдо, полить приготовленной глазурью и на некоторое время поставить в холод.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Выпечка с изюмом",
+            "slug": "vypechka-s-izyumom"
+        },
+        {
+            "name": "Выпечка с сухофруктами",
+            "slug": "vypechka-s-suhofruktami"
+        },
+        {
+            "name": "Львовский сырник",
+            "slug": "lvovskiy-syrnik"
+        },
+        {
+            "name": "Сырники",
+            "slug": "syrniki"
+        },
+        {
+            "name": "Сырники без муки",
+            "slug": "syrniki-bez-muki"
+        },
+        {
+            "name": "Сырники в духовке",
+            "slug": "syrniki-v-duhovke"
+        },
+        {
+            "name": "Сырники запеченные",
+            "slug": "syrniki-zapechennye"
+        },
+        {
+            "name": "Сырники с изюмом",
+            "slug": "syrniki-s-izyumom"
+        },
+        {
+            "name": "Сырники с манкой",
+            "slug": "syrniki-s-mankoy"
+        },
+        {
+            "name": "Сырники со сметаной",
+            "slug": "syrniki-so-smetanoy"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "source": "https://vkuso.ru/recipe/ovoshhnoj-krem-sup-iz-tykvy-i-kabachkov/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Овощной крем-суп из тыквы и кабачков",
+    "description": "Блюдо не только вкусное и полезное, но и прекрасно выглядит.",
+    "note": "Готовое блюдо можно украсить густой сметаной, посыпать базиликом, домашними сухариками.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/12/1df8de89bf1bb12_660x440.jpeg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "тыква",
+                    "slug": "tykva",
+                    "notes": null,
+                    "value": "900",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кабачки",
+                    "slug": "kabachki",
+                    "notes": null,
+                    "value": "700",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "бульон овощной",
+                    "slug": "bulon-ovoschnoy",
+                    "notes": null,
+                    "value": "600",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "кориандр молотый",
+                    "slug": "koriandr-molotiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "зубчик",
+                    "amount": null
+                },
+                {
+                    "name": "базилик",
+                    "slug": "bazilik",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Тыквенную мякоть, кабачки и репчатый лук нарезать кубиками одного размера.",
+            "image": null
+        },
+        {
+            "text": "Переложить на противень, посыпать овощи молотым кориандром, поперчить, посолить, добавить сливочное масло и рубленый чеснок.",
+            "image": null
+        },
+        {
+            "text": "Ингредиенты перемешать, поставить в духовку на 20 минут, температура приготовления – от 140 до 160 градусов.",
+            "image": null
+        },
+        {
+            "text": "Тушеные овощи переложить в кастрюлю, влить бульон и горячее молоко, варить семь минут.",
+            "image": null
+        },
+        {
+            "text": "Суп немного остудить, взбить в блендере до однородного состояния, затем подогреть и дать постоять еще 20 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Крем-суп",
+            "slug": "krem-sup"
+        },
+        {
+            "name": "Крем-суп из тыквы",
+            "slug": "krem-sup-iz-tykvy"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из кабачков",
+            "slug": "sup-iz-kabachkov"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Суп-пюре из тыквы",
+            "slug": "sup-pyure-iz-tykvy"
+        },
+        {
+            "name": "Суп-пюре овощной",
+            "slug": "sup-pyure-ovoschnoy"
+        },
+        {
+            "name": "Тыквенный суп",
+            "slug": "tykvenniy-sup"
+        }
+    ]
+}

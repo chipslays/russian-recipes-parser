@@ -1,0 +1,179 @@
+{
+    "source": "https://vkuso.ru/recipe/pletenki-s-chedderom-i-bekonom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Плетенки с чеддером и беконом",
+    "description": "Замечательная закуска к пиву или просто так.",
+    "note": "Плетенки можно подать к столу в обычных чашках.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/25/6cdb45be519c025_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "тесто слоеное",
+                    "slug": "testo-sloenoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "упаковка",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "смесь сухих приправ",
+                    "slug": "smes-suhih-priprav",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр чеддер",
+                    "slug": "syr-chedder",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "бекон",
+                    "slug": "bekon",
+                    "notes": null,
+                    "value": "25-30",
+                    "type": "полосок",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Разморозить слоеное тесто из магазина.",
+            "image": null
+        },
+        {
+            "text": "Отдельно взбить яйцо и натереть сыр «Чеддер».",
+            "image": null
+        },
+        {
+            "text": "Духовой шкаф разогреть до 180 градусов, противень застелить фольгой.",
+            "image": null
+        },
+        {
+            "text": "Тесто смазать взбитым яйцом и посыпать любимыми сухими приправами. Соль добавить по вкусу и по желанию, можно обойтись без нее.",
+            "image": null
+        },
+        {
+            "text": "Выложить слой сыра, раскатать тесто скалкой.",
+            "image": null
+        },
+        {
+            "text": "Нарезать его на полоски шириной по два сантиметра.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/fd/8adc1972f476bfd_434x295.jpg"
+        },
+        {
+            "text": "Каждую полоску скрутить и обернуть беконом.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/ad/a0a72d7bff728ad_434x295.jpg"
+        },
+        {
+            "text": "Выложить на противень и печь плетенки в духовом шкафу около получаса, переворачивать, прогревать до готовности.",
+            "image": null
+        },
+        {
+            "text": "Вынуть изделия из духовки, остудить в течение пяти минут, подать к столу.",
+            "image": null
+        },
+        {
+            "text": "Можно приготовить еще один вариант блюда: перемешать в небольшой емкости коричневый сахар, розмарин или другую приправу, перец и соль.",
+            "image": null
+        },
+        {
+            "text": "В полученной смеси обвалять плетенки и запечь.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Блюда запеченные с сыром",
+            "slug": "blyuda-zapechennye-s-syrom"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Закуски для фуршета",
+            "slug": "zakuski-dlya-fursheta"
+        },
+        {
+            "name": "Закуски из мяса",
+            "slug": "zakuski-iz-myasa"
+        },
+        {
+            "name": "Закуски из сыра",
+            "slug": "zakuski-iz-syra"
+        },
+        {
+            "name": "Закуски к пиву",
+            "slug": "zakuski-k-pivu"
+        },
+        {
+            "name": "Закуски на день рождения",
+            "slug": "zakuski-na-den-rojdeniya"
+        },
+        {
+            "name": "Запеченные блюда",
+            "slug": "zapechennye-blyuda"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Сырные палочки",
+            "slug": "syrnye-palochki"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        }
+    ]
+}

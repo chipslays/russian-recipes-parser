@@ -1,0 +1,167 @@
+{
+    "source": "https://vkuso.ru/recipe/90224-yablochnyj-pirog-sharlotka-s-koricej/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Яблочный пирог Шарлотка с корицей",
+    "description": "Оказывается, существует три основных вида шарлотки. \r\n1. Английская шарлотка-пудинг, она готовится из хлебных ломтиков и яблок. \r\n2. Charlotte Russe, рожденная Мари Антуаном Каремом (известный повар, один из первых представителей «высокой кухни»). Выкладывается форма печеньем савоярди, внутрь заливается баварский крем с желатином. \r\n3. Современная российская шарлотка с яблоками, которую мы собственно и приготовили.",
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5e/76f9b13d864f85e_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "50 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/z3dPkY1XY1I?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "1",
+                    "type": "долька",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "корица молотая",
+                    "slug": "korica-molotaya",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Яблоки очистить от кожуры и семечек. Нарезать кубиками. Добавить 1.5 ст.л. лимонного сока и перемешать (чтобы яблоки не почернели), убрать в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Яйца взбить с сахаром. Добавить корицу, соду гашеную лимонным соком, муку просеять и все перемешать. В тесто добавить яблоки - перемешать.",
+            "image": null
+        },
+        {
+            "text": "Форму смазать сливочным маслом и присыпать мукой. Излишки муки высыпать. Залить форму тестом. Духовку разогреть до 180 градусов. Выпекаем 40 минут.",
+            "image": null
+        },
+        {
+            "text": "Шарлотку полностью остудить и посыпать сахарной пудрой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка с корицей",
+            "slug": "vypechka-s-koricey"
+        },
+        {
+            "name": "Выпечка с фруктами",
+            "slug": "vypechka-s-fruktami"
+        },
+        {
+            "name": "Выпечка с яблоками",
+            "slug": "vypechka-s-yablokami"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог с яблоками",
+            "slug": "pirog-s-yablokami"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги с фруктами",
+            "slug": "pirogi-s-fruktami"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Сладкие пироги",
+            "slug": "sladkie-pirogi"
+        },
+        {
+            "name": "Шарлотка",
+            "slug": "sharlotka"
+        },
+        {
+            "name": "Шарлотка в духовке",
+            "slug": "sharlotka-v-duhovke"
+        },
+        {
+            "name": "Шарлотка пышная с яблоками в духовке",
+            "slug": "sharlotka-pyshnaya-s-yablokami-v-duhovke"
+        },
+        {
+            "name": "Шарлотка с яблоками",
+            "slug": "sharlotka-s-yablokami"
+        }
+    ]
+}

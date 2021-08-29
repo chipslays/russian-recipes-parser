@@ -1,0 +1,231 @@
+{
+    "source": "https://vkuso.ru/recipe/106114-sharlotka-s-tykvoj-apelsinami-i-cukatami/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Шарлотка с тыквой, апельсинами и цукатами",
+    "description": "Оригинальное сочетание вкусов и ароматов.",
+    "note": "Настоящий осенний пирог посыпать сахаром. В тесто по желанию можно добавить хорошо промытый изюм.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/62/035760143ac0062_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "тыква",
+                    "slug": "tykva",
+                    "notes": null,
+                    "value": "450",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "изюм",
+                    "slug": "izyum",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "цукаты апельсиновые",
+                    "slug": "cukaty-apelsinovye",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "апельсины",
+                    "slug": "apelsiny",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "коньяк",
+                    "slug": "konyak",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "корица молотая",
+                    "slug": "korica-molotaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Тыкву измельчить на крупной терке, добавить сахарный песок, натуральный мед и коньяк.",
+            "image": null
+        },
+        {
+            "text": "Специи перетереть, всыпать в основную массу.",
+            "image": null
+        },
+        {
+            "text": "Влить апельсиновый сок.",
+            "image": null
+        },
+        {
+            "text": "Всыпать муку и перемешать.",
+            "image": null
+        },
+        {
+            "text": "Соду погасить уксусом, добавить соль и цукаты.",
+            "image": null
+        },
+        {
+            "text": "Массу выложить в форму для выпекания. Температура приготовления – от 180 до 200 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка с апельсинами",
+            "slug": "vypechka-s-apelsinami"
+        },
+        {
+            "name": "Выпечка с изюмом",
+            "slug": "vypechka-s-izyumom"
+        },
+        {
+            "name": "Выпечка с корицей",
+            "slug": "vypechka-s-koricey"
+        },
+        {
+            "name": "Выпечка с медом",
+            "slug": "vypechka-s-medom"
+        },
+        {
+            "name": "Выпечка с сухофруктами",
+            "slug": "vypechka-s-suhofruktami"
+        },
+        {
+            "name": "Выпечка с тыквой",
+            "slug": "vypechka-s-tykvoy"
+        },
+        {
+            "name": "Выпечка с фруктами",
+            "slug": "vypechka-s-fruktami"
+        },
+        {
+            "name": "Медовый пирог",
+            "slug": "medoviy-pirog"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог без яиц",
+            "slug": "pirog-bez-yaic"
+        },
+        {
+            "name": "Пирог с изюмом",
+            "slug": "pirog-s-izyumom"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги с апельсинами",
+            "slug": "pirogi-s-apelsinami"
+        },
+        {
+            "name": "Тыква в духовке",
+            "slug": "tykva-v-duhovke"
+        },
+        {
+            "name": "Шарлотка",
+            "slug": "sharlotka"
+        },
+        {
+            "name": "Шарлотка без яблок",
+            "slug": "sharlotka-bez-yablok"
+        },
+        {
+            "name": "Шарлотка без яиц",
+            "slug": "sharlotka-bez-yaic"
+        },
+        {
+            "name": "Шарлотка в духовке",
+            "slug": "sharlotka-v-duhovke"
+        },
+        {
+            "name": "Шарлотка с тыквой",
+            "slug": "sharlotka-s-tykvoy"
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "source": "https://vkuso.ru/recipe/108390-tvorozhnoe-pechene-banany-na-smetane/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Творожное печенье «Бананы» на сметане",
+    "description": "Вкусняшки, пришедшие к нам из СССР.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/bf/85d95bef37146bf_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час 15 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 10 порции",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "ваниль",
+                    "slug": "vanil",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Взбивать масло несколько минут.",
+            "image": null
+        },
+        {
+            "text": "Соединить соду и сметану, когда смесь начнет пузыриться, перелить в масло, порциями насыпая муку.",
+            "image": null
+        },
+        {
+            "text": "Замесить тесто.",
+            "image": null
+        },
+        {
+            "text": "Взбить творог и сахар до однородности.",
+            "image": null
+        },
+        {
+            "text": "Поделить тесто на 40 частей.",
+            "image": null
+        },
+        {
+            "text": "Из каждой сформировать овал, положить полосой начинку.",
+            "image": null
+        },
+        {
+            "text": "Свернуть рулетиком, защипнуть краешки, придать вид банана.",
+            "image": null
+        },
+        {
+            "text": "Разложить печенье на противень, застеленный пергаментом.",
+            "image": null
+        },
+        {
+            "text": "Готовить до легкой румяности, соблюдать температуру 180 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Печенье",
+            "slug": "pechene"
+        },
+        {
+            "name": "Печенье без яиц",
+            "slug": "pechene-bez-yaic"
+        },
+        {
+            "name": "Печенье на сметане",
+            "slug": "pechene-na-smetane"
+        },
+        {
+            "name": "Творожное печенье",
+            "slug": "tvorojnoe-pechene"
+        }
+    ]
+}

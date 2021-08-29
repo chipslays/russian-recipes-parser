@@ -1,0 +1,172 @@
+{
+    "source": "https://vkuso.ru/recipe/zakusochnyj-rulet-iz-omleta-s-kurinym-farshem/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Закусочный рулет из омлета с куриным фаршем",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/93/0444bbe96936a93_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "манная крупа",
+                    "slug": "mannaya-krupa",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для омлета",
+            "list": [
+                {
+                    "name": "куриный фарш",
+                    "slug": "kuriniy-farsh",
+                    "notes": null,
+                    "value": "300-350",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сделать омлет: положить в емкость яйца, потертый сыр, майонез, манную крупу, перемешать до однородности. Отставить, чтобы манка набухла.",
+            "image": null
+        },
+        {
+            "text": "Сделать начинку: взять лук и фарш. Луковицу измельчить и обжарить на растительном масле. Измельчить в блендере, соединить с фаршем, перцем и солью, размешать.",
+            "image": null
+        },
+        {
+            "text": "Постелить на противень бумагу, смазать маслом. Вылить тесто, готовить до небольшого зарумянивания при температуре 180 градусов.",
+            "image": null
+        },
+        {
+            "text": "Бумагу убрать, свернуть рулетик. Завернуть в фольгу. Готовить минут сорок, соблюдая температуру 180 градусов. Охладить в фольге, чтобы сок не вытек, а впитался в рулетик. Порезать рулет из омлета с куриным фаршем, подавать в горячем или холодном виде.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Горячие закуски",
+            "slug": "goryachie-zakuski"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Закуски из курицы",
+            "slug": "zakuski-iz-kuricy"
+        },
+        {
+            "name": "Закуски из яиц",
+            "slug": "zakuski-iz-yaic"
+        },
+        {
+            "name": "Закуски на день рождения",
+            "slug": "zakuski-na-den-rojdeniya"
+        },
+        {
+            "name": "Куриный рулет",
+            "slug": "kuriniy-rulet"
+        },
+        {
+            "name": "Курица с сыром",
+            "slug": "kurica-s-syrom"
+        },
+        {
+            "name": "Мясо с сыром",
+            "slug": "myaso-s-syrom"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рулет из омлета",
+            "slug": "rulet-iz-omleta"
+        },
+        {
+            "name": "Рулет из фарша",
+            "slug": "rulet-iz-farsha"
+        },
+        {
+            "name": "Рулетики с начинкой",
+            "slug": "ruletiki-s-nachinkoy"
+        },
+        {
+            "name": "Рулеты",
+            "slug": "rulety"
+        },
+        {
+            "name": "Яичный рулет",
+            "slug": "yaichniy-rulet"
+        }
+    ]
+}

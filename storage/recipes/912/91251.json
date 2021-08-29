@@ -1,0 +1,87 @@
+{
+    "source": "https://vkuso.ru/recipe/91251-tvorog-iz-moloka-s-naturalnym-jogurtom/",
+    "category": "Молочные продукты домашние",
+    "category_slug": "molochnye-produkty-domashnie",
+    "title": "Творог из молока с натуральным йогуртом",
+    "description": "Продукт можно приготовить исключительно из натурального йогурта, домашнего или магазинного.",
+    "note": "Сыворотку, оставшуюся от приготовления творога, можно использовать для приготовления оладий, блинов, окрошки, хлеба или использовать охлажденной в качестве напитка в жаркий летний день.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a9/fd235f1a5d873a9_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "45 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 3 порции",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "йогурт натуральный",
+                    "slug": "yogurt-naturalniy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "5",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "2.5",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Перемешать в чаше мультиварки жирное молоко с йогуртом, солью и сахарным песком.",
+            "image": null
+        },
+        {
+            "text": "Выставить режим «Молочная каша» на тридцать минут.",
+            "image": null
+        },
+        {
+            "text": "Дуршлаг застелить марлей в несколько слоев, выложить массу, подождать, пока отделится сыворотка.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Творог в мультиварке",
+            "slug": "tvorog-v-multivarke"
+        },
+        {
+            "name": "Творог домашний",
+            "slug": "tvorog-domashniy"
+        },
+        {
+            "name": "Творог из молока",
+            "slug": "tvorog-iz-moloka"
+        }
+    ]
+}

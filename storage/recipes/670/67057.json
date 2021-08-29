@@ -1,0 +1,219 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-s-avokado-kopchenym-okorokom-i-krabovymi-palochkami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат с авокадо, копченым окороком и крабовыми палочками",
+    "description": "Блюдо отличается не только насыщенным вкусом, но и ароматом.",
+    "note": "Салат выложить горкой, украсить веточками укропа.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/cf/cab90d7581256cf_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриные окорочка копченые",
+                    "slug": "kurinye-okorochka-kopchenye",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "крабовые палочки",
+                    "slug": "krabovye-palochki",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "авокадо",
+                    "slug": "avokado",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Очистить авокадо, вынуть косточку, мякоть нарезать.",
+            "image": null
+        },
+        {
+            "text": "Измельчить крабовые палочки, помидоры, копченый куриный окорок, свежий огурец, сладкий красный перец.",
+            "image": null
+        },
+        {
+            "text": "Ингредиенты побрызгать лимонным соком, соль и перец – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Заправить блюдо майонезом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Крабовый салат на Новый Год",
+            "slug": "kraboviy-salat-na-noviy-god"
+        },
+        {
+            "name": "Мясные салаты на Новый год",
+            "slug": "myasnye-salaty-na-noviy-god"
+        },
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новогодний салат с курицей",
+            "slug": "novogodniy-salat-s-kuricey"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат с авокадо",
+            "slug": "salat-s-avokado"
+        },
+        {
+            "name": "Салат с авокадо и крабовыми палочками",
+            "slug": "salat-s-avokado-i-krabovymi-palochkami"
+        },
+        {
+            "name": "Салат с копченым окорочком",
+            "slug": "salat-s-kopchenym-okorochkom"
+        },
+        {
+            "name": "Салат с крабовыми палочками",
+            "slug": "salat-s-krabovymi-palochkami"
+        },
+        {
+            "name": "Салат с крабовыми палочками и огурцом",
+            "slug": "salat-s-krabovymi-palochkami-i-ogurcom"
+        },
+        {
+            "name": "Салат с крабовыми палочками и помидорами",
+            "slug": "salat-s-krabovymi-palochkami-i-pomidorami"
+        },
+        {
+            "name": "Салат с курицей",
+            "slug": "salat-s-kuricey"
+        },
+        {
+            "name": "Салат с курицей и овощами",
+            "slug": "salat-s-kuricey-i-ovoschami"
+        },
+        {
+            "name": "Салат с курицей и огурцом",
+            "slug": "salat-s-kuricey-i-ogurcom"
+        },
+        {
+            "name": "Салат с курицей и помидорами",
+            "slug": "salat-s-kuricey-i-pomidorami"
+        },
+        {
+            "name": "Салаты из огурцов и помидоров",
+            "slug": "salaty-iz-ogurcov-i-pomidorov"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с болгарским перцем",
+            "slug": "salaty-s-bolgarskim-percem"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты с мясом",
+            "slug": "salaty-s-myasom"
+        },
+        {
+            "name": "Салаты с фруктами",
+            "slug": "salaty-s-fruktami"
+        }
+    ]
+}

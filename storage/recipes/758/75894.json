@@ -1,0 +1,151 @@
+{
+    "source": "https://vkuso.ru/recipe/risovyj-rassolnik-bez-myasa/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Рисовый рассольник без мяса",
+    "description": "Несколько столетий назад рассольником называли пирог с начинкой из гречки, яиц и куриного мяса. Теперь это суп с солеными огурцами и различными крупами.",
+    "note": "Рассольник можно подать со сметаной, свежей зеленью.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/9c/8add088cadade9c_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/XiDIV_r2NMw?rel=0",
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы соленые",
+                    "slug": "ogurcy-solenye",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло подсолнечное",
+                    "slug": "maslo-podsolnechnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Разогреть на сковороде подсолнечное масло, выложить нарезанные морковь и репчатый лук.",
+            "image": null
+        },
+        {
+            "text": "Овощи прогревать до золотистой корочки.",
+            "image": null
+        },
+        {
+            "text": "Рис промыть, всыпать в кипяток, варить до готовности.",
+            "image": null
+        },
+        {
+            "text": "Нарезать небольшими кубиками картофель и соленые огурцы.",
+            "image": null
+        },
+        {
+            "text": "При готовности риса положить в бульон картофель и овощи, рубленую зелень, молотый перец и соль – по вкусу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Рассольник",
+            "slug": "rassolnik"
+        },
+        {
+            "name": "Рассольник домашний",
+            "slug": "rassolnik-domashniy"
+        },
+        {
+            "name": "Рассольник с рисом",
+            "slug": "rassolnik-s-risom"
+        },
+        {
+            "name": "Рассольник с рисом и солеными огурцами",
+            "slug": "rassolnik-s-risom-i-solenymi-ogurcami"
+        },
+        {
+            "name": "Специальное питание",
+            "slug": "specialnoe-pitanie"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Супы с крупами",
+            "slug": "supy-s-krupami"
+        }
+    ]
+}

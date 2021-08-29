@@ -1,0 +1,184 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-zagotovka-iz-seldereya-perca-i-gribov/",
+    "category": "Заготовки",
+    "category_slug": "zagotovki",
+    "title": "Салат-заготовка из сельдерея, перца и грибов",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/91/3b967b654cccf91_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сельдерея",
+                    "slug": "seldereya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "доля",
+                    "amount": null
+                },
+                {
+                    "name": "сладкого перца",
+                    "slug": "sladkogo-perca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "доля",
+                    "amount": null
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "доля",
+                    "amount": null
+                },
+                {
+                    "name": "грибов",
+                    "slug": "gribov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "доля",
+                    "amount": null
+                },
+                {
+                    "name": "семян горчицы",
+                    "slug": "semyan-gorchicy",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный горошком",
+                    "slug": "perec-cherniy-goroshkom",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "гвоздики",
+                    "slug": "gvozdiki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для заливки",
+            "list": [
+                {
+                    "name": "соли",
+                    "slug": "soli",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахара",
+                    "slug": "sahara",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "уксуса 8%",
+                    "slug": "uksusa-8",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "воды",
+                    "slug": "vody",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Тщательно промыть очищенные грибы, нарезать кусочками, погрузить в подсоленную кипящую воду, добавить немного уксуса, довести до кипения. Грибы варить 5 минут. Ополоснуть грибы холодной водой и подождать, пока стечет вода.",
+            "image": null
+        },
+        {
+            "text": "Очистить и нарезать лук кружочками, нарезать очищенный корень сельдерея пластинками, положить в подсоленную кипящую воду, довести кипения, отварить в течение 15 минут и вынуть.",
+            "image": null
+        },
+        {
+            "text": "Отварить в той же воде сладкий перец, нарезанный полосками, достать его шумовкой и оставить обсохнуть.",
+            "image": null
+        },
+        {
+            "text": "Разложить овощи и грибы по банкам, переложить их пряностями, долить в отвар от перца и сельдерея воды до нужного количества, добавить сахар и довести до кипения,влить в кипящий отвар уксус, снова довести до кипения и залить им овощи и грибы.",
+            "image": null
+        },
+        {
+            "text": "Закрыть банки и установить их в бак с горячей водой для стерилизации, при температуре около 90 градусов время стерилизации составляет 20 минут, банки с салатом-заготовкой из овощей и грибов по окончанию стерилизации немедленно охладить.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Грибы на зиму",
+            "slug": "griby-na-zimu"
+        },
+        {
+            "name": "Закуски из грибов",
+            "slug": "zakuski-iz-gribov"
+        },
+        {
+            "name": "Закуски из овощей",
+            "slug": "zakuski-iz-ovoschey"
+        },
+        {
+            "name": "Консервирование",
+            "slug": "konservirovanie"
+        },
+        {
+            "name": "Консервирование грибов",
+            "slug": "konservirovanie-gribov"
+        },
+        {
+            "name": "Консервированные салаты",
+            "slug": "konservirovannye-salaty"
+        },
+        {
+            "name": "Маринованные грибы",
+            "slug": "marinovannye-griby"
+        },
+        {
+            "name": "Перец на зиму",
+            "slug": "perec-na-zimu"
+        },
+        {
+            "name": "Постные блюда с грибами",
+            "slug": "postnye-blyuda-s-gribami"
+        },
+        {
+            "name": "Постные закуски",
+            "slug": "postnye-zakuski"
+        },
+        {
+            "name": "Салаты на зиму",
+            "slug": "salaty-na-zimu"
+        }
+    ]
+}

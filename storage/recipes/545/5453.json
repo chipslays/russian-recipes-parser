@@ -1,0 +1,87 @@
+{
+    "source": "https://vkuso.ru/recipe/koktejl-s-vodkoj-shampanskim-i-imbirem/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Коктейль с водкой, шампанским и имбирем",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a0/27575d6b159b3a0_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "водки",
+                    "slug": "vodki",
+                    "notes": null,
+                    "value": "30",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "свежий имбирь",
+                    "slug": "svejiy-imbir",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "шампанское",
+                    "slug": "shampanskoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лед",
+                    "slug": "led",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать на тонкие пластинки кусочек имбиря, переложить в шейкер и для аромата чуть выдавить ложкой сок. Залить водку, добавить немного дробленого льда, тщательно встряхнуть.",
+            "image": null
+        },
+        {
+            "text": "Разлить водку с имбирем по фужерам, положить лед и долить фужеры шампанским, украсить по вкусу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Алкогольные коктейли",
+            "slug": "alkogolnye-kokteyli"
+        },
+        {
+            "name": "Алкогольные напитки",
+            "slug": "alkogolnye-napitki"
+        },
+        {
+            "name": "Коктейли с водкой",
+            "slug": "kokteyli-s-vodkoy"
+        },
+        {
+            "name": "Коктейли с шампанским",
+            "slug": "kokteyli-s-shampanskim"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        }
+    ]
+}

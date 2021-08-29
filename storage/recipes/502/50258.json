@@ -1,0 +1,179 @@
+{
+    "source": "https://vkuso.ru/recipe/prostye-golubcy-iz-pekinskoj-kapusty-v-tomatnom-souse/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Простые голубцы из пекинской капусты в томатном соусе",
+    "description": "Нежные трубочки небольшого размера, еще один вариант всем известных и популярных голубцов.",
+    "note": "Вместо томатов в собственном соку для тушения можно использовать сметану. Готовое блюдо посыпать зеленью.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/14/58591b17ec1be14_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/kBLrYjAvGOI?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "фарш",
+                    "slug": "farsh",
+                    "notes": null,
+                    "value": "650",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "капуста пекинская",
+                    "slug": "kapusta-pekinskaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кочан",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "помидоры в собственном соку",
+                    "slug": "pomidory-v-sobstvennom-soku",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Рис отварить в подсоленной воде до полуготовности.",
+            "image": null
+        },
+        {
+            "text": "Измельчить морковь и лук, обжарить.",
+            "image": null
+        },
+        {
+            "text": "Перемешать рис с половиной овощей, поперчить и посолить по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Жесткую часть кочана пекинской капусты срезать, оставшуюся разобрать на листья.",
+            "image": null
+        },
+        {
+            "text": "Мясной фарш и рис выложить на листья, свернуть трубочками. Выложить на сковороду с оставшимися овощами, подлить томатный сок, потушить до полной готовности.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из капусты",
+            "slug": "vtorye-blyuda-iz-kapusty"
+        },
+        {
+            "name": "Вторые блюда из фарша",
+            "slug": "vtorye-blyuda-iz-farsha"
+        },
+        {
+            "name": "Голубцы",
+            "slug": "golubcy"
+        },
+        {
+            "name": "Голубцы из свежей капусты",
+            "slug": "golubcy-iz-svejey-kapusty"
+        },
+        {
+            "name": "Голубцы с мясом",
+            "slug": "golubcy-s-myasom"
+        },
+        {
+            "name": "Голубцы с рисом",
+            "slug": "golubcy-s-risom"
+        },
+        {
+            "name": "Голубцы с фаршем",
+            "slug": "golubcy-s-farshem"
+        },
+        {
+            "name": "Капуста с мясом",
+            "slug": "kapusta-s-myasom"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Рис с мясом",
+            "slug": "ris-s-myasom"
+        },
+        {
+            "name": "Рис с фаршем",
+            "slug": "ris-s-farshem"
+        },
+        {
+            "name": "Тушеная капуста с мясом",
+            "slug": "tushenaya-kapusta-s-myasom"
+        },
+        {
+            "name": "Тушеное мясо",
+            "slug": "tushenoe-myaso"
+        },
+        {
+            "name": "Тушеные блюда",
+            "slug": "tushenye-blyuda"
+        },
+        {
+            "name": "Ужин из капусты",
+            "slug": "ujin-iz-kapusty"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        }
+    ]
+}

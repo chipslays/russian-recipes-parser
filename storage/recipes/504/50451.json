@@ -1,0 +1,139 @@
+{
+    "source": "https://vkuso.ru/recipe/bananovye-konfety-s-orexami-i-suxofruktami/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Банановые конфеты с орехами и сухофруктами",
+    "description": "Домашние конфеты на основе цельнозерновой муки, бананов и сухофруктов.",
+    "note": "Конфеты недолго хранятся в холодильнике. Муку из рецепта можно исключить, вместо неё добавить большее количество орехов, чем указано в рецепте.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e5/3d94349dbc6a9e5_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бананы",
+                    "slug": "banany",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "миндаль молотый",
+                    "slug": "mindal-molotiy",
+                    "notes": " (кешью)",
+                    "value": "1",
+                    "type": "чашка",
+                    "amount": null
+                },
+                {
+                    "name": "финики сушеные",
+                    "slug": "finiki-sushenye",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "инжир сушеный",
+                    "slug": "injir-susheniy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука цельнозерновая",
+                    "slug": "muka-celnozernovaya",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ванилин",
+                    "slug": "vanilin",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "на кончике ножа"
+                },
+                {
+                    "name": "кокосовая стружка",
+                    "slug": "kokosovaya-strujka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Бананы очистить, размять с помощью вилки.",
+            "image": null
+        },
+        {
+            "text": "Добавить в пюре молотый миндаль или орехи кешью, мелко нарезанные сушеные финики и инжир.",
+            "image": null
+        },
+        {
+            "text": "Всыпать ванильный порошок, цельнозерновую муку.",
+            "image": null
+        },
+        {
+            "text": "Масса должна получиться плотной, муку при необходимости можно добавить.",
+            "image": null
+        },
+        {
+            "text": "Сформовать маленькие шарики, обвалять в кокосовой стружке.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерт из бананов",
+            "slug": "desert-iz-bananov"
+        },
+        {
+            "name": "Десерт на скорую руку",
+            "slug": "desert-na-skoruyu-ruku"
+        },
+        {
+            "name": "Домашние конфеты",
+            "slug": "domashnie-konfety"
+        },
+        {
+            "name": "Конфеты из фиников",
+            "slug": "konfety-iz-finikov"
+        },
+        {
+            "name": "На десерт",
+            "slug": "na-desert"
+        },
+        {
+            "name": "Новогодние десерты",
+            "slug": "novogodnie-deserty"
+        },
+        {
+            "name": "Праздничные десерты",
+            "slug": "prazdnichnye-deserty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        }
+    ]
+}

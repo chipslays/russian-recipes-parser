@@ -1,0 +1,95 @@
+{
+    "source": "https://vkuso.ru/recipe/shokoladno-vanilnyj-sirop-dlya-desertov/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Шоколадно-ванильный сироп для десертов",
+    "description": "Такой сироп можно добавлять в напитки и десерты, поливать им печенье, кексы, сладкие пироги и торты, пирожные.",
+    "note": "Сироп хорошо хранится в холодильнике в закрытой емкости.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/0e/77d1d32a53b320e_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1.25",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "какао-порошок",
+                    "slug": "kakao-poroshok",
+                    "notes": " (несладкий)",
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "ванильный экстракт",
+                    "slug": "vanilniy-ekstrakt",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Перемешать в небольшой кастрюле сахарный песок и какао-порошок, делать это до тех пор, пока не исчезнут комочки.",
+            "image": null
+        },
+        {
+            "text": "Влить воду, поставить на огонь, довести до кипения, помешивать. Готовый сироп довести до загустения, снять с плиты, добавить экстракт ванилина по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Смесь поставить в холодильник.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерт на скорую руку",
+            "slug": "desert-na-skoruyu-ruku"
+        },
+        {
+            "name": "Другие десерты",
+            "slug": "drugie-deserty"
+        },
+        {
+            "name": "Сироп",
+            "slug": "sirop"
+        },
+        {
+            "name": "Шоколадный десерт",
+            "slug": "shokoladniy-desert"
+        }
+    ]
+}

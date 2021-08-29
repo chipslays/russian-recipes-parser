@@ -1,0 +1,197 @@
+{
+    "source": "https://vkuso.ru/recipe/108396-shokoladnye-ruletiki-so-slivochnym-syrom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Шоколадные рулетики со сливочным сыром",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/19/feab8b714713519_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "50 минут",
+    "preparetime": "1 час",
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "какао-порошок",
+                    "slug": "kakao-poroshok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "сыр сливочный",
+                    "slug": "syr-slivochniy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для посыпки",
+            "list": [
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": " (с корицей)",
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Разделить белки и желтки.",
+            "image": null
+        },
+        {
+            "text": "Взбить белки и сахарную пудру.",
+            "image": null
+        },
+        {
+            "text": "Подмешать желтки и сухие ингредиенты, просеянные через сито.",
+            "image": null
+        },
+        {
+            "text": "Постелить на противень специальную бумагу, вылить тоненьким слоем тесто.",
+            "image": null
+        },
+        {
+            "text": "Готовить 10 минут, соблюдать температуру 200 градусов.",
+            "image": null
+        },
+        {
+            "text": "Перевернуть коржик на влажное полотенце, намочить бумагу водой, чтобы легче было снять ее с коржа.",
+            "image": null
+        },
+        {
+            "text": "Разрезать коржи пополам, скатать их с полотенцем в рулетик. Охладить.",
+            "image": null
+        },
+        {
+            "text": "Приготовить начинку: соединить все ингредиенты.",
+            "image": null
+        },
+        {
+            "text": "Положить начинку на коржи, сформировать рулеты, отправить на 60 минут в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Порезать холодные рулеты на части, посыпать корицей и сахарной пудрой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Бисквитный рулет",
+            "slug": "biskvitniy-rulet"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка с сыром",
+            "slug": "vypechka-s-syrom"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рулеты из теста",
+            "slug": "rulety-iz-testa"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Сладкий рулет",
+            "slug": "sladkiy-rulet"
+        }
+    ]
+}

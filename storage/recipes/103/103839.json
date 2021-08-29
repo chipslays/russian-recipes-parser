@@ -1,0 +1,119 @@
+{
+    "source": "https://vkuso.ru/recipe/103839-klubnichnaya-granita/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Клубничная гранита",
+    "description": "Гранита - это сицилийский десерт, который представляет собой колотый лед с сахаром. Разновидность сорбета, но более плотная по структуре.",
+    "note": null,
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/25/2a8afc962727925_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "6 часов",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 3 порции",
+            "list": [
+                {
+                    "name": "клубника",
+                    "slug": "klubnika",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "300",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "220",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Воду и сахар доведите до кипения на небольшом огне, помешивая. Кипятите минуту, затем снимите с плиты и отставьте в сторону на полчаса. Перелейте сироп в миску.",
+            "image": null
+        },
+        {
+            "text": "Промытую клубнику превратите в пюре при помощи блендера. Добавьте к сиропу комнатной температуры клубнику и лимонный сок. Снова взбейте блендером.",
+            "image": null
+        },
+        {
+            "text": "Поставьте массу в морозилку на 5 часов, каждый час перемешивайте. Достаньте, разложите по порционным креманкам и украсьте целыми ягодками.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блендер",
+            "slug": "blender"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Десерты с клубникой",
+            "slug": "deserty-s-klubnikoy"
+        },
+        {
+            "name": "Детский праздник",
+            "slug": "detskiy-prazdnik"
+        },
+        {
+            "name": "Домашнее мороженое",
+            "slug": "domashnee-morojenoe"
+        },
+        {
+            "name": "Заморозка",
+            "slug": "zamorozka"
+        },
+        {
+            "name": "Праздничные десерты",
+            "slug": "prazdnichnye-deserty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Сорбет",
+            "slug": "sorbet"
+        },
+        {
+            "name": "Фруктово-ягодные десерты",
+            "slug": "fruktovo-yagodnye-deserty"
+        },
+        {
+            "name": "Фруктовый лед",
+            "slug": "fruktoviy-led"
+        },
+        {
+            "name": "Холодильник",
+            "slug": "holodilnik"
+        }
+    ]
+}

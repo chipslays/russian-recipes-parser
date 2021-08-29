@@ -1,0 +1,99 @@
+{
+    "source": "https://vkuso.ru/recipe/84531-varene-iz-golubiki-s-medom-i-romom/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Варенье из голубики с медом и ромом",
+    "description": "В заготовку добавляется ром и мед.",
+    "note": "Варенье можно хранить в подвале или в холодильнике.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/7d/d21e76a3b7ca17d_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "голубика",
+                    "slug": "golubika",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "180",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ром",
+                    "slug": "rom",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "пектин",
+                    "slug": "pektin",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пакетик",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Ягоды промыть, высушить, поставить на огонь.",
+            "image": null
+        },
+        {
+            "text": "Через три минуты ввести пектин и натуральный мед.",
+            "image": null
+        },
+        {
+            "text": "Довести до кипения, варить пять минут, огонь погасить.",
+            "image": null
+        },
+        {
+            "text": "Влить ром.",
+            "image": null
+        },
+        {
+            "text": "Готовый продукт разложить в небольшие банки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Варенье",
+            "slug": "varene"
+        },
+        {
+            "name": "Варенье без сахара",
+            "slug": "varene-bez-sahara"
+        },
+        {
+            "name": "Варенье из голубики",
+            "slug": "varene-iz-golubiki"
+        },
+        {
+            "name": "Варенье из ягод",
+            "slug": "varene-iz-yagod"
+        },
+        {
+            "name": "Варенье пятиминутка",
+            "slug": "varene-pyatiminutka"
+        }
+    ]
+}

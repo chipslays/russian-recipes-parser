@@ -1,0 +1,195 @@
+{
+    "source": "https://vkuso.ru/recipe/prostaya-sharlotka-s-vishnej-v-duxovke/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Простая шарлотка с вишней в духовке",
+    "description": null,
+    "note": "Готовность можно проверить спичкой. Если тесто не пристает, значит, шарлотка готова.\r\nМожно посыпать пирог сахарной пудрой или намазать сливочным маслом.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/fa/77da064e88bacfa_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "45 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вишня без косточек",
+                    "slug": "vishnya-bez-kostochek",
+                    "notes": " (свежая или замороженная)",
+                    "value": "300-350",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука пшеничная",
+                    "slug": "muka-pshenichnaya",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца куриные",
+                    "slug": "yayca-kurinye",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1-1,5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "ванилин",
+                    "slug": "vanilin",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "на кончике ножа"
+                },
+                {
+                    "name": "сухари панировочные",
+                    "slug": "suhari-panirovochnye",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "щепотка"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Соединить в глубокой посуде яйца, соль и сахар.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/af/d4aa9b2204233af_434x295.jpg"
+        },
+        {
+            "text": "Взбивать миксером, пока не получится смесь светло-желтого цвета. Аккуратно ввести в яичную смесь ванилин, муку и соду. Осторожно перемешать, медленно взбить миксером. Должно получиться тесто, как густая сметана.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/47/b264fbea3817747_434x295.jpg"
+        },
+        {
+            "text": "Намазать форму сливочным маслом, посыпать специальными сухарями.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/72/5d774fc2c447f72_434x295.jpg"
+        },
+        {
+            "text": "Вылить в форму ½ теста. Выложить ягоды, посыпать сахаром. Залить вишню оставшимся тестом.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/ff/d3c82e527e6baff_434x295.jpg"
+        },
+        {
+            "text": "Готовить 45 минут при температуре 190 градусов.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/a1/4c183fe096ef0a1_434x295.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Быстрые пироги",
+            "slug": "bystrye-pirogi"
+        },
+        {
+            "name": "Быстрые пироги на скорую руку",
+            "slug": "bystrye-pirogi-na-skoruyu-ruku"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка с вишней",
+            "slug": "vypechka-s-vishney"
+        },
+        {
+            "name": "Закрытый пирог",
+            "slug": "zakrytiy-pirog"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги с вишней",
+            "slug": "pirogi-s-vishney"
+        },
+        {
+            "name": "Пироги с начинкой",
+            "slug": "pirogi-s-nachinkoy"
+        },
+        {
+            "name": "Пироги с ягодами",
+            "slug": "pirogi-s-yagodami"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Сладкие пироги",
+            "slug": "sladkie-pirogi"
+        },
+        {
+            "name": "Шарлотка",
+            "slug": "sharlotka"
+        },
+        {
+            "name": "Шарлотка в духовке",
+            "slug": "sharlotka-v-duhovke"
+        },
+        {
+            "name": "Шарлотка с вишней",
+            "slug": "sharlotka-s-vishney"
+        }
+    ]
+}

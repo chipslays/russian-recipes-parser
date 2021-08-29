@@ -1,0 +1,223 @@
+{
+    "source": "https://vkuso.ru/recipe/sloenyj-salat-s-kurinoj-pechenyu-i-shampinonami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Слоеный салат с куриной печенью и шампиньонами",
+    "description": "Печень кур или индеек – вкусный и полезный субпродукт, из которого можно приготовить большое количество разнообразных, нежных, блюд. Из него можно сделать паштет, начинку для пельменей и лазаньи. Салат с куриной печенью подается во многих известных ресторанах высокой кухни.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/cf/8b7635be95ca1cf_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "печень куриная/индюшиная",
+                    "slug": "pechen-kurinaya-indyushinaya",
+                    "notes": null,
+                    "value": "450",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы маринованные",
+                    "slug": "ogurcy-marinovannye",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый",
+                    "slug": "syr-plavleniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Куриную или индюшачью печень отварить в подсоленной воде, всыпать специи. Остудить и натереть субпродукт на крупной терке. Отварить куриные яйца. Шампиньоны тонко нарезать, обжарить на растительном масле. Нарезать репчатый лук кубиками, морковь натереть. Сначала обжарить лук, затем добавить морковь, довести овощи до готовности.",
+            "image": null
+        },
+        {
+            "text": "Выложить на блюдо слой печени, смешанной с майонезом. Второй слой – овощная обжарка, жир от которой нужно слить или выложить массу на несколько минут на бумажное полотенце, чтобы он впитался. Третий слой – грибы, смешанные с майонезом. Четвертый – тертый плавленый сыр с майонезом. Сверху – тертые яйца, полить майонезом в виде «сеточки» или концентрических кругов.",
+            "image": null
+        },
+        {
+            "text": "Тонко нарезать маринованный огурец и украсить кружочками бока салата. Дать слоеному салату с куриной печенью и шампиньонами постоять два-три часа и подать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Мясные салаты на Новый год",
+            "slug": "myasnye-salaty-na-noviy-god"
+        },
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат из моркови",
+            "slug": "salat-iz-morkovi"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с грибами",
+            "slug": "salat-s-gribami"
+        },
+        {
+            "name": "Салат с грибами и сыром",
+            "slug": "salat-s-gribami-i-syrom"
+        },
+        {
+            "name": "Салат с курицей и грибами",
+            "slug": "salat-s-kuricey-i-gribami"
+        },
+        {
+            "name": "Салат с курицей и огурцом",
+            "slug": "salat-s-kuricey-i-ogurcom"
+        },
+        {
+            "name": "Салат с курицей и сыром",
+            "slug": "salat-s-kuricey-i-syrom"
+        },
+        {
+            "name": "Салат с курицей и шампиньонами",
+            "slug": "salat-s-kuricey-i-shampinonami"
+        },
+        {
+            "name": "Салат с курицей и яйцом",
+            "slug": "salat-s-kuricey-i-yaycom"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с мясом и грибами",
+            "slug": "salat-s-myasom-i-gribami"
+        },
+        {
+            "name": "Салат с огурцом и сыром",
+            "slug": "salat-s-ogurcom-i-syrom"
+        },
+        {
+            "name": "Салат с огурцом и яйцом",
+            "slug": "salat-s-ogurcom-i-yaycom"
+        },
+        {
+            "name": "Салат с печенью",
+            "slug": "salat-s-pechenyu"
+        },
+        {
+            "name": "Салат с печенью и морковью",
+            "slug": "salat-s-pechenyu-i-morkovyu"
+        },
+        {
+            "name": "Салат с печенью, морковью и луком",
+            "slug": "salat-s-pechenyu-morkovyu-i-lukom"
+        },
+        {
+            "name": "Салат с шампиньонами",
+            "slug": "salat-s-shampinonami"
+        },
+        {
+            "name": "Салат с яйцом и морковью",
+            "slug": "salat-s-yaycom-i-morkovyu"
+        },
+        {
+            "name": "Салат с яйцом и сыром",
+            "slug": "salat-s-yaycom-i-syrom"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с маринованными огурцами",
+            "slug": "salaty-s-marinovannymi-ogurcami"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        },
+        {
+            "name": "Слоеные салаты",
+            "slug": "sloenye-salaty"
+        },
+        {
+            "name": "Слоеный салат с грибами",
+            "slug": "sloeniy-salat-s-gribami"
+        }
+    ]
+}

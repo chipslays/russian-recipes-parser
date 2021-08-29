@@ -1,0 +1,207 @@
+{
+    "source": "https://vkuso.ru/recipe/postnyj-olive-s-kalmarami-i-svezhim-ogurcom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Постный Оливье с кальмарами и свежим огурцом",
+    "description": "Рецепт для тех, кто соблюдает религиозные установки и для тех, кто худеет.",
+    "note": "Салат можно выложить на блюдо башенкой, в качестве формы использовать стакан. Украсить листочками петрушки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/00/8b0db93200d1700_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/5PLK_BubOFM?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кальмары",
+                    "slug": "kalmary",
+                    "notes": null,
+                    "value": "2",
+                    "type": "тушки",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "4-5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы маринованные",
+                    "slug": "ogurcy-marinovannye",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы свежие",
+                    "slug": "ogurcy-svejie",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "зеленый горошек консервированный",
+                    "slug": "zeleniy-goroshek-konservirovanniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": " (постный)",
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Кальмары отварить, нарезать небольшими полосками.",
+            "image": null
+        },
+        {
+            "text": "Отцедить горошек, нарезать кубиками отваренную морковь, картофель, свежий и маринованный огурец, нашинковать зеленый лук.",
+            "image": null
+        },
+        {
+            "text": "Все ингредиенты перемешать, добавить нежирный майонез, еще раз перемешать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Оливье с кальмарами",
+            "slug": "olive-s-kalmarami"
+        },
+        {
+            "name": "Оливье с морепродуктами",
+            "slug": "olive-s-moreproduktami"
+        },
+        {
+            "name": "Оливье со свежим огурцом",
+            "slug": "olive-so-svejim-ogurcom"
+        },
+        {
+            "name": "Постные блюда из кальмаров",
+            "slug": "postnye-blyuda-iz-kalmarov"
+        },
+        {
+            "name": "Постные рецепты",
+            "slug": "postnye-recepty"
+        },
+        {
+            "name": "Постные салаты",
+            "slug": "postnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из моркови",
+            "slug": "salat-iz-morkovi"
+        },
+        {
+            "name": "Салат Оливье",
+            "slug": "salat-olive"
+        },
+        {
+            "name": "Салат с зеленым горошком",
+            "slug": "salat-s-zelenym-goroshkom"
+        },
+        {
+            "name": "Салат с кальмарами",
+            "slug": "salat-s-kalmarami"
+        },
+        {
+            "name": "Салат с кальмарами и огурцами",
+            "slug": "salat-s-kalmarami-i-ogurcami"
+        },
+        {
+            "name": "Салат с картофелем",
+            "slug": "salat-s-kartofelem"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат со свежим огурцом",
+            "slug": "salat-so-svejim-ogurcom"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с маринованными огурцами",
+            "slug": "salaty-s-marinovannymi-ogurcami"
+        },
+        {
+            "name": "Специальное питание",
+            "slug": "specialnoe-pitanie"
+        }
+    ]
+}

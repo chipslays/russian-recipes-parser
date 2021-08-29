@@ -1,0 +1,219 @@
+{
+    "source": "https://vkuso.ru/recipe/105732-sloenyj-salat-novogodnyaya-mimoza/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Слоеный салат «Новогодняя мимоза»",
+    "description": "Известный и любимый салат в праздничном исполнении.",
+    "note": "Кулинарная фантазия ничем не ограничена – вместо снеговика на поверхности салата можно выложить новогодний венок из зелени, украсить лентами из красного перца или моркови, игрушки – кукуруза.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d7/95fc494c16514d7_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "тунец консервированный",
+                    "slug": "tunec-konservirovanniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук красный",
+                    "slug": "luk-krasniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Красный лук очистить, мелко нарезать, залить кипящей водой на десять минут. Жидкость слить.",
+            "image": null
+        },
+        {
+            "text": "Отварить картофель и морковь, очистить.",
+            "image": null
+        },
+        {
+            "text": "Натереть овощи на крупной терке.",
+            "image": null
+        },
+        {
+            "text": "Отварить яйца, отделить желток.",
+            "image": null
+        },
+        {
+            "text": "Белки натереть на мелкой терке, желтки размять вилкой или руками.",
+            "image": null
+        },
+        {
+            "text": "Натереть сыр.",
+            "image": null
+        },
+        {
+            "text": "Открыть банку с консервированным тунцом, слить жидкость, рыбу размять вилкой.",
+            "image": null
+        },
+        {
+            "text": "Выложить на тарелку отварной картофель, примять, нанести майонезную сеточку.",
+            "image": null
+        },
+        {
+            "text": "Второй слой – красный лук, затем рыба, майонез.",
+            "image": null
+        },
+        {
+            "text": "Посыпать белком, еще раз смазать майонезом, морковь, майонез, желток.",
+            "image": null
+        },
+        {
+            "text": "Поставить салат в холодильник на пять часов, можно на ночь, ингредиенты должны пропитаться.",
+            "image": null
+        },
+        {
+            "text": "Перед подачей украсить петрушкой, маслинами, укропом, кукурузой, перцем, яйцом.",
+            "image": null
+        },
+        {
+            "text": "Из яйца можно сделать снеговика, из укропа – елочку, из кукурузы – елочные игрушки, звездочка на елке – из красного болгарского перца или яблока с кожурой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат из моркови",
+            "slug": "salat-iz-morkovi"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат Мимоза",
+            "slug": "salat-mimoza"
+        },
+        {
+            "name": "Салат с картофелем",
+            "slug": "salat-s-kartofelem"
+        },
+        {
+            "name": "Салат с консервированным тунцом",
+            "slug": "salat-s-konservirovannym-tuncom"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с рыбными консервами",
+            "slug": "salat-s-rybnymi-konservami"
+        },
+        {
+            "name": "Салат с рыбой",
+            "slug": "salat-s-ryboy"
+        },
+        {
+            "name": "Салат с твердым сыром",
+            "slug": "salat-s-tverdym-syrom"
+        },
+        {
+            "name": "Салат с яйцом и морковью",
+            "slug": "salat-s-yaycom-i-morkovyu"
+        },
+        {
+            "name": "Салат с яйцом и сыром",
+            "slug": "salat-s-yaycom-i-syrom"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        },
+        {
+            "name": "Слоеные салаты",
+            "slug": "sloenye-salaty"
+        }
+    ]
+}

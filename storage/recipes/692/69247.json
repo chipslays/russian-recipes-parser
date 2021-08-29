@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/sous-iz-parmezana-smetany-i-anchousov/",
+    "category": "Соусы",
+    "category_slug": "sousy",
+    "title": "Соус из пармезана, сметаны и анчоусов",
+    "description": "Оригинальные вкусовые нотки придают заправке анчоусы.",
+    "note": "Соусом можно заправить пасту, блюдо украсить листочками зелени.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/cc/81919efd9b9b1cc_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сметана жирная",
+                    "slug": "smetana-jirnaya",
+                    "notes": null,
+                    "value": "130",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "80",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр пармезан",
+                    "slug": "syr-parmezan",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "филе анчоуса",
+                    "slug": "file-anchousa",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Измельчить рыбное филе при помощи блендера.",
+            "image": null
+        },
+        {
+            "text": "Добавить к анчоусам тертый сыр и сметану, молотый перец, лимонный сок и майонез.",
+            "image": null
+        },
+        {
+            "text": "Ингредиенты перемешать, соус положить в прозрачную стеклянную емкость и закрыть крышкой.",
+            "image": null
+        },
+        {
+            "text": "Убрать в холодильник. Смесь должна постоять в холодильнике не менее двух часов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Соус для макарон",
+            "slug": "sous-dlya-makaron"
+        },
+        {
+            "name": "Соус для пасты",
+            "slug": "sous-dlya-pasty"
+        },
+        {
+            "name": "Соус для спагетти",
+            "slug": "sous-dlya-spagetti"
+        },
+        {
+            "name": "Соус с сыром",
+            "slug": "sous-s-syrom"
+        },
+        {
+            "name": "Сырный соус",
+            "slug": "syrniy-sous"
+        }
+    ]
+}

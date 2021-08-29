@@ -1,0 +1,119 @@
+{
+    "source": "https://vkuso.ru/recipe/vareniki-s-farshem-i-zharenoj-kapustoj/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Вареники с фаршем и жареной капустой",
+    "description": "Этот вариант блюда можно использовать даже для торжественного стола.",
+    "note": "Блюдо можно украсить веточками любой зелени, отдельно подать сметану.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c4/b60471f8d0ed2c4_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/ZA-Mh4yrcOE?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "фарш",
+                    "slug": "farsh",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "капуста",
+                    "slug": "kapusta",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "тесто для вареников",
+                    "slug": "testo-dlya-varenikov",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить мясной фарш или купить готовый.",
+            "image": null
+        },
+        {
+            "text": "Нарезать лук и капусту, обжарить на растительном масле в течение пяти или семи минут.",
+            "image": null
+        },
+        {
+            "text": "Обжарку перемешать с фаршем, досолить по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Раскатать кружки из теста, наполнить овощной смесью с мясом.",
+            "image": null
+        },
+        {
+            "text": "Варить в кипящей воде от десяти до двенадцати минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вареники",
+            "slug": "vareniki"
+        },
+        {
+            "name": "Вареники с капустой",
+            "slug": "vareniki-s-kapustoy"
+        },
+        {
+            "name": "Вареники с мясом",
+            "slug": "vareniki-s-myasom"
+        },
+        {
+            "name": "Вторые блюда из фарша",
+            "slug": "vtorye-blyuda-iz-farsha"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Ужин из капусты",
+            "slug": "ujin-iz-kapusty"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        }
+    ]
+}

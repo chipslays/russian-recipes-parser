@@ -1,0 +1,155 @@
+{
+    "source": "https://vkuso.ru/recipe/106331-tvorozhnye-oladi-s-molokom-i-smetanoj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Творожные оладьи с молоком и сметаной",
+    "description": "Для приготовления блюда потребуется полчаса. Хороший вариант для завтрака.",
+    "note": "Оладьи можно подать со сметаной или джемом.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/98/18dc6a680486e98_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "40 минут",
+    "preparetime": "15 минут",
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "225",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "225",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "80",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2-4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "25",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Перемешать творог со сметаной, вбить сырое куриное яйцо, влить молоко, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Всыпать сахарный песок, соль, добавить растительное масло, часть муки и пищевую соду.",
+            "image": null
+        },
+        {
+            "text": "Массу перемешать, добавить оставшуюся муку.",
+            "image": null
+        },
+        {
+            "text": "Тесто должно постоять в течение 10 – 15 минут.",
+            "image": null
+        },
+        {
+            "text": "Выпекать под крышкой на заранее разогретой сковороде с растительным маслом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка на молоке",
+            "slug": "vypechka-na-moloke"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Оладьи",
+            "slug": "oladi"
+        },
+        {
+            "name": "Оладьи без дрожжей",
+            "slug": "oladi-bez-drojjey"
+        },
+        {
+            "name": "Оладьи на молоке",
+            "slug": "oladi-na-moloke"
+        },
+        {
+            "name": "Оладьи на сметане",
+            "slug": "oladi-na-smetane"
+        },
+        {
+            "name": "Оладьи с творогом",
+            "slug": "oladi-s-tvorogom"
+        }
+    ]
+}

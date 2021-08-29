@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/104747-syrnyj-sup-pyure-iz-plavlenyx-syrkov/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Сырный суп пюре из плавленых сырков",
+    "description": "Супы-пюре отличаются нежным вкусом и прекрасным ароматом. Обычно для приготовления такого супа продукты варят до готовности, затем протирают и в виде пюре вводят в бульон, отвар или соус. Я хочу показать вам очень лёгкий вариант приготовления с помощью блендера на основе куриного бульона.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/51/4d5bf66a3659c51_660x440.jpeg",
+    "difficulty": "Средняя",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/28-j8pjFLm4?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "бульон",
+                    "slug": "bulon",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "сырок плавленый",
+                    "slug": "syrok-plavleniy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук",
+                    "slug": "luk",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сначала делаем зажарку: нарезаем лук, морковь натираем на тёрке и обжариваем 5 минут на сковороде.",
+            "image": "https://vkuso.ru/data/cache/data/a7/d58316e055999a7_434x295_notrise.jpg"
+        },
+        {
+            "text": "Затем в заранее приготовленный бульон бросаем нарезанную кубиками картошку. После того как будет готов картофель, добавляем зажарку и сыр, после чего варим ещё 5-7 мин, помешивая до полного растворения сыра.",
+            "image": "https://vkuso.ru/data/cache/data/63/9f409139c26aa63_434x295_notrise.jpg"
+        },
+        {
+            "text": "В конце взбиваем погружным блендером. Подавать с сухарями и зеленью. Приятного аппетита!",
+            "image": "https://vkuso.ru/data/cache/data/86/03c5bc91f98b886_434x295_notrise.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Блендер",
+            "slug": "blender"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп с плавленым сыром",
+            "slug": "sup-s-plavlenym-syrom"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Суп-пюре картофельный",
+            "slug": "sup-pyure-kartofelniy"
+        },
+        {
+            "name": "Сырный суп",
+            "slug": "syrniy-sup"
+        },
+        {
+            "name": "Сырный суп-пюре",
+            "slug": "syrniy-sup-pyure"
+        }
+    ]
+}

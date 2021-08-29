@@ -1,0 +1,135 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-okolica-s-govyadinoj/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Околица» с говядиной",
+    "description": "Сытный и простой салат. Подойдет для ежедневного рациона и для праздничного стола. Полезные ингредиенты делают салат незаменимым питательным блюдом.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/1b/29e2474a305df1b_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "фасоль консервированная",
+                    "slug": "fasol-konservirovannaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "говядина",
+                    "slug": "govyadina",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы маринованные",
+                    "slug": "ogurcy-marinovannye",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить говядину и порезать на мелкие кубики. Свежий огурец порезать на кубики, а соленый кружочками. Если соленые огурцы сильно крупные, тогда кружочки разрезать пополам.",
+            "image": null
+        },
+        {
+            "text": "Вареную морковь очистить и нарезать кубиками, соединить с фасолью, мясом и огурцами. Все тщательно перемешать и добавить майонез. Выложить готовый салат «Околица» с говядиной в блюдо и украсить зеленью.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из моркови",
+            "slug": "salat-iz-morkovi"
+        },
+        {
+            "name": "Салат с говядиной",
+            "slug": "salat-s-govyadinoy"
+        },
+        {
+            "name": "Салат с говядиной и огурцами",
+            "slug": "salat-s-govyadinoy-i-ogurcami"
+        },
+        {
+            "name": "Салат с говядиной и фасолью",
+            "slug": "salat-s-govyadinoy-i-fasolyu"
+        },
+        {
+            "name": "Салат с консервированной фасолью",
+            "slug": "salat-s-konservirovannoy-fasolyu"
+        },
+        {
+            "name": "Салат с фасолью",
+            "slug": "salat-s-fasolyu"
+        },
+        {
+            "name": "Салат с фасолью и морковью",
+            "slug": "salat-s-fasolyu-i-morkovyu"
+        },
+        {
+            "name": "Салаты из огурцов",
+            "slug": "salaty-iz-ogurcov"
+        },
+        {
+            "name": "Салаты с маринованными огурцами",
+            "slug": "salaty-s-marinovannymi-ogurcami"
+        },
+        {
+            "name": "Салаты с мясом",
+            "slug": "salaty-s-myasom"
+        }
+    ]
+}

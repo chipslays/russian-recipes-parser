@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/kakao-s-marshmellou-po-vostochnomu/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Какао с маршмеллоу по-восточному",
+    "description": "Напиток с восточной ноткой. Попробуйте разнообразить привычное неожиданным и приятным.",
+    "note": "Напиток при подаче можно украсить молотой корицей, тертым шоколадом, посыпать сахарной пудрой.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e4/af749b49e5f16e4_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "какао-порошок",
+                    "slug": "kakao-poroshok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "маршмеллоу",
+                    "slug": "marshmellou",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "корица",
+                    "slug": "korica",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Какао-порошок соединить с корицей и сахаром, добавить немного кипящей воды, хорошо перемешать.",
+            "image": null
+        },
+        {
+            "text": "Разогреть молоко в турке или сотейнике, до кипения не доводить, влить шоколадную смесь.",
+            "image": null
+        },
+        {
+            "text": "Варить все вместе пять минут, огонь – тихий, не помешивать.",
+            "image": null
+        },
+        {
+            "text": "Снять напиток с огня, удалить получившуюся пленку, жидкость перелить в кружку, выложить маршмеллоу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Горячий шоколад",
+            "slug": "goryachiy-shokolad"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Какао",
+            "slug": "kakao"
+        },
+        {
+            "name": "Напитки для детей",
+            "slug": "napitki-dlya-detey"
+        },
+        {
+            "name": "Напитки с молоком",
+            "slug": "napitki-s-molokom"
+        },
+        {
+            "name": "Полдник",
+            "slug": "poldnik"
+        }
+    ]
+}

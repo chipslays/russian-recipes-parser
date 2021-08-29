@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/110129-kapustnyak-s-pshenom-i-kartofelem/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Капустняк  с пшеном и картофелем",
+    "description": "Для приготовления супа используется свежая белокочанная капуста. Блюдо родом с западной Украины.",
+    "note": "Подавать в пиалах или глубоких тарелках со сметаной, зеленым луком, ржаным хлебом.",
+    "cuisine": "Украинская кухня",
+    "cuisine_slug": "ukrainskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/bb/9a32e0222c80fbb_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "капуста",
+                    "slug": "kapusta",
+                    "notes": null,
+                    "value": "750",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "пшено",
+                    "slug": "psheno",
+                    "notes": null,
+                    "value": "50-70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "смалец",
+                    "slug": "smalec",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "паприка молотая",
+                    "slug": "paprika-molotaya",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Очистить от кожуры репчатый лук и морковь, нарезать кубиками, обжарить на смальце в казане.",
+            "image": null
+        },
+        {
+            "text": "Промыть пшено, добавить в овощи.",
+            "image": null
+        },
+        {
+            "text": "Очистить и промыть картофель, крупно нарезать, добавить в основную массу, жарить все вместе две или три минуты.",
+            "image": null
+        },
+        {
+            "text": "Влить кипяток, всыпать лавровый лист и молотую паприку, не солить.",
+            "image": null
+        },
+        {
+            "text": "Варить пятнадцать минут на среднем огне.",
+            "image": null
+        },
+        {
+            "text": "Добавить крупно нашинкованную капусту.",
+            "image": null
+        },
+        {
+            "text": "Добавить соль, сахар, зелень, сушеную или свежую, потомить семь или десять минут на среднем огне.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Капустняк",
+            "slug": "kapustnyak"
+        },
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Специальное питание",
+            "slug": "specialnoe-pitanie"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп с капустой",
+            "slug": "sup-s-kapustoy"
+        },
+        {
+            "name": "Супы с крупами",
+            "slug": "supy-s-krupami"
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "source": "https://vkuso.ru/recipe/ukrainskij-borshh-s-salom-iz-govyadiny/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Украинский борщ с салом из говядины",
+    "description": "Ароматное блюдо с запахом копченостей.",
+    "note": "Подать к столу со сметаной, зеленью, черным хлебом.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/64/04b5e0122d76964_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/ZkPvMlfSBek?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "свекла",
+                    "slug": "svekla",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "капуста",
+                    "slug": "kapusta",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "говядина",
+                    "slug": "govyadina",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сало копченое",
+                    "slug": "salo-kopchenoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для подачи",
+            "list": [
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень петрушки",
+                    "slug": "zelen-petrushki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Говяжью вырезку нарезать кусочками.",
+            "image": null
+        },
+        {
+            "text": "Залить водой, добавить лавровый лист и луковицу целиком.",
+            "image": null
+        },
+        {
+            "text": "Варить в течение часа, огонь – сильный.",
+            "image": null
+        },
+        {
+            "text": "Кусок копченого сала нарезать брусочками по одному сантиметру толщиной, обжарить на сковороде до полупрозрачности.",
+            "image": null
+        },
+        {
+            "text": "Натереть на крупной терке морковь и свеклу, нарезать кольцами репчатый лук.",
+            "image": null
+        },
+        {
+            "text": "Переложить ингредиенты на сковороду к салу, прогревать, помешивать.",
+            "image": null
+        },
+        {
+            "text": "При готовности добавить томатную пасту, тушить еще две минуты.",
+            "image": null
+        },
+        {
+            "text": "Из готового бульона удалить лук и лавровый лист, добавить обжарку.",
+            "image": null
+        },
+        {
+            "text": "Нарезать мелкими кусочками половину лимона и добавить в борщ для цвета и аромата.",
+            "image": null
+        },
+        {
+            "text": "Готовить десять минут.",
+            "image": null
+        },
+        {
+            "text": "Нашинковать белокочанную капусту.",
+            "image": null
+        },
+        {
+            "text": "Нарезать клубни картофеля.",
+            "image": null
+        },
+        {
+            "text": "Сначала в борщ положить капусту, через пятнадцать минут – картофель.",
+            "image": null
+        },
+        {
+            "text": "Еще через пятнадцать минут суп можно подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Борщ",
+            "slug": "borsch"
+        },
+        {
+            "name": "Борщ с говядиной",
+            "slug": "borsch-s-govyadinoy"
+        },
+        {
+            "name": "Борщ со свеклой",
+            "slug": "borsch-so-svekloy"
+        },
+        {
+            "name": "Красный борщ",
+            "slug": "krasniy-borsch"
+        },
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Украинский борщ",
+            "slug": "ukrainskiy-borsch"
+        }
+    ]
+}

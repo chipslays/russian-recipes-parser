@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/bystraya-lepeshka-s-sardelkoj-i-syrom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Быстрая лепешка с сарделькой и сыром",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e4/6d4fd5b40fac5e4_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сардельки",
+                    "slug": "sardelki",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "пучка",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Зеленый лук быстро нарезать, покрошить кубиками сардельку. Взбить сырые яйца, добавить сметану, перемешать. Всыпать пшеничную муку, соль по вкусу, лук и сардельку, еще раз перемешать. Жарить как блины, на раскаленной сковороде, с двух сторон. При готовности быструю лепешку сверху посыпать тертым сыром, сложить пополам и подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Лепешки",
+            "slug": "lepeshki"
+        },
+        {
+            "name": "Лепешки без дрожжей",
+            "slug": "lepeshki-bez-drojjey"
+        },
+        {
+            "name": "Лепешки на сковороде",
+            "slug": "lepeshki-na-skovorode"
+        },
+        {
+            "name": "Лепешки на сметане",
+            "slug": "lepeshki-na-smetane"
+        },
+        {
+            "name": "Лепешки с сыром на сковороде",
+            "slug": "lepeshki-s-syrom-na-skovorode"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сырные лепешки",
+            "slug": "syrnye-lepeshki"
+        }
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "source": "https://vkuso.ru/recipe/107102-burek-s-farshem-v-jogurtovoj-zalivke/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Бурек с фаршем в йогуртовой заливке",
+    "description": "За малознакомым названием скрывается сербский пирог с мясом.",
+    "note": "Пирог можно подать с йогуртом нейтрального вкуса, без наполнителей и красителей.",
+    "cuisine": "Сербская кухня",
+    "cuisine_slug": "serbskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/59/fd4729a43931a59_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час",
+    "preparetime": "10 минут",
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "фарш",
+                    "slug": "farsh",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "тесто фило",
+                    "slug": "testo-filo",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "50-100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для заливки",
+            "list": [
+                {
+                    "name": "йогурт",
+                    "slug": "yogurt",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "вода минеральная",
+                    "slug": "voda-mineralnaya",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления начинки нарезать репчатый лук или лук-порей, обжарить их на растительном масле.",
+            "image": null
+        },
+        {
+            "text": "Добавить мясной фарш, посолить и поперчить, жарить все вместе две минуты. Если мясо сухое – можно долить еще немного растительного масла.",
+            "image": null
+        },
+        {
+            "text": "Смазать противень, выложить два листа готового теста «Фило» или «Коре», на него – немного начинки.",
+            "image": null
+        },
+        {
+            "text": "Еще слой теста, начинка, повторять несколько раз, сверху – тесто.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления заливки перемешать минеральную воду с йогуртом, солью, яйцами, залить полученной смесью пирог, заранее разрезанный на квадратные кусочки.",
+            "image": null
+        },
+        {
+            "text": "Оставить заготовку на пять или десять минут на столе для пропитывания.",
+            "image": null
+        },
+        {
+            "text": "Время выпекания – от получаса до 35 минут, температура – 200 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Бёрек",
+            "slug": "berek"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сахара",
+            "slug": "vypechka-bez-sahara"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка на йогурте",
+            "slug": "vypechka-na-yogurte"
+        },
+        {
+            "name": "Выпечка с мясом и фаршем",
+            "slug": "vypechka-s-myasom-i-farshem"
+        },
+        {
+            "name": "Выпечка с фаршем",
+            "slug": "vypechka-s-farshem"
+        },
+        {
+            "name": "Несладкие пироги",
+            "slug": "nesladkie-pirogi"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог на йогурте",
+            "slug": "pirog-na-yogurte"
+        },
+        {
+            "name": "Пирог с фаршем",
+            "slug": "pirog-s-farshem"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги с мясом",
+            "slug": "pirogi-s-myasom"
+        }
+    ]
+}

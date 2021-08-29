@@ -1,0 +1,175 @@
+{
+    "source": "https://vkuso.ru/recipe/paelya-iz-grechki-s-kurinoj-grudkoj/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Паэлья из гречки с куриной грудкой",
+    "description": "Неплохая альтернатива любому блюду из риса.",
+    "note": "Готовое блюдо по желанию посыпать свежей рубленой зеленью.",
+    "cuisine": "Испанская кухня",
+    "cuisine_slug": "ispanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/de/f79e7d191ac85de_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бульон грибной",
+                    "slug": "bulon-gribnoy",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "куриная грудка",
+                    "slug": "kurinaya-grudka",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "гречневая крупа",
+                    "slug": "grechnevaya-krupa",
+                    "notes": null,
+                    "value": "80",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грибы белые",
+                    "slug": "griby-belye",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "45",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": null,
+                    "value": "15",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Очистить и нарезать белые грибы, сладкий болгарский перец, репчатый лук, куриную грудку.",
+            "image": null
+        },
+        {
+            "text": "Ингредиенты обжарить на сковороде.",
+            "image": null
+        },
+        {
+            "text": "Всыпать гречку, влить томатную пасту, заранее сваренный грибной бульон.",
+            "image": null
+        },
+        {
+            "text": "Добавить любимые специи, прогревать все вместе пять или семь минут.",
+            "image": null
+        },
+        {
+            "text": "Прогреть духовой шкаф до 190 градусов, время приготовления паэльи – от десяти до пятнадцати минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Гречка с грибами",
+            "slug": "grechka-s-gribami"
+        },
+        {
+            "name": "Гречка с грибами и луком",
+            "slug": "grechka-s-gribami-i-lukom"
+        },
+        {
+            "name": "Гречка с курицей",
+            "slug": "grechka-s-kuricey"
+        },
+        {
+            "name": "Куриная грудка с грибами",
+            "slug": "kurinaya-grudka-s-gribami"
+        },
+        {
+            "name": "Курица с болгарским перцем",
+            "slug": "kurica-s-bolgarskim-percem"
+        },
+        {
+            "name": "Паэлья",
+            "slug": "paelya"
+        },
+        {
+            "name": "Паэлья с грибами",
+            "slug": "paelya-s-gribami"
+        },
+        {
+            "name": "Паэлья с курицей",
+            "slug": "paelya-s-kuricey"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ужин из куриной грудки",
+            "slug": "ujin-iz-kurinoy-grudki"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        }
+    ]
+}

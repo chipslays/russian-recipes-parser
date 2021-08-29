@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/vareniki-s-pyure-i-tushenoj-kapustoj/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Вареники с пюре и тушеной капустой",
+    "description": "Сытный вариант привычного блюда. Для начинки можно использовать вчерашнее пюре, сохраненное в холодильнике.",
+    "note": "Капустные вареники можно подать к столу со сметаной и зеленью.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/4f/bbd65bda250e94f_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/rYWWp-rYNcY?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "капуста",
+                    "slug": "kapusta",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофельное пюре",
+                    "slug": "kartofelnoe-pyure",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "тесто для вареников",
+                    "slug": "testo-dlya-varenikov",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить пюре из картофеля или использовать вчерашний продукт.",
+            "image": null
+        },
+        {
+            "text": "Нарезать белокочанную капусту, потушить на сковороде вместе с репчатым луком и морковью в течение 15 минут.",
+            "image": null
+        },
+        {
+            "text": "Раскатать тесто кружками, выложить капусту и картошку, защипать края.",
+            "image": null
+        },
+        {
+            "text": "Воду подсолить, довести до кипения.",
+            "image": null
+        },
+        {
+            "text": "Отварить изделия до готовности.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вареники",
+            "slug": "vareniki"
+        },
+        {
+            "name": "Вареники с капустой",
+            "slug": "vareniki-s-kapustoy"
+        },
+        {
+            "name": "Вареники с картошкой",
+            "slug": "vareniki-s-kartoshkoy"
+        },
+        {
+            "name": "Вареники с картошкой и луком",
+            "slug": "vareniki-s-kartoshkoy-i-lukom"
+        },
+        {
+            "name": "Вторые блюда из картофеля",
+            "slug": "vtorye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ужин из капусты",
+            "slug": "ujin-iz-kapusty"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        }
+    ]
+}

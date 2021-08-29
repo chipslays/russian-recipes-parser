@@ -1,0 +1,155 @@
+{
+    "source": "https://vkuso.ru/recipe/kitajskij-sup-s-lapshoj-i-zelenym-lukom/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Китайский суп с лапшой и зеленым луком",
+    "description": "Минимальная тепловая обработка овощей сохранит в них все витамины. Лапша добавит калории, восточные приправы – пикантность и неповторимость.",
+    "note": "Отдельно подать соевый соус, его можно добавить в блюдо по вкусу. Украсить кушанье зеленью: рубленым зеленым луком, любыми пряными травами.",
+    "cuisine": "Китайская кухня",
+    "cuisine_slug": "kitayskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f9/5dc279c3f2f95f9_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бульон мясной",
+                    "slug": "bulon-myasnoy",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "лапша",
+                    "slug": "lapsha",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "стебель сельдерея",
+                    "slug": "stebel-seldereya",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук-порей",
+                    "slug": "luk-porey",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соус соевый",
+                    "slug": "sous-soeviy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сварить мясной бульон, дать ему покипеть, чтобы испарилась половина объема, а вкус стал насыщенным.",
+            "image": null
+        },
+        {
+            "text": "Кастрюлю поставить на огонь, довести до кипения, соль – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Положить овощи: стебли сельдерея, лук-порей, морковь.",
+            "image": null
+        },
+        {
+            "text": "Огонь убавить, варить две минуты.",
+            "image": null
+        },
+        {
+            "text": "Содержимое откинуть на дуршлаг, промыть холодной водой.",
+            "image": null
+        },
+        {
+            "text": "Лапшу положить в оставшийся бульон, довести до кипения, затем огонь убавить, прогревать до готовности, помешивать.",
+            "image": null
+        },
+        {
+            "text": "Через четыре минуты воду слить.",
+            "image": null
+        },
+        {
+            "text": "И лапшу, и отваренные овощи разложить в тарелки, залить бульоном, при необходимости суп можно досолить и поперчить.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из сельдерея",
+            "slug": "sup-iz-seldereya"
+        },
+        {
+            "name": "Суп с лапшой",
+            "slug": "sup-s-lapshoy"
+        },
+        {
+            "name": "Суп с макаронами",
+            "slug": "sup-s-makaronami"
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "source": "https://vkuso.ru/recipe/94939-buterbrody-s-shokoladnym-tvorozhnym-syrom-i-bananom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Бутерброды с шоколадным творожным сыром и бананом",
+    "description": "Ставшее классическим сочетание шоколада и банана нравится детям.",
+    "note": "Бутерброды можно посыпать любыми семечками: кунжутом, рубленым фундуком, миндалем, фисташками.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/50/f0ef9b97dcf5c50_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "10 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "сыр творожный",
+                    "slug": "syr-tvorojniy",
+                    "notes": " (шоколадный)",
+                    "value": "80",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "багет",
+                    "slug": "baget",
+                    "notes": null,
+                    "value": "4",
+                    "type": "кусочка",
+                    "amount": null
+                },
+                {
+                    "name": "бананы",
+                    "slug": "banany",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "шоколадный сироп",
+                    "slug": "shokoladniy-sirop",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "кедровые орехи",
+                    "slug": "kedrovye-orehi",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для шоколадного сиропа",
+            "list": [
+                {
+                    "name": "шоколад темный",
+                    "slug": "shokolad-temniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сливки жирные",
+                    "slug": "slivki-jirnye",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сахар ванильный",
+                    "slug": "sahar-vanilniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Багет нарезать на ломтики по три или четыре сантиметра толщиной.",
+            "image": null
+        },
+        {
+            "text": "Смазать творожным шоколадным сыром.",
+            "image": null
+        },
+        {
+            "text": "Сверху – пластинки очищенного банана.",
+            "image": null
+        },
+        {
+            "text": "Каждый сладкий бутерброд полить шоколадным сиропом и присыпать толчеными кедровыми орехами.",
+            "image": null
+        },
+        {
+            "text": "Шоколадный сироп можно приготовить самостоятельно.",
+            "image": null
+        },
+        {
+            "text": "Поставить на водяную баню небольшую емкость, влить воду, добавить ванильный сахар, подержать на тихом огне.",
+            "image": null
+        },
+        {
+            "text": "Сахар должен раствориться.",
+            "image": null
+        },
+        {
+            "text": "Всыпать кусочки темного шоколада, довести до кипения, огонь выключить.",
+            "image": null
+        },
+        {
+            "text": "Влить жирные сливки, хорошо перемешать и остудить.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды на праздничный стол",
+            "slug": "buterbrody-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Бутерброды на скорую руку",
+            "slug": "buterbrody-na-skoruyu-ruku"
+        },
+        {
+            "name": "Бутерброды открытые",
+            "slug": "buterbrody-otkrytye"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Бутерброды с творожным сыром",
+            "slug": "buterbrody-s-tvorojnym-syrom"
+        },
+        {
+            "name": "Детский день рождения",
+            "slug": "detskiy-den-rojdeniya"
+        },
+        {
+            "name": "Детский праздник",
+            "slug": "detskiy-prazdnik"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        }
+    ]
+}

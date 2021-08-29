@@ -1,0 +1,119 @@
+{
+    "source": "https://vkuso.ru/recipe/korzinochki-s-seldyu-i-syrom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Корзиночки с сельдью и сыром",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/91/882bbfe0e90d191_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыра",
+                    "slug": "syra",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "зеленого лука",
+                    "slug": "zelenogo-luka",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "пучка",
+                    "amount": null
+                },
+                {
+                    "name": "селедки",
+                    "slug": "seledki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "филе"
+                },
+                {
+                    "name": "тарталетки",
+                    "slug": "tartaletki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "веточки укропа",
+                    "slug": "vetochki-ukropa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Мелкими кубиками порезать филе 1 сельди, сыр крупно потереть.",
+            "image": null
+        },
+        {
+            "text": "Мелко нарезать промытый зеленый лук (маринованный репчатый лук) и укроп.",
+            "image": null
+        },
+        {
+            "text": "Переложить в большую миску все подготовленные ингредиенты, добавить майонез и тщательно перемешать.",
+            "image": null
+        },
+        {
+            "text": "Готовые тарталетки наполнить получившейся начинкой и выложить корзиночки с сельдью и сыром на большое сервировочное блюдо",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды с рыбой",
+            "slug": "buterbrody-s-ryboy"
+        },
+        {
+            "name": "Бутерброды с селедкой",
+            "slug": "buterbrody-s-seledkoy"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Закуски в тарталетках",
+            "slug": "zakuski-v-tartaletkah"
+        },
+        {
+            "name": "Закуски из рыбы",
+            "slug": "zakuski-iz-ryby"
+        },
+        {
+            "name": "Тарталетки с сыром",
+            "slug": "tartaletki-s-syrom"
+        },
+        {
+            "name": "Тартинки",
+            "slug": "tartinki"
+        }
+    ]
+}

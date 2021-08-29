@@ -1,0 +1,220 @@
+{
+    "source": "https://vkuso.ru/recipe/zharkoe-iz-kuricy-s-gribami-po-russki/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Жаркое из курицы с грибами по-русски",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e0/7a5ebb800b349e0_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "курица",
+                    "slug": "kurica",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грецкие орехи",
+                    "slug": "greckie-orehi",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грибы",
+                    "slug": "griby",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "изюм",
+                    "slug": "izyum",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "15",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для соуса",
+            "list": [
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Курицу вымыть, обсушить, разрезать на 8 частей, поперчить, присолить, быстро обжарить. Обжарить полукольца лука до светло-желтого цвета, по отдельности обжарить кусочки грибов и орехи, хорошо вымыть и обсушить изюм. Для сметанного соуса растопить масло, добавить муку, обжарить до появления орехового запаха, развести сметаной, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Разложить мясо по горшочкам, добавить изюм, орехи, лук, грибы, залить соусом. Поставить жаркое из курицы с грибами по-русски на треть часа в духовку с температурой 180 градусов, готовое жаркое присыпать мелко порезанной зеленью.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В горшочках",
+            "slug": "v-gorshochkah"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Горячие блюда на праздничный стол",
+            "slug": "goryachie-blyuda-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Грибы в горшочках",
+            "slug": "griby-v-gorshochkah"
+        },
+        {
+            "name": "Жаркое",
+            "slug": "jarkoe"
+        },
+        {
+            "name": "Жаркое в горшочках",
+            "slug": "jarkoe-v-gorshochkah"
+        },
+        {
+            "name": "Жаркое в духовке",
+            "slug": "jarkoe-v-duhovke"
+        },
+        {
+            "name": "Жаркое из курицы",
+            "slug": "jarkoe-iz-kuricy"
+        },
+        {
+            "name": "Жаркое по-домашнему",
+            "slug": "jarkoe-po-domashnemu"
+        },
+        {
+            "name": "Курица в горшочках",
+            "slug": "kurica-v-gorshochkah"
+        },
+        {
+            "name": "Курица в духовке",
+            "slug": "kurica-v-duhovke"
+        },
+        {
+            "name": "Курица с грецкими орехами",
+            "slug": "kurica-s-greckimi-orehami"
+        },
+        {
+            "name": "Курица с грибами",
+            "slug": "kurica-s-gribami"
+        },
+        {
+            "name": "Курица с грибами в духовке",
+            "slug": "kurica-s-gribami-v-duhovke"
+        },
+        {
+            "name": "Мясо с грибами",
+            "slug": "myaso-s-gribami"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

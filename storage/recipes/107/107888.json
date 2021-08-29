@@ -1,0 +1,115 @@
+{
+    "source": "https://vkuso.ru/recipe/107888-sloyonnye-palochki-s-tvorozhnoj-nachinkoj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Слоённые палочки с творожной начинкой",
+    "description": "Эта выпечка получается довольно вкусная, и аппетитная за счет ингредиентов, а готовится очень просто. Эту выпечку можно приготовить к перекусу с чаем, кофе и т. д.",
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/24/b0f5ef9c22e7024_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час 10 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/tDRgpRTu0Qg?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 10 порции",
+            "list": [
+                {
+                    "name": "мед жидкий",
+                    "slug": "med-jidkiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "320",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука пшеничная",
+                    "slug": "muka-pshenichnaya",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "тесто слоеное дрожжевое",
+                    "slug": "testo-sloenoe-drojjevoe",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Творог смешиваем с сметаной и медом (или джемом, для вкуса), убираем в сторону.",
+            "image": null
+        },
+        {
+            "text": "Слоенное тесто слегка раскатываем.",
+            "image": null
+        },
+        {
+            "text": "На раскатанное слоенное тесто намазываем начинку из творога, затем нарезаем на равные полоски, перекладываем на противень и отправляем в духовку при 180°C на 20-25 минут до готовности.\r\n\r\nПодаем к чаю, или кофе и тд.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без сахара",
+            "slug": "vypechka-bez-sahara"
+        },
+        {
+            "name": "Выпечка из слоеного теста",
+            "slug": "vypechka-iz-sloenogo-testa"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка с медом",
+            "slug": "vypechka-s-medom"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Сладкая выпечка из слоеного теста",
+            "slug": "sladkaya-vypechka-iz-sloenogo-testa"
+        },
+        {
+            "name": "Слойки",
+            "slug": "sloyki"
+        },
+        {
+            "name": "Слойки из готового слоеного теста",
+            "slug": "sloyki-iz-gotovogo-sloenogo-testa"
+        },
+        {
+            "name": "Слойки с творогом",
+            "slug": "sloyki-s-tvorogom"
+        }
+    ]
+}

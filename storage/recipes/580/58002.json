@@ -1,0 +1,143 @@
+{
+    "source": "https://vkuso.ru/recipe/fish-end-chips-v-domashnix-usloviyax/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Фиш энд чипс в домашних условиях",
+    "description": "Фиш энд чипс – это рыбка в кляре, жаренная с картофелем. Очень необычное и вкусное блюдо.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/0e/f4fe134cf58740e_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "филе рыбы",
+                    "slug": "file-ryby",
+                    "notes": " (треска, хек, морской язык)",
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": " (ледяная)",
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Почистить картофель, порезать соломкой, обжарить на растительном масле. Выложить при помощи шумовки на бумажное полотенце, чтобы стек жир.",
+            "image": null
+        },
+        {
+            "text": "Сделать кляр: соединить яйцо, ледяную воду, перец, соль.",
+            "image": null
+        },
+        {
+            "text": "Обмакнуть куски рыбы в кляр, пожарить. Положить рыбу на бумажное полотенце.",
+            "image": null
+        },
+        {
+            "text": "Побрызгать соком лимона, подавать фиш энд чипс с лимонной долькой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из картофеля",
+            "slug": "vtorye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Вторые блюда из рыбы",
+            "slug": "vtorye-blyuda-iz-ryby"
+        },
+        {
+            "name": "Домашний фаст фуд",
+            "slug": "domashniy-fast-fud"
+        },
+        {
+            "name": "Картошка фри",
+            "slug": "kartoshka-fri"
+        },
+        {
+            "name": "Рыба с картошкой",
+            "slug": "ryba-s-kartoshkoy"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Фритюр",
+            "slug": "frityur"
+        }
+    ]
+}

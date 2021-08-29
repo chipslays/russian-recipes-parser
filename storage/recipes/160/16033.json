@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/omlet-po-yaponski-s-vyalenoj-govyadinoj/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Омлет по-японски с вяленой говядиной",
+    "description": "Обычный омлет необычно приготовленный. В классическом варианте содержит сакэ, уксус, соевый соус.",
+    "note": "В зимнее время на гарнир можно подать соленые или маринованные огурцы и помидоры, салатные заготовки.",
+    "cuisine": "Японская кухня",
+    "cuisine_slug": "yaponskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/61/bac0a8fdcb39461_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "говядина вяленая",
+                    "slug": "govyadina-vyalenaya",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Яйца взбить с помощью венчика, добавить майонез, снова взбить. Разогреть на сковороде небольшое количество растительного масла, вылить немного омлетной массы, выпечь тонкий блинчик.",
+            "image": null
+        },
+        {
+            "text": "Печь только с одной стороны в течение 20 – 30 секунд. Скатать блин при помощи деревянной или силиконовой лопатки, сдвинуть рулет на край сковороды. Влить следующую порцию омлета, она должна подтечь под рулет, снова обжарить и свернуть.",
+            "image": null
+        },
+        {
+            "text": "Операцию повторить несколько раз, пока не закончится яичная смесь. Омлет по-японски с вяленой говядиной переложить на блюдо и порезать ломтиками. На гарнир подать нарезанные помидоры, ломтики вяленой говядины, зелень петрушки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блюда из яиц",
+            "slug": "blyuda-iz-yaic"
+        },
+        {
+            "name": "Вторые блюда из говядины",
+            "slug": "vtorye-blyuda-iz-govyadiny"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Вторые блюда на скорую руку",
+            "slug": "vtorye-blyuda-na-skoruyu-ruku"
+        },
+        {
+            "name": "Говядина с овощами",
+            "slug": "govyadina-s-ovoschami"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Овощи на сковороде",
+            "slug": "ovoschi-na-skovorode"
+        },
+        {
+            "name": "Омлет",
+            "slug": "omlet"
+        },
+        {
+            "name": "Омлет без молока",
+            "slug": "omlet-bez-moloka"
+        },
+        {
+            "name": "Омлет на завтрак",
+            "slug": "omlet-na-zavtrak"
+        },
+        {
+            "name": "Омлет на сковороде",
+            "slug": "omlet-na-skovorode"
+        },
+        {
+            "name": "Омлет с овощами",
+            "slug": "omlet-s-ovoschami"
+        },
+        {
+            "name": "Омлет с помидорами",
+            "slug": "omlet-s-pomidorami"
+        },
+        {
+            "name": "Омлет японский",
+            "slug": "omlet-yaponskiy"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сковорода",
+            "slug": "skovoroda"
+        },
+        {
+            "name": "Ужин из говядины",
+            "slug": "ujin-iz-govyadiny"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

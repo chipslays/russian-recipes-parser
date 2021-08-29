@@ -1,0 +1,135 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-iz-pomidorov-granata-i-kinzy/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат из помидоров, граната и кинзы",
+    "description": "Необычное и нечасто встречающееся в кулинарии сочетание продуктов пламенного цвета. Еще больший «восточный» акцент придает блюду рубленая кинза.",
+    "note": "Салат не требует заправки, её роль играет сок от помидоров. По желанию в блюдо можно добавить молотый перец.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/eb/bcdad8f81b8caeb_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "гранат",
+                    "slug": "granat",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "пера",
+                    "amount": null
+                },
+                {
+                    "name": "кинза рубленая",
+                    "slug": "kinza-rublenaya",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Крупные, спелые помидоры нарезать мелкими кубиками.",
+            "image": null
+        },
+        {
+            "text": "Очистить гранат, смешать зерна с помидорами, нарезанным зеленым луком и рублеными листьями кинзы.",
+            "image": null
+        },
+        {
+            "text": "Перед подачей салат посолить, перемешать. Подать блюдо в охлажденном виде или комнатной температуры.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские салаты",
+            "slug": "vegetarianskie-salaty"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетические салаты",
+            "slug": "dieticheskie-salaty"
+        },
+        {
+            "name": "Постные салаты",
+            "slug": "postnye-salaty"
+        },
+        {
+            "name": "Постный ужин",
+            "slug": "postniy-ujin"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из помидоров",
+            "slug": "salat-iz-pomidorov"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты на скорую руку",
+            "slug": "salaty-na-skoruyu-ruku"
+        },
+        {
+            "name": "Салаты с гранатом",
+            "slug": "salaty-s-granatom"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

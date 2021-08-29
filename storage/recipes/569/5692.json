@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/ananasovyj-salat-s-syrom-i-vetchinoj/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Ананасовый салат с сыром и ветчиной",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c7/c3b961f3ee1fac7_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "ветчины",
+                    "slug": "vetchiny",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыра",
+                    "slug": "syra",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ананасов",
+                    "slug": "ananasov",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "4"
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "кетчуп",
+                    "slug": "ketchup",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Порезать ананасы, ветчину и вареные яйца кубиками, на средней терке натереть сыр.",
+            "image": null
+        },
+        {
+            "text": "Репчатый лук очистить, измельчить, сложить в небольшую миску и на 1-2 минуты залить кипятком.",
+            "image": null
+        },
+        {
+            "text": "По прошествии отведенного времени сложить все подготовленные ингредиенты в большую миску или салатник.",
+            "image": null
+        },
+        {
+            "text": "Заправить содержимое посудины майонезом, добавить немножко кетчупа и тщательно перемешать.",
+            "image": null
+        },
+        {
+            "text": "Убрать салат с ветчиной и ананасом в холодильник на целую ночь, чтобы он настоялся.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с ананасом",
+            "slug": "salat-s-ananasom"
+        },
+        {
+            "name": "Салат с ананасом и сыром",
+            "slug": "salat-s-ananasom-i-syrom"
+        },
+        {
+            "name": "Салат с ветчиной",
+            "slug": "salat-s-vetchinoy"
+        },
+        {
+            "name": "Салат с ветчиной и сыром",
+            "slug": "salat-s-vetchinoy-i-syrom"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с яйцом и сыром",
+            "slug": "salat-s-yaycom-i-syrom"
+        },
+        {
+            "name": "Салаты со свининой",
+            "slug": "salaty-so-svininoy"
+        }
+    ]
+}

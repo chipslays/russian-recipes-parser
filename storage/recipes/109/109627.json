@@ -1,0 +1,83 @@
+{
+    "source": "https://vkuso.ru/recipe/109627-risovyj-desert-na-jogurte-s-bananom/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Рисовый десерт на йогурте с бананом",
+    "description": "Несложный завтрак, такой десерт также можно предложить гостям на званый ужин.",
+    "note": "Блюдо можно дополнительно посыпать тертым шоколадом.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/18/8eb151c7a9b4c18_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 1 порцию",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "бананы",
+                    "slug": "banany",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "йогурт",
+                    "slug": "yogurt",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить рис, добавить молоко, поварить еще пять-семь минут.",
+            "image": null
+        },
+        {
+            "text": "Перемолоть кашу в блендере вместе с бананом.",
+            "image": null
+        },
+        {
+            "text": "По желанию добавить изюм или корицу, кокосовую стружку, какао-порошок.",
+            "image": null
+        },
+        {
+            "text": "Выложить смесь в прозрачный стакан, сверху полить йогуртом, украсить кружочками бананов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерт из бананов",
+            "slug": "desert-iz-bananov"
+        },
+        {
+            "name": "Десерты без выпечки",
+            "slug": "deserty-bez-vypechki"
+        }
+    ]
+}

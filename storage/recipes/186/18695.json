@@ -1,0 +1,191 @@
+{
+    "source": "https://vkuso.ru/recipe/tefteli-kurinye-pod-tomatnym-sousom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Тефтели куриные под томатным соусом",
+    "description": null,
+    "note": null,
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5d/0dffdc3a328865d_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриный фарш",
+                    "slug": "kuriniy-farsh",
+                    "notes": null,
+                    "value": "700",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "капуста",
+                    "slug": "kapusta",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "томатный сок",
+                    "slug": "tomatniy-sok",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить до готовности рис. Измельчить в блендере капусту. Смешать рис и капусту с куриным фаршем. Вбить яйца, посыпать специями и солью. Сформировать шарики. Выложить их на противень, залить смесью сметаны и томатного сока.",
+            "image": null
+        },
+        {
+            "text": "Плотно накрыть фольгой. Готовить в духовке минут 40. Снять фольгу и запекать тефтели куриные под томатным соусом еще минут 7. По желанию добавить в подливку морковь и лук.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Курица в духовке",
+            "slug": "kurica-v-duhovke"
+        },
+        {
+            "name": "Курица с овощами",
+            "slug": "kurica-s-ovoschami"
+        },
+        {
+            "name": "Курица с рисом в духовке",
+            "slug": "kurica-s-risom-v-duhovke"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рис в духовке",
+            "slug": "ris-v-duhovke"
+        },
+        {
+            "name": "Рис с курицей",
+            "slug": "ris-s-kuricey"
+        },
+        {
+            "name": "Рис с мясом",
+            "slug": "ris-s-myasom"
+        },
+        {
+            "name": "Рис с мясом в духовке",
+            "slug": "ris-s-myasom-v-duhovke"
+        },
+        {
+            "name": "Рис с фаршем",
+            "slug": "ris-s-farshem"
+        },
+        {
+            "name": "Тефтели",
+            "slug": "tefteli"
+        },
+        {
+            "name": "Тефтели в духовке",
+            "slug": "tefteli-v-duhovke"
+        },
+        {
+            "name": "Тефтели в томатном соусе",
+            "slug": "tefteli-v-tomatnom-souse"
+        },
+        {
+            "name": "Тефтели из фарша",
+            "slug": "tefteli-iz-farsha"
+        },
+        {
+            "name": "Тефтели куриные",
+            "slug": "tefteli-kurinye"
+        },
+        {
+            "name": "Тефтели с подливкой",
+            "slug": "tefteli-s-podlivkoy"
+        },
+        {
+            "name": "Тефтели с рисом",
+            "slug": "tefteli-s-risom"
+        },
+        {
+            "name": "Ужин из капусты",
+            "slug": "ujin-iz-kapusty"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

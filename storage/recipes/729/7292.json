@@ -1,0 +1,151 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-s-kukuruzoj-i-kurinoj-pechenyu/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат с кукурузой и куриной печенью",
+    "description": "Этот яркий, вкусный и полезный салат с добавлением печени особенно придется по вкусу тем, кто следит за своим питанием. Ведь многие знают, что и кукуруза, и куриная печенка очень полезны.",
+    "note": "Если на приготовление салата у вас не так много времени, то печенку можно просто отварить. Тем, кто следит за фигурой, заправлять салат лучше низкокалорийным майонезом.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ce/b9c51739772cece_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриная печень",
+                    "slug": "kurinaya-pechen",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кукуруза консервированная",
+                    "slug": "kukuruza-konservirovannaya",
+                    "notes": null,
+                    "value": "12",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы маринованные",
+                    "slug": "ogurcy-marinovannye",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нашинковать очищенную морковь соломкой, кубиками нарезать очищенный лук. На сковороде разогреть растительное масло, затем выложить овощи, посолить их и обжарить до готовности.",
+            "image": null
+        },
+        {
+            "text": "Куриную печенку хорошо промыть, нарезать мелкими кусочками, выложить на сковороду, залить водой, слегка посолить и тушить до готовности. Небольшими кубиками нарезать маринованные огурцы, с кукурузы слить всю жидкость.",
+            "image": null
+        },
+        {
+            "text": "Смешать в большой миске все подготовленные ингредиенты и заправить салат с кукурузой и куриной печенью майонезом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из моркови",
+            "slug": "salat-iz-morkovi"
+        },
+        {
+            "name": "Салат с консервированной кукурузой",
+            "slug": "salat-s-konservirovannoy-kukuruzoy"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с печенью",
+            "slug": "salat-s-pechenyu"
+        },
+        {
+            "name": "Салат с печенью и морковью",
+            "slug": "salat-s-pechenyu-i-morkovyu"
+        },
+        {
+            "name": "Салат с печенью, морковью и луком",
+            "slug": "salat-s-pechenyu-morkovyu-i-lukom"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салаты с кукурузой",
+            "slug": "salaty-s-kukuruzoy"
+        },
+        {
+            "name": "Салаты с маринованными огурцами",
+            "slug": "salaty-s-marinovannymi-ogurcami"
+        }
+    ]
+}

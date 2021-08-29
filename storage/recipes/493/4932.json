@@ -1,0 +1,119 @@
+{
+    "source": "https://vkuso.ru/recipe/okroshka-s-redisom-na-kvase/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Окрошка с редисом на квасе",
+    "description": null,
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/17/1ab4dc8047c0c17_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "хлебного кваса",
+                    "slug": "hlebnogo-kvasa",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "редиса",
+                    "slug": "redisa",
+                    "notes": null,
+                    "value": "3",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "3"
+                },
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "2",
+                    "type": "клубня",
+                    "amount": null
+                },
+                {
+                    "name": "огурца",
+                    "slug": "ogurca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "сметаны",
+                    "slug": "smetany",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "пучок зеленого лука",
+                    "slug": "puchok-zelenogo-luka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сварить и остудить яйца и картофель, нашинковать мелко зеленый лук, растереть в кастрюле с солью, смешать с нарезанными яйцами, редисом, огурцом и картофелем, залить холодным квасом, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Разлить окрошку с редисом на квасе по тарелкам, положить в каждую по столовой ложке сметаны.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Окрошка",
+            "slug": "okroshka"
+        },
+        {
+            "name": "Окрошка на квасе",
+            "slug": "okroshka-na-kvase"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        }
+    ]
+}

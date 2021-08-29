@@ -1,0 +1,175 @@
+{
+    "source": "https://vkuso.ru/recipe/buterbrod-s-bekonom-i-myasom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Бутерброд с беконом и мясом",
+    "description": "Такую закуску можно взять с собой в поход, на пикник, она вполне способна заменить обед и дать новые силы для туристических свершений.",
+    "note": "Соль для приготовления закуски может и не понадобится – она в достаточном количестве содержится в тех продуктах, которые были использованы.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/fc/31dba0826c21cfc_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бекон",
+                    "slug": "bekon",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб белый",
+                    "slug": "hleb-beliy",
+                    "notes": null,
+                    "value": "8",
+                    "type": "кусочков",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "8",
+                    "type": "ломтиков",
+                    "amount": null
+                },
+                {
+                    "name": "мясо копченое",
+                    "slug": "myaso-kopchenoe",
+                    "notes": null,
+                    "value": "8",
+                    "type": "ломтиков",
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ломтика",
+                    "amount": null
+                },
+                {
+                    "name": "листья салата",
+                    "slug": "listya-salata",
+                    "notes": null,
+                    "value": "4",
+                    "type": "листика",
+                    "amount": null
+                },
+                {
+                    "name": "лук-шалот красный",
+                    "slug": "luk-shalot-krasniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Тонко нарезать бекон, обжарить на сухой сковороде до образования корочки.",
+            "image": null
+        },
+        {
+            "text": "Подрумянить на сковороде с одной стороны кусочки хлеба.",
+            "image": null
+        },
+        {
+            "text": "На не обжаренную сторону намазать майонез.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/1b/09a1b19f091171b_434x295.jpg"
+        },
+        {
+            "text": "Выложить по ломтику бекона и сыра.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/96/fe4e1645958ab96_434x295.jpg"
+        },
+        {
+            "text": "Затем мясо.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/04/7e7f93929857c04_434x295.jpg"
+        },
+        {
+            "text": "Следующий слой – ломтики помидора, красный лук, листья хорошо вымытого и обсушенного зеленого салата.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/51/b852fdc7f20ef51_434x295.jpg"
+        },
+        {
+            "text": "Накрыть бутерброд вторым кусочком хлеба.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/f4/220f8462ddeedf4_434x295.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды на праздничный стол",
+            "slug": "buterbrody-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Бутерброды на природу",
+            "slug": "buterbrody-na-prirodu"
+        },
+        {
+            "name": "Бутерброды с ветчиной",
+            "slug": "buterbrody-s-vetchinoy"
+        },
+        {
+            "name": "Бутерброды с помидорами",
+            "slug": "buterbrody-s-pomidorami"
+        },
+        {
+            "name": "Бутерброды с помидорами и сыром",
+            "slug": "buterbrody-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Закрытые бутерброды",
+            "slug": "zakrytye-buterbrody"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Сэндвич с мясом",
+            "slug": "sendvich-s-myasom"
+        },
+        {
+            "name": "Сэндвич с сыром",
+            "slug": "sendvich-s-syrom"
+        },
+        {
+            "name": "Сэндвичи",
+            "slug": "sendvichi"
+        }
+    ]
+}

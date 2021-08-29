@@ -1,0 +1,195 @@
+{
+    "source": "https://vkuso.ru/recipe/xarcho-iz-govyadiny-s-risom-v-multivarke/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Харчо из говядины с рисом в мультиварке",
+    "description": "Режим «Томление» как нельзя лучше подходит для приготовления этого блюда.",
+    "note": "Для приготовления супа можно использовать соусы «Ткемали», «Сацебели» или томатную пасту.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/33/d24983e1b4f3c33_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/2sHyMTlK2AM?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "говяжья вырезка",
+                    "slug": "govyajya-vyrezka",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соус ткемали",
+                    "slug": "sous-tkemali",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грецкие орехи",
+                    "slug": "greckie-orehi",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец красный молотый",
+                    "slug": "perec-krasniy-molotiy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный горошком",
+                    "slug": "perec-cherniy-goroshkom",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кинза",
+                    "slug": "kinza",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Мясо промыть, удалить жилы, мякоть нарезать кусочками толщиной в два сантиметра.",
+            "image": null
+        },
+        {
+            "text": "Сложить в мультиварку, выставить программу «Суп» на час.",
+            "image": null
+        },
+        {
+            "text": "Бульон процедить.",
+            "image": null
+        },
+        {
+            "text": "Лук очистить, вымыть, нарезать.",
+            "image": null
+        },
+        {
+            "text": "Чашу мультиварки смазать маслом, обжарить лук до прозрачного состояния.",
+            "image": null
+        },
+        {
+            "text": "Через пять минут после начала пассеровки добавить мясо, жарить шесть минут.",
+            "image": null
+        },
+        {
+            "text": "Рис промыть, добавить к мясу, влить бульон, выставить программу «Суп» на полчаса.",
+            "image": null
+        },
+        {
+            "text": "Грецкие орехи очистить, порубить вместе с чесноком, переложить в суп.",
+            "image": null
+        },
+        {
+            "text": "Добавить соус, положить специи.",
+            "image": null
+        },
+        {
+            "text": "В конце положить рубленую зелень, оставить для настаивания на двадцать минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп в мультиварке",
+            "slug": "sup-v-multivarke"
+        },
+        {
+            "name": "Суп из говядины",
+            "slug": "sup-iz-govyadiny"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Суп с рисом",
+            "slug": "sup-s-risom"
+        },
+        {
+            "name": "Суп Харчо",
+            "slug": "sup-harcho"
+        },
+        {
+            "name": "Супы с крупами",
+            "slug": "supy-s-krupami"
+        },
+        {
+            "name": "Харчо в мультиварке",
+            "slug": "harcho-v-multivarke"
+        },
+        {
+            "name": "Харчо из говядины",
+            "slug": "harcho-iz-govyadiny"
+        }
+    ]
+}

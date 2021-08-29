@@ -1,0 +1,183 @@
+{
+    "source": "https://vkuso.ru/recipe/103941-pasta-a-lya-karbonara-s-parmezanom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Паста а-ля Карбонара с пармезаном",
+    "description": "Карбонара по праву считается самым популярным блюдом из пасты. Представляет собой макароны с мелкими кусочками бекона или грудинки, соусом из яиц, пармезана и специй. Иногда сюда еще добавляют сливки. В классическом рецепте Карбонару готовят со спагетти, но можно взять и другие макароны.",
+    "note": null,
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/6b/146fe91dc0b2b6b_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "25 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "макароны",
+                    "slug": "makarony",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грудинка",
+                    "slug": "grudinka",
+                    "notes": " (или бекон)",
+                    "value": "350",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки жирные",
+                    "slug": "slivki-jirnye",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сыр пармезан тертый",
+                    "slug": "syr-parmezan-tertiy",
+                    "notes": null,
+                    "value": "80",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца куриные",
+                    "slug": "yayca-kurinye",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "базилик сушеный",
+                    "slug": "bazilik-susheniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Макароны отварите в подсоленной воде до готовности. Слейте жидкость, оставив пару ложек. Положите макароны в теплое место, накройте крышкой, чтобы не остыли.",
+            "image": null
+        },
+        {
+            "text": "Бекон или грудинку нарежьте полосками или кубиками. Обжарьте на сковороде до золотистого цвета.",
+            "image": null
+        },
+        {
+            "text": "Смешайте сливки, яйца, немного молотого перца, сыр и поставьте на сильный огонь на 40 секунд, постоянно помешивайте.",
+            "image": null
+        },
+        {
+            "text": "Убавьте огонь до минимального, влейте пару ложек воды от варки макарон и готовьте соус 2 минуты, помешивая. Следите, чтобы огонь был очень слабым, иначе яйца свернутся.",
+            "image": null
+        },
+        {
+            "text": "Когда сыр растает, добавьте бекон, макароны и базилик. Перемешайте, выключите огонь и дайте блюду постоять пару минут. Разложите по подогретым тарелкам и сразу подайте к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из макарон",
+            "slug": "vtorye-blyuda-iz-makaron"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Итальянская паста",
+            "slug": "italyanskaya-pasta"
+        },
+        {
+            "name": "Макароны в сливочном соусе",
+            "slug": "makarony-v-slivochnom-souse"
+        },
+        {
+            "name": "Макароны с сыром",
+            "slug": "makarony-s-syrom"
+        },
+        {
+            "name": "Макароны с яйцом",
+            "slug": "makarony-s-yaycom"
+        },
+        {
+            "name": "Паста",
+            "slug": "pasta"
+        },
+        {
+            "name": "Паста в сливочном соусе",
+            "slug": "pasta-v-slivochnom-souse"
+        },
+        {
+            "name": "Паста карбонара",
+            "slug": "pasta-karbonara"
+        },
+        {
+            "name": "Паста карбонара с беконом",
+            "slug": "pasta-karbonara-s-bekonom"
+        },
+        {
+            "name": "Паста карбонара с беконом и сливками",
+            "slug": "pasta-karbonara-s-bekonom-i-slivkami"
+        },
+        {
+            "name": "Паста с беконом",
+            "slug": "pasta-s-bekonom"
+        },
+        {
+            "name": "Паста с соусом",
+            "slug": "pasta-s-sousom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сковорода",
+            "slug": "skovoroda"
+        },
+        {
+            "name": "Сотейник",
+            "slug": "soteynik"
+        },
+        {
+            "name": "Ужин из макарон",
+            "slug": "ujin-iz-makaron"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

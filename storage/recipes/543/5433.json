@@ -1,0 +1,99 @@
+{
+    "source": "https://vkuso.ru/recipe/koktejl-s-romom-i-likerami-kampari-i-kuantro/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Коктейль с ромом и ликерами  Кампари и Куантро",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/02/ad7f8cca936d602_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "ликера Куантро",
+                    "slug": "likera-kuantro",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "ликера Кампари",
+                    "slug": "likera-kampari",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "рома",
+                    "slug": "roma",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сока лайма",
+                    "slug": "soka-layma",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "базилик",
+                    "slug": "bazilik",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лед",
+                    "slug": "led",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Смешать в чаше блендера сок лайма, кампари, ром, куантро, разлить по бокалам.",
+            "image": null
+        },
+        {
+            "text": "Перед подачей коктейль с ромом  и ликерами  Кампари и Куантро украсить свежими листиками базилика, можно добавить лед.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Алкогольные коктейли",
+            "slug": "alkogolnye-kokteyli"
+        },
+        {
+            "name": "Алкогольные напитки",
+            "slug": "alkogolnye-napitki"
+        },
+        {
+            "name": "Коктейли с ромом",
+            "slug": "kokteyli-s-romom"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        }
+    ]
+}

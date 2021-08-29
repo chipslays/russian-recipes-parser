@@ -1,0 +1,160 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnij-fastfud-iz-semgi/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Домашний фастфуд из семги",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f6/49656160a9d02f6_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "филе семги",
+                    "slug": "file-semgi",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "булочки для гамбургеров",
+                    "slug": "bulochki-dlya-gamburgerov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "салат айсберг",
+                    "slug": "salat-aysberg",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для заправки",
+            "list": [
+                {
+                    "name": "йогурт натуральный/сметана",
+                    "slug": "yogurt-naturalniy-smetana",
+                    "notes": null,
+                    "value": "5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Пожарить с обеих сторон два подходящих по размеру куска семги, по вкусу посыпать приправами.",
+            "image": null
+        },
+        {
+            "text": "Натереть огурец на терке и соединить все ингредиенты для заправки.",
+            "image": null
+        },
+        {
+            "text": "Собрать бургер в произвольной последовательности.",
+            "image": null
+        },
+        {
+            "text": "Сделать картофель по-деревенски. Порезать на дольки картофель, посыпать перцем, солью. Отправить на 30 минут в духовку. В конце побрызгать оливковым маслом.",
+            "image": null
+        },
+        {
+            "text": "Подавать домашний фастфуд из семги можно с любым соком, например, грейпфрутовым.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бургер",
+            "slug": "burger"
+        },
+        {
+            "name": "Бутерброды на природу",
+            "slug": "buterbrody-na-prirodu"
+        },
+        {
+            "name": "Бутерброды с красной рыбой",
+            "slug": "buterbrody-s-krasnoy-ryboy"
+        },
+        {
+            "name": "Бутерброды с огурцом",
+            "slug": "buterbrody-s-ogurcom"
+        },
+        {
+            "name": "Бутерброды с помидорами",
+            "slug": "buterbrody-s-pomidorami"
+        },
+        {
+            "name": "Бутерброды с рыбой",
+            "slug": "buterbrody-s-ryboy"
+        },
+        {
+            "name": "Бутерброды с семгой",
+            "slug": "buterbrody-s-semgoy"
+        },
+        {
+            "name": "Вторые блюда из картофеля",
+            "slug": "vtorye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Домашний фаст фуд",
+            "slug": "domashniy-fast-fud"
+        },
+        {
+            "name": "Закуски с красной рыбой",
+            "slug": "zakuski-s-krasnoy-ryboy"
+        },
+        {
+            "name": "Картошка по-деревенски",
+            "slug": "kartoshka-po-derevenski"
+        }
+    ]
+}

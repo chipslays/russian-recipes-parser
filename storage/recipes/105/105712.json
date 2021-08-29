@@ -1,0 +1,235 @@
+{
+    "source": "https://vkuso.ru/recipe/105712-indejka-po-francuzski-s-kartofelem-i-gribami/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Индейка по-французски с картофелем и грибами",
+    "description": "Вкусное и питательное блюдо под сырной корочкой.",
+    "note": "Готовое блюдо украсить помидорами черри или дольками обычных помидоров, веточками укропа.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c6/2fcfb83ea2669c6_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час 10 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "филе индейки",
+                    "slug": "file-indeyki",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Филе индейки промыть, нарезать кусочками толщиной в один сантиметр поперек волокон.",
+            "image": null
+        },
+        {
+            "text": "Мясо отбить через полиэтиленовый пакет с двух сторон, посолить, поперчить, добавить другие специи.",
+            "image": null
+        },
+        {
+            "text": "Форму или противень смазать маслом, выложить филе в один слой.",
+            "image": null
+        },
+        {
+            "text": "Для соуса перемешать сметану с майонезом, поперчить, подлить немного воды.",
+            "image": null
+        },
+        {
+            "text": "Выложить на мясо нарезанный репчатый лук, сверху – соус, тонкие кружочки картофеля, снова соус.",
+            "image": null
+        },
+        {
+            "text": "Следующий слой – грибная обжарка, еще один слой картофеля, соус.",
+            "image": null
+        },
+        {
+            "text": "Блюдо по желанию можно подсолить и поперчить послойно.",
+            "image": null
+        },
+        {
+            "text": "Сверху – полукольца помидоров, сметанный соус.",
+            "image": null
+        },
+        {
+            "text": "Форму затянуть фольгой, печь в духовом шкафу в течение часа, температура – до 180 градусов.",
+            "image": null
+        },
+        {
+            "text": "За 10 минут до окончания приготовления фольгу снять, присыпать запеканку сыром.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из индейки",
+            "slug": "vtorye-blyuda-iz-indeyki"
+        },
+        {
+            "name": "Вторые блюда из картофеля",
+            "slug": "vtorye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Грибы в духовке",
+            "slug": "griby-v-duhovke"
+        },
+        {
+            "name": "Грибы с сыром",
+            "slug": "griby-s-syrom"
+        },
+        {
+            "name": "Грибы с сыром в духовке",
+            "slug": "griby-s-syrom-v-duhovke"
+        },
+        {
+            "name": "Индейка в духовке",
+            "slug": "indeyka-v-duhovke"
+        },
+        {
+            "name": "Индейка в фольге",
+            "slug": "indeyka-v-folge"
+        },
+        {
+            "name": "Индейка с грибами",
+            "slug": "indeyka-s-gribami"
+        },
+        {
+            "name": "Индейка с картошкой",
+            "slug": "indeyka-s-kartoshkoy"
+        },
+        {
+            "name": "Индейка с овощами",
+            "slug": "indeyka-s-ovoschami"
+        },
+        {
+            "name": "Индейка с сыром",
+            "slug": "indeyka-s-syrom"
+        },
+        {
+            "name": "Картошка в духовке",
+            "slug": "kartoshka-v-duhovke"
+        },
+        {
+            "name": "Картошка с грибами",
+            "slug": "kartoshka-s-gribami"
+        },
+        {
+            "name": "Картошка с грибами в духовке",
+            "slug": "kartoshka-s-gribami-v-duhovke"
+        },
+        {
+            "name": "Картошка с сыром",
+            "slug": "kartoshka-s-syrom"
+        },
+        {
+            "name": "Картошка с шампиньонами",
+            "slug": "kartoshka-s-shampinonami"
+        },
+        {
+            "name": "Помидоры с сыром в духовке",
+            "slug": "pomidory-s-syrom-v-duhovke"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Филе индейки в духовке",
+            "slug": "file-indeyki-v-duhovke"
+        },
+        {
+            "name": "Шампиньоны в духовке",
+            "slug": "shampinony-v-duhovke"
+        }
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "source": "https://vkuso.ru/recipe/baklazhany-zapechennye-s-farshem-ovoshhami-i-syrom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Баклажаны, запеченные с фаршем, овощами и сыром",
+    "description": "Обожаю баклажаны и часто их готовлю. Люблю запекать их под сыром с овощной начинкой, для сытости добавляю еще куриный фарш, но можно и без него.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/77/8925bbf31127877_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/XyBYkTkzq2s?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "фарш",
+                    "slug": "farsh",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "баклажаны",
+                    "slug": "baklajany",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "хмели-сунели",
+                    "slug": "hmeli-suneli",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Баклажаны разделить на 2 половинки, удалить сердцевину, чуть присолить, дать постоять полчаса, хорошо промыть водой.",
+            "image": null
+        },
+        {
+            "text": "Смазать их маслом и отправить на полчаса в прогретую до 200 градусов духовку.",
+            "image": null
+        },
+        {
+            "text": "Лук нашинковать вместе с морковью и помидорами мелкими кубиками, чеснок раздавить прессом, порубить вынутую из баклажанов серединку.",
+            "image": null
+        },
+        {
+            "text": "Разогреть масло, обжарить чеснок и лук, добавить морковь и фарш, хорошо размешать, жарить до изменения цвета фарша.",
+            "image": null
+        },
+        {
+            "text": "В последнюю очередь добавить в смесь мякоть от баклажанов и помидоры, приправить хмели-сунели, солью и перцем, тушить до готовности.",
+            "image": null
+        },
+        {
+            "text": "Плоды баклажанов наполнить полученной массой, сверху на баклажаны, запеченные с фаршем положить крупно тертый сыр, поставить в духовку, запекать до появления корочки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Баклажаны в духовке",
+            "slug": "baklajany-v-duhovke"
+        },
+        {
+            "name": "Баклажаны запеченные",
+            "slug": "baklajany-zapechennye"
+        },
+        {
+            "name": "Баклажаны с сыром",
+            "slug": "baklajany-s-syrom"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из фарша",
+            "slug": "vtorye-blyuda-iz-farsha"
+        },
+        {
+            "name": "Горячие закуски",
+            "slug": "goryachie-zakuski"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Закуска из баклажанов",
+            "slug": "zakuska-iz-baklajanov"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Мясо с помидорами и сыром в духовке",
+            "slug": "myaso-s-pomidorami-i-syrom-v-duhovke"
+        },
+        {
+            "name": "Овощи в духовке",
+            "slug": "ovoschi-v-duhovke"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Ужин из баклажанов",
+            "slug": "ujin-iz-baklajanov"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/86354-zhidkaya-mannaya-kasha-v-multivarke-dlya-detej/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Жидкая манная каша в мультиварке для детей",
+    "description": "Блюдо для детского питания.",
+    "note": "При подаче положить в кашу кусочек сливочного масла.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/60/439f54494809660_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/7aubB3VjQBI?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "3",
+                    "type": "мультистакана",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "мультистакан",
+                    "amount": null
+                },
+                {
+                    "name": "манная крупа",
+                    "slug": "mannaya-krupa",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Емкость промазать сливочным маслом, влить воду и молоко, выставить режим «Молочная каша» на полчаса.",
+            "image": null
+        },
+        {
+            "text": "Манку перемешать с сахаром и через десять минут после начала приготовления всыпать в молочную смесь.",
+            "image": null
+        },
+        {
+            "text": "Блюдо помешивать, оно будет готово через двадцать минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда в мультиварке",
+            "slug": "vtorye-blyuda-v-multivarke"
+        },
+        {
+            "name": "Детская каша",
+            "slug": "detskaya-kasha"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Детский завтрак",
+            "slug": "detskiy-zavtrak"
+        },
+        {
+            "name": "Каша",
+            "slug": "kasha"
+        },
+        {
+            "name": "Каша в мультиварке",
+            "slug": "kasha-v-multivarke"
+        },
+        {
+            "name": "Каша в мультиварке на молоке",
+            "slug": "kasha-v-multivarke-na-moloke"
+        },
+        {
+            "name": "Каша на молоке",
+            "slug": "kasha-na-moloke"
+        },
+        {
+            "name": "Каши на завтрак",
+            "slug": "kashi-na-zavtrak"
+        },
+        {
+            "name": "Крупы в мультиварке",
+            "slug": "krupy-v-multivarke"
+        },
+        {
+            "name": "Манная каша",
+            "slug": "mannaya-kasha"
+        },
+        {
+            "name": "Манная каша в мультиварке",
+            "slug": "mannaya-kasha-v-multivarke"
+        },
+        {
+            "name": "Манная каша на молоке",
+            "slug": "mannaya-kasha-na-moloke"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        }
+    ]
+}

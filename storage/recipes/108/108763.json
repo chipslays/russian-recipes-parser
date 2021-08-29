@@ -1,0 +1,207 @@
+{
+    "source": "https://vkuso.ru/recipe/108763-perlovka-s-govyadinoj-i-gribami-v-multivarke/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Перловка с говядиной и грибами в мультиварке",
+    "description": "Блюдо готовится в мультиварке. Кушанье сытное и самостоятельное, не требует дополнений.",
+    "note": "Блюдо подать к столу с зеленью, овощной нарезкой.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d2/7c30b79e92f45d2_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "2 часа 20 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "говядина",
+                    "slug": "govyadina",
+                    "notes": null,
+                    "value": "380",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перловая крупа",
+                    "slug": "perlovaya-krupa",
+                    "notes": null,
+                    "value": "280",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "180",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "зеленый горошек",
+                    "slug": "zeleniy-goroshek",
+                    "notes": null,
+                    "value": "110",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Выставить режим «Жарка», прогреть масло, обжарить говядину, нарезанную кусочками.",
+            "image": null
+        },
+        {
+            "text": "Мясо посолить и поперчить, влить воду.",
+            "image": null
+        },
+        {
+            "text": "Выставить режим «Тушение» на сорок минут.",
+            "image": null
+        },
+        {
+            "text": "Свежие шампиньоны разрезать на четыре части, морковь – соломкой, репчатый лук – кубиками.",
+            "image": null
+        },
+        {
+            "text": "Добавить грибы в тушеное мясо, овощи – через десять минут.",
+            "image": null
+        },
+        {
+            "text": "Довести до мягкости, всыпать зеленый горошек, через две минуты добавить перловку, замоченную на ночь в холодной воде.",
+            "image": null
+        },
+        {
+            "text": "Перемешать, тушить в том же режиме один час.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Вторые блюда в мультиварке",
+            "slug": "vtorye-blyuda-v-multivarke"
+        },
+        {
+            "name": "Вторые блюда из говядины",
+            "slug": "vtorye-blyuda-iz-govyadiny"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Говядина в мультиварке",
+            "slug": "govyadina-v-multivarke"
+        },
+        {
+            "name": "Говядина с грибами",
+            "slug": "govyadina-s-gribami"
+        },
+        {
+            "name": "Грибы в мультиварке",
+            "slug": "griby-v-multivarke"
+        },
+        {
+            "name": "Каша",
+            "slug": "kasha"
+        },
+        {
+            "name": "Каша в мультиварке",
+            "slug": "kasha-v-multivarke"
+        },
+        {
+            "name": "Каша с грибами",
+            "slug": "kasha-s-gribami"
+        },
+        {
+            "name": "Каша с мясом",
+            "slug": "kasha-s-myasom"
+        },
+        {
+            "name": "Крупы в мультиварке",
+            "slug": "krupy-v-multivarke"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Мясо с грибами",
+            "slug": "myaso-s-gribami"
+        },
+        {
+            "name": "Перловая каша",
+            "slug": "perlovaya-kasha"
+        },
+        {
+            "name": "Перловая каша в мультиварке",
+            "slug": "perlovaya-kasha-v-multivarke"
+        },
+        {
+            "name": "Перловка в мультиварке",
+            "slug": "perlovka-v-multivarke"
+        },
+        {
+            "name": "Перловка с грибами",
+            "slug": "perlovka-s-gribami"
+        },
+        {
+            "name": "Перловка с мясом",
+            "slug": "perlovka-s-myasom"
+        },
+        {
+            "name": "Ужин в мультиварке",
+            "slug": "ujin-v-multivarke"
+        },
+        {
+            "name": "Ужин из говядины",
+            "slug": "ujin-iz-govyadiny"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

@@ -1,0 +1,203 @@
+{
+    "source": "https://vkuso.ru/recipe/mini-kurniki-so-svininoj-i-gribami/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Мини-курники со свининой и грибами",
+    "description": "Небольшие пироги быстро готовятся, начинка может быть любой.",
+    "note": "Для приготовления курника лучше использовать шампиньоны.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/fe/9e5ccf2c5a34bfe_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "тесто слоеное",
+                    "slug": "testo-sloenoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "упаковка",
+                    "amount": null
+                },
+                {
+                    "name": "свинина",
+                    "slug": "svinina",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Свинину отварить, нарезать кусочками.",
+            "image": null
+        },
+        {
+            "text": "Нарезать лук и грибы, перемешать, жарить до готовности на сковороде с маслом.",
+            "image": null
+        },
+        {
+            "text": "Очистить и тонко нарезать небольшие клубни картофеля.",
+            "image": null
+        },
+        {
+            "text": "Соль и молотый перец добавить по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Раскатать готовое слоеное тесто, нарезать круги размером с тарелку.",
+            "image": null
+        },
+        {
+            "text": "Выложить мясо, грибы и картофель слоями.",
+            "image": null
+        },
+        {
+            "text": "Защипать тесто так, чтобы в середине осталось отверстие.",
+            "image": null
+        },
+        {
+            "text": "Положить в него нарезанное кусочками сливочное масло.",
+            "image": null
+        },
+        {
+            "text": "Приготовить остальные пироги по этому же рецепту.",
+            "image": null
+        },
+        {
+            "text": "Выложить на смазанный противень, печь в течение 35 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из слоеного теста",
+            "slug": "vypechka-iz-sloenogo-testa"
+        },
+        {
+            "name": "Выпечка с мясом и фаршем",
+            "slug": "vypechka-s-myasom-i-farshem"
+        },
+        {
+            "name": "Курник",
+            "slug": "kurnik"
+        },
+        {
+            "name": "Курник из слоеного теста",
+            "slug": "kurnik-iz-sloenogo-testa"
+        },
+        {
+            "name": "Курник с картошкой",
+            "slug": "kurnik-s-kartoshkoy"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог без яиц",
+            "slug": "pirog-bez-yaic"
+        },
+        {
+            "name": "Пирог из слоеного теста",
+            "slug": "pirog-iz-sloenogo-testa"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги с мясом",
+            "slug": "pirogi-s-myasom"
+        },
+        {
+            "name": "Пироги с начинкой",
+            "slug": "pirogi-s-nachinkoy"
+        }
+    ]
+}

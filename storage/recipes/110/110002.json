@@ -1,0 +1,151 @@
+{
+    "source": "https://vkuso.ru/recipe/110002-pasta-s-krevetkami-i-syrom-v-smetane/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Паста с креветками и сыром в сметане",
+    "description": "Классическое итальянское блюдо, сытно и полезное.",
+    "note": "При подаче к столу блюдо украсить зеленью укропа и петрушки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/6b/27dc70ecdc4ec6b_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "креветки",
+                    "slug": "krevetki",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "спагетти",
+                    "slug": "spagetti",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Замороженные креветки залить кипятком, очистить.",
+            "image": null
+        },
+        {
+            "text": "Спагетти, обычные рожки или макароны фетучини отварить.",
+            "image": null
+        },
+        {
+            "text": "На огонь поставить сковороду с оливковым маслом.",
+            "image": null
+        },
+        {
+            "text": "Чеснок очистить и измельчить, жарить полминуты, а затем удалить со сковороды.",
+            "image": null
+        },
+        {
+            "text": "Положить креветки, жарить две минуты.",
+            "image": null
+        },
+        {
+            "text": "Полить сметаной, посыпать тертым сыром.",
+            "image": null
+        },
+        {
+            "text": "Перемешать пасту с морепродуктами, сбрызнуть свежим лимонным соком.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Креветки с чесноком",
+            "slug": "krevetki-s-chesnokom"
+        },
+        {
+            "name": "Паста",
+            "slug": "pasta"
+        },
+        {
+            "name": "Паста с креветками",
+            "slug": "pasta-s-krevetkami"
+        },
+        {
+            "name": "Паста с морепродуктами",
+            "slug": "pasta-s-moreproduktami"
+        },
+        {
+            "name": "Спагетти",
+            "slug": "spagetti"
+        },
+        {
+            "name": "Спагетти с креветками",
+            "slug": "spagetti-s-krevetkami"
+        },
+        {
+            "name": "Спагетти с морепродуктами",
+            "slug": "spagetti-s-moreproduktami"
+        },
+        {
+            "name": "Ужин из макарон",
+            "slug": "ujin-iz-makaron"
+        }
+    ]
+}

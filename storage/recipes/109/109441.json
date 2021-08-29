@@ -1,0 +1,177 @@
+{
+    "source": "https://vkuso.ru/recipe/109441-orexovoe-pirozhnoe-s-kremom-iz-varenoj-sgushhenki/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Ореховое пирожное с кремом из вареной сгущенки",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/6e/4c7224f4209746e_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "молоко сгущенное вареное",
+                    "slug": "moloko-sguschennoe-varenoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "орехи",
+                    "slug": "orehi",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для крема",
+            "list": [
+                {
+                    "name": "кофе свежесваренный",
+                    "slug": "kofe-svejesvarenniy",
+                    "notes": " (без сахара)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Включить для разогрева до 180 градусов духовку.",
+            "image": null
+        },
+        {
+            "text": "Стакан сахарного песка взбить с белками до устойчивой пены.",
+            "image": null
+        },
+        {
+            "text": "Второй стакан взбить с желтками.",
+            "image": null
+        },
+        {
+            "text": "Объединить обе смеси, добавить муку, осторожно перемешать.",
+            "image": null
+        },
+        {
+            "text": "Вылить на выстланный пергаментом противень половину теста.",
+            "image": null
+        },
+        {
+            "text": "Поместить в прогретую духовку минут на 20.",
+            "image": null
+        },
+        {
+            "text": "Также выпечь второй корж.",
+            "image": null
+        },
+        {
+            "text": "Разрезать каждый на два, выровнять ножом края.",
+            "image": null
+        },
+        {
+            "text": "Для крема взбить сгущенку и размягченное масло, всыпать обжаренные и измельченные орехи, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Пропитать равномерно коржи крепким кофе без сахара, смазать кремом, сложить в стопку.",
+            "image": null
+        },
+        {
+            "text": "Убрать ореховое пирожное с кремом из вареной сгущенки в холодильник, дать хорошо пропитаться, порезать на пирожные.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Бисквитное пирожное",
+            "slug": "biskvitnoe-pirojnoe"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка с орехами",
+            "slug": "vypechka-s-orehami"
+        },
+        {
+            "name": "Выпечка со сгущенкой",
+            "slug": "vypechka-so-sguschenkoy"
+        },
+        {
+            "name": "Десерт со сгущенкой",
+            "slug": "desert-so-sguschenkoy"
+        },
+        {
+            "name": "Пирожное со сгущенкой",
+            "slug": "pirojnoe-so-sguschenkoy"
+        },
+        {
+            "name": "Пирожные",
+            "slug": "pirojnye"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "source": "https://vkuso.ru/recipe/testo-na-drozhzhax-dlya-bulochek-i-pirozhkov/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Тесто на дрожжах для булочек и пирожков",
+    "description": "Из такого продукта получается пористая, воздушная выпечка.",
+    "note": "Из такого теста можно готовить булочки или пирожки. Свежие дрожжи можно заменить на сухие, их понадобится меньше, чем обычных.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/3d/a5a9b40417d8d3d_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "4",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи свежие",
+                    "slug": "drojji-svejie",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное рафинированное",
+                    "slug": "maslo-rastitelnoe-rafinirovannoe",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В теплой воде растворить сахар и дрожжи.",
+            "image": null
+        },
+        {
+            "text": "Влить рафинированные постное масло, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Просеять муку в миску, влить жидкость.",
+            "image": null
+        },
+        {
+            "text": "Продукты перемешать, размять комочки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Тесто домашнее",
+            "slug": "testo-domashnee"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Дрожжевое тесто",
+            "slug": "drojjevoe-testo"
+        },
+        {
+            "name": "Дрожжевое тесто для пирожков",
+            "slug": "drojjevoe-testo-dlya-pirojkov"
+        },
+        {
+            "name": "Тесто для булочек",
+            "slug": "testo-dlya-bulochek"
+        },
+        {
+            "name": "Тесто для пирожков",
+            "slug": "testo-dlya-pirojkov"
+        },
+        {
+            "name": "тесто домашнее",
+            "slug": "testo-domashnee"
+        }
+    ]
+}

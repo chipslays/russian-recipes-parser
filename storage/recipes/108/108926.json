@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/108926-syrno-molochnyj-sup-s-makaronami-i-ovoshhami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Сырно-молочный суп с макаронами и овощами",
+    "description": null,
+    "note": "Подавать сырно-молочный суп с макаронами и овощами с гренками из черного хлеба, присыпанными нашинкованным мелко чесноком и ассорти из порезанной зелени.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/71/7e06531f6ed4a71_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час 30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "бульон овощной",
+                    "slug": "bulon-ovoschnoy",
+                    "notes": " (вода)",
+                    "value": "2",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "300",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сыр грюйер",
+                    "slug": "syr-gryuyer",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки 10-20%",
+                    "slug": "slivki-10-20",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "макароны",
+                    "slug": "makarony",
+                    "notes": null,
+                    "value": "160",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "80-100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шпинат замороженный",
+                    "slug": "shpinat-zamorojenniy",
+                    "notes": null,
+                    "value": "50-80",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "прованские травы",
+                    "slug": "provanskie-travy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Порезать на кубики морковку, лук, картошку, шпинат – соломкой.",
+            "image": null
+        },
+        {
+            "text": "Распустить в сотейнике масло, положить лук, довести его до золотистости.",
+            "image": null
+        },
+        {
+            "text": "Всыпать морковку, картошку, жарить все вместе еще минуты 4, добавить в конце шпинат, прогреть еще пару минут.",
+            "image": null
+        },
+        {
+            "text": "В кастрюлю переложить тушеные овощи, влить овощной бульон (воду), молоко, сдобрить прованскими травами, перцем, солью, нагрев уменьшить до минимума, варить примерно полчаса.",
+            "image": null
+        },
+        {
+            "text": "Всыпать макаронные изделия, варить суп до их полного размягчения.",
+            "image": null
+        },
+        {
+            "text": "Влить сливки, всыпать крупную сырную стружку, чуть прогреть, убрать с плиты.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Молочный суп",
+            "slug": "molochniy-sup"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Сливочный суп",
+            "slug": "slivochniy-sup"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп с макаронами",
+            "slug": "sup-s-makaronami"
+        },
+        {
+            "name": "Суп со сливками",
+            "slug": "sup-so-slivkami"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Сырный суп",
+            "slug": "syrniy-sup"
+        }
+    ]
+}

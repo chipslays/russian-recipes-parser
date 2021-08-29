@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/sup-pyure-iz-brokkoli-i-slivok-s-syrom/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Суп-пюре из брокколи и сливок с сыром",
+    "description": "Зеленый овощ внешне похож на небольшое дерево, название переводится, как «стеблевая капуста». Вкусовые качества южной итальянской культуры сходны с цветной капустой. Для приготовления блюд из этих овощей можно использовать одни и те же рецепты.",
+    "note": "При подаче блюдо можно дополнительно посыпать сверху тертым сыром и украсить листочком петрушки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e0/5d984f1e51c66e0_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр чеддер",
+                    "slug": "syr-chedder",
+                    "notes": null,
+                    "value": "220",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "брокколи",
+                    "slug": "brokkoli",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кочан",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "бульон овощной",
+                    "slug": "bulon-ovoschnoy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": " (молоко)",
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "мускатный орех",
+                    "slug": "muskatniy-oreh",
+                    "notes": null,
+                    "value": "&frac18;",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Капусту брокколи вымыть, обсушить, разделить на соцветия. Вскипятить подсоленную воду, выложить капусту, оставить вариться на три минуты. Переложить соцветия из кипятка в ледяную воду.",
+            "image": null
+        },
+        {
+            "text": "Промыть, очистить и нарезать морковь. Натереть сыр чеддер.",
+            "image": null
+        },
+        {
+            "text": "Растопить в кастрюле сливочное масло. Добавить четверть стакана пшеничной муки. Перемешать, подержать на огне три-четыре минуты.",
+            "image": null
+        },
+        {
+            "text": "Влить молоко или сливки, овощной бульон. Добавить мускатный орех, прогревать под крышкой, готовить 20 минут.",
+            "image": null
+        },
+        {
+            "text": "Положить репчатый лук, морковь и капусту, варить суп в течение получаса. Через полчаса снять крышку, размять овощи. Добавить половину нормы тертого сыра. Перемешать, сыр должен расплавиться.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Крем-суп",
+            "slug": "krem-sup"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из брокколи",
+            "slug": "sup-iz-brokkoli"
+        },
+        {
+            "name": "Суп с капустой",
+            "slug": "sup-s-kapustoy"
+        },
+        {
+            "name": "Суп со сливками",
+            "slug": "sup-so-slivkami"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Суп-пюре из брокколи",
+            "slug": "sup-pyure-iz-brokkoli"
+        },
+        {
+            "name": "Суп-пюре овощной",
+            "slug": "sup-pyure-ovoschnoy"
+        },
+        {
+            "name": "Сырный крем-суп",
+            "slug": "syrniy-krem-sup"
+        },
+        {
+            "name": "Сырный суп-пюре",
+            "slug": "syrniy-sup-pyure"
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "source": "https://vkuso.ru/recipe/91895-zharenye-pirozhki-na-s-syrom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Жареные пирожки на с сыром",
+    "description": "Жареные пирожки с сыром немного напоминают чебуреки, только готовятся они из другого теста и немного меньше по размеру.",
+    "note": "Подаем к чаю горячими.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/8d/6ef28421aeca08d_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/6pP9lajYcz8?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "350",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": " (для жарки)",
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Муку просеиваем в глубокую миску, добавляем соль.",
+            "image": null
+        },
+        {
+            "text": "Воду доводим до кипения, заливаем в муку. Сразу же перемешиваем ложкой.",
+            "image": null
+        },
+        {
+            "text": "Когда мука впитает всю воду и тесто немного остынет, продолжаем вымешивать его руками. Готовое тесто накрываем и отставляем до охлаждения.",
+            "image": null
+        },
+        {
+            "text": "Сырок натираем на мелкой терке.",
+            "image": null
+        },
+        {
+            "text": "Зелень промываем и мелко нарезаем.",
+            "image": null
+        },
+        {
+            "text": "Смешиваем ингредиенты для начинки.",
+            "image": null
+        },
+        {
+            "text": "Небольшие шарики теста раскатываем в лепешки, часто переворачивая и обильно посыпая стол мукой. Тесто получается немного липким, поэтому нужно следить, чтобы оно не прилипало к столу.",
+            "image": null
+        },
+        {
+            "text": "На одну половину лепешки кладем немного начинки. Накрываем второй половиной, края плотно защипываем.",
+            "image": null
+        },
+        {
+            "text": "В глубокой сковороде разогреваем растительное масло. На среднем огне быстро обжариваем пироги с двух сторон до золотистого цвета.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Без яиц",
+            "slug": "bez-yaic"
+        },
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сахара",
+            "slug": "vypechka-bez-sahara"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка на сковороде без духовки",
+            "slug": "vypechka-na-skovorode-bez-duhovki"
+        },
+        {
+            "name": "Выпечка с зеленью",
+            "slug": "vypechka-s-zelenyu"
+        },
+        {
+            "name": "Выпечка с сыром",
+            "slug": "vypechka-s-syrom"
+        },
+        {
+            "name": "Жареные пирожки",
+            "slug": "jarenye-pirojki"
+        },
+        {
+            "name": "Несладкая выпечка",
+            "slug": "nesladkaya-vypechka"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки без дрожжей",
+            "slug": "pirojki-bez-drojjey"
+        },
+        {
+            "name": "Пирожки без кефира",
+            "slug": "pirojki-bez-kefira"
+        },
+        {
+            "name": "Пирожки на воде",
+            "slug": "pirojki-na-vode"
+        },
+        {
+            "name": "Пирожки на сковороде",
+            "slug": "pirojki-na-skovorode"
+        },
+        {
+            "name": "Пирожки с сыром",
+            "slug": "pirojki-s-syrom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сковорода",
+            "slug": "skovoroda"
+        }
+    ]
+}

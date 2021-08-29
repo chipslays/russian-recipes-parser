@@ -1,0 +1,71 @@
+{
+    "source": "https://vkuso.ru/recipe/xlebnaya-zakuska-zapechennaya-s-syrom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Хлебная закуска, запеченная с сыром",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/77/afa0408a9b70277_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "батон",
+                    "slug": "baton",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Смешать растопленное масло со специями и нашинкованным зеленым луком. Хлеб порезать на куски вдоль и поперек, но, не дорезая до корочки.",
+            "image": null
+        },
+        {
+            "text": "Вставить в надрезы тонкие пластинки сыра, аккуратно обернуть фольгой, поставить хлебную закуску в прогретую (до180 градусов) духовку на четверть часа. После этого времени фольгу развернуть, продолжить запекать еще минут 10.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Горячие закуски",
+            "slug": "goryachie-zakuski"
+        },
+        {
+            "name": "Закуски на скорую руку",
+            "slug": "zakuski-na-skoruyu-ruku"
+        }
+    ]
+}

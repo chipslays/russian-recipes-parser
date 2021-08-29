@@ -1,0 +1,151 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-iz-indejki-s-chernoslivom-i-orexami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат из индейки с черносливом и орехами",
+    "description": "Хороший вариант салата на завтрак. Блюдо нежное и аппетитное.",
+    "note": "Закуска должна постоять несколько часов, она может быть как самостоятельным блюдом, так и гарниром.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5e/828b3ce4e6df85e_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "индейка",
+                    "slug": "indeyka",
+                    "notes": null,
+                    "value": "550",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "210",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грецкие орехи",
+                    "slug": "greckie-orehi",
+                    "notes": null,
+                    "value": "120",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чернослив",
+                    "slug": "chernosliv",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Мясо индейки нарезать кусками, отварить до готовности, порубить на кусочки.",
+            "image": null
+        },
+        {
+            "text": "Отварить куриные яйца, остудить, нарезать кубиками.",
+            "image": null
+        },
+        {
+            "text": "Грецкие орехи очистить, поломать руками на кусочки.",
+            "image": null
+        },
+        {
+            "text": "Чернослив хорошо вымыть, залить кипятком на пятнадцать минут, отцедить и нарезать квадратиками.",
+            "image": null
+        },
+        {
+            "text": "Выложить мясо в салатницу, посолить, смазать майонезом, соль – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Сверху положить чернослив, яйца, полить майонезом.",
+            "image": null
+        },
+        {
+            "text": "Посыпать блюдо грецкими орехами, поставить в холодильник.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Легкий салат",
+            "slug": "legkiy-salat"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с грецкими орехами",
+            "slug": "salat-s-greckimi-orehami"
+        },
+        {
+            "name": "Салат с индейкой",
+            "slug": "salat-s-indeykoy"
+        },
+        {
+            "name": "Салат с орехами",
+            "slug": "salat-s-orehami"
+        },
+        {
+            "name": "Салат с черносливом и грецкими орехами",
+            "slug": "salat-s-chernoslivom-i-greckimi-orehami"
+        },
+        {
+            "name": "салаты",
+            "slug": "salaty"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты с мясом",
+            "slug": "salaty-s-myasom"
+        },
+        {
+            "name": "Салаты с черносливом",
+            "slug": "salaty-s-chernoslivom"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

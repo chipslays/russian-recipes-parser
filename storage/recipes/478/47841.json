@@ -1,0 +1,135 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-s-pechenymi-baklazhanami-i-greckimi-orexami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат с печеными баклажанами и грецкими орехами",
+    "description": "Сытный салат, быстро утоляет чувство голода.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/3d/2060a8a45a52d3d_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "баклажаны",
+                    "slug": "baklajany",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "зубчик",
+                    "amount": null
+                },
+                {
+                    "name": "грецкие орехи",
+                    "slug": "greckie-orehi",
+                    "notes": null,
+                    "value": "1",
+                    "type": "горсть",
+                    "amount": null
+                },
+                {
+                    "name": "йогурт натуральный",
+                    "slug": "yogurt-naturalniy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Баклажан очистить от кожуры, мякоть нарезать кубиками небольшого размера.",
+            "image": null
+        },
+        {
+            "text": "Выложить овощ на противень в один слой, прогреть в духовом шкафу в течение 15 минут, остудить.",
+            "image": null
+        },
+        {
+            "text": "Измельчить очищенные грецкие орехи, пропустить через пресс чеснок, порубить зелень.",
+            "image": null
+        },
+        {
+            "text": "Все ингредиенты перемешать, заправить натуральным несладким йогуртом, посолить по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Салат выложить на блюдо горкой, украсить листочками свежей зелени.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетические салаты",
+            "slug": "dieticheskie-salaty"
+        },
+        {
+            "name": "Овощные салаты",
+            "slug": "ovoschnye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат с грецкими орехами",
+            "slug": "salat-s-greckimi-orehami"
+        },
+        {
+            "name": "Салат с орехами",
+            "slug": "salat-s-orehami"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты на скорую руку",
+            "slug": "salaty-na-skoruyu-ruku"
+        },
+        {
+            "name": "Салаты с баклажанами",
+            "slug": "salaty-s-baklajanami"
+        }
+    ]
+}

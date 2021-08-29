@@ -1,0 +1,184 @@
+{
+    "source": "https://vkuso.ru/recipe/postnye-pampushki-s-chesnochnoj-pripravoj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Постные пампушки с чесночной приправой",
+    "description": "В дни поста выручит такой рецепт пампушек, готовят из без яиц и молока. Подавать можно не только с борщом, но и с другими первыми блюдами.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/3a/1acc1db9ab38a3a_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/WMnoF8fsE8c?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "600",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для приправы",
+            "list": [
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Подогреть полстакана воды, размешать в нем 1 ст. л. сахара, добавить дрожжи, перемешать еще раз, дать постоять четверть часа.",
+            "image": null
+        },
+        {
+            "text": "В подходящую миску просеять 600 г муки, влить «ожившие» дрожжи, чуть посолить, добавить 1 ч. л. сахара, хорошо перемешать.",
+            "image": null
+        },
+        {
+            "text": "Добавить 370 мл слегка подогретой воды, влить 2 ст. л. масла, вымесить упругое тесто до гладкого состояния.",
+            "image": null
+        },
+        {
+            "text": "Поставить в теплое место, через час его обмять, дать опять подняться.",
+            "image": null
+        },
+        {
+            "text": "Через час скатать из него шарики.",
+            "image": null
+        },
+        {
+            "text": "Форму смазать маслом, выстлать пищевой пленкой, уложить кусочки теста, оставить на 40 минут на расстойку.",
+            "image": null
+        },
+        {
+            "text": "За это время прогреть духовку до 180 градусов.",
+            "image": null
+        },
+        {
+            "text": "Поместить постные пампушки с чесночной приправой примерно на полчаса в духовку.",
+            "image": null
+        },
+        {
+            "text": "Из растертого чеснока и рубленого укропа приготовить душистую приправу, разведя смесь маслом.",
+            "image": null
+        },
+        {
+            "text": "Готовые пышные пампушки смазать ароматной массой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Булочки",
+            "slug": "bulochki"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка с зеленью",
+            "slug": "vypechka-s-zelenyu"
+        },
+        {
+            "name": "Дрожжевые булочки",
+            "slug": "drojjevye-bulochki"
+        },
+        {
+            "name": "Пампушки",
+            "slug": "pampushki"
+        },
+        {
+            "name": "Пампушки с чесноком",
+            "slug": "pampushki-s-chesnokom"
+        },
+        {
+            "name": "Постная выпечка",
+            "slug": "postnaya-vypechka"
+        },
+        {
+            "name": "Постные булочки",
+            "slug": "postnye-bulochki"
+        }
+    ]
+}

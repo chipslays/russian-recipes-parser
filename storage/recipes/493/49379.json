@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/rulet-s-chernoslivom-i-yablokami-v-duxovke/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Рулет с черносливом и яблоками в духовке",
+    "description": "Классическое блюдо для домашнего застолья.",
+    "note": "Рулет можно приготовить и с другими начинками, яблоки заменить на груши и маковое семя, орехи.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/01/03c2ecd7f319a01_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "чернослив без косточек",
+                    "slug": "chernosliv-bez-kostochek",
+                    "notes": null,
+                    "value": "15",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "ванилин",
+                    "slug": "vanilin",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "корица молотая",
+                    "slug": "korica-molotaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": " (для посыпки)",
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Яблоки очистить от кожуры и семечек и нарезать кубиками, чернослив – на четыре части.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/f2/85e3ca34134b6f2_434x295.jpg"
+        },
+        {
+            "text": "Желтки отделить от белков, добавить в них просеянную пшеничную муку, ванилин, разрыхлитель, растительное масло, ингредиенты перемешать.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/9d/5aac74fe8a35e9d_434x295.jpg"
+        },
+        {
+            "text": "Белки также взбить с сахаром в пышную массу.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/8e/c880fa165bcfd8e_434x295.jpg"
+        },
+        {
+            "text": "Перемешать обе смеси, тесто должно получиться пышным и жидковатым.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/cf/6be596acc3c60cf_434x295.jpg"
+        },
+        {
+            "text": "Застелить противень бумагой для выпекания, смазать растительным маслом. Выложить чернослив и яблоки, посыпать молотой корицей.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/1e/6a801574df6a01e_434x295.jpg"
+        },
+        {
+            "text": "Залить все тестом, печь при температуре 20 – 25 минут при температуре 180 градусов.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/d7/12a23adc2fcbcd7_434x295.jpg"
+        },
+        {
+            "text": "Горячий корж свернуть в рулет, остудить и посыпать сахарной пудрой, а затем нарезать.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/ac/6efee985605b8ac_434x295.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Бисквитный рулет",
+            "slug": "biskvitniy-rulet"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Рулеты",
+            "slug": "rulety"
+        },
+        {
+            "name": "Рулеты из теста",
+            "slug": "rulety-iz-testa"
+        },
+        {
+            "name": "Сладкий рулет",
+            "slug": "sladkiy-rulet"
+        }
+    ]
+}

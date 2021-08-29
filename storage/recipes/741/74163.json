@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/yablochno-apelsinovyj-kompot-s-vinom/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Яблочно-апельсиновый компот с вином",
+    "description": null,
+    "note": "Перед подачей к столу компот хорошо охладить.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/46/b74235fb398cb46_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "апельсины",
+                    "slug": "apelsiny",
+                    "notes": null,
+                    "value": "750",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "750",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вино",
+                    "slug": "vino",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Вымыть апельсины, удалить шкурку.",
+            "image": null
+        },
+        {
+            "text": "Тонко порезать на кружочки.",
+            "image": null
+        },
+        {
+            "text": "Закипятить в кастрюле воду с сахаром.",
+            "image": null
+        },
+        {
+            "text": "Положить в сироп очищенные яблоки.",
+            "image": null
+        },
+        {
+            "text": "Варить до готовности.",
+            "image": null
+        },
+        {
+            "text": "Достать, немного остудить, порезать кружочками.",
+            "image": null
+        },
+        {
+            "text": "Фрукты разложить по стаканам.",
+            "image": null
+        },
+        {
+            "text": "Влить сироп.",
+            "image": null
+        },
+        {
+            "text": "Добавить в компот чуть-чуть вина.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Алкогольные напитки",
+            "slug": "alkogolnye-napitki"
+        },
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Домашний компот",
+            "slug": "domashniy-kompot"
+        },
+        {
+            "name": "Компот из апельсинов",
+            "slug": "kompot-iz-apelsinov"
+        },
+        {
+            "name": "Компот из яблок",
+            "slug": "kompot-iz-yablok"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Фруктовые напитки",
+            "slug": "fruktovye-napitki"
+        }
+    ]
+}

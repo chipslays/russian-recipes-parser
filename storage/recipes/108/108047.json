@@ -1,0 +1,223 @@
+{
+    "source": "https://vkuso.ru/recipe/108047-salat-gnezdo-gluxarya-s-gribami-i-syrom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Гнездо глухаря» с грибами и сыром",
+    "description": "Оригинальное, яркое блюдо, которое непременно привлечет внимание гостей.",
+    "note": "«Гнездо» обложить по краю листовым салатом.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b5/6bb09ffe8623db5_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/AQMBNJB8Irs?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "350",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "куриная грудка",
+                    "slug": "kurinaya-grudka",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр тертый",
+                    "slug": "syr-tertiy",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "150",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Яйца отварить, белки натереть.",
+            "image": null
+        },
+        {
+            "text": "Шампиньоны очистить и нарезать, обжарить до румянца, перемешать с белками.",
+            "image": null
+        },
+        {
+            "text": "Куриное мясо отварить, остудить и нарезать кубиками, перемешать с рубленым зеленым луком.",
+            "image": null
+        },
+        {
+            "text": "Часть зелени оставить для украшения.",
+            "image": null
+        },
+        {
+            "text": "Продукты выложить в салатницу, перемешать с майонезом.",
+            "image": null
+        },
+        {
+            "text": "Отваренные желтки перемешать с луком и майонезом.",
+            "image": null
+        },
+        {
+            "text": "Картофель очистить, нарезать соломкой, обжарить во фритюре.",
+            "image": null
+        },
+        {
+            "text": "Выложить на бумажные салфетки для впитывания жира.",
+            "image": null
+        },
+        {
+            "text": "Закуску выложить на сервировочную тарелку, сформовать углубление в центре.",
+            "image": null
+        },
+        {
+            "text": "Вокруг выложить брусочки картофеля, посыпать рубленой зеленью.",
+            "image": null
+        },
+        {
+            "text": "Сформовать из желтковой массы яйца, наполнить ими углубление в центре.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат с грибами",
+            "slug": "salat-s-gribami"
+        },
+        {
+            "name": "Салат с грибами и сыром",
+            "slug": "salat-s-gribami-i-syrom"
+        },
+        {
+            "name": "Салат с картофелем",
+            "slug": "salat-s-kartofelem"
+        },
+        {
+            "name": "Салат с куриной грудкой",
+            "slug": "salat-s-kurinoy-grudkoy"
+        },
+        {
+            "name": "Салат с куриной грудкой и сыром",
+            "slug": "salat-s-kurinoy-grudkoy-i-syrom"
+        },
+        {
+            "name": "Салат с курицей",
+            "slug": "salat-s-kuricey"
+        },
+        {
+            "name": "Салат с курицей и грибами",
+            "slug": "salat-s-kuricey-i-gribami"
+        },
+        {
+            "name": "Салат с курицей и овощами",
+            "slug": "salat-s-kuricey-i-ovoschami"
+        },
+        {
+            "name": "Салат с курицей и сыром",
+            "slug": "salat-s-kuricey-i-syrom"
+        },
+        {
+            "name": "Салат с курицей и шампиньонами",
+            "slug": "salat-s-kuricey-i-shampinonami"
+        },
+        {
+            "name": "Салат с курицей и яйцом",
+            "slug": "salat-s-kuricey-i-yaycom"
+        },
+        {
+            "name": "Салат с курицей, грибами и сыром",
+            "slug": "salat-s-kuricey-gribami-i-syrom"
+        },
+        {
+            "name": "Салат с курицей, грибами, яйцами и сыром",
+            "slug": "salat-s-kuricey-gribami-yaycami-i-syrom"
+        },
+        {
+            "name": "Салат с курицей, сыром и яйцом",
+            "slug": "salat-s-kuricey-syrom-i-yaycom"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с шампиньонами",
+            "slug": "salat-s-shampinonami"
+        },
+        {
+            "name": "Салат с яйцом и сыром",
+            "slug": "salat-s-yaycom-i-syrom"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "source": "https://vkuso.ru/recipe/105608-tvorozhnaya-zapekanka-s-ezhevikoj-i-smetanoj/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Творожная запеканка с ежевикой и сметаной",
+    "description": "Очень вкусная запеканка из творога, которая легко и быстро приготовить, если вы не любите творог по этому рецепту он точно придет вам по душе.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/52/69cf3095d302152_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/SHlrWQYf3cA?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 8 порции",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "600",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца куриные",
+                    "slug": "yayca-kurinye",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ванилин",
+                    "slug": "vanilin",
+                    "notes": null,
+                    "value": "3",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кукурузный крахмал",
+                    "slug": "kukuruzniy-krahmal",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ягоды свежие",
+                    "slug": "yagody-svejie",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для крема",
+            "list": [
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Смешать творог, сметану, яйца, сахар кукурузный крахмал соль и ванилин до однородности и перелить в форму для выпекания 20 см диаметром,отправляем в разогретую духовку до 180 градусов на 50 минут.",
+            "image": null
+        },
+        {
+            "text": "После выпекания оставляем в форме до полного остывания.",
+            "image": null
+        },
+        {
+            "text": "Для крема смешаем сметану и сахарную пудру до однородности.",
+            "image": "https://vkuso.ru/data/cache/data/44/2a342b3e54b6444_434x295_notrise.jpg"
+        },
+        {
+            "text": "После того как запеканка остыла покрываем сметанным кремом и украшаем ягодой.",
+            "image": "https://vkuso.ru/data/cache/data/6b/5c168cadf977b6b_434x295_notrise.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Запеканки",
+            "slug": "zapekanki"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сладкие запеканки",
+            "slug": "sladkie-zapekanki"
+        },
+        {
+            "name": "Творожная запеканка",
+            "slug": "tvorojnaya-zapekanka"
+        },
+        {
+            "name": "Творожная запеканка без манки",
+            "slug": "tvorojnaya-zapekanka-bez-manki"
+        },
+        {
+            "name": "Творожная запеканка в духовке",
+            "slug": "tvorojnaya-zapekanka-v-duhovke"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        }
+    ]
+}

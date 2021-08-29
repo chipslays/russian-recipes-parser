@@ -1,0 +1,163 @@
+{
+    "source": "https://vkuso.ru/recipe/spagetti-s-krevetkami-gribami-i-pomidorami/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Спагетти с креветками, грибами и помидорами",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/dc/0bb2fd323f014dc_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "вино белое",
+                    "slug": "vino-beloe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "креветки",
+                    "slug": "krevetki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "спагетти",
+                    "slug": "spagetti",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "грибы",
+                    "slug": "griby",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления креветочно-грибного соуса распустить масло, спассировать на нем кусочки лука, добавить креветки или раковые шейки, любые (только не вешенку) нарезанные грибы, перемешать, обжарить все вместе. Влить в сковороду вино, уварить примерно до половины, чтобы соус стал густым, теперь добавить сливки, сдобрить перцем-солью.",
+            "image": null
+        },
+        {
+            "text": "Последний штрих – положить порезанные на кусочки мясистые помидоры. Смешать соус с отварными спагетти, тушить спагетти с креветками и грибами еще около 5 минут, подавать блюдо принято горячим.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из макарон",
+            "slug": "vtorye-blyuda-iz-makaron"
+        },
+        {
+            "name": "Креветки с овощами",
+            "slug": "krevetki-s-ovoschami"
+        },
+        {
+            "name": "Макароны в духовке",
+            "slug": "makarony-v-duhovke"
+        },
+        {
+            "name": "Макароны с грибами",
+            "slug": "makarony-s-gribami"
+        },
+        {
+            "name": "Морепродукты с овощами",
+            "slug": "moreprodukty-s-ovoschami"
+        },
+        {
+            "name": "Паста с грибами",
+            "slug": "pasta-s-gribami"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Спагетти",
+            "slug": "spagetti"
+        },
+        {
+            "name": "Спагетти с креветками",
+            "slug": "spagetti-s-krevetkami"
+        },
+        {
+            "name": "Ужин из макарон",
+            "slug": "ujin-iz-makaron"
+        }
+    ]
+}

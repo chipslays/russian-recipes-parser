@@ -1,0 +1,216 @@
+{
+    "source": "https://vkuso.ru/recipe/lvovskij-syrnik-s-vyalenoj-klyukvoj/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Львовский сырник с вяленой клюквой",
+    "description": "Особый вкус придает запеканке шоколадный штрейзель, обволакивающий запеканку со всех сторон. Штрейзель – это сладкие крошки, которыми украшают выпечку перед приготовлением, они могут быть крупными, размером с горох, и мелкими, как мука.",
+    "note": "Запеканка должна постоять в течение 5 – 6 часов, за это время она станет плотной. В рецепте лимонную цедру можно заменить на апельсиновую, клюкву заменить на кокосовую стружку, орехи, мак, яблоки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f9/c1a5842edddfef9_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2/3",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "крахмал",
+                    "slug": "krahmal",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "клюква вяленая",
+                    "slug": "klyukva-vyalenaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для штрейзеля",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "80",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "2/3",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1/3",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "какао",
+                    "slug": "kakao",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Растереть в однородную массу творог, сахарный песок и яйца. Всыпать картофельный крахмал, тертую цедру лимона, перемешать. Добавить вяленую клюкву и снова перемешать. Натереть охлажденное сливочное масло на терке, добавить сахар и муку, массу перетереть руками в крошку. Всыпать какао-порошок, растереть.",
+            "image": null
+        },
+        {
+            "text": "Высыпать в форму для запекания половину шоколадного штрейзеля, затем – творог с яйцами, разровнять, накрыть второй половиной шоколадной массы. Печь сырник в течение 45 минут при температуре 190 градусов, выпечка должна подняться и отстать от стенок. Остудить львовский сырник, затем вынуть из формы.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка с ягодами",
+            "slug": "vypechka-s-yagodami"
+        },
+        {
+            "name": "Горячие блюда на день рождения",
+            "slug": "goryachie-blyuda-na-den-rojdeniya"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Запеканки",
+            "slug": "zapekanki"
+        },
+        {
+            "name": "Львовский сырник",
+            "slug": "lvovskiy-syrnik"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги с клюквой",
+            "slug": "pirogi-s-klyukvoy"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сладкие запеканки",
+            "slug": "sladkie-zapekanki"
+        },
+        {
+            "name": "Сырники в духовке",
+            "slug": "syrniki-v-duhovke"
+        },
+        {
+            "name": "Сырники запеченные",
+            "slug": "syrniki-zapechennye"
+        },
+        {
+            "name": "Творожная запеканка",
+            "slug": "tvorojnaya-zapekanka"
+        },
+        {
+            "name": "Творожная запеканка без манки",
+            "slug": "tvorojnaya-zapekanka-bez-manki"
+        },
+        {
+            "name": "Творожная запеканка в духовке",
+            "slug": "tvorojnaya-zapekanka-v-duhovke"
+        },
+        {
+            "name": "Творожная запеканка с мукой",
+            "slug": "tvorojnaya-zapekanka-s-mukoy"
+        },
+        {
+            "name": "Творожный пирог",
+            "slug": "tvorojniy-pirog"
+        }
+    ]
+}

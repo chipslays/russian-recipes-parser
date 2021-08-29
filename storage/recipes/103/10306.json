@@ -1,0 +1,207 @@
+{
+    "source": "https://vkuso.ru/recipe/oladushki-trio-iz-kuricy-kartofelya-i-gribov/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Оладушки «Трио» из курицы, картофеля и грибов",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b5/424093600d9fdb5_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "600",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "куриная грудка",
+                    "slug": "kurinaya-grudka",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый",
+                    "slug": "syr-plavleniy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "8",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Картофель отварить в мундире. Мелко покрошить лук. На сковородке нагреть растительное масло и обжарить лук до золотистого цвета. Порезать на некрупные кусочки грибы, выложить на сковородку к луку и жарить еще 5–7 минут.",
+            "image": null
+        },
+        {
+            "text": "Плавленый сыр потереть и добавить на сковородку к грибам с луком. Все перемешать и потушить в течение 15 минут на небольшом огне. Порезать куриную грудку на кусочки, добавить на сковородку к грибам и тушить 10 минут. Дать остыть курино-грибной массе, а потом ее вместе с картофелем прокрутить через мясорубку.",
+            "image": null
+        },
+        {
+            "text": "Для фарша на оладьи добавить остальные продукты, за исключением растительного масла, и вымесить тесто. Оладушки «Трио» из курицы, картофеля и грибов пожарить на сковородке с растительным маслом, выкладывая тесто столовой ложкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Картофельные котлеты",
+            "slug": "kartofelnye-kotlety"
+        },
+        {
+            "name": "Картофельные оладьи",
+            "slug": "kartofelnye-oladi"
+        },
+        {
+            "name": "Картошка с куриной грудкой",
+            "slug": "kartoshka-s-kurinoy-grudkoy"
+        },
+        {
+            "name": "Картошка с мясом и грибами",
+            "slug": "kartoshka-s-myasom-i-gribami"
+        },
+        {
+            "name": "Картошка с сыром",
+            "slug": "kartoshka-s-syrom"
+        },
+        {
+            "name": "Картошка с шампиньонами",
+            "slug": "kartoshka-s-shampinonami"
+        },
+        {
+            "name": "Котлеты с сыром",
+            "slug": "kotlety-s-syrom"
+        },
+        {
+            "name": "Куриная грудка с грибами",
+            "slug": "kurinaya-grudka-s-gribami"
+        },
+        {
+            "name": "Куриная грудка с шампиньонами",
+            "slug": "kurinaya-grudka-s-shampinonami"
+        },
+        {
+            "name": "Куриные котлеты",
+            "slug": "kurinye-kotlety"
+        },
+        {
+            "name": "Куриные оладьи",
+            "slug": "kurinye-oladi"
+        },
+        {
+            "name": "Курица с грибами",
+            "slug": "kurica-s-gribami"
+        },
+        {
+            "name": "Курица с картошкой",
+            "slug": "kurica-s-kartoshkoy"
+        },
+        {
+            "name": "Курица с шампиньонами",
+            "slug": "kurica-s-shampinonami"
+        },
+        {
+            "name": "Оладьи",
+            "slug": "oladi"
+        },
+        {
+            "name": "Оладьи с сыром",
+            "slug": "oladi-s-syrom"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из куриной грудки",
+            "slug": "ujin-iz-kurinoy-grudki"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

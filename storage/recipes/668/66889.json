@@ -1,0 +1,144 @@
+{
+    "source": "https://vkuso.ru/recipe/syrno-chesnochnye-rafaello-s-krabovymi-palochkami/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Сырно-чесночные «Рафаэлло» с крабовыми палочками",
+    "description": "Готовая закуска действительно похожа на известные конфеты. Сытное блюдо быстро и просто готовится.",
+    "note": "По желанию закуску можно оформить нарезанным свежим огурцом. Другие варианты для посыпки: нарезанный укроп, карри, икра унаги.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/22/d60800994242d22_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/ecUVLTFQ0tU?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "крабовые палочки",
+                    "slug": "krabovye-palochki",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый",
+                    "slug": "syr-plavleniy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        },
+        {
+            "name": "Для украшения",
+            "list": [
+                {
+                    "name": "листья салата",
+                    "slug": "listya-salata",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Замороженные крабовые палочки натереть на мелкой терке.",
+            "image": null
+        },
+        {
+            "text": "Отварить куриное яйцо и также натереть вместе с плавленым сыром, его лучше заранее охладить в морозильной камере в течение 15 минут.",
+            "image": null
+        },
+        {
+            "text": "Перемешать половину нормы крабовых палочек, сыр и яйцо, добавить давленый чеснок, майонез.",
+            "image": null
+        },
+        {
+            "text": "Перемешать и сформовать небольшие шарики, это лучше делать мокрыми руками.",
+            "image": null
+        },
+        {
+            "text": "Обвалять в оставшейся крабовой стружке и выложить на блюдо. Тарелку можно выложить листьями зеленого салата.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Закуски для фуршета",
+            "slug": "zakuski-dlya-fursheta"
+        },
+        {
+            "name": "Закуски из крабовых палочек",
+            "slug": "zakuski-iz-krabovyh-palochek"
+        },
+        {
+            "name": "Закуски из сыра",
+            "slug": "zakuski-iz-syra"
+        },
+        {
+            "name": "Закуски на день рождения",
+            "slug": "zakuski-na-den-rojdeniya"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Сырные шарики",
+            "slug": "syrnye-shariki"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        }
+    ]
+}

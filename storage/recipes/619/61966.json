@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/neobychnyj-varenyj-omlet-v-pakete/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Необычный вареный омлет в пакете",
+    "description": null,
+    "note": "В омлет можно положить колбасу или ветчину.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/35/40cc437b6739135_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "&frac23;",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Взбить яйца, налить молоко, посыпать солью.",
+            "image": null
+        },
+        {
+            "text": "Чуть-чуть взбить.",
+            "image": null
+        },
+        {
+            "text": "Вылить смесь в полиэтиленовый пакет, завязать.",
+            "image": null
+        },
+        {
+            "text": "Опустить на 30 минут в кипящую воду. Получается нежный омлет.",
+            "image": null
+        },
+        {
+            "text": "Если завязать пакет свободно, то получается пористый и воздушный омлет.",
+            "image": null
+        },
+        {
+            "text": "Если завязать пакет плотно, то омлет будет плотный.",
+            "image": null
+        },
+        {
+            "text": "Положить омлет на тарелку, добавить сливочное масло.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блюда из яиц",
+            "slug": "blyuda-iz-yaic"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Омлет",
+            "slug": "omlet"
+        },
+        {
+            "name": "Омлет в пакете сваренный в кастрюле",
+            "slug": "omlet-v-pakete-svarenniy-v-kastryule"
+        },
+        {
+            "name": "Омлет на завтрак",
+            "slug": "omlet-na-zavtrak"
+        },
+        {
+            "name": "Омлет с молоком",
+            "slug": "omlet-s-molokom"
+        }
+    ]
+}

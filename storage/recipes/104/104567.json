@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/104567-granita-s-apelsinovym-i-limonnym-sokom-medom-i-myatoj/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Гранита с апельсиновым и лимонным соком, медом и мятой",
+    "description": "Гранита или просто колотый фруктовый лед является сицилийским десертом. Разновидность шербета, но имеет более плотную структуру.",
+    "note": null,
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/fb/2626869a3f7ecfb_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "40 минут",
+    "preparetime": "4 часа",
+    "video": "https://www.youtube.com/embed/xkPACBu00Fk?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "апельсиновый сок",
+                    "slug": "apelsinoviy-sok",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мята",
+                    "slug": "myata",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сварить сироп: смешав 200 мл воды с сахаром, довести до кипения и добавить мяту.",
+            "image": null
+        },
+        {
+            "text": "Через 5 минут влить оставшуюся воду, довести до кипения и слить сок лимона с апельсином.",
+            "image": null
+        },
+        {
+            "text": "Процедить, добавить мед и остудить до комнатной температуры.",
+            "image": null
+        },
+        {
+            "text": "Поставить смесь в морозилку на 3-4 часа. Один раз в процессе заморозки, достать и размешать вилкой.",
+            "image": null
+        },
+        {
+            "text": "Перед подачей граниту измельчить вилкой до состояния крупинок.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Домашнее мороженое",
+            "slug": "domashnee-morojenoe"
+        },
+        {
+            "name": "Заморозка",
+            "slug": "zamorozka"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Фруктовый лед",
+            "slug": "fruktoviy-led"
+        }
+    ]
+}

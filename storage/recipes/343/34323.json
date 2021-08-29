@@ -1,0 +1,83 @@
+{
+    "source": "https://vkuso.ru/recipe/bystryj-goryachij-shokolad-so-slivkami/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Быстрый горячий шоколад со сливками",
+    "description": null,
+    "note": "По желанию напиток украсить шоколадной стружкой и взбитыми сливками.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/03/5068402c106c203_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад",
+                    "slug": "shokolad",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "шоколадная стружка",
+                    "slug": "shokoladnaya-strujka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сливки взбитые",
+                    "slug": "slivki-vzbitye",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Поломать на кусочки шоколад, добавить сахарный песок, влить молоко, прогревать на среднем огне, помешивать. Смесь почти довести до кипения, она должна стать однородной. Подать горячей.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Горячий шоколад",
+            "slug": "goryachiy-shokolad"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "Напитки для детей",
+            "slug": "napitki-dlya-detey"
+        }
+    ]
+}

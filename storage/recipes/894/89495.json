@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/89495-blinnyj-salat-s-govyadinoj-i-ogurcom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Блинный салат с говядиной и огурцом",
+    "description": "Существует большое количество вариантов этой закуски, предлагаемый готовится с отваренной говядиной.",
+    "note": "Готовый салат можно посыпать рубленой зеленью кинзы, укропа, петрушки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ec/d357d8ba13a3fec_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "2 часа",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "говядина",
+                    "slug": "govyadina",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "крахмал",
+                    "slug": "krahmal",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить мясо в подсоленной воде до готовности.",
+            "image": null
+        },
+        {
+            "text": "Перемешать молоко с крахмалом и яйцом.",
+            "image": null
+        },
+        {
+            "text": "Взбить венчиком, испечь блины.",
+            "image": null
+        },
+        {
+            "text": "Говядину и блины нарезать тонкими брусками или соломкой.",
+            "image": null
+        },
+        {
+            "text": "Свежий огурец также порезать на брусочки.",
+            "image": null
+        },
+        {
+            "text": "Продукты перемешать, заправить по вкусу майонезом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блинный салат",
+            "slug": "blinniy-salat"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с говядиной",
+            "slug": "salat-s-govyadinoy"
+        },
+        {
+            "name": "Салат с говядиной и огурцами",
+            "slug": "salat-s-govyadinoy-i-ogurcami"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты с мясом",
+            "slug": "salaty-s-myasom"
+        }
+    ]
+}

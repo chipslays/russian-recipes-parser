@@ -1,0 +1,326 @@
+{
+    "source": "https://vkuso.ru/recipe/zharenaya-kurochka-s-pastoj-penne-i-sousom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Жареная курочка с пастой пенне и соусом",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/29/ecc9471f2079129_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "курица",
+                    "slug": "kurica",
+                    "notes": null,
+                    "value": "1.8",
+                    "type": "кг",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для маринада",
+            "list": [
+                {
+                    "name": "вода газированная",
+                    "slug": "voda-gazirovannaya",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "уксус бальзамический белый",
+                    "slug": "uksus-balzamicheskiy-beliy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный горошком",
+                    "slug": "perec-cherniy-goroshkom",
+                    "notes": null,
+                    "value": "10",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": "4-5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для чесночного соуса",
+            "list": [
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для пасты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "480",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "паста пенне",
+                    "slug": "pasta-penne",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр чеддер",
+                    "slug": "syr-chedder",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки 10%",
+                    "slug": "slivki-10",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "горчичный порошок",
+                    "slug": "gorchichniy-poroshok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сделать маринад: налить в кастрюльку воду, насыпать сахар, соль, добавить уксус, перец горошком, лавровый лист. Довести до кипения, убрать с огня, охладить. Налить минеральную воду. Размешать.",
+            "image": null
+        },
+        {
+            "text": "Вымыть курицу, по хребту разделить пополам, положить в маринад. На мясо положить тарелочку, чтобы курица утонула в маринаде. Убрать кастрюльку с маринадом часов на двенадцать в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Положить замаринованную курицу в формочку, налить несколько больших ложек маринада. Накрыть сверху крышкой или фольгой, готовить в духовке минут двадцать, соблюдать температуру 200 градусов. Убрать фольгу или крышку, готовить еще минут двадцать.",
+            "image": null
+        },
+        {
+            "text": "Пока мясо запекается, приготовить чесночный соус. Положить в емкость прессованный чеснок, добавить сок лимона, масло, перец, соль, измельченную петрушку. Налить воду, отставить, чтобы настоялся. Достать мясо, обильно намазать чесночным соусом. Пока готовится курица, заняться пастой.",
+            "image": null
+        },
+        {
+            "text": "Отварить пасту, как написано на упаковке, слить воду. Заняться соусом. В сотейнике с высокими бортиками соединить муку, молоко и сливочное масло. Подогреть на небольшом огне, непрерывно мешать, пока сливочное масло не растворится. Добавить в соус горчицу, сливки, перец, соль, крупно натертый сыр.",
+            "image": null
+        },
+        {
+            "text": "Перемешать, довести до кипения. Готовить минут пять до загустения. Положить пасту пенне в соус, размешать, прогреть равномерно. Жареную курочку с пастой пенне и соусом можно подавать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Вторые блюда из макарон",
+            "slug": "vtorye-blyuda-iz-makaron"
+        },
+        {
+            "name": "Жареная курица",
+            "slug": "jarenaya-kurica"
+        },
+        {
+            "name": "Курица в духовке",
+            "slug": "kurica-v-duhovke"
+        },
+        {
+            "name": "Курица с сыром",
+            "slug": "kurica-s-syrom"
+        },
+        {
+            "name": "Курица с чесноком в духовке",
+            "slug": "kurica-s-chesnokom-v-duhovke"
+        },
+        {
+            "name": "Макароны в сливочном соусе",
+            "slug": "makarony-v-slivochnom-souse"
+        },
+        {
+            "name": "Макароны с курицей в сливочном соусе",
+            "slug": "makarony-s-kuricey-v-slivochnom-souse"
+        },
+        {
+            "name": "Мясо с сыром",
+            "slug": "myaso-s-syrom"
+        },
+        {
+            "name": "Паста",
+            "slug": "pasta"
+        },
+        {
+            "name": "Паста с курицей",
+            "slug": "pasta-s-kuricey"
+        },
+        {
+            "name": "Сковорода",
+            "slug": "skovoroda"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из макарон",
+            "slug": "ujin-iz-makaron"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        }
+    ]
+}

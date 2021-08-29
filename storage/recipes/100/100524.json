@@ -1,0 +1,349 @@
+{
+    "source": "https://vkuso.ru/recipe/100524-lazanya-boloneze-s-myasnym-farshem-i-sousom-beshamel/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Лазанья болоньезе с мясным фаршем и соусом бешамель",
+    "description": "Посмотрите видео пошагового приготовления, следуйте пограмовке и процессам приготовления и у вас получится. Готовьте с нами легко и очень вкусные блюда. Подпишитесь на наш канал, чтобы не пропустить новые видео.",
+    "note": null,
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d7/fa87bea3db2aed7_660x440.jpeg",
+    "difficulty": "Средняя",
+    "cooktime": "2 часа",
+    "preparetime": "10 минут",
+    "video": "https://www.youtube.com/embed/9s0dEvdcxFA?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лук",
+                    "slug": "luk",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сельдерей",
+                    "slug": "selderey",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "бекон",
+                    "slug": "bekon",
+                    "notes": null,
+                    "value": "80",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "свино-говяжий фарш",
+                    "slug": "svino-govyajiy-farsh",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "бульон",
+                    "slug": "bulon",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "вино красное",
+                    "slug": "vino-krasnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры в собственном соку",
+                    "slug": "pomidory-v-sobstvennom-soku",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "2",
+                    "type": "щепотки",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "щепотки",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Болоньезе ",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "400",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "мускатный орех",
+                    "slug": "muskatniy-oreh",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Бешамель",
+            "list": [
+                {
+                    "name": "листы лазаньи",
+                    "slug": "listy-lazani",
+                    "notes": null,
+                    "value": "10",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр моцарелла",
+                    "slug": "syr-mocarella",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр пармезан",
+                    "slug": "syr-parmezan",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для начала приготовим соус Болоньезе. Для этого нам понадобиться разогреть масло в кастрюле, туда добавим лук,морковь, сельдерей, слегка обжарим, добавим бекон и фарш, также слегка обжарим.",
+            "image": null
+        },
+        {
+            "text": "Добавим вино, выпарим, после добавим бульон, соль, перец, затем добавим томаты в собственном соку.",
+            "image": null
+        },
+        {
+            "text": "Теперь оставим на час на среднем огне, периодически помешивая.",
+            "image": null
+        },
+        {
+            "text": "Добавим молоко к Болоньезе и еще 5-10 минут готовить.",
+            "image": null
+        },
+        {
+            "text": "Теперь все раскладываем в форму. На низ добавим болоньезе и накроем листами (варить листы необязательно).",
+            "image": null
+        },
+        {
+            "text": "Сверху выкладываем опять болоньезе, посыпаем моцарелла и пармезаном, поливаем соусом бешамель. И так делаем 2-3 слоя. Под конец можно залить соус бешамель и посыпать пармезаном.",
+            "image": null
+        },
+        {
+            "text": "И ставим в разогретую духовку до 180 градусов на 35-40 минут.",
+            "image": null
+        },
+        {
+            "text": "Перейдем к соусу бешамель. Для этого нужно растопить сливочное масло, добавим муку и в течение 2-х минут перемешивать.",
+            "image": null
+        },
+        {
+            "text": "После залить молоко и миксером или венчиком мешать до загустения.",
+            "image": null
+        },
+        {
+            "text": "После добавить мускатный орех и соль,перемешаем и оставим в сторонку.",
+            "image": null
+        },
+        {
+            "text": "Добавим молоко к Болоньезе и еще 5-10 минут готовить.",
+            "image": null
+        },
+        {
+            "text": "Теперь все раскладываем в форму. На низ добавим болоньезе и накроем листами (варить листы необязательно).",
+            "image": null
+        },
+        {
+            "text": "Сверху выкладываем опять болоньезе, посыпаем моцарелла и пармезаном, поливаем соусом бешамель. И так делаем 2-3 слоя.",
+            "image": null
+        },
+        {
+            "text": "Под конец можно залить соус бешамель и посыпать пармезаном. И ставим в разогретую духовку до 180 градусов на 35-40 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из макарон",
+            "slug": "vtorye-blyuda-iz-makaron"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Вторые блюда из фарша",
+            "slug": "vtorye-blyuda-iz-farsha"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Горячие блюда на день рождения",
+            "slug": "goryachie-blyuda-na-den-rojdeniya"
+        },
+        {
+            "name": "Горячие блюда на праздничный стол",
+            "slug": "goryachie-blyuda-na-prazdnichniy-stol"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Лазанья",
+            "slug": "lazanya"
+        },
+        {
+            "name": "Лазанья с фаршем",
+            "slug": "lazanya-s-farshem"
+        },
+        {
+            "name": "Макароны с мясом",
+            "slug": "makarony-s-myasom"
+        },
+        {
+            "name": "Макароны с соусом бешамель",
+            "slug": "makarony-s-sousom-beshamel"
+        },
+        {
+            "name": "Макароны с соусом болоньезе",
+            "slug": "makarony-s-sousom-boloneze"
+        },
+        {
+            "name": "Макароны с сыром",
+            "slug": "makarony-s-syrom"
+        },
+        {
+            "name": "Макароны с фаршем",
+            "slug": "makarony-s-farshem"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ужин из макарон",
+            "slug": "ujin-iz-makaron"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        }
+    ]
+}

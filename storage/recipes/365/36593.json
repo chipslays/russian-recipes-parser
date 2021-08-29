@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/prostoj-plov-s-kurinym-file/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Простой плов с куриным филе",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a6/776819958c17fa6_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "приправа для плова",
+                    "slug": "priprava-dlya-plova",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "5",
+                    "type": "зубчиков",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Разогреть в кастрюле оливковое масло, всыпать рис, перемешать. Залить массу кипящей водой, она должна полностью покрыть крупу, соль–по вкусу. Прогревать на тихом огне до полного испарения воды. Чеснок очистить, каждый зубчик разрезать пополам. Добавить в рис, перемешать, влить еще немного воды и готовить на медленном огне в течение 7–10 минут.",
+            "image": null
+        },
+        {
+            "text": "Нарезать небольшими кусочками филе курицы. Натереть очищенную морковь на крупной терке. Обжарить морковь и мясо на масле в течение 10 минут, затем потушить под крышкой еще пять минут. Выложить рис в миску, добавить курино-морковную смесь. ",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из риса",
+            "slug": "vtorye-blyuda-iz-risa"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Курица с овощами",
+            "slug": "kurica-s-ovoschami"
+        },
+        {
+            "name": "Плов",
+            "slug": "plov"
+        },
+        {
+            "name": "Плов с курицей",
+            "slug": "plov-s-kuricey"
+        },
+        {
+            "name": "Плов с мясом",
+            "slug": "plov-s-myasom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рис с курицей",
+            "slug": "ris-s-kuricey"
+        },
+        {
+            "name": "Рис с мясом",
+            "slug": "ris-s-myasom"
+        },
+        {
+            "name": "Ужин из куриного филе",
+            "slug": "ujin-iz-kurinogo-file"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

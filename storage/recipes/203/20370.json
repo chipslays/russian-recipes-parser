@@ -1,0 +1,139 @@
+{
+    "source": "https://vkuso.ru/recipe/fettuchini-s-kurinym-myasom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Феттучини с куриным мясом",
+    "description": "Фетучини – разновидность итальянской пасты - не очень широкие и плоские макароны.",
+    "note": "Если используете замороженный горошек, то предварительно, необходимо замочить его в кипятке минут на 5.",
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/79/b6ca66a3dc50379_660x440.jpeg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "паста фетучини",
+                    "slug": "pasta-fetuchini",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": "300",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "зеленый горошек свежий",
+                    "slug": "zeleniy-goroshek-svejiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Филе куриное порезать полосками и обжарить минуты 4-5 (до небольшой румяности), на оливковом масле. Лучше обжаривать порциями, чтобы они ложились на сковородку в один слой, а потом сложить вместе.",
+            "image": null
+        },
+        {
+            "text": "Натереть цедру лимона и выдавить сок (нужно 2 столовые ложки). Все мясо переложить на сковородку, добавить к нему измельченный чеснок, сок лимона, соль, цедру и перец, убавить огонь до минимума и готовить минут 10.",
+            "image": null
+        },
+        {
+            "text": "Влить к мясу сливки, прибавить огонь, тушить пока сливки не загустеют. Потом добавить горошек и феттучини, немного подогреть и убрать с огня. Феттучини с куриным мясом получается очень нежным и сытным.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Вторые блюда из макарон",
+            "slug": "vtorye-blyuda-iz-makaron"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Куриное филе в сливочном соусе",
+            "slug": "kurinoe-file-v-slivochnom-souse"
+        },
+        {
+            "name": "Курица в сливочном соусе",
+            "slug": "kurica-v-slivochnom-souse"
+        },
+        {
+            "name": "Макароны с курицей",
+            "slug": "makarony-s-kuricey"
+        },
+        {
+            "name": "Паста",
+            "slug": "pasta"
+        },
+        {
+            "name": "Паста с курицей",
+            "slug": "pasta-s-kuricey"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ужин из куриного филе",
+            "slug": "ujin-iz-kurinogo-file"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из макарон",
+            "slug": "ujin-iz-makaron"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

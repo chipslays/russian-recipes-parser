@@ -1,0 +1,179 @@
+{
+    "source": "https://vkuso.ru/recipe/buterbrod-kapreze-na-grile/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Бутерброд «Капрезе» на гриле",
+    "description": "Фуршетная закуска, родом с итальянского острова, чем и объясняется её название, дословный перевод: «житель острова Капри». Капрезе – это салат в цветах итальянского флага: красные помидоры, белый сыр «Моцарелла», зеленый базилик. Кулинары придумали, как использовать его и в других видах закусок.",
+    "note": "Подать с овощной нарезкой из помидоров, свежих огурцов, зелени. В оливковое масло добавить рубленый базилик. С помидоров лучше снять кожицу, предварительно ошпарив, лучше использовать крупные мясистые сорта.",
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/59/5c6a4669c454e59_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр моцарелла",
+                    "slug": "syr-mocarella",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб",
+                    "slug": "hleb",
+                    "notes": null,
+                    "value": "4",
+                    "type": "куска",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соус песто",
+                    "slug": "sous-pesto",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Обжарить ломтики хлеба, выложить на него кружочки помидоров, сыр «Моцарелла», соус «Песто». Поперчить и сбрызнуть оливковым маслом, закрыть вторым куском хлеба.",
+            "image": null
+        },
+        {
+            "text": "Жарить на гриле до образования золотистой корочки и до расплавления сыра, по 2 – 3 минуты с каждой стороны.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды на день рождения",
+            "slug": "buterbrody-na-den-rojdeniya"
+        },
+        {
+            "name": "Бутерброды на Новый год",
+            "slug": "buterbrody-na-noviy-god"
+        },
+        {
+            "name": "Бутерброды на праздничный стол",
+            "slug": "buterbrody-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Бутерброды на скорую руку",
+            "slug": "buterbrody-na-skoruyu-ruku"
+        },
+        {
+            "name": "Бутерброды с помидорами",
+            "slug": "buterbrody-s-pomidorami"
+        },
+        {
+            "name": "Бутерброды с помидорами и сыром",
+            "slug": "buterbrody-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Горячие бутерброды",
+            "slug": "goryachie-buterbrody"
+        },
+        {
+            "name": "Горячие бутерброды на сковороде",
+            "slug": "goryachie-buterbrody-na-skovorode"
+        },
+        {
+            "name": "Горячие бутерброды с помидорами и сыром",
+            "slug": "goryachie-buterbrody-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Горячие бутерброды с сыром",
+            "slug": "goryachie-buterbrody-s-syrom"
+        },
+        {
+            "name": "Горячие закуски",
+            "slug": "goryachie-zakuski"
+        },
+        {
+            "name": "Гриль и барбекю",
+            "slug": "gril-i-barbekyu"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Закрытые бутерброды",
+            "slug": "zakrytye-buterbrody"
+        },
+        {
+            "name": "Закуски на день рождения",
+            "slug": "zakuski-na-den-rojdeniya"
+        },
+        {
+            "name": "Новогодние закуски",
+            "slug": "novogodnie-zakuski"
+        },
+        {
+            "name": "Помидоры с моцареллой",
+            "slug": "pomidory-s-mocarelloy"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

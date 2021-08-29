@@ -1,0 +1,143 @@
+{
+    "source": "https://vkuso.ru/recipe/syrnyj-sup-s-kurinym-file-i-shampinonami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Сырный суп с куриным филе и шампиньонами",
+    "description": "Суп с изысканным вкусом и восточными нотками, «связующим звеном» которого является плавленый сыр.",
+    "note": "Подать блюдо с нарубленным укропом и сухариками. Сухарики можно купить готовые или приготовить самостоятельно (домашние – предпочтительнее). Для этого нарезать кубками или соломкой черствый белый батон, подсушить на сухой или смазанной растительным маслом сковороде.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b5/c1ab4780a4f0bb5_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый",
+                    "slug": "syr-plavleniy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный горошком",
+                    "slug": "perec-cherniy-goroshkom",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сварить бульон из куриного филе. Остудить, вынуть мясо и нарезать. Шампиньоны нарезать пластинками, порубить лук-репку. Натереть морковь. Лук и морковь пассеровать на растительном масле, грибы обжарить отдельно.",
+            "image": null
+        },
+        {
+            "text": "Нарезать кубиками картофель, добавить в куриный бульон, варить до готовности, соль по вкусу в конце варки. Добавить морковно-луковую обжарку, грибы, тертые на крупной терке плавленые сырки, перец. Прогревать сырный суп с куриным филе и шампиньонами 10–12 минут до полного растворения сыра, помешивать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Картошка с шампиньонами",
+            "slug": "kartoshka-s-shampinonami"
+        },
+        {
+            "name": "Куриное филе с шампиньонами",
+            "slug": "kurinoe-file-s-shampinonami"
+        },
+        {
+            "name": "Курица с грибами",
+            "slug": "kurica-s-gribami"
+        },
+        {
+            "name": "Курица с шампиньонами",
+            "slug": "kurica-s-shampinonami"
+        },
+        {
+            "name": "Суп из шампиньонов",
+            "slug": "sup-iz-shampinonov"
+        },
+        {
+            "name": "Суп с курицей и плавленным сыром",
+            "slug": "sup-s-kuricey-i-plavlennym-syrom"
+        },
+        {
+            "name": "Суп с плавленым сыром",
+            "slug": "sup-s-plavlenym-syrom"
+        },
+        {
+            "name": "Сырный суп",
+            "slug": "syrniy-sup"
+        },
+        {
+            "name": "Сырный суп с грибами",
+            "slug": "syrniy-sup-s-gribami"
+        }
+    ]
+}

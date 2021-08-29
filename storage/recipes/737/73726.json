@@ -1,0 +1,163 @@
+{
+    "source": "https://vkuso.ru/recipe/myasnye-galushki-po-poltavski/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Мясные галушки «По-полтавски»",
+    "description": null,
+    "note": "Можно приготовить их и на пару, перед подачей смазать растопленным маслом.",
+    "cuisine": "Украинская кухня",
+    "cuisine_slug": "ukrainskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5c/22e111f0c35545c_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "600",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "свинина",
+                    "slug": "svinina",
+                    "notes": " (фарш)",
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "350",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "на кончике  ножа",
+                    "type": "",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Из кефира, муки, яйца с добавлением соли и соды замесить тесто, дать полежать примерно час.",
+            "image": null
+        },
+        {
+            "text": "Нашинковать лук, обжарить до изменения цвета.",
+            "image": null
+        },
+        {
+            "text": "Добавить фарш.",
+            "image": null
+        },
+        {
+            "text": "Жарить до полуготовности.",
+            "image": null
+        },
+        {
+            "text": "Приправить специями, подсолить, поперчить, размешать, убрать с плиты, дать остыть.",
+            "image": null
+        },
+        {
+            "text": "Из теста раскатать маленькие сочни, положить по центру немного фарша, поднять края вверх, тщательно защипать.",
+            "image": null
+        },
+        {
+            "text": "Отварить мясные галушки «По-полтавски».",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Вторые блюда из свинины",
+            "slug": "vtorye-blyuda-iz-svininy"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Галушки",
+            "slug": "galushki"
+        },
+        {
+            "name": "Клецки",
+            "slug": "klecki"
+        },
+        {
+            "name": "Мучные блюда",
+            "slug": "muchnye-blyuda"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из свинины",
+            "slug": "ujin-iz-svininy"
+        },
+        {
+            "name": "Фаршированные блюда",
+            "slug": "farshirovannye-blyuda"
+        }
+    ]
+}

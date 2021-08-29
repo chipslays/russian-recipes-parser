@@ -1,0 +1,91 @@
+{
+    "source": "https://vkuso.ru/recipe/83950-varene-iz-abrikosov-i-persikov-s-apelsinami/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Варенье из абрикосов и персиков с апельсинами",
+    "description": "Ароматное лакомство для особых случаев.",
+    "note": "По желанию в варенье добавить ядрышки абрикосов.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c1/45780f6f1945ec1_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "3 часа 30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "абрикосы",
+                    "slug": "abrikosy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "персики",
+                    "slug": "persiki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "апельсины",
+                    "slug": "apelsiny",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Апельсины можно использовать вместе с цедрой, пропустить продукт через мясорубку.",
+            "image": null
+        },
+        {
+            "text": "Абрикосы разрезать пополам, часть плодов заменить персиками.",
+            "image": null
+        },
+        {
+            "text": "Приготовить сироп, массу варить до уменьшения в два раза.",
+            "image": null
+        },
+        {
+            "text": "Разлить в банки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Варенье",
+            "slug": "varene"
+        },
+        {
+            "name": "Варенье из абрикосов",
+            "slug": "varene-iz-abrikosov"
+        },
+        {
+            "name": "Варенье из апельсинов",
+            "slug": "varene-iz-apelsinov"
+        },
+        {
+            "name": "Варенье из персиков",
+            "slug": "varene-iz-persikov"
+        }
+    ]
+}

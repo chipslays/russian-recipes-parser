@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/krem-sup-iz-kabachkov-i-svekly/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Крем-суп из кабачков и свеклы",
+    "description": "Розовый суп, полезный для здоровья.",
+    "note": "По желанию для украшения блюда можно использовать консервированную фасоль.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/24/ec48dbedd6bf924_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "куриная грудка",
+                    "slug": "kurinaya-grudka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кабачки",
+                    "slug": "kabachki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "свекла",
+                    "slug": "svekla",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "фасоль белая",
+                    "slug": "fasol-belaya",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Свеклу отварить до полной готовности.",
+            "image": null
+        },
+        {
+            "text": "Куриные грудки варить в течение сорока минут. Куриную грудку вынуть из бульона.",
+            "image": null
+        },
+        {
+            "text": "Репчатый лук, морковь и картофель очистить, вымыть.",
+            "image": null
+        },
+        {
+            "text": "Морковь натереть, репчатый лук нарезать соломкой. Обжарить на масле до мягкости.",
+            "image": null
+        },
+        {
+            "text": "Кабачки и картофель нарезать соломкой. То и другое добавить в бульон, увеличить огонь, добавить обжарку, варить пятнадцать минут. Снять с огня.",
+            "image": null
+        },
+        {
+            "text": "Свеклу натереть в суп.",
+            "image": null
+        },
+        {
+            "text": "Перелить суп в чашу блендера, взбить, вернуть в кастрюлю. Довести до кипения.",
+            "image": null
+        },
+        {
+            "text": "Влить сливки. Еще раз довести до кипения, снять с огня, положить в каждую тарелку заранее отваренную белую фасоль, петрушку.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Крем-суп",
+            "slug": "krem-sup"
+        },
+        {
+            "name": "Куриный суп",
+            "slug": "kuriniy-sup"
+        },
+        {
+            "name": "Куриный суп-пюре",
+            "slug": "kuriniy-sup-pyure"
+        },
+        {
+            "name": "Суп из кабачков",
+            "slug": "sup-iz-kabachkov"
+        },
+        {
+            "name": "Суп с куриной грудкой",
+            "slug": "sup-s-kurinoy-grudkoy"
+        },
+        {
+            "name": "Суп со сливками",
+            "slug": "sup-so-slivkami"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Суп-пюре овощной",
+            "slug": "sup-pyure-ovoschnoy"
+        }
+    ]
+}

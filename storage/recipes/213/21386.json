@@ -1,0 +1,107 @@
+{
+    "source": "https://vkuso.ru/recipe/shokoladnyj-desert-brigadejro/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Шоколадный десерт «Бригадейро»",
+    "description": "Бригадейро – это бразильское лакомство, а точнее, шоколадные конфетки с начинкой. Всего 3 ингредиента, но получается очень вкусно.",
+    "note": null,
+    "cuisine": "Бразильская кухня",
+    "cuisine_slug": "brazilskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/32/fd8db3823cd8a32_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко сгущенное",
+                    "slug": "moloko-sguschennoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "какао",
+                    "slug": "kakao",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В кастрюле, на слабом огне (можно на водяной бане) перемешать какао, сгущенное молоко и сливочное масло. Варить, часто помешивая, пока смесь не загустеет (минут 7-10). Убрать с огня и дать остыть.",
+            "image": null
+        },
+        {
+            "text": "Сформировать из смеси маленькие шарики и обкатать их в разнообразных присыпках (кокосовой стружке, измельченных орехах, сахарной пудре или кондитерских посыпках). Шоколадный десерт «Бригадейро» готов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Десерт со сгущенкой",
+            "slug": "desert-so-sguschenkoy"
+        },
+        {
+            "name": "Домашние конфеты",
+            "slug": "domashnie-konfety"
+        },
+        {
+            "name": "Новогодние десерты",
+            "slug": "novogodnie-deserty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Шоколадные конфеты",
+            "slug": "shokoladnye-konfety"
+        },
+        {
+            "name": "Шоколадный десерт",
+            "slug": "shokoladniy-desert"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

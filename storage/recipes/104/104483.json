@@ -1,0 +1,195 @@
+{
+    "source": "https://vkuso.ru/recipe/104483-salat-s-rukkoloj-avokado-i-klubnikoj-v-souse-teriyaki/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат с рукколой, авокадо и клубникой в соусе терияки",
+    "description": "Спешим поделиться рецептом вкуснейшего салата с рукколой в соусе терияки, который в этом году стал моим фаворитом, ну это пока, может скоро найдется, что еще более вкусное.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/cb/8d8e1a10edb13cb_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "15 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/LWBACUVf48o?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "руккола",
+                    "slug": "rukkola",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр моцарелла",
+                    "slug": "syr-mocarella",
+                    "notes": " (в шариках)",
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соус терияки",
+                    "slug": "sous-teriyaki",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "авокадо",
+                    "slug": "avokado",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "клубника",
+                    "slug": "klubnika",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кедровые орехи",
+                    "slug": "kedrovye-orehi",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец душистый горошком",
+                    "slug": "perec-dushistiy-goroshkom",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Авокадо разрезать вынуть семечку, очистить от кожицы и нарезать дольками.",
+            "image": null
+        },
+        {
+            "text": "Рукколу вымыть, выложить на тарелку, добавить авокадо.",
+            "image": null
+        },
+        {
+            "text": "Клубнику очистить от хвостиков, разрезать пополам, отправить в тарелку.",
+            "image": null
+        },
+        {
+            "text": "Из пачки шариков моцарелла слить жидкость, шарики разрезать пополам, добавить в тарелку.",
+            "image": null
+        },
+        {
+            "text": "Полить соусом терияки.",
+            "image": null
+        },
+        {
+            "text": "Кедровые орешки отправить в сковороду и слегка обжарить, добавить в тарелку.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Легкий салат",
+            "slug": "legkiy-salat"
+        },
+        {
+            "name": "Овощные салаты",
+            "slug": "ovoschnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат с авокадо",
+            "slug": "salat-s-avokado"
+        },
+        {
+            "name": "Салат с авокадо и рукколой",
+            "slug": "salat-s-avokado-i-rukkoloy"
+        },
+        {
+            "name": "Салат с кедровыми орешками",
+            "slug": "salat-s-kedrovymi-oreshkami"
+        },
+        {
+            "name": "Салат с клубникой",
+            "slug": "salat-s-klubnikoy"
+        },
+        {
+            "name": "Салат с орехами",
+            "slug": "salat-s-orehami"
+        },
+        {
+            "name": "Салат с рукколой и кедровыми орешками",
+            "slug": "salat-s-rukkoloy-i-kedrovymi-oreshkami"
+        },
+        {
+            "name": "Салат с рукколой и сыром моцарелла",
+            "slug": "salat-s-rukkoloy-i-syrom-mocarella"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без майонеза на праздничный стол",
+            "slug": "salaty-bez-mayoneza-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты для пикника",
+            "slug": "salaty-dlya-piknika"
+        },
+        {
+            "name": "Салаты на скорую руку",
+            "slug": "salaty-na-skoruyu-ruku"
+        },
+        {
+            "name": "Салаты с рукколой",
+            "slug": "salaty-s-rukkoloy"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        },
+        {
+            "name": "Салаты с сыром моцарелла",
+            "slug": "salaty-s-syrom-mocarella"
+        },
+        {
+            "name": "Салаты с фруктами",
+            "slug": "salaty-s-fruktami"
+        },
+        {
+            "name": "Специальное питание",
+            "slug": "specialnoe-pitanie"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "source": "https://vkuso.ru/recipe/buterbrod-chernoe-beloe-s-syrom-i-kolbasoj/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Бутерброд «Черное-белое» с сыром и колбасой",
+    "description": "Другое название: «Инь – Ян». Закуска проста в приготовлении, вкус – интересный и необычный.",
+    "note": "По желанию готовый бутерброд украсить еще одной порцией зелени.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/28/87ae3e1479e3328_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/Is-tBNXtmnI?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "хлеб черный",
+                    "slug": "hleb-cherniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "хлеб белый",
+                    "slug": "hleb-beliy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "колбаса",
+                    "slug": "kolbasa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "На кусочек черного хлеба положить пластинку сыра, затем колбасу, нарезанный укроп, снова пластинку сыра, верхний слой – белый хлеб.",
+            "image": null
+        },
+        {
+            "text": "Прогреть сковороду, бутерброды можно готовить без масла. Выложить изделия, жарить до румяной корочки с двух сторон.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды в дорогу",
+            "slug": "buterbrody-v-dorogu"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды на природу",
+            "slug": "buterbrody-na-prirodu"
+        },
+        {
+            "name": "Бутерброды на скорую руку",
+            "slug": "buterbrody-na-skoruyu-ruku"
+        },
+        {
+            "name": "Бутерброды с колбасой",
+            "slug": "buterbrody-s-kolbasoy"
+        },
+        {
+            "name": "Бутерброды с колбасой и сыром",
+            "slug": "buterbrody-s-kolbasoy-i-syrom"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Бутерброды с черным хлебом",
+            "slug": "buterbrody-s-chernym-hlebom"
+        }
+    ]
+}

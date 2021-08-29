@@ -1,0 +1,95 @@
+{
+    "source": "https://vkuso.ru/recipe/kofejnyj-punsh-s-morozhenym-i-romom/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Кофейный пунш с мороженым и ромом",
+    "description": "Ароматный и вкусный кофейный пунш с мороженым и ромом легко можно приготовить дома.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/98/ac765b3c3f61998_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "15 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кофе",
+                    "slug": "kofe",
+                    "notes": null,
+                    "value": "150",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "мороженое ванильное",
+                    "slug": "morojenoe-vanilnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки взбитые",
+                    "slug": "slivki-vzbitye",
+                    "notes": null,
+                    "value": "20",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "ром ямайский",
+                    "slug": "rom-yamayskiy",
+                    "notes": null,
+                    "value": "20",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сварить кофе, охладить, всыпать сахар, перемешать, влить ром.",
+            "image": null
+        },
+        {
+            "text": "Разлить кофейный пунш с мороженым и ромом по бокалам, положить в каждый мороженое, оформить взбитыми сливками, сразу подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Алкогольные напитки",
+            "slug": "alkogolnye-napitki"
+        },
+        {
+            "name": "Кофе и кофейные напитки",
+            "slug": "kofe-i-kofeynye-napitki"
+        },
+        {
+            "name": "Кофе со сливками",
+            "slug": "kofe-so-slivkami"
+        },
+        {
+            "name": "Пунш",
+            "slug": "punsh"
+        }
+    ]
+}

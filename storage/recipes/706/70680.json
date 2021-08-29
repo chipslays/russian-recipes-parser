@@ -1,0 +1,79 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnee-slivovo-shokoladnoe-varene/",
+    "category": "Заготовки",
+    "category_slug": "zagotovki",
+    "title": "Домашнее сливово-шоколадное варенье",
+    "description": "Очень вкусная сладость, от которой невозможно оторваться.",
+    "note": "Варенье можно подать к чаю или другому ароматному горячему напитку, например, отвару из трав.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/19/c7016f2b1865c19_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/JbX3c55EiuI?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сливы",
+                    "slug": "slivy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "какао-порошок",
+                    "slug": "kakao-poroshok",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сливы измельчить при помощи блендера, можно использовать мясорубку.",
+            "image": null
+        },
+        {
+            "text": "Добавить половину нормы сахарного песка, поставить на плиту. Варить массу в течение 15 – 20 минут.",
+            "image": null
+        },
+        {
+            "text": "Остатки сахара перемешать с какао-порошком, всыпать смесь в сливовую массу, помешивать. Варить еще столько же.",
+            "image": null
+        },
+        {
+            "text": "Разлить в банки в горячем виде, закрутить крышками. Варенье лучше хранить в прохладе, открытый продукт использовать в течение недели.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Варенье",
+            "slug": "varene"
+        },
+        {
+            "name": "Варенье из сливы",
+            "slug": "varene-iz-slivy"
+        },
+        {
+            "name": "Другие десерты",
+            "slug": "drugie-deserty"
+        }
+    ]
+}

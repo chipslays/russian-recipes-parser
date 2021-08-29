@@ -1,0 +1,324 @@
+{
+    "source": "https://vkuso.ru/recipe/104623-sup-xarcho-iz-kuricy-s-orexami-i-myatoj/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Суп харчо из курицы с орехами и мятой",
+    "description": "Легкий суп с курицей и специями.",
+    "note": "Соус ткемали должен быть приготовлен из кислых зеленых или бордовых слив. Если удалить из блюда слишком острые ингредиенты, то его можно подать на диетический стол.",
+    "cuisine": "Грузинская кухня",
+    "cuisine_slug": "gruzinskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/47/793e4d2924c5b47_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "2 часа 30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "курица",
+                    "slug": "kurica",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "грецкие орехи",
+                    "slug": "greckie-orehi",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "корень сельдерея",
+                    "slug": "koren-seldereya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "корень петрушки",
+                    "slug": "koren-petrushki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соус ткемали",
+                    "slug": "sous-tkemali",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец душистый горошком",
+                    "slug": "perec-dushistiy-goroshkom",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "семена кориандра",
+                    "slug": "semena-koriandra",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "аджика",
+                    "slug": "adjika",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка сушеная",
+                    "slug": "petrushka-sushenaya",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "базилик сушеный",
+                    "slug": "bazilik-susheniy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мята",
+                    "slug": "myata",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "тархун",
+                    "slug": "tarhun",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "хмели-сунели",
+                    "slug": "hmeli-suneli",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "корица молотая",
+                    "slug": "korica-molotaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для заправки",
+            "list": [
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "корень петрушки",
+                    "slug": "koren-petrushki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сварить куриный бульон из порционных кусочков мяса, суповых корнеплодов, неочищенной луковицы.",
+            "image": null
+        },
+        {
+            "text": "Варить полтора часа после закипания, пену снимать.",
+            "image": null
+        },
+        {
+            "text": "Приготовить заправку из нашинкованного репчатого лука, натертого корня петрушки.",
+            "image": null
+        },
+        {
+            "text": "Ингредиенты спассеровать на масле до золотистого цвета.",
+            "image": null
+        },
+        {
+            "text": "Присыпать мукой и еще пожарить.",
+            "image": null
+        },
+        {
+            "text": "Выложить из кастрюли почти готовые овощи и мясо.",
+            "image": null
+        },
+        {
+            "text": "Бульон процедить через марлю или сито, а затем вместе с кусочками курицы вернуть в кастрюлю.",
+            "image": null
+        },
+        {
+            "text": "Соль – по вкусу, всыпать хорошо промытый рис.",
+            "image": null
+        },
+        {
+            "text": "Растереть в ступке перец и кориандр.",
+            "image": null
+        },
+        {
+            "text": "Через десять минут после закипания риса в суп положить обжарку, молотые грецкие орехи, специи, аджику и соус ткемали.",
+            "image": null
+        },
+        {
+            "text": "Влить бульон, варить до готовности риса.",
+            "image": null
+        },
+        {
+            "text": "Перед подачей положить в харчо протертый чеснок, заправить рубленым базиликом, сельдереем, кинзой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Куриный суп",
+            "slug": "kuriniy-sup"
+        },
+        {
+            "name": "Курица с грецкими орехами",
+            "slug": "kurica-s-greckimi-orehami"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп из птицы",
+            "slug": "sup-iz-pticy"
+        },
+        {
+            "name": "Суп из сельдерея",
+            "slug": "sup-iz-seldereya"
+        },
+        {
+            "name": "Суп на курином бульоне",
+            "slug": "sup-na-kurinom-bulone"
+        },
+        {
+            "name": "Суп на мясном бульоне",
+            "slug": "sup-na-myasnom-bulone"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Суп Харчо",
+            "slug": "sup-harcho"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Супы с крупами",
+            "slug": "supy-s-krupami"
+        },
+        {
+            "name": "Харчо из курицы",
+            "slug": "harcho-iz-kuricy"
+        },
+        {
+            "name": "Харчо по-грузински",
+            "slug": "harcho-po-gruzinski"
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-s-seldereem-i-tigrovymi-krevetkami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат с сельдереем и тигровыми креветками",
+    "description": "Сытный и оригинальный салат. Интересная заправка с восточным вкусом придает блюду остроту и пикантность.",
+    "note": "Блюдо можно выложить на листья зеленого салата, хорошо промытого и обсушенного. Украсить рубленой зеленью укропа.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/cf/f46210a4a1351cf_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "креветки тигровые",
+                    "slug": "krevetki-tigrovye",
+                    "notes": null,
+                    "value": "12",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "стебель сельдерея",
+                    "slug": "stebel-seldereya",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец болгарский красный",
+                    "slug": "perec-bolgarskiy-krasniy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сметана 10%",
+                    "slug": "smetana-10",
+                    "notes": " (оливковое масло)",
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "уксус рисовый",
+                    "slug": "uksus-risoviy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "васаби",
+                    "slug": "vasabi",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Черешковый сельдерей бланшировать в кипящей воде с солью, проварить в течение двух минут, сразу охладить в другой емкости, с холодной водой. Нарезать продукт на небольшие кусочки, ширина – один сантиметр.",
+            "image": null
+        },
+        {
+            "text": "Для соуса перемешать сметану или оливковое масло с приправой «Васаби» и рисовым уксусом.",
+            "image": null
+        },
+        {
+            "text": "Тигровые креветки отварить, нарезать кусочками, сладкий красный болгарский перец – кубиками.",
+            "image": null
+        },
+        {
+            "text": "Смесь заправить полученным соусом, соль и перец – по вкусу. Перемешать. Подать салат в охлажденном виде.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат с креветками",
+            "slug": "salat-s-krevetkami"
+        },
+        {
+            "name": "Салат с сельдереем",
+            "slug": "salat-s-seldereem"
+        },
+        {
+            "name": "Салат с сельдереем стеблевым",
+            "slug": "salat-s-seldereem-steblevym"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без майонеза на праздничный стол",
+            "slug": "salaty-bez-mayoneza-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты из морепродуктов",
+            "slug": "salaty-iz-moreproduktov"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты на скорую руку",
+            "slug": "salaty-na-skoruyu-ruku"
+        },
+        {
+            "name": "Салаты с болгарским перцем",
+            "slug": "salaty-s-bolgarskim-percem"
+        },
+        {
+            "name": "Салаты со сметаной",
+            "slug": "salaty-so-smetanoy"
+        }
+    ]
+}

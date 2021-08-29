@@ -1,0 +1,91 @@
+{
+    "source": "https://vkuso.ru/recipe/zharenye-v-syre-grenki/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Жареные в сыре гренки",
+    "description": null,
+    "note": null,
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/46/777ba8ace46d446_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб белый",
+                    "slug": "hleb-beliy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Мелко натереть сыр и соединить со сметаной, яйцом и мукой. Перемешать. Кусочки хлеба искупать в сырно-яичной смеси. Выложить хлеб на разогретую сковородку и обжарить. Сытные, жареные в сыре гренки готовы.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Гренки",
+            "slug": "grenki"
+        },
+        {
+            "name": "Гренки из белого хлеба",
+            "slug": "grenki-iz-belogo-hleba"
+        },
+        {
+            "name": "Гренки из хлеба",
+            "slug": "grenki-iz-hleba"
+        },
+        {
+            "name": "Гренки с сыром",
+            "slug": "grenki-s-syrom"
+        },
+        {
+            "name": "Гренки с яйцом",
+            "slug": "grenki-s-yaycom"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

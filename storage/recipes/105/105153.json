@@ -1,0 +1,384 @@
+{
+    "source": "https://vkuso.ru/recipe/105153-salat-cezar-s-tigrovymi-krevetkami-i-tuncom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Цезарь» с тигровыми креветками и тунцом",
+    "description": "Праздничное, изысканное блюдо с деликатесной рыбой.",
+    "note": "Салат заправлять перед подачей.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/fa/d1f2558f0e8c1fa_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "50 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "тунец",
+                    "slug": "tunec",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "креветки тигровые",
+                    "slug": "krevetki-tigrovye",
+                    "notes": null,
+                    "value": "15",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "салат романо",
+                    "slug": "salat-romano",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кочан",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб для сэндвичей",
+                    "slug": "hleb-dlya-sendvichey",
+                    "notes": null,
+                    "value": "6",
+                    "type": "кусочков",
+                    "amount": null
+                },
+                {
+                    "name": "сыр пармезан тертый",
+                    "slug": "syr-parmezan-tertiy",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для соуса",
+            "list": [
+                {
+                    "name": "анчоусы",
+                    "slug": "anchousy",
+                    "notes": null,
+                    "value": "10",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "каперсы",
+                    "slug": "kapersy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр пармезан тертый",
+                    "slug": "syr-parmezan-tertiy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "зубчик",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "уксус винный белый",
+                    "slug": "uksus-vinniy-beliy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "горчица",
+                    "slug": "gorchica",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Чеснок мелко нарезать, перемешать с оливковым маслом.",
+            "image": null
+        },
+        {
+            "text": "Нарезать хлеб для гренок кубиками, посолить и побрызгать чесночным маслом.",
+            "image": null
+        },
+        {
+            "text": "Перемешать, жарить на смазанной маслом сковороде с чесноком до золотистой корочки.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления соуса выложить в блендер желтки, влить лимонный сок, винный уксус, ингредиенты перемешать венчиком.",
+            "image": null
+        },
+        {
+            "text": "Влить оливковое масло, массу взбить.",
+            "image": null
+        },
+        {
+            "text": "Сменить насадку на ножи.",
+            "image": null
+        },
+        {
+            "text": "В чашу добавить сыр «Пармезан», анчоусы, каперсы, зубчик чеснока. Смесь довести до однородного состояния.",
+            "image": null
+        },
+        {
+            "text": "Влить холодную воду, перемешать, поперчить, соль – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Креветки вымыть и обсушить, очистить.",
+            "image": null
+        },
+        {
+            "text": "На сковороду положить нарезанный чеснок, обжарить в течение десяти-пятнадцати секунд, добавить подготовленные креветки, соль, перец, лимонный сок. Жарить до готовности.",
+            "image": null
+        },
+        {
+            "text": "Стейк из тунца посолить и поперчить.",
+            "image": null
+        },
+        {
+            "text": "Жарить на растительном масле до готовности.",
+            "image": null
+        },
+        {
+            "text": "Рыбу остудить и нарезать.",
+            "image": null
+        },
+        {
+            "text": "Листья «Романо» порвать руками крупными кусочками, застелить блюдо.",
+            "image": null
+        },
+        {
+            "text": "Выложить гренки, сбрызнуть соусом, перемешать, посыпать сыром «Пармезан».",
+            "image": null
+        },
+        {
+            "text": "Сверху выложить рыбу и креветки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Креветки с чесноком",
+            "slug": "krevetki-s-chesnokom"
+        },
+        {
+            "name": "Новогодние салаты",
+            "slug": "novogodnie-salaty"
+        },
+        {
+            "name": "Новогодние салаты без майонеза",
+            "slug": "novogodnie-salaty-bez-mayoneza"
+        },
+        {
+            "name": "Новогодний салат с креветками",
+            "slug": "novogodniy-salat-s-krevetkami"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат морской коктейль",
+            "slug": "salat-morskoy-kokteyl"
+        },
+        {
+            "name": "Салат с анчоусами",
+            "slug": "salat-s-anchousami"
+        },
+        {
+            "name": "Салат с креветками",
+            "slug": "salat-s-krevetkami"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салат с рыбой",
+            "slug": "salat-s-ryboy"
+        },
+        {
+            "name": "Салат с сыром и чесноком",
+            "slug": "salat-s-syrom-i-chesnokom"
+        },
+        {
+            "name": "Салат с твердым сыром",
+            "slug": "salat-s-tverdym-syrom"
+        },
+        {
+            "name": "Салат с тунцом",
+            "slug": "salat-s-tuncom"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салат с яйцом и сыром",
+            "slug": "salat-s-yaycom-i-syrom"
+        },
+        {
+            "name": "Салат Цезарь",
+            "slug": "salat-cezar"
+        },
+        {
+            "name": "Салат Цезарь с креветками",
+            "slug": "salat-cezar-s-krevetkami"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без майонеза на праздничный стол",
+            "slug": "salaty-bez-mayoneza-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты из листьев салата",
+            "slug": "salaty-iz-listev-salata"
+        },
+        {
+            "name": "Салаты из морепродуктов",
+            "slug": "salaty-iz-moreproduktov"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        }
+    ]
+}

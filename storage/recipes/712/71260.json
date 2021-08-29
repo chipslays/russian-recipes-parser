@@ -1,0 +1,151 @@
+{
+    "source": "https://vkuso.ru/recipe/paelya-s-moreproduktami-i-percem-v-multivarke/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Паэлья с морепродуктами и перцем в мультиварке",
+    "description": "В Испании принято подавать это блюдо на обед.",
+    "note": "Перед подачей блюда на стол его можно сбрызнуть лимонным соком.",
+    "cuisine": "Испанская кухня",
+    "cuisine_slug": "ispanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5f/d905fba73f7275f_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/ckl74Bw81D8?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "морепродукты",
+                    "slug": "moreprodukty",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": " (бульон)",
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "шафран",
+                    "slug": "shafran",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "приправы",
+                    "slug": "pripravy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В чашу влить оливковое масло, обжарить морепродукты до корочки.",
+            "image": null
+        },
+        {
+            "text": "Добавить измельченный чеснок, нарезанный ломтиками болгарский перец.",
+            "image": null
+        },
+        {
+            "text": "Прогревать 15 минут.",
+            "image": null
+        },
+        {
+            "text": "Всыпать сухой рис, шафран, другие приправы.",
+            "image": null
+        },
+        {
+            "text": "Влить стакан воды или бульона, выставить режим «Плов» или «Рис».",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда в мультиварке",
+            "slug": "vtorye-blyuda-v-multivarke"
+        },
+        {
+            "name": "Вторые блюда из риса",
+            "slug": "vtorye-blyuda-iz-risa"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Паэлья",
+            "slug": "paelya"
+        },
+        {
+            "name": "Паэлья с морепродуктами",
+            "slug": "paelya-s-moreproduktami"
+        },
+        {
+            "name": "Рис в мультиварке",
+            "slug": "ris-v-multivarke"
+        },
+        {
+            "name": "Рис с морепродуктами",
+            "slug": "ris-s-moreproduktami"
+        },
+        {
+            "name": "Ужин в мультиварке",
+            "slug": "ujin-v-multivarke"
+        }
+    ]
+}

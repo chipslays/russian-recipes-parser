@@ -1,0 +1,179 @@
+{
+    "source": "https://vkuso.ru/recipe/lazanya-s-farshem-kapustoj-i-ostrym-syrom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Лазанья с фаршем, капустой и острым сыром",
+    "description": "Слоеный пирог из готовых листов лазаньи, купленных в магазине, и с двумя видами начинок. Одно из самых популярных блюд итальянской кухни, его готовят с сыром и ветчиной, с курицей и овощами.",
+    "note": "При подаче нарезать лазанью на порции, украсить томатной пастой и посыпать сушеной зеленью.",
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/16/669d4056cd2e316_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мясной фарш",
+                    "slug": "myasnoy-farsh",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "капуста",
+                    "slug": "kapusta",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "листы лазаньи",
+                    "slug": "listy-lazani",
+                    "notes": " (большие)",
+                    "value": "12",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": null,
+                    "value": "6",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": " (острый)",
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Готовые пласты лазаньи отварить в подсоленной воде до полуготовности, выложить в дуршлаг.",
+            "image": null
+        },
+        {
+            "text": "Мясной фарш обжарить в масле вместе с томатной пастой.",
+            "image": null
+        },
+        {
+            "text": "Мелко нашинковать белокочанную капусту и репчатый лук, оба продукта обжарить на растительном масле.",
+            "image": null
+        },
+        {
+            "text": "Форму для выпекания смазать маслом, выложить пласты лазаньи вперемешку с капустой и с мясом. Посыпать блюдо тертым сыром, время выпекания – от 15 до 20 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из капусты",
+            "slug": "vtorye-blyuda-iz-kapusty"
+        },
+        {
+            "name": "Вторые блюда из макарон",
+            "slug": "vtorye-blyuda-iz-makaron"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Капуста в духовке",
+            "slug": "kapusta-v-duhovke"
+        },
+        {
+            "name": "Капуста с мясом",
+            "slug": "kapusta-s-myasom"
+        },
+        {
+            "name": "Лазанья",
+            "slug": "lazanya"
+        },
+        {
+            "name": "Лазанья с фаршем",
+            "slug": "lazanya-s-farshem"
+        },
+        {
+            "name": "Макароны в духовке",
+            "slug": "makarony-v-duhovke"
+        },
+        {
+            "name": "Макароны с сыром",
+            "slug": "makarony-s-syrom"
+        },
+        {
+            "name": "Макароны с томатной пастой или соусом",
+            "slug": "makarony-s-tomatnoy-pastoy-ili-sousom"
+        },
+        {
+            "name": "Макароны с фаршем",
+            "slug": "makarony-s-farshem"
+        },
+        {
+            "name": "Макароны с фаршем в духовке",
+            "slug": "makarony-s-farshem-v-duhovke"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Мясо с сыром",
+            "slug": "myaso-s-syrom"
+        },
+        {
+            "name": "Ужин из капусты",
+            "slug": "ujin-iz-kapusty"
+        },
+        {
+            "name": "Ужин из макарон",
+            "slug": "ujin-iz-makaron"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

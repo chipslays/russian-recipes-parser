@@ -1,0 +1,123 @@
+{
+    "source": "https://vkuso.ru/recipe/104027-koktejl-xugo/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Коктейль Хуго",
+    "description": "Хуго - это летний освежающий коктейль на основе игристого вина Просекко. Придуман относительно недавно - в 2005 году на севере Италии, в городе Натурно. Очень приятный на вкус.",
+    "note": "Просекко можно заменить шампанским, а если вы хотите приготовить безалкогольный Хуго, то газированной минералкой.",
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/42/b334ad8692a4d42_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "10 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "просекко",
+                    "slug": "prosekko",
+                    "notes": null,
+                    "value": "300",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "вода газированная",
+                    "slug": "voda-gazirovannaya",
+                    "notes": " (содовая)",
+                    "value": "60",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сироп",
+                    "slug": "sirop",
+                    "notes": " (бузинный)",
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мята свежая",
+                    "slug": "myata-svejaya",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лед",
+                    "slug": "led",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "лайм",
+                    "slug": "laym",
+                    "notes": " (лимон, апельсин)",
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Два круглых бокала для красного вина охладить, наполнив кубиками льда. Затем лед высыпать. Веточки мяты промыть, обсушить, оборвать листья.",
+            "image": null
+        },
+        {
+            "text": "Добавить в каждый бокал по несколько листиков мяты, по паре ломтиков лайма и апельсина (лимона). Слегка помять ложкой.",
+            "image": null
+        },
+        {
+            "text": "Влить бузинный сироп, Просекко и содовую. Добавить кубики льда. Сразу же подать.",
+            "image": "https://vkuso.ru/data/cache/data/23/ce0e89f26aba723_434x295_notrise.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Алкогольные коктейли",
+            "slug": "alkogolnye-kokteyli"
+        },
+        {
+            "name": "Алкогольные напитки",
+            "slug": "alkogolnye-napitki"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Коктейли с вином",
+            "slug": "kokteyli-s-vinom"
+        },
+        {
+            "name": "Коктейли с шампанским",
+            "slug": "kokteyli-s-shampanskim"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Свадьба",
+            "slug": "svadba"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        }
+    ]
+}

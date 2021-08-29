@@ -1,0 +1,123 @@
+{
+    "source": "https://vkuso.ru/recipe/zakuska-iz-mocarelly-v-panirovke/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Закуска из моцареллы в панировке",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/88/9c076215c1dc088_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр моцарелла",
+                    "slug": "syr-mocarella",
+                    "notes": null,
+                    "value": "450",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сухари панировочные",
+                    "slug": "suhari-panirovochnye",
+                    "notes": null,
+                    "value": "1,5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "1/4",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "чесночный порошок",
+                    "slug": "chesnochniy-poroshok",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Слегка взбить в маленьком салатнике яйцо с добавлением воды, сыр порезать на кусочки. Все оставшиеся ингредиенты смешать в другой посуде.",
+            "image": null
+        },
+        {
+            "text": "Окунуть каждый кусочек в яйцо, переложить в сухую смесь, обвалять со всех сторон. Раскалить в сковороде масло, обжарить сыр в панировке до соломенного цвета.",
+            "image": null
+        },
+        {
+            "text": "Переложить закуску из моцареллы в панировке на несколько слоев бумажных полотенец для удаления излишка масла.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Закуски для фуршета",
+            "slug": "zakuski-dlya-fursheta"
+        },
+        {
+            "name": "Закуски из сыра",
+            "slug": "zakuski-iz-syra"
+        },
+        {
+            "name": "Закуски к пиву",
+            "slug": "zakuski-k-pivu"
+        },
+        {
+            "name": "Закуски с творогом",
+            "slug": "zakuski-s-tvorogom"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        }
+    ]
+}

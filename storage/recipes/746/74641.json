@@ -1,0 +1,195 @@
+{
+    "source": "https://vkuso.ru/recipe/74641-tefteli-s-risom-v-slivochnom-souse/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Тефтели с рисом в сливочном соусе",
+    "description": "Очень нежное и сочное блюдо. Хорошо сочетается с картофельным пюре или гарниром из риса.",
+    "note": "Фарш можно использовать любой. Вместо сметаны можно использовать сливки или натуральный йогурт без сахара.",
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ea/b8b813917cc0fea_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/6dy2xngDqaI?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "мясной фарш",
+                    "slug": "myasnoy-farsh",
+                    "notes": " (любой, у меня говяжий)",
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "бульон мясной",
+                    "slug": "bulon-myasnoy",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сметана жирная",
+                    "slug": "smetana-jirnaya",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "рис круглозерный",
+                    "slug": "ris-kruglozerniy",
+                    "notes": " (отварной)",
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца куриные",
+                    "slug": "yayca-kurinye",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука пшеничная",
+                    "slug": "muka-pshenichnaya",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "специи для мяса",
+                    "slug": "specii-dlya-myasa",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Фарш смешать с отварным рисом, луком, специями и яйцом. Скатать тефтельки и обвалять в муке. Обжарить на растительном масле.",
+            "image": null
+        },
+        {
+            "text": "На сковороде растопить сливочное масло, добавить муку постоянно помешивая, добавить бульон, довести до кипения.",
+            "image": null
+        },
+        {
+            "text": "Добавить сметану и варить до появления первых пузырьков. Переложить в соус тефтели, обвалять в нем все тефтели. Накрыть крышкой и на небольшом огне готовить 20 минут. Посыпать зеленью и подавать. Очень вкусное блюдо.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Вторые блюда из риса",
+            "slug": "vtorye-blyuda-iz-risa"
+        },
+        {
+            "name": "Вторые блюда из фарша",
+            "slug": "vtorye-blyuda-iz-farsha"
+        },
+        {
+            "name": "Детский праздник",
+            "slug": "detskiy-prazdnik"
+        },
+        {
+            "name": "Для беременных и кормящих",
+            "slug": "dlya-beremennyh-i-kormyaschih"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Рис с мясом",
+            "slug": "ris-s-myasom"
+        },
+        {
+            "name": "Рис с фаршем",
+            "slug": "ris-s-farshem"
+        },
+        {
+            "name": "Тефтели",
+            "slug": "tefteli"
+        },
+        {
+            "name": "Тефтели в сливочном соусе",
+            "slug": "tefteli-v-slivochnom-souse"
+        },
+        {
+            "name": "Тефтели в сметанном соусе",
+            "slug": "tefteli-v-smetannom-souse"
+        },
+        {
+            "name": "Тефтели из фарша",
+            "slug": "tefteli-iz-farsha"
+        },
+        {
+            "name": "Тефтели из фарша с рисом",
+            "slug": "tefteli-iz-farsha-s-risom"
+        },
+        {
+            "name": "Тефтели мясные",
+            "slug": "tefteli-myasnye"
+        },
+        {
+            "name": "Тефтели на сковороде",
+            "slug": "tefteli-na-skovorode"
+        },
+        {
+            "name": "Тефтели с подливкой",
+            "slug": "tefteli-s-podlivkoy"
+        },
+        {
+            "name": "Тефтели с рисом",
+            "slug": "tefteli-s-risom"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        }
+    ]
+}

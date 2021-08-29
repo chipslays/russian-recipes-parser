@@ -1,0 +1,115 @@
+{
+    "source": "https://vkuso.ru/recipe/rassypchatoe-myagkoe-medovoe-pechene/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Рассыпчатое, мягкое медовое печенье",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/1f/da3e88595e7ec1f_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Растереть муку с маслом, добавить оставшиеся ингредиенты, вымешиваем тесто (должно быть мягким). Переложить в пластиковый пакет, оставить на столе в покое на час.",
+            "image": null
+        },
+        {
+            "text": "Прогреть духовку чуть ниже 200 градусов, подготовить лист для выпечки, застелить пергаментом, чуть смазать маслом.",
+            "image": null
+        },
+        {
+            "text": "Из теста скатать небольшие шарики, как средний грецкий орех, сжать между ладонная, уложить на лист, задвинуть в духовку. Рассыпчатое, мягкое медовое печенье будет готово через четверть часа.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка с медом",
+            "slug": "vypechka-s-medom"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Детское печенье",
+            "slug": "detskoe-pechene"
+        },
+        {
+            "name": "Медовое печенье",
+            "slug": "medovoe-pechene"
+        },
+        {
+            "name": "Мягкое печенье",
+            "slug": "myagkoe-pechene"
+        },
+        {
+            "name": "Печенье",
+            "slug": "pechene"
+        }
+    ]
+}

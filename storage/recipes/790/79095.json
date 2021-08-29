@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/sous-dlya-grecheskogo-salata-s-jogurtom/",
+    "category": "Соусы",
+    "category_slug": "sousy",
+    "title": "Соус для греческого салата с йогуртом",
+    "description": "Такой соус в Греции называется «дзадзики». Им тоже можно заправлять салат.",
+    "note": "Для соуса можно использовать сушеный укроп.",
+    "cuisine": "Греческая кухня",
+    "cuisine_slug": "grecheskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/3c/d67b21b21bb6e3c_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/WSDhK97K-TM?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "йогурт натуральный",
+                    "slug": "yogurt-naturalniy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "уксус винный",
+                    "slug": "uksus-vinniy",
+                    "notes": null,
+                    "value": "120",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "5",
+                    "type": "зубчиков",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень укропа",
+                    "slug": "zelen-ukropa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Огурцы почистить от кожуры, мякоть натереть на мелкой терке и залить несладким йогуртом, например, овечьим.",
+            "image": null
+        },
+        {
+            "text": "Чеснок пропустить через пресс, всыпать нарезанную зелень укропа, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Влить винный уксус, молотый перец и другие специи.",
+            "image": null
+        },
+        {
+            "text": "Влить оливковое масло.",
+            "image": null
+        },
+        {
+            "text": "Взбить до густоты.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Заправка для греческого салата",
+            "slug": "zapravka-dlya-grecheskogo-salata"
+        },
+        {
+            "name": "Заправка для салата",
+            "slug": "zapravka-dlya-salata"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Соусы для салатов",
+            "slug": "sousy-dlya-salatov"
+        },
+        {
+            "name": "Чесночный соус",
+            "slug": "chesnochniy-sous"
+        }
+    ]
+}

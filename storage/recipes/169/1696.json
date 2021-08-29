@@ -1,0 +1,168 @@
+{
+    "source": "https://vkuso.ru/recipe/kurica-s-kartofelem-pod-sousom-po-tatarski/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Курица с картофелем под соусом по-татарски",
+    "description": null,
+    "note": null,
+    "cuisine": "Татарская кухня",
+    "cuisine_slug": "tatarskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d2/0a5c23dc9f9acd2_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "среднего по размеру картофеля",
+                    "slug": "srednego-po-razmeru-kartofelya",
+                    "notes": null,
+                    "value": "1,5",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "курицы",
+                    "slug": "kuricy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для соуса",
+            "list": [
+                {
+                    "name": "куриного бульона",
+                    "slug": "kurinogo-bulona",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "топленого масла",
+                    "slug": "toplenogo-masla",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "моркови",
+                    "slug": "morkovi",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "3-4"
+                },
+                {
+                    "name": "молотый черный перец",
+                    "slug": "molotiy-cherniy-perec",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Поставить варить курицу целиком в подсоленной воде, готовую тушку порезать на порционные куски.",
+            "image": null
+        },
+        {
+            "text": "Нарезать на четыре части и отварить в подсоленной воде картофель.",
+            "image": null
+        },
+        {
+            "text": "Сварить на курином бульоне нашинкованную морковь и лук, подсолить добавить перец, лавровый лист и масло, проварить еще 5 минут.",
+            "image": null
+        },
+        {
+            "text": "Картофель переложить в сковороду, выложить на него куски курицы, залить овощным соусом и протушить.",
+            "image": null
+        },
+        {
+            "text": "Готовить курицу с картофелем под соусом по-татарски 30 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из картофеля",
+            "slug": "vtorye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Курица на сковороде",
+            "slug": "kurica-na-skovorode"
+        },
+        {
+            "name": "Курица с картошкой",
+            "slug": "kurica-s-kartoshkoy"
+        },
+        {
+            "name": "Курица с овощами",
+            "slug": "kurica-s-ovoschami"
+        },
+        {
+            "name": "Тушеная картошка",
+            "slug": "tushenaya-kartoshka"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

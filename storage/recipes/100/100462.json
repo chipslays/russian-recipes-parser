@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/100462-goryachie-buterbrody-s-kolbasoj-i-syrom-v-mikrovolnovke/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Горячие бутерброды с колбасой и сыром в микроволновке",
+    "description": "Горячие бутерброды это очень вкусный перекус, который запомнится на долго.",
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/98/5e18e095a737e98_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "10 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 3 порции",
+            "list": [
+                {
+                    "name": "булка пшеничная",
+                    "slug": "bulka-pshenichnaya",
+                    "notes": " (Любую булку можно использовать)",
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "колбаса",
+                    "slug": "kolbasa",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "100",
+                    "type": "по вкусу",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для начала нам надо намазать масло на булку, чтобы наш бутерброд не был рассыпчатым.",
+            "image": null
+        },
+        {
+            "text": "После нарежьте колбасу небольшими кубиками. Положите эти кубики на нашу булку с маслом.",
+            "image": null
+        },
+        {
+            "text": "После натрите сыр на мелкой терке. И посыпьте сыр на наш будущий бутерброд.",
+            "image": null
+        },
+        {
+            "text": "Осталось только отправить бутерброд в микроволновку на 40 секунд. Наш горячий бутерброд готов. Приятного аппетита.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды в микроволновке",
+            "slug": "buterbrody-v-mikrovolnovke"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды на скорую руку",
+            "slug": "buterbrody-na-skoruyu-ruku"
+        },
+        {
+            "name": "Бутерброды открытые",
+            "slug": "buterbrody-otkrytye"
+        },
+        {
+            "name": "Бутерброды с колбасой",
+            "slug": "buterbrody-s-kolbasoy"
+        },
+        {
+            "name": "Бутерброды с колбасой и сыром",
+            "slug": "buterbrody-s-kolbasoy-i-syrom"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Горячие бутерброды",
+            "slug": "goryachie-buterbrody"
+        },
+        {
+            "name": "Горячие бутерброды с колбасой и сыром",
+            "slug": "goryachie-buterbrody-s-kolbasoy-i-syrom"
+        },
+        {
+            "name": "Горячие бутерброды с сыром",
+            "slug": "goryachie-buterbrody-s-syrom"
+        },
+        {
+            "name": "Горячие закуски",
+            "slug": "goryachie-zakuski"
+        },
+        {
+            "name": "Микроволновка",
+            "slug": "mikrovolnovka"
+        }
+    ]
+}

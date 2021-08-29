@@ -1,0 +1,168 @@
+{
+    "source": "https://vkuso.ru/recipe/deruny-s-gribnoj-podlivoj-po-ukrainski/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Деруны с грибной подливой по-украински",
+    "description": null,
+    "note": null,
+    "cuisine": "Украинская кухня",
+    "cuisine_slug": "ukrainskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/61/6d7940a59198261_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "10",
+                    "type": "клубней",
+                    "amount": null
+                },
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "растительного масла",
+                    "slug": "rastitelnogo-masla",
+                    "notes": null,
+                    "value": "4-5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соды",
+                    "slug": "sody",
+                    "notes": null,
+                    "value": "3",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для соуса",
+            "list": [
+                {
+                    "name": "сушеных грибов",
+                    "slug": "sushenyh-gribov",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "гвоздика молотая",
+                    "slug": "gvozdika-molotaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Смешать натертый на терке сырой картофель (предварительно отжать сок) с мукой, содой, посолить.",
+            "image": null
+        },
+        {
+            "text": "Брать столовой ложкой, выкладывать на сковороду в сильно разогретое масло, обжаривать деруны с двух сторон до золотисто коричневатого цвета.",
+            "image": null
+        },
+        {
+            "text": "Приготовить из заранее замоченных грибов соус, для этого отварить грибы (воду не выливать), порезать и  смешать с поджаренным луком, добавить гвоздику, посолить и прожарить смесь на сковороде 1-2 минуты.",
+            "image": null
+        },
+        {
+            "text": "Обжарить до кремового цвета муку, добавить сливочное масло, 2 стакана грибного отвара, проварить 10 минут. Вылить в смесь грибов с луком и  прокипятить.",
+            "image": null
+        },
+        {
+            "text": "Деруны с грибной подливой по-украински подавать к столу обязательно горячими.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Вторые блюда из овощей",
+            "slug": "vtorye-blyuda-iz-ovoschey"
+        },
+        {
+            "name": "Драники",
+            "slug": "draniki"
+        },
+        {
+            "name": "Драники без яиц",
+            "slug": "draniki-bez-yaic"
+        },
+        {
+            "name": "Постные блюда из картофеля",
+            "slug": "postnye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Постные блюда с грибами",
+            "slug": "postnye-blyuda-s-gribami"
+        },
+        {
+            "name": "Постный ужин",
+            "slug": "postniy-ujin"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из овощей",
+            "slug": "ujin-iz-ovoschey"
+        }
+    ]
+}

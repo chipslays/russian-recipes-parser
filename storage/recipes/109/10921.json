@@ -1,0 +1,95 @@
+{
+    "source": "https://vkuso.ru/recipe/syrnyj-delisez/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Сырный делисьез",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/fa/d3a1e0752ef9bfa_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сухари панировочные",
+                    "slug": "suhari-panirovochnye",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Измельчить сыр в блендере или натереть на мелкой терке. Лучше всего использовать в данном рецепте сыр пармезан, но вкусно получится и с другим тертым сыром. Взбить белки при помощи миксера до устойчивой пены. Аккуратно смешать с сыром белки, поперчить по собственному вкусу. Перемешать белки и сыр необходимо тщательно, чтобы ингредиенты были распределены равномерно.",
+            "image": null
+        },
+        {
+            "text": "Сформировать небольшие шарики из полученной массы и обвалять их в панировочных сухарях, не слишком сжимая при этом тесто. Если шарики получатся слишком крупными, они недостаточно хорошо прожарятся, и будут не такими вкусными. Шарики обжарить во фритюре до золотистого цвета. К столу сырный делисьез подавать горячими. Перед подачей на стол можно украсить зеленью. Прекрасно сочетаются с вином.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Закуски из сыра",
+            "slug": "zakuski-iz-syra"
+        },
+        {
+            "name": "Закуски на скорую руку",
+            "slug": "zakuski-na-skoruyu-ruku"
+        },
+        {
+            "name": "Закуски с творогом",
+            "slug": "zakuski-s-tvorogom"
+        },
+        {
+            "name": "Сырные шарики",
+            "slug": "syrnye-shariki"
+        },
+        {
+            "name": "Фритюр",
+            "slug": "frityur"
+        }
+    ]
+}

@@ -1,0 +1,327 @@
+{
+    "source": "https://vkuso.ru/recipe/107822-govyadina-s-bekonom-i-gribami-po-burgundski/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Говядина с беконом и грибами по-бургундски",
+    "description": "Сытное, деревенское блюдо, главное на семейном столе. Дополнительные вкусы и ароматы блюду придают травы, специи, красное вино.",
+    "note": "К блюду на гарнир можно приготовить отваренный картофель, при подаче посыпать рубленой зеленью.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/06/7b12cf1f5b22506_660x440.jpg",
+    "difficulty": "Высокая",
+    "cooktime": "5 часов 30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "говядина",
+                    "slug": "govyadina",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "лук-шалот",
+                    "slug": "luk-shalot",
+                    "notes": null,
+                    "value": "18",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "вино красное",
+                    "slug": "vino-krasnoe",
+                    "notes": null,
+                    "value": "3.5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "бульон говяжий",
+                    "slug": "bulon-govyajiy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "грибы белые",
+                    "slug": "griby-belye",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "бекон",
+                    "slug": "bekon",
+                    "notes": " (грудинка)",
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "тимьян",
+                    "slug": "timyan",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "майоран сушеный",
+                    "slug": "mayoran-susheniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень петрушки",
+                    "slug": "zelen-petrushki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Говяжье филе и морковь нарезать кубиками, репчатый лук – крупными кольцами.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/82/612516fac3e4082_434x295.jpg"
+        },
+        {
+            "text": "Мясо выложить на бумажное полотенце, чтобы удалить лишнюю жидкость.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/35/7ac7c1ff3099635_434x295.jpg"
+        },
+        {
+            "text": "Нарезать бекон мелкими кусочками, обжарить до корочки на сухой сковороде.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/be/cade36c1ea459be_434x295.jpg"
+        },
+        {
+            "text": "Переложить говядину на сковороду с беконом, готовить небольшими партиями, жарить со всех сторон, огонь – сильный.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/42/92810e12b3ba942_434x295.jpg"
+        },
+        {
+            "text": "Переложить продукт в сотейник.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/e7/d9e2d1fd86c74e7_434x295.jpg"
+        },
+        {
+            "text": "Все на той же сковороде обжарить нарезанные овощи.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/38/e1268fc4126b238_434x295.jpg"
+        },
+        {
+            "text": "К мясной обжарке добавить по вкусу соль, перец и немного муки, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Поставить в духовой шкаф на четыре минуты, перемешать и допечь еще четыре минуты. Температура приготовления – 230 градусов.",
+            "image": null
+        },
+        {
+            "text": "Добавить овощи со сковороды, влить заранее сваренный говяжий бульон, красное вино, измельченный чеснок, томатную пасту, сушеный майоран, тимьян, лавровый лист и зеленую петрушку.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/0f/90da6fd278a670f_434x295.jpg"
+        },
+        {
+            "text": "Довести массу на плите до кипения, накрыть сотейник фольгой, поставить в духовой шкаф на три-четыре часа, температуру снизить до 160 градусов.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/f6/6105b20c6a28bf6_434x295.jpg"
+        },
+        {
+            "text": "Очистить белые грибы и лук-шалот.",
+            "image": null
+        },
+        {
+            "text": "Сначала обжарить лук на смеси оливкового и сливочного масла, переложить на блюдо.",
+            "image": null
+        },
+        {
+            "text": "В той же сковороде обжарить грибы, вернуть лук, подлить бульон, всыпать зелень и специи.",
+            "image": null
+        },
+        {
+            "text": "Смесь потушить под крышкой в течение 10 минут.",
+            "image": null
+        },
+        {
+            "text": "За 45 минут до готовности мяса добавить в него полученный грибной соус, перемешать, накрыть фольгой, довести до готовности.",
+            "image": null
+        },
+        {
+            "text": "Растопить сливочное масло, добавить муку, перемешать. Полить мясо полученной заправкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из говядины",
+            "slug": "vtorye-blyuda-iz-govyadiny"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Говядина в духовке",
+            "slug": "govyadina-v-duhovke"
+        },
+        {
+            "name": "Говядина с грибами",
+            "slug": "govyadina-s-gribami"
+        },
+        {
+            "name": "Говядина с овощами",
+            "slug": "govyadina-s-ovoschami"
+        },
+        {
+            "name": "Грибы в духовке",
+            "slug": "griby-v-duhovke"
+        },
+        {
+            "name": "Картошка в духовке",
+            "slug": "kartoshka-v-duhovke"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Мясо в духовке",
+            "slug": "myaso-v-duhovke"
+        },
+        {
+            "name": "Мясо с грибами",
+            "slug": "myaso-s-gribami"
+        },
+        {
+            "name": "Мясо с грибами в духовке",
+            "slug": "myaso-s-gribami-v-duhovke"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Ужин из говядины",
+            "slug": "ujin-iz-govyadiny"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

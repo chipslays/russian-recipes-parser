@@ -1,0 +1,99 @@
+{
+    "source": "https://vkuso.ru/recipe/86387-prostaya-mannaya-kasha-na-vode-v-multivarke/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Простая манная каша на воде в мультиварке",
+    "description": "Самый простой рецепт, умный прибор все сделает сам.",
+    "note": "В готовую кашу можно добавить сливочное масло. Дать блюду настояться пять минут.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/89/24b21623dd4f289_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "20 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "6",
+                    "type": "мультистаканов",
+                    "amount": null
+                },
+                {
+                    "name": "манная крупа",
+                    "slug": "mannaya-krupa",
+                    "notes": null,
+                    "value": "1",
+                    "type": "мультистакан",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "75",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В чашу мультиварки поместить манную крупу, соль, сахар, влить воду.",
+            "image": null
+        },
+        {
+            "text": "Выставить режим «Каша» на двадцать минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Каша",
+            "slug": "kasha"
+        },
+        {
+            "name": "Каша в мультиварке",
+            "slug": "kasha-v-multivarke"
+        },
+        {
+            "name": "Каша на воде",
+            "slug": "kasha-na-vode"
+        },
+        {
+            "name": "Каши на завтрак",
+            "slug": "kashi-na-zavtrak"
+        },
+        {
+            "name": "Манная каша",
+            "slug": "mannaya-kasha"
+        },
+        {
+            "name": "Манная каша в мультиварке",
+            "slug": "mannaya-kasha-v-multivarke"
+        },
+        {
+            "name": "Манная каша на воде",
+            "slug": "mannaya-kasha-na-vode"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        }
+    ]
+}

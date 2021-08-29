@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/legkij-smetannyj-muss/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Легкий сметанный мусс",
+    "description": "Всего два-три ингредиента и немного физического труда, потраченного на их взбивание. Впрочем, ваши руки с успехом смогут заменить миксер.",
+    "note": "Украсить цветными драже, кусочками мармелада, мелкими шоколадными фигурками.",
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/1a/4ded8fa831fe01a_660x440.jpeg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "желе малиновое",
+                    "slug": "jele-malinovoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "упаковка",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Содержимое пакетика малинового желе растворить в кипятке, остудить до 40 градусов, взбить миксером, добавляя сметану. Масса должна стать пышной, с пузырьками. По вкусу добавить сахарную пудру. Взбитый, легкий сметанный мусс разложить в креманки и убрать в холодильник до застывания.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Другие десерты",
+            "slug": "drugie-deserty"
+        },
+        {
+            "name": "Лакто-вегетарианство",
+            "slug": "lakto-vegetarianstvo"
+        },
+        {
+            "name": "Лакто-ово-вегетарианство",
+            "slug": "lakto-ovo-vegetarianstvo"
+        },
+        {
+            "name": "Мусс",
+            "slug": "muss"
+        },
+        {
+            "name": "Новогодние десерты",
+            "slug": "novogodnie-deserty"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

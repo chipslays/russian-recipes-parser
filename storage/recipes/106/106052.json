@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/106052-sharlotka-s-kapustoj-na-smetane-ili-majoneze/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Шарлотка с капустой на сметане или майонезе",
+    "description": "Мягкая выпечка из доступных продуктов.",
+    "note": "По желанию пирог можно посыпать семечками кунжута.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d5/13858e25b9e70d5_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/8nDUGf7M0kE?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "капуста",
+                    "slug": "kapusta",
+                    "notes": null,
+                    "value": "600",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": " (сметана)",
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "приправы",
+                    "slug": "pripravy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать свежую белокочанную капусту полосками, обжарить со специями на сковороде.",
+            "image": null
+        },
+        {
+            "text": "Сметану или майонез досолить, вбить сырые куриные яйца, мукой и разрыхлителем. Масса должна получиться густой и однородной.",
+            "image": null
+        },
+        {
+            "text": "Влить часть теста в форму, выложить капусту, сверху залить остатками теста.",
+            "image": null
+        },
+        {
+            "text": "Пирог выпечь в течение тридцати пяти минут, температура – 190 градусов.",
+            "image": null
+        },
+        {
+            "text": "Готовность определяется румяной корочкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сахара",
+            "slug": "vypechka-bez-sahara"
+        },
+        {
+            "name": "Выпечка на майонезе",
+            "slug": "vypechka-na-mayoneze"
+        },
+        {
+            "name": "Несладкие пироги",
+            "slug": "nesladkie-pirogi"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог с капустой",
+            "slug": "pirog-s-kapustoy"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги на сметане",
+            "slug": "pirogi-na-smetane"
+        },
+        {
+            "name": "Шарлотка",
+            "slug": "sharlotka"
+        },
+        {
+            "name": "Шарлотка без яблок",
+            "slug": "sharlotka-bez-yablok"
+        },
+        {
+            "name": "Шарлотка в духовке",
+            "slug": "sharlotka-v-duhovke"
+        },
+        {
+            "name": "Шарлотка на сметане",
+            "slug": "sharlotka-na-smetane"
+        },
+        {
+            "name": "Шарлотка с капустой",
+            "slug": "sharlotka-s-kapustoy"
+        }
+    ]
+}

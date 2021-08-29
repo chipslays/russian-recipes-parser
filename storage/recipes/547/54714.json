@@ -1,0 +1,83 @@
+{
+    "source": "https://vkuso.ru/recipe/vkusnaya-sgushhenka-po-domashnemu-za-15-minut/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Вкусная сгущенка по-домашнему за 15 минут",
+    "description": "Быстрый рецепт всеми любимого продукта.",
+    "note": "Такую сгущенку моно хранить в стеклянных банках. Использовать по необходимости для тортов, пирожных, любых десертов, сладких бутербродов.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/15/a543a9caca3b815_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/JCUdh6d52P0?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Соединить молоко с сахаром и сливочным маслом.",
+            "image": null
+        },
+        {
+            "text": "Довести до кипения на тихом огне. Варить в течение десяти минут на среднем огне.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерты для детей",
+            "slug": "deserty-dlya-detey"
+        },
+        {
+            "name": "Детские бутерброды",
+            "slug": "detskie-buterbrody"
+        },
+        {
+            "name": "Крем",
+            "slug": "krem"
+        },
+        {
+            "name": "Крем для торта",
+            "slug": "krem-dlya-torta"
+        },
+        {
+            "name": "Крем из сгущенки",
+            "slug": "krem-iz-sguschenki"
+        },
+        {
+            "name": "Сгущенка домашняя",
+            "slug": "sguschenka-domashnyaya"
+        }
+    ]
+}

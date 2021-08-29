@@ -1,0 +1,175 @@
+{
+    "source": "https://vkuso.ru/recipe/sochnye-myasnye-kotlety-so-slivkami/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Сочные мясные котлеты со сливками",
+    "description": null,
+    "note": "Желательно использовать смешанный фарш: курица и свинина, говядина и курица и так далее. Замачивать хлеб или булочку в сливках. Добавлять в котлетки только желток, белок сделает их жесткими. Лук нужно измельчить и потолочь для сочности. Чтобы они были сочными, развести кипятком фарш. Положить в котлеты натертый картофель, измельченную сырую капусту, чтобы придать воздушность. Лучше долить бульон, чем сметану и кефир. Обжарить котлетки в кляре, то есть, смеси яиц, муки и молока.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a9/461d57cb22be9a9_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мясной фарш",
+                    "slug": "myasnoy-farsh",
+                    "notes": null,
+                    "value": "600",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб",
+                    "slug": "hleb",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Пропустить мясо через мясорубку. Измельчить лук и растереть. Замочить в сливках булочку. Мелко натереть капусту или картофель. Все смешать, посыпать приправами, положить прессованный чесночок.",
+            "image": null
+        },
+        {
+            "text": "Отправить в холодильник. Слепить котлеты, добавить в них замороженную воду или бульон, для сочности. Обмакнуть котлеты в муку или кляр, обжарить до корочки со всех сторон.",
+            "image": null
+        },
+        {
+            "text": "Довести до готовности в духовке, налить чуть-чуть бульона, положить лавровый лист, перец и потушить сочные мясные котлеты еще минут пятнадцать на тихом огне.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Котлеты",
+            "slug": "kotlety"
+        },
+        {
+            "name": "Котлеты без яиц",
+            "slug": "kotlety-bez-yaic"
+        },
+        {
+            "name": "Котлеты в духовке",
+            "slug": "kotlety-v-duhovke"
+        },
+        {
+            "name": "Котлеты из говядины",
+            "slug": "kotlety-iz-govyadiny"
+        },
+        {
+            "name": "Котлеты из свинины",
+            "slug": "kotlety-iz-svininy"
+        },
+        {
+            "name": "Куриные котлеты",
+            "slug": "kurinye-kotlety"
+        },
+        {
+            "name": "Куриные котлеты в духовке",
+            "slug": "kurinye-kotlety-v-duhovke"
+        },
+        {
+            "name": "Мясные котлеты",
+            "slug": "myasnye-kotlety"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

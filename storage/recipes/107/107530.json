@@ -1,0 +1,252 @@
+{
+    "source": "https://vkuso.ru/recipe/107530-teplyj-salat-s-krevetkami-shampinonami-i-parmezanom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Теплый салат с креветками, шампиньонами и пармезаном",
+    "description": "Полноценное блюдо, его можно приготовить на ужин.",
+    "note": "Подать салат теплым.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ac/d0dae6d5dc09fac_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "креветки замороженные",
+                    "slug": "krevetki-zamorojennye",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "320",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры черри",
+                    "slug": "pomidory-cherri",
+                    "notes": null,
+                    "value": "15",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр фета",
+                    "slug": "syr-feta",
+                    "notes": null,
+                    "value": "220",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр пармезан",
+                    "slug": "syr-parmezan",
+                    "notes": null,
+                    "value": "120",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "руккола",
+                    "slug": "rukkola",
+                    "notes": null,
+                    "value": "45",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для заправки",
+            "list": [
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "30",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "горчица черная французская",
+                    "slug": "gorchica-chernaya-francuzskaya",
+                    "notes": null,
+                    "value": "15",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майоран",
+                    "slug": "mayoran",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Креветки разморозить.",
+            "image": null
+        },
+        {
+            "text": "Сыр «Пармезан» натереть.",
+            "image": null
+        },
+        {
+            "text": "В оливковое масло влить лимонный сок, положить французскую горчицу, перец, соль, майоран, хорошо перемешать.",
+            "image": null
+        },
+        {
+            "text": "Рукколу порвать руками.",
+            "image": null
+        },
+        {
+            "text": "Залить частью соуса.",
+            "image": null
+        },
+        {
+            "text": "Помидоры разрезать пополам и выложить на зелень.",
+            "image": null
+        },
+        {
+            "text": "Сыр «Фета» нарезать кубиками, добавить в салат.",
+            "image": null
+        },
+        {
+            "text": "Креветки очистить, нарезать шампиньоны.",
+            "image": null
+        },
+        {
+            "text": "Продукты обжарить на масле и выложить в общую массу горячими.",
+            "image": null
+        },
+        {
+            "text": "Полить соусом, посыпать тертым сыром «Пармезан».",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Овощные салаты",
+            "slug": "ovoschnye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из помидоров",
+            "slug": "salat-iz-pomidorov"
+        },
+        {
+            "name": "Салат морской коктейль",
+            "slug": "salat-morskoy-kokteyl"
+        },
+        {
+            "name": "Салат с грибами",
+            "slug": "salat-s-gribami"
+        },
+        {
+            "name": "Салат с грибами и сыром",
+            "slug": "salat-s-gribami-i-syrom"
+        },
+        {
+            "name": "Салат с креветками",
+            "slug": "salat-s-krevetkami"
+        },
+        {
+            "name": "Салат с креветками и помидорами",
+            "slug": "salat-s-krevetkami-i-pomidorami"
+        },
+        {
+            "name": "Салат с креветками и рукколой",
+            "slug": "salat-s-krevetkami-i-rukkoloy"
+        },
+        {
+            "name": "Салат с помидорами и сыром",
+            "slug": "salat-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Салат с помидорами черри",
+            "slug": "salat-s-pomidorami-cherri"
+        },
+        {
+            "name": "Салат с рукколой и помидорами",
+            "slug": "salat-s-rukkoloy-i-pomidorami"
+        },
+        {
+            "name": "Салат с рукколой и помидорами черри",
+            "slug": "salat-s-rukkoloy-i-pomidorami-cherri"
+        },
+        {
+            "name": "Салат с рукколой и сыром пармезан",
+            "slug": "salat-s-rukkoloy-i-syrom-parmezan"
+        },
+        {
+            "name": "Салат с твердым сыром",
+            "slug": "salat-s-tverdym-syrom"
+        },
+        {
+            "name": "Салат с шампиньонами",
+            "slug": "salat-s-shampinonami"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты из морепродуктов",
+            "slug": "salaty-iz-moreproduktov"
+        },
+        {
+            "name": "Салаты с рукколой",
+            "slug": "salaty-s-rukkoloy"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        },
+        {
+            "name": "Салаты с сыром фета",
+            "slug": "salaty-s-syrom-feta"
+        },
+        {
+            "name": "Теплый салат",
+            "slug": "tepliy-salat"
+        }
+    ]
+}

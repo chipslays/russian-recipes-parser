@@ -1,0 +1,75 @@
+{
+    "source": "https://vkuso.ru/recipe/parfe-iz-jogurta-s-kivi/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Парфе из йогурта с киви",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/57/ddf045e365d9a57_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "киви",
+                    "slug": "kivi",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "йогурта",
+                    "slug": "yogurta",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "меда",
+                    "slug": "meda",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "ванилина",
+                    "slug": "vanilina",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Взбить в блендере мед, йогурт, ванилин до однородности, нарезать киви на тонкие ломтики.",
+            "image": null
+        },
+        {
+            "text": "Выложить стенки ломтиками киви, аккуратно залить йогурт, украсить парфе из йогурта с киви миндальными хлопьями, подавать сразу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Парфе",
+            "slug": "parfe"
+        },
+        {
+            "name": "Фруктово-ягодные десерты",
+            "slug": "fruktovo-yagodnye-deserty"
+        }
+    ]
+}

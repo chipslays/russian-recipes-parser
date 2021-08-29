@@ -1,0 +1,151 @@
+{
+    "source": "https://vkuso.ru/recipe/kartofelno-morkovnyj-xleb-s-zelenyu/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Картофельно-морковный хлеб с зеленью",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/4c/4c03a22016c784c_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "растительного масла",
+                    "slug": "rastitelnogo-masla",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "4",
+                    "type": "клубня",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "йогурта",
+                    "slug": "yogurta",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлителя",
+                    "slug": "razryhlitelya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "черного молотого перца",
+                    "slug": "chernogo-molotogo-perca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соли",
+                    "slug": "soli",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить картофель и морковь, остудить, очистить, нарезать маленькими кубиками. Включить разогреваться до 380 градусов духовку.",
+            "image": null
+        },
+        {
+            "text": "Взбить венчиком яйцо, добавить, не прекращая взбивать масло, йогурт, постепенно всыпать смесь муки с разрыхлителем. Все аккуратно и тщательно смешать, добавить измельченные овощи, мелко нашинкованную зелень и базилик, присолить, поперчить, перемешать осторожно еще раз.",
+            "image": null
+        },
+        {
+            "text": "Смазать хлебную форму маслом, переложить смесь и запекать до образования сверху хлеба золотистой корочки (примерно около часа).",
+            "image": null
+        },
+        {
+            "text": "Картофельно-морковный  хлеб с зеленью подается к столу охлажденной, украсить веточками петрушки и базилика.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Бездрожжевой хлеб",
+            "slug": "bezdrojjevoy-hleb"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка на йогурте",
+            "slug": "vypechka-na-yogurte"
+        },
+        {
+            "name": "Картофельный хлеб",
+            "slug": "kartofelniy-hleb"
+        },
+        {
+            "name": "Хлеб домашний",
+            "slug": "hleb-domashniy"
+        }
+    ]
+}

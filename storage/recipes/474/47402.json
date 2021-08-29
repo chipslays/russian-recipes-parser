@@ -1,0 +1,123 @@
+{
+    "source": "https://vkuso.ru/recipe/dieticheskie-manno-ovsyanye-oladi/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Диетические манно-овсяные оладьи",
+    "description": "Блинчики выпекаются без муки, манка и овсяные хлопья имеют низкую калорийность. Куриные яйца «свяжут» обе крупы в единое и неразрывное целое.",
+    "note": "При подаче сложить блинчики «башенкой», украсить блюдо кружочками очищенного банана, свежими или замороженными лесными ягодами, любым джемом или вареньем. Другой вариант: промазать готовые блинчики джемом, сложить друг на друга и подать в виде небольшого «тортика».",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/af/86af8f7b4a264af_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "овсяные хлопья",
+                    "slug": "ovsyanye-hlopya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "манная крупа",
+                    "slug": "mannaya-krupa",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Перемешать овсяные хлопья и манную крупу.",
+            "image": null
+        },
+        {
+            "text": "Залить смесь кефиром, оставить на два часа или на ночь для набухания. Это обязательно, в противном случае блинчики просто развалятся в процессе обжаривания.",
+            "image": null
+        },
+        {
+            "text": "Взбить венчиком сырые куриные яйца, добавить в крупу вместе с пищевой содой. Еще раз все перемешать, снова взбить венчиком.",
+            "image": null
+        },
+        {
+            "text": "Выкладывать массу на сковороду ложкой, обжаривать с двух сторон до готовности.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без муки",
+            "slug": "vypechka-bez-muki"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Детский завтрак",
+            "slug": "detskiy-zavtrak"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Овсянка на завтрак",
+            "slug": "ovsyanka-na-zavtrak"
+        },
+        {
+            "name": "Овсяные оладьи",
+            "slug": "ovsyanye-oladi"
+        },
+        {
+            "name": "Оладьи",
+            "slug": "oladi"
+        },
+        {
+            "name": "Оладьи без дрожжей",
+            "slug": "oladi-bez-drojjey"
+        },
+        {
+            "name": "Оладьи без муки",
+            "slug": "oladi-bez-muki"
+        },
+        {
+            "name": "Оладьи на кефире",
+            "slug": "oladi-na-kefire"
+        }
+    ]
+}

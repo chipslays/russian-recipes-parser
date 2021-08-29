@@ -1,0 +1,223 @@
+{
+    "source": "https://vkuso.ru/recipe/kurica-s-shampinonami-i-goroshkom-v-multivarke/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Курица с шампиньонами и горошком в мультиварке",
+    "description": "Блюдо для будней и праздников, приготовление не требует много сил и времени.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/bb/891b1dbbf2d00bb_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "зеленый горошек",
+                    "slug": "zeleniy-goroshek",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сливки 10%",
+                    "slug": "slivki-10",
+                    "notes": null,
+                    "value": "20",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать кубиками репчатый лук, обжарить в предварительно нагретой мультиварке с растительным маслом в режиме «Выпечка».",
+            "image": null
+        },
+        {
+            "text": "Сырое куриное филе нарезать кубиками и добавить к луку.",
+            "image": null
+        },
+        {
+            "text": "Крупно нарезать свежие шампиньоны, добавить в основную смесь, все прогреть в том же режиме, в течение получаса.",
+            "image": null
+        },
+        {
+            "text": "Почти при готовности блюдо посолить и поперчить, всыпать пшеничную муку, массу перемешать и жарить три минуты.",
+            "image": null
+        },
+        {
+            "text": "Влить сливки, довести до кипения.",
+            "image": null
+        },
+        {
+            "text": "Затем влить воду, прогревать 20 минут в режиме «Тушение».",
+            "image": null
+        },
+        {
+            "text": "За пять минут до готовности добавить зеленый горошек.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Вторые блюда в мультиварке",
+            "slug": "vtorye-blyuda-v-multivarke"
+        },
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Грибы в мультиварке",
+            "slug": "griby-v-multivarke"
+        },
+        {
+            "name": "Грибы со сливками",
+            "slug": "griby-so-slivkami"
+        },
+        {
+            "name": "Куриное филе в мультиварке",
+            "slug": "kurinoe-file-v-multivarke"
+        },
+        {
+            "name": "Куриное филе в сливочном соусе",
+            "slug": "kurinoe-file-v-slivochnom-souse"
+        },
+        {
+            "name": "Куриное филе с грибами",
+            "slug": "kurinoe-file-s-gribami"
+        },
+        {
+            "name": "Куриное филе с шампиньонами",
+            "slug": "kurinoe-file-s-shampinonami"
+        },
+        {
+            "name": "Курица в мультиварке",
+            "slug": "kurica-v-multivarke"
+        },
+        {
+            "name": "Курица в сливочном соусе",
+            "slug": "kurica-v-slivochnom-souse"
+        },
+        {
+            "name": "Курица с грибами",
+            "slug": "kurica-s-gribami"
+        },
+        {
+            "name": "Курица с шампиньонами",
+            "slug": "kurica-s-shampinonami"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Мясо в мультиварке",
+            "slug": "myaso-v-multivarke"
+        },
+        {
+            "name": "Тушеная курица в мультиварке",
+            "slug": "tushenaya-kurica-v-multivarke"
+        },
+        {
+            "name": "Ужин в мультиварке",
+            "slug": "ujin-v-multivarke"
+        },
+        {
+            "name": "Ужин из куриного филе",
+            "slug": "ujin-iz-kurinogo-file"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        },
+        {
+            "name": "Шампиньоны в мультиварке",
+            "slug": "shampinony-v-multivarke"
+        }
+    ]
+}

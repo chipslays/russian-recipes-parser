@@ -1,0 +1,123 @@
+{
+    "source": "https://vkuso.ru/recipe/vanilnaya-zapekanka-iz-tvoroga-bez-muki/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Ванильная запеканка из творога без муки",
+    "description": "Готовится без муки, быстро, несложно, с процессом приготовления справится даже неопытный кулинар.",
+    "note": "Украсить свежими или размороженными ягодами: ежевикой, малиной, вишней. Посыпать цукатами, приготовленными из кожицы апельсина или лимона, распаренным изюмом без косточек.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b0/32fc1b97c632db0_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко сгущенное",
+                    "slug": "moloko-sguschennoe",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "ваниль",
+                    "slug": "vanil",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Взбить творог с яйцами, вручную или с помощью кухонной техники (миксер, блендер). Добавить сгущенное молоко и горошинки ванили из стручков, снова взбить. Ваниль можно заменить той, что продается в пакетиках.",
+            "image": null
+        },
+        {
+            "text": "Формочки для выпечки хорошо смазать растопленным сливочным маслом, выложить массу, печь 50 – 60 минут. Массу выкладывать не до верха, она поднимется в процессе термообработки.",
+            "image": null
+        },
+        {
+            "text": "Ванильную запеканку из творога без муки остудить или подать горячей. Порезать на порции. При подаче можно полить растопленным шоколадом или вареньем, кисловатым джемом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без муки",
+            "slug": "vypechka-bez-muki"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка на скорую руку",
+            "slug": "vypechka-na-skoruyu-ruku"
+        },
+        {
+            "name": "Выпечка со сгущенкой",
+            "slug": "vypechka-so-sguschenkoy"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Запеканки",
+            "slug": "zapekanki"
+        },
+        {
+            "name": "Полдник",
+            "slug": "poldnik"
+        },
+        {
+            "name": "Творожная запеканка",
+            "slug": "tvorojnaya-zapekanka"
+        },
+        {
+            "name": "Творожная запеканка без манки",
+            "slug": "tvorojnaya-zapekanka-bez-manki"
+        },
+        {
+            "name": "Творожная запеканка в духовке",
+            "slug": "tvorojnaya-zapekanka-v-duhovke"
+        }
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "source": "https://vkuso.ru/recipe/109211-samsa-s-govyadinoj-i-tykvoj-iz-sloenogo-testa/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Самса с говядиной и тыквой из слоеного теста",
+    "description": "Сытный вариант выпечки с говяжьим мясом.",
+    "note": "Говядину можно заменить на баранину.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/6d/7c13bb3cf5a656d_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 8 порции",
+            "list": [
+                {
+                    "name": "тесто слоеное",
+                    "slug": "testo-sloenoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "тыква",
+                    "slug": "tykva",
+                    "notes": null,
+                    "value": "650",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "говядина",
+                    "slug": "govyadina",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "жир",
+                    "slug": "jir",
+                    "notes": " (бараний)",
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец острый",
+                    "slug": "perec-ostriy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стручок",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Тыкву очистить, мякоть нарезать кубиками небольшого размера.",
+            "image": null
+        },
+        {
+            "text": "Перемешать с бараньим жиром, кусочками говядины, лука и острого стручкового перца.",
+            "image": null
+        },
+        {
+            "text": "Начинку перемешать, посолить, подлить растительное масло.",
+            "image": null
+        },
+        {
+            "text": "Слоеное тесто разморозить, свернуть в рулет, разрезать на кусочки.",
+            "image": null
+        },
+        {
+            "text": "Раскатать лепешки, сформовать треугольные пирожки.",
+            "image": null
+        },
+        {
+            "text": "Выложить самсу на противень, смазать яйцом, печь в духовке в течение получаса при температуре 200 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из слоеного теста",
+            "slug": "vypechka-iz-sloenogo-testa"
+        },
+        {
+            "name": "Выпечка с луком",
+            "slug": "vypechka-s-lukom"
+        },
+        {
+            "name": "Выпечка с тыквой",
+            "slug": "vypechka-s-tykvoy"
+        },
+        {
+            "name": "Говядина в духовке",
+            "slug": "govyadina-v-duhovke"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки без дрожжей",
+            "slug": "pirojki-bez-drojjey"
+        },
+        {
+            "name": "Пирожки в духовке",
+            "slug": "pirojki-v-duhovke"
+        },
+        {
+            "name": "Пирожки с мясом",
+            "slug": "pirojki-s-myasom"
+        },
+        {
+            "name": "Пирожки с тыквой",
+            "slug": "pirojki-s-tykvoy"
+        },
+        {
+            "name": "Самса",
+            "slug": "samsa"
+        },
+        {
+            "name": "Самса из слоеного теста",
+            "slug": "samsa-iz-sloenogo-testa"
+        },
+        {
+            "name": "Самса с тыквой",
+            "slug": "samsa-s-tykvoy"
+        },
+        {
+            "name": "Слоеные пирожки",
+            "slug": "sloenye-pirojki"
+        },
+        {
+            "name": "Тыква в духовке",
+            "slug": "tykva-v-duhovke"
+        }
+    ]
+}

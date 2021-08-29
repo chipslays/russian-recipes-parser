@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/nizkokalorijnyj-ovoshhnoj-sup-s-syrom/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Низкокалорийный овощной суп с сыром",
+    "description": "Суп на скорую руку, главное, чтобы в холодильнике оказались все нужные ингредиенты.",
+    "note": "Вместо российского сыра в суп можно положить плавленые сырки, влить сливки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/31/79e1a99c17f3131_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "овощная смесь замороженная",
+                    "slug": "ovoschnaya-smes-zamorojennaya",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр российский",
+                    "slug": "syr-rossiyskiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца вареные",
+                    "slug": "yayca-varenye",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень свежая",
+                    "slug": "zelen-svejaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Вскипятить воду.",
+            "image": null
+        },
+        {
+            "text": "Всыпать смесь свежих или замороженных овощей, состав – на вкус хозяйки.",
+            "image": null
+        },
+        {
+            "text": "Натереть сыр, добавить в суп, помешивать до растворения.",
+            "image": null
+        },
+        {
+            "text": "При подаче положить в суп нарезанное кубиками отваренное яйцо и рубленую зелень укропа или петрушки, кинзы.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетический суп",
+            "slug": "dieticheskiy-sup"
+        },
+        {
+            "name": "Низкокалорийные",
+            "slug": "nizkokaloriynye"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Специальное питание",
+            "slug": "specialnoe-pitanie"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп для похудения",
+            "slug": "sup-dlya-pohudeniya"
+        },
+        {
+            "name": "Супы на скорую руку",
+            "slug": "supy-na-skoruyu-ruku"
+        },
+        {
+            "name": "Сырный суп",
+            "slug": "syrniy-sup"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

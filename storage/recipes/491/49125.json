@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/kukuruznye-sendvichi-s-shampinonami-i-syrom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Кукурузные сэндвичи с шампиньонами и сыром",
+    "description": null,
+    "note": "Кукурузные сэндвичи с шампиньонами и сыром подавать горячими, порезав на 2 или 4 части. Можно подавать с соусом сальса.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f7/031cef3b58d3ff7_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр чеддер",
+                    "slug": "syr-chedder",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "тортильи кукурузные",
+                    "slug": "tortili-kukuruznye",
+                    "notes": null,
+                    "value": "12",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец острый зеленый",
+                    "slug": "perec-ostriy-zeleniy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Порезать шампиньоны на тоненькие пластины. Потереть сыр. Почистить от семян перец, тоненько порезать.",
+            "image": null
+        },
+        {
+            "text": "Положить в растопленное масло порезанные грибы, жарить 3-5 минут.",
+            "image": null
+        },
+        {
+            "text": "Положить кукурузную тортилью на горячую сковороду, намазанную растительным маслом. На тортилью положить сыр, сверху грибы, потом перец.",
+            "image": null
+        },
+        {
+            "text": "Накрыть второй лепешкой, чуть-чуть прижать. Нагреть сэндвичи по несколько минут с каждой стороны. Так же приготовить другие сэндвичи.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды с грибами",
+            "slug": "buterbrody-s-gribami"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Закрытые бутерброды",
+            "slug": "zakrytye-buterbrody"
+        },
+        {
+            "name": "Закуски из грибов",
+            "slug": "zakuski-iz-gribov"
+        },
+        {
+            "name": "Сэндвич с сыром",
+            "slug": "sendvich-s-syrom"
+        },
+        {
+            "name": "Сэндвичи",
+            "slug": "sendvichi"
+        }
+    ]
+}

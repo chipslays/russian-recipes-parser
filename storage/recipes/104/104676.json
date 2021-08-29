@@ -1,0 +1,320 @@
+{
+    "source": "https://vkuso.ru/recipe/104676-sup-xarcho-iz-baraniny-s-pryanostyami-i-toplenym-maslom/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Суп харчо из баранины с пряностями и топленым маслом",
+    "description": "Наваристый суп с бараньими косточками и корнеплодами. Для приготовления бульона использовать баранью шейку с косточками и хрящиками. Чтобы сделать суп еще более наваристым, можно положить еще несколько сахарных косточек.",
+    "note": "Чтобы суп получился полупрозрачным, первую воду при отваривании мяса можно слить.",
+    "cuisine": "Грузинская кухня",
+    "cuisine_slug": "gruzinskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ed/09a8767bfa219ed_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "3 часа 40 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "масло топленое",
+                    "slug": "maslo-toplenoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "несколько",
+                    "type": "зубчиков",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кориандр",
+                    "slug": "koriandr",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зира",
+                    "slug": "zira",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец красный жгучий",
+                    "slug": "perec-krasniy-jguchiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный свежемолотый",
+                    "slug": "perec-cherniy-svejemolotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для бульона",
+            "list": [
+                {
+                    "name": "баранина",
+                    "slug": "baranina",
+                    "notes": null,
+                    "value": "2",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "корень петрушки",
+                    "slug": "koren-petrushki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "корень сельдерея",
+                    "slug": "koren-seldereya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень свежая",
+                    "slug": "zelen-svejaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "бадьян",
+                    "slug": "badyan",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "смесь пряных трав",
+                    "slug": "smes-pryanyh-trav",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец душистый",
+                    "slug": "perec-dushistiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Вымыть мясо, залить холодной водой и поставить на огонь. Пену снимать по мере появления.",
+            "image": null
+        },
+        {
+            "text": "Когда пена перестанет появляться – положить в бульон луковицу с неснятой кожурой, перец-горошек, морковь, лавровый лист, сушеные травы, корни петрушки и сельдерея, бадьян, соль, веточки зелени.",
+            "image": null
+        },
+        {
+            "text": "Убавить температуру кипения до минимальной величины, томить суп под крышкой не менее трех часов.",
+            "image": null
+        },
+        {
+            "text": "Нарезать или пропустить через пресс чеснок, нашинковать лук кубиками среднего размера, ошпарить и очистить помидоры, измельчить мякоть.",
+            "image": null
+        },
+        {
+            "text": "Порубить и перетереть в ступке острый перец и чеснок.",
+            "image": null
+        },
+        {
+            "text": "Рис промыть несколько раз, замочить в свежей воде на 30 минут.",
+            "image": null
+        },
+        {
+            "text": "Потолочь зиру, кориандр, ароматные перцы.",
+            "image": null
+        },
+        {
+            "text": "Прогреть на огне казан, положить топленое коровье масло, всыпать лук, прогреть до прозрачности.",
+            "image": null
+        },
+        {
+            "text": "Добавить жир, собранный с бульона, немного самого отвара. Потушить пять или семь минут.",
+            "image": null
+        },
+        {
+            "text": "Всыпать помидоры, положить мясо из бульона, прогреть все вместе пять минут.",
+            "image": null
+        },
+        {
+            "text": "Добавить перетертые пряности, потомить десять минут.",
+            "image": null
+        },
+        {
+            "text": "Влить в казан заранее процеженный бульон, насыпать рис.",
+            "image": null
+        },
+        {
+            "text": "Томить харчо в течение 20 минут на слабом огне.",
+            "image": null
+        },
+        {
+            "text": "В конце положить смесь чеснока и зелени.",
+            "image": null
+        },
+        {
+            "text": "Погасить огонь, дать супу постоять, подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Рис с мясом",
+            "slug": "ris-s-myasom"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп из сельдерея",
+            "slug": "sup-iz-seldereya"
+        },
+        {
+            "name": "Суп на мясном бульоне",
+            "slug": "sup-na-myasnom-bulone"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Суп с рисом",
+            "slug": "sup-s-risom"
+        },
+        {
+            "name": "Суп Харчо",
+            "slug": "sup-harcho"
+        },
+        {
+            "name": "Супы с крупами",
+            "slug": "supy-s-krupami"
+        },
+        {
+            "name": "Харчо из баранины",
+            "slug": "harcho-iz-baraniny"
+        },
+        {
+            "name": "Харчо по-грузински",
+            "slug": "harcho-po-gruzinski"
+        }
+    ]
+}

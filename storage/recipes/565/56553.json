@@ -1,0 +1,199 @@
+{
+    "source": "https://vkuso.ru/recipe/tvorozhno-mannaya-zapekanka-zebra/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Творожно-манная запеканка «Зебра»",
+    "description": null,
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/bd/2b0ae388f0d9dbd_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "150",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "ванилин",
+                    "slug": "vanilin",
+                    "notes": null,
+                    "value": "2",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "2",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "манная крупа",
+                    "slug": "mannaya-krupa",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "какао-порошок",
+                    "slug": "kakao-poroshok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Положить в творог яйца, соль, ваниль, сахар. Размешать. Налить молоко, насыпать манную крупу. Размешать. Поделить тесто пополам. В одну насыпать какао.",
+            "image": null
+        },
+        {
+            "text": "Смазать формочку маслом, положить сначала белое, потом коричневое тесто и так далее, пока не закончится тесто. Сделать запеканку можно несколькими способами.",
+            "image": null
+        },
+        {
+            "text": "Отправить в духовку минут на сорок, соблюдать температуру 170 градусов.",
+            "image": null
+        },
+        {
+            "text": "Или можно сделать в микроволновой печи. Включить на самую большую мощность, установить таймер на десять минут. Не доставать из печи еще минуты две.",
+            "image": null
+        },
+        {
+            "text": "Достать творожно-манную запеканку «Зебра» из формочки, остудить, порезать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блюда из творога для детей",
+            "slug": "blyuda-iz-tvoroga-dlya-detey"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Выпечка в микроволновке",
+            "slug": "vypechka-v-mikrovolnovke"
+        },
+        {
+            "name": "Выпечка для детей",
+            "slug": "vypechka-dlya-detey"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Детская запеканка",
+            "slug": "detskaya-zapekanka"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Детский завтрак",
+            "slug": "detskiy-zavtrak"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Запеканка в микроволновке",
+            "slug": "zapekanka-v-mikrovolnovke"
+        },
+        {
+            "name": "Запеканка с манкой",
+            "slug": "zapekanka-s-mankoy"
+        },
+        {
+            "name": "Запеканки",
+            "slug": "zapekanki"
+        },
+        {
+            "name": "Микроволновка",
+            "slug": "mikrovolnovka"
+        },
+        {
+            "name": "Полдник",
+            "slug": "poldnik"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Простые рецепты для детей",
+            "slug": "prostye-recepty-dlya-detey"
+        },
+        {
+            "name": "Сладкие запеканки",
+            "slug": "sladkie-zapekanki"
+        },
+        {
+            "name": "Творожная запеканка",
+            "slug": "tvorojnaya-zapekanka"
+        },
+        {
+            "name": "Творожная запеканка в духовке",
+            "slug": "tvorojnaya-zapekanka-v-duhovke"
+        },
+        {
+            "name": "Творожная запеканка в микроволновке",
+            "slug": "tvorojnaya-zapekanka-v-mikrovolnovke"
+        },
+        {
+            "name": "Творожная запеканка с манкой﻿",
+            "slug": "tvorojnaya-zapekanka-s-mankoy"
+        }
+    ]
+}

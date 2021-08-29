@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/tvorozhno-mannyj-puding-s-izyumom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Творожно-манный пудинг с изюмом",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b1/0f77b7bcff009b1_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творога",
+                    "slug": "tvoroga",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молока",
+                    "slug": "moloka",
+                    "notes": null,
+                    "value": "350",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "манной крупы",
+                    "slug": "mannoy-krupy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахара",
+                    "slug": "sahara",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "изюма",
+                    "slug": "izyuma",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "4"
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "ванилин",
+                    "slug": "vanilin",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Всыпать манную крупу в холодное молоко, перемешать и поварить в течение 5 минут до загустения, остудить.",
+            "image": null
+        },
+        {
+            "text": "Яичные желтки взбить со 100 г сахара, влить в творог, добавить ванилин и взбить все миксером.",
+            "image": null
+        },
+        {
+            "text": "В получившуюся смесь добавить манную массу, еще раз взбить.",
+            "image": null
+        },
+        {
+            "text": "С оставшимся сахаром взбить белки, добавить их в творожно-манную массу и перемешать, по желанию добавить изюм и/или цедру лимона.",
+            "image": null
+        },
+        {
+            "text": "Выложить тесто в заранее смазанную растительным маслом форму.",
+            "image": null
+        },
+        {
+            "text": "Выпекать творожно-манный пудинг с изюмом в духовом шкафу при 180 градусах до появления золотистой корочки.",
+            "image": null
+        },
+        {
+            "text": "Готовый пудинг остудить, при желании можно подать его со сметаной.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка с изюмом",
+            "slug": "vypechka-s-izyumom"
+        },
+        {
+            "name": "Выпечка с сухофруктами",
+            "slug": "vypechka-s-suhofruktami"
+        },
+        {
+            "name": "Манный пудинг",
+            "slug": "manniy-puding"
+        },
+        {
+            "name": "Пудинг",
+            "slug": "puding"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        },
+        {
+            "name": "Творожный пудинг",
+            "slug": "tvorojniy-puding"
+        }
+    ]
+}

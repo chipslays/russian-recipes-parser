@@ -1,0 +1,155 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-s-kartofelem-shprotami-i-suxarikami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат с картофелем, шпротами и сухариками",
+    "description": "Легендарный салат из советского времени.",
+    "note": "Сухарики лучше добавлять в блюдо незадолго перед подачей, чтобы они не размокли.",
+    "cuisine": "Советская кухня СССР",
+    "cuisine_slug": "sovetskaya-kuhnya-sssr",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e6/d3d36db1cb8f5e6_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/TqUWbgaVXLo?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофель отварной",
+                    "slug": "kartofel-otvarnoy",
+                    "notes": " (запеченный)",
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шпроты",
+                    "slug": "shproty",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб белый",
+                    "slug": "hleb-beliy",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": " (лук зеленый)",
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Белый хлеб нарезать мелкими кубиками, запечь на противне в духовом шкафу в течение 20 минут, температура – 180 градусов.",
+            "image": null
+        },
+        {
+            "text": "Зеленый или репчатый лук измельчить, яйца и отваренный картофель нарезать кубиками. Продукты перемешать.",
+            "image": null
+        },
+        {
+            "text": "Слить масло со шпрот, рыбу нарезать, переложить в салат.",
+            "image": null
+        },
+        {
+            "text": "Сухарики перемешать с маслом от консервов, половину добавить в блюдо.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления соуса понадобится лимонный сок, майонез, перец и соль. Заправить салат, посыпать остатками сухарей, зеленым луком.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с картофелем",
+            "slug": "salat-s-kartofelem"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с рыбными консервами",
+            "slug": "salat-s-rybnymi-konservami"
+        },
+        {
+            "name": "Салат с рыбой",
+            "slug": "salat-s-ryboy"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты со шпротами",
+            "slug": "salaty-so-shprotami"
+        }
+    ]
+}

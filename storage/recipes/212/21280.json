@@ -1,0 +1,183 @@
+{
+    "source": "https://vkuso.ru/recipe/shhavelevyj-ukrainskij-sup/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Щавелевый украинский суп",
+    "description": null,
+    "note": null,
+    "cuisine": "Украинская кухня",
+    "cuisine_slug": "ukrainskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/88/aca04bf9d181588_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "щавель",
+                    "slug": "schavel",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "7",
+                    "type": "стаканов",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Морковь, картофель и лук измельчить (небольшими кубиками). Подогреть в кастрюле масло, положить морковь, лук и тушить, часто помешивая, пока лук не будет прозрачным (минут 5). Не передержите, чтобы овощи не приобрели коричневый оттенок. Потом влить бульон или воду, вскипятить, убрать пену и добавить измельченный картофель.",
+            "image": null
+        },
+        {
+            "text": "Варить на маленьком огне, пока кусочки картофеля не станут мягкими (минут 15-20). Положить в суп соль и лавровый лист. Щавель порубить, добавить в кастрюлю и подождать, пока он поменяет цвет. Добавить черный перец молотый и по вкусу можно еще посолить.",
+            "image": null
+        },
+        {
+            "text": "Варить еще минут 7, потом добавить измельченную зелень и убрать с плиты. Яйца сварить вкрутую (расчет – пол яйца на человека) и порезать кубиками. Подавать щавелевый украинский суп в порционных тарелках, украсить травами. В каждую тарелку добавить яйцо и сметану.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Борщ",
+            "slug": "borsch"
+        },
+        {
+            "name": "Борщ без капусты",
+            "slug": "borsch-bez-kapusty"
+        },
+        {
+            "name": "Борщ без мяса",
+            "slug": "borsch-bez-myasa"
+        },
+        {
+            "name": "Борщ без свеклы",
+            "slug": "borsch-bez-svekly"
+        },
+        {
+            "name": "Борщ со щавелем",
+            "slug": "borsch-so-schavelem"
+        },
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Зеленый борщ",
+            "slug": "zeleniy-borsch"
+        },
+        {
+            "name": "Лакто-ово-вегетарианство",
+            "slug": "lakto-ovo-vegetarianstvo"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Щавелевый суп",
+            "slug": "schaveleviy-sup"
+        }
+    ]
+}

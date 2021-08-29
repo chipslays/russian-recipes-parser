@@ -1,0 +1,160 @@
+{
+    "source": "https://vkuso.ru/recipe/bulochki-ensaimadas-po-ispanski/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Булочки «Ensaimadas» по-испански",
+    "description": "В испанском рецепте присутствует свиной жир, со своим специфическим привкусом и запахом. Но в нашем рецепте жир заменен на более приемлемое сливочное масло.",
+    "note": null,
+    "cuisine": "Испанская кухня",
+    "cuisine_slug": "ispanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/8d/37fc32b682ae58d_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "120",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1/4",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "вишня/яблоки",
+                    "slug": "vishnya-yabloki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В миске смешать сухие дрожжи, сахар, соль и муку. Если воспользоваться миксером или кухонным комбайном, дело пойдет веселее. Затем добавить воду, растительное масло и яйца. Вымесить мягкое тесто, которое не липнет к рукам. Скатать шарик и накрыть пищевой пленкой. Тесто должно подойти и увеличиться в размере.",
+            "image": null
+        },
+        {
+            "text": "Затем этот шарик разделить на 4 части и каждую раскатать в тонкий пласт по форме квадрат. Нанести слой сливочного масла, смазав обильно всю поверхность теста. На одну сторону расположить начинку из фруктов с сахаром и пряностей. Свернуть тесто, сформировав тонкий аккуратный рулет.",
+            "image": null
+        },
+        {
+            "text": "Затем рулет свернуть в форме улитки. Верх смазать топленым сливочным маслом. Булочки поставить в теплое место, чтобы они подошли. Выпекать в духовке 20 минут при температуре 180 градусов. Готовые румяные булочки «Ensaimadas» посыпать сахаром или пудрой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Булочки",
+            "slug": "bulochki"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка с вишней",
+            "slug": "vypechka-s-vishney"
+        },
+        {
+            "name": "Выпечка с яблоками",
+            "slug": "vypechka-s-yablokami"
+        },
+        {
+            "name": "Домашние булочки",
+            "slug": "domashnie-bulochki"
+        },
+        {
+            "name": "Дрожжевые булочки",
+            "slug": "drojjevye-bulochki"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        }
+    ]
+}

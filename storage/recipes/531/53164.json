@@ -1,0 +1,175 @@
+{
+    "source": "https://vkuso.ru/recipe/pasta-farfalle-s-lesnymi-gribami/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Паста фарфалле с лесными грибами",
+    "description": "Несложное блюдо с запахом леса и лета. Макароны – универсальный продукт, который способен приобретать вкус того соуса, которым он заливается.",
+    "note": "По желанию готовое блюдо можно посыпать рубленой зеленью укропа и петрушки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/7e/3457873572e327e_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "грибы лесные",
+                    "slug": "griby-lesnye",
+                    "notes": null,
+                    "value": "800",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки 20%",
+                    "slug": "slivki-20",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "паста фарфалле «бабочки»",
+                    "slug": "pasta-farfalle-babochki",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр пармезан тертый",
+                    "slug": "syr-parmezan-tertiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "горсть",
+                    "amount": null
+                },
+                {
+                    "name": "орегано сушеный",
+                    "slug": "oregano-susheniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "смесь перцев молотых",
+                    "slug": "smes-percev-molotyh",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Грибы очистить и нарезать, потушить в течение 15 минут с растительным маслом, соль – по вкусу.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/cd/b053c9cc62cdacd_434x295.jpg"
+        },
+        {
+            "text": "Влить сливки, всыпать молотый перец и орегано. Потомить от пяти до десяти минут.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/4b/8d35da7fbfaac4b_434x295.jpg"
+        },
+        {
+            "text": "Отварить макароны фарфалле и натереть сыр «Пармезан».",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/1f/db55735a39ab51f_434x295.jpg"
+        },
+        {
+            "text": "В порционную тарелку выложить пасту, затем грибы в соусе, посыпать сыром.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/7e/3457873572e327e_434x295.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Вторые блюда из макарон",
+            "slug": "vtorye-blyuda-iz-makaron"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Гарнир к курице",
+            "slug": "garnir-k-kurice"
+        },
+        {
+            "name": "Гарниры",
+            "slug": "garniry"
+        },
+        {
+            "name": "Грибные соусы",
+            "slug": "gribnye-sousy"
+        },
+        {
+            "name": "Макароны с грибами",
+            "slug": "makarony-s-gribami"
+        },
+        {
+            "name": "Макароны с соусом",
+            "slug": "makarony-s-sousom"
+        },
+        {
+            "name": "Макароны с сыром",
+            "slug": "makarony-s-syrom"
+        },
+        {
+            "name": "Паста",
+            "slug": "pasta"
+        },
+        {
+            "name": "Паста в сливочном соусе",
+            "slug": "pasta-v-slivochnom-souse"
+        },
+        {
+            "name": "Паста с грибами",
+            "slug": "pasta-s-gribami"
+        },
+        {
+            "name": "Паста с грибами в сливочном соусе",
+            "slug": "pasta-s-gribami-v-slivochnom-souse"
+        },
+        {
+            "name": "Паста с соусом",
+            "slug": "pasta-s-sousom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ужин из макарон",
+            "slug": "ujin-iz-makaron"
+        }
+    ]
+}

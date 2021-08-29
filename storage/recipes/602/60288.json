@@ -1,0 +1,115 @@
+{
+    "source": "https://vkuso.ru/recipe/goryachij-shokolad-so-smetanoj-po-francuzski/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Горячий шоколад со сметаной по-французски",
+    "description": "Горячий напиток, которым так приятно побаловать себя в холодный день, это не просто жидкость, это настоящий коктейль с продуманным набором ингредиентов.",
+    "note": "В шоколад можно вмешать молотую корицу или другие ингредиенты: виски, ликер, мёд, щепотку кофе. Вместо сметаны добавить молоко, прогретое вместе с кукурузной мукой.",
+    "cuisine": "Французская кухня",
+    "cuisine_slug": "francuzskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f1/7f91e03105cd9f1_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "3",
+                    "type": "чашки",
+                    "amount": null
+                },
+                {
+                    "name": "сметана 35%",
+                    "slug": "smetana-35",
+                    "notes": null,
+                    "value": "1",
+                    "type": "чашка",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "чашки",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад черный горький",
+                    "slug": "shokolad-cherniy-gorkiy",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "чашки",
+                    "amount": null
+                },
+                {
+                    "name": "сахар ванильный",
+                    "slug": "sahar-vanilniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В емкости большого размера смешать молоко, сметану.",
+            "image": null
+        },
+        {
+            "text": "Смесь подогреть на тихом огне, до кипения не доводить.",
+            "image": null
+        },
+        {
+            "text": "В другой кастрюле перемешать измельченный черный шоколад, соль и сахар.",
+            "image": null
+        },
+        {
+            "text": "Влить молоко и всыпать ванильный сахар.",
+            "image": null
+        },
+        {
+            "text": "Все перемешать в большой кастрюле, оставить на две минуты на огне, затем разлить в чашки.",
+            "image": null
+        },
+        {
+            "text": "Оставшуюся сметану взбить, пенку выложить поверх горячего напитка чайной ложкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Горячий шоколад",
+            "slug": "goryachiy-shokolad"
+        },
+        {
+            "name": "Напитки с молоком",
+            "slug": "napitki-s-molokom"
+        },
+        {
+            "name": "Шоколадные напитки",
+            "slug": "shokoladnye-napitki"
+        }
+    ]
+}

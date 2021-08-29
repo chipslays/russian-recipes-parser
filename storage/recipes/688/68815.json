@@ -1,0 +1,119 @@
+{
+    "source": "https://vkuso.ru/recipe/molochnyj-sup-s-vermishelyu-i-kartofelem-bez-saxara/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Молочный суп с вермишелью и картофелем без сахара",
+    "description": "Это вариант более сытного супа. Только подавать к столу его надо сразу, иначе он будет напоминать по консистенции кашу.",
+    "note": "При желании в тарелках присыпать порубленной зеленью укропа.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/0f/98cb61588da9b0f_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "350",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вермишель",
+                    "slug": "vermishel",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "по вкусу",
+                    "type": "",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить картофель, порезанные на мелкие кубики, до мягкости, т.к. в молоке он не разваривается, вода должна лишь чуть-чуть покрывать картофель.",
+            "image": null
+        },
+        {
+            "text": "Довести молоко, почти до кипения, залить им картошку.",
+            "image": null
+        },
+        {
+            "text": "Добавить вермишель.",
+            "image": null
+        },
+        {
+            "text": "Варить молочный суп с вермишелью и картофелем без сахара до готовности.",
+            "image": null
+        },
+        {
+            "text": "Перед окончанием варки подсолить и добавить любимые специи по вкусу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Картофельный суп",
+            "slug": "kartofelniy-sup"
+        },
+        {
+            "name": "Молочный суп",
+            "slug": "molochniy-sup"
+        },
+        {
+            "name": "Молочный суп с вермишелью",
+            "slug": "molochniy-sup-s-vermishelyu"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп с вермишелью",
+            "slug": "sup-s-vermishelyu"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        }
+    ]
+}

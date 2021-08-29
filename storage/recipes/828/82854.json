@@ -1,0 +1,107 @@
+{
+    "source": "https://vkuso.ru/recipe/82854-smorodinovoe-varene-s-malinoj-na-zimu/",
+    "category": "Заготовки",
+    "category_slug": "zagotovki",
+    "title": "Смородиновое варенье с малиной на зиму",
+    "description": "Вкусный продукт с максимумом витаминов.",
+    "note": "Варенье можно использовать для приготовления пирожных и тортов.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a8/c99d813cd410ea8_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "700",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "смородина черная",
+                    "slug": "smorodina-chernaya",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "малина",
+                    "slug": "malina",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Ягоды отсортировать, промыть.",
+            "image": null
+        },
+        {
+            "text": "Сложить в емкость, влить воду, поставить на тихий огонь, варить до мягкости.",
+            "image": null
+        },
+        {
+            "text": "Отжать выделившийся сок, уварить на половину объема, пенку снимать.",
+            "image": null
+        },
+        {
+            "text": "Всыпать сахар, варить до готовности.",
+            "image": null
+        },
+        {
+            "text": "Варенье разлить в сухие стерилизованные банки, укупорить металлическими крышками.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Варенье",
+            "slug": "varene"
+        },
+        {
+            "name": "Варенье из малины",
+            "slug": "varene-iz-maliny"
+        },
+        {
+            "name": "Варенье из смородины",
+            "slug": "varene-iz-smorodiny"
+        },
+        {
+            "name": "Варенье из черной смородины",
+            "slug": "varene-iz-chernoy-smorodiny"
+        },
+        {
+            "name": "Варенье из ягод",
+            "slug": "varene-iz-yagod"
+        },
+        {
+            "name": "Смородина на зиму",
+            "slug": "smorodina-na-zimu"
+        },
+        {
+            "name": "Черная смородина на зиму",
+            "slug": "chernaya-smorodina-na-zimu"
+        }
+    ]
+}

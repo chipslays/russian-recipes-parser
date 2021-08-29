@@ -1,0 +1,172 @@
+{
+    "source": "https://vkuso.ru/recipe/shokoladno-tvorozhnyj-tart-oreo/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Шоколадно-творожный тарт «Oreo»",
+    "description": null,
+    "note": "Можно использовать сливочный сыр \"Виола\" и печенье \"Юбилейное\".",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/01/402760295003901_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "45 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "печенье",
+                    "slug": "pechene",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "180",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "какао",
+                    "slug": "kakao",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для песочной основы",
+            "list": [
+                {
+                    "name": "печенье",
+                    "slug": "pechene",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр сливочный",
+                    "slug": "syr-slivochniy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад",
+                    "slug": "shokolad",
+                    "notes": null,
+                    "value": "1",
+                    "type": "плитка",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления основы тарта измельчить в крошку печенье, смешать с мягким маслом и какао, заполнить маслянистой массой форму, поставить в холодильник.",
+            "image": null
+        },
+        {
+            "text": "В чаше миксера взбить сахар, сливочный сыр, творог, яйца, добавить растопленный шоколад, перемешать.",
+            "image": null
+        },
+        {
+            "text": "В охлажденную форму разложить 1/2 половинок печенья Oreo, полить шоколадной начинкой.",
+            "image": null
+        },
+        {
+            "text": "Выпекать шоколадно-творожный тарт «Oreo» примерно 45 минут при температуре 170 градусов.",
+            "image": null
+        },
+        {
+            "text": "Готовый десерт остудить и поставить на пару-тройку часов, а лучше на ночь, в холодильник.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка с сыром",
+            "slug": "vypechka-s-syrom"
+        },
+        {
+            "name": "Выпечка с шоколадом",
+            "slug": "vypechka-s-shokoladom"
+        },
+        {
+            "name": "Песочные пироги",
+            "slug": "pesochnye-pirogi"
+        },
+        {
+            "name": "Печенье",
+            "slug": "pechene"
+        },
+        {
+            "name": "Печенье без муки",
+            "slug": "pechene-bez-muki"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Тарт",
+            "slug": "tart"
+        },
+        {
+            "name": "Творожное печенье",
+            "slug": "tvorojnoe-pechene"
+        },
+        {
+            "name": "Творожный пирог",
+            "slug": "tvorojniy-pirog"
+        }
+    ]
+}

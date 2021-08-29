@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/rizotirovannaya-pasta-s-parmezanom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Ризотированная паста с пармезаном",
+    "description": "Особенность этого блюда в том, что макароны для него не отвариваются обычным способом, в большом количестве воды, а постепенно впитывают в себя другие продукты: сначала масло, затем вино, потом бульон и, в заключение, сливки.",
+    "note": "Для приготовления блюда понадобятся качественные макароны, которые не развалятся от длительной тепловой обработки. Продукт не нужно заливать водой, её должно быть столько, чтобы паста могла впитать жидкость. Не нужно доводить соус в сковороде до сильной густоты – он дойдет до нужной консистенции уже в тарелке, при комнатной температуре.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b0/4d50d82758f52b0_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бульон",
+                    "slug": "bulon",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": "300",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "макароны",
+                    "slug": "makarony",
+                    "notes": " (пенне или лигурийская паста)",
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вино белое сухое",
+                    "slug": "vino-beloe-suhoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": " (масло растительное)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сыр пармезан",
+                    "slug": "syr-parmezan",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "базилик сушеный",
+                    "slug": "bazilik-susheniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Разогреть оливковое или любое другое масло на сковороде, добавить специи, чеснок, соль, базилик.",
+            "image": null
+        },
+        {
+            "text": "Смесь прогреть до появления аромата, листья базилика вынуть.",
+            "image": null
+        },
+        {
+            "text": "Всыпать макароны пенне или лигурийскую пасту, перемешать, влить белое сухое вино, томить на слабом огне до выпаривания алкоголя.",
+            "image": null
+        },
+        {
+            "text": "Влить половину нормы заранее сваренного горячего бульона. Подождать, пока паста впитает жидкость, долить оставшийся бульон и сливки.",
+            "image": null
+        },
+        {
+            "text": "Массу аккуратно перемешивать лопаткой. При готовности всыпать тертый сыр «Пармезан» и еще раз перемешать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Вторые блюда из макарон",
+            "slug": "vtorye-blyuda-iz-makaron"
+        },
+        {
+            "name": "Гарнир к курице",
+            "slug": "garnir-k-kurice"
+        },
+        {
+            "name": "Гарниры",
+            "slug": "garniry"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "Макароны с сыром",
+            "slug": "makarony-s-syrom"
+        },
+        {
+            "name": "Паста",
+            "slug": "pasta"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Ужин из макарон",
+            "slug": "ujin-iz-makaron"
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/kartofelnye-rolly-s-seldyu-i-ogurcom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Картофельные роллы с сельдью и огурцом",
+    "description": "Вкусное и простое в приготовлении блюдо, аппетитно выглядит, украшает праздничный стол.",
+    "note": "Закуску можно выложить на еще одну порцию листьев зеленого салата, украсить помидорами черри.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/da/3674e50989190da_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/id72Aew3j4k?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "филе сельди",
+                    "slug": "file-seldi",
+                    "notes": " (малосольное)",
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "листья салата",
+                    "slug": "listya-salata",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сырой картофель очистить и натереть на терке, слить лишнюю жидкость, массу посолить по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Тонким слоем выложить массу на смазанную маслом, разогретую сковороду. Жарить до румяной корочки с двух сторон.",
+            "image": null
+        },
+        {
+            "text": "Малосольное селедочное филе нарезать полосками вдоль.",
+            "image": null
+        },
+        {
+            "text": "Выложить на картофельную лепешку зеленый сельдь, зеленый салат, свежий нарезанный огурец, любую зелень. Завернуть рулетом, нарезать поперек.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Закуски из рыбы",
+            "slug": "zakuski-iz-ryby"
+        },
+        {
+            "name": "Закуски на день рождения",
+            "slug": "zakuski-na-den-rojdeniya"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        }
+    ]
+}

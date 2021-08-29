@@ -1,0 +1,143 @@
+{
+    "source": "https://vkuso.ru/recipe/108652-salat-iz-zelenoj-redki-s-kuricej-i-gribami/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат из зеленой редьки с курицей и грибами",
+    "description": "Зеленую редьку можно подать и на званый ужин, если правильно ее приготовить.",
+    "note": "По желанию в салат можно добавить консервированные грибы вместо жареных. А репчатый лук использовать в сыром виде.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/fc/6af78517430abfc_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час 20 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/Cd2d10ORLX0?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 7 порции",
+            "list": [
+                {
+                    "name": "курица",
+                    "slug": "kurica",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грибы",
+                    "slug": "griby",
+                    "notes": null,
+                    "value": "400-500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "редька",
+                    "slug": "redka",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень укропа",
+                    "slug": "zelen-ukropa",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Курицу отварить, остудить, мясо разобрать на волокна.",
+            "image": null
+        },
+        {
+            "text": "Нарезать лук и грибы, обжарить на растительном масле, добавить специи и соль по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Отцедить лишнюю жидкость.",
+            "image": null
+        },
+        {
+            "text": "Редьку очистить, натереть или нарезать тонкой соломкой.",
+            "image": null
+        },
+        {
+            "text": "Порубить зелень укропа. Ингредиенты перемешать, посолить, заправить майонезом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат с грибами",
+            "slug": "salat-s-gribami"
+        },
+        {
+            "name": "Салат с курицей",
+            "slug": "salat-s-kuricey"
+        },
+        {
+            "name": "Салат с курицей и грибами",
+            "slug": "salat-s-kuricey-i-gribami"
+        },
+        {
+            "name": "Салат с курицей и овощами",
+            "slug": "salat-s-kuricey-i-ovoschami"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салаты из редьки",
+            "slug": "salaty-iz-redki"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "source": "https://vkuso.ru/recipe/sgushhenka-po-domashnemu-s-kakao/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Сгущенка по-домашнему с какао",
+    "description": "Консервы, ставшие национальными, можно приготовить на обычной кухне. Рецепт прост, но требует времени и внимания. Для приготовления потребуется жирное и максимально свежее молоко.",
+    "note": "Заготовка долго хранится и используется, как обычное сгущенное молоко: для приготовления тортов, пирожных, печенья, любых сладких десертов, начинок.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/60/bf5930cc09be260_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко 3.2%",
+                    "slug": "moloko-3-2",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "какао",
+                    "slug": "kakao",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В кастрюлю с толстым дном насыпать сахарный песок, влить воду. Сироп помешивать, довести до кипения, подержать на огне две-три минуты.",
+            "image": null
+        },
+        {
+            "text": "Влить молоко тонкой струйкой, довести все вместе до кипения, варить на тихом огне до загустения массы, периодически помешивать.",
+            "image": null
+        },
+        {
+            "text": "Всыпать через сито какао-порошок, перемешать до однородного состояния. Дать покипеть минуту, огонь выключить.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерты для детей",
+            "slug": "deserty-dlya-detey"
+        },
+        {
+            "name": "Крем для пирожных",
+            "slug": "krem-dlya-pirojnyh"
+        },
+        {
+            "name": "Крем для торта",
+            "slug": "krem-dlya-torta"
+        },
+        {
+            "name": "Крем из сгущенки",
+            "slug": "krem-iz-sguschenki"
+        },
+        {
+            "name": "Сгущенка домашняя",
+            "slug": "sguschenka-domashnyaya"
+        },
+        {
+            "name": "Торт без яиц",
+            "slug": "tort-bez-yaic"
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "source": "https://vkuso.ru/recipe/102485-makarony-po-flotski-s-varenoj-govyadinoj-v-multivarke/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Макароны по-флотски с вареной говядиной в мультиварке",
+    "description": "Блюдо из детства с отваренным мясом, его можно приготовить в мультиварке.",
+    "note": "Блюдо можно посыпать нарезанным укропом.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c4/08513a8bf0b38c4_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/Fibf19TcggU?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 3 порции",
+            "list": [
+                {
+                    "name": "говядина отварная",
+                    "slug": "govyadina-otvarnaya",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "макароны",
+                    "slug": "makarony",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "20",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "зелень петрушки",
+                    "slug": "zelen-petrushki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Готовую отваренную говядину пропустить через мясорубку или мелко нарезать.",
+            "image": null
+        },
+        {
+            "text": "Выложить в мультиварку макароны твердых сортов, всыпать соль, влить кипящую воду.",
+            "image": null
+        },
+        {
+            "text": "Жидкость должна покрыть содержимое емкости.",
+            "image": null
+        },
+        {
+            "text": "Положить кусочек сливочного масла.",
+            "image": null
+        },
+        {
+            "text": "Готовить в режиме «Паста».",
+            "image": null
+        },
+        {
+            "text": "Налить на сковороду растительное масло, обжарить нарезанную говядину и накрошенный репчатый лук.",
+            "image": null
+        },
+        {
+            "text": "Макароны промыть, выложить в мультиварку, всыпать фарш.",
+            "image": null
+        },
+        {
+            "text": "Продукты перемешать, прогреть и подать на стол.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда в мультиварке",
+            "slug": "vtorye-blyuda-v-multivarke"
+        },
+        {
+            "name": "Вторые блюда из говядины",
+            "slug": "vtorye-blyuda-iz-govyadiny"
+        },
+        {
+            "name": "Вторые блюда из макарон",
+            "slug": "vtorye-blyuda-iz-makaron"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Говядина в мультиварке",
+            "slug": "govyadina-v-multivarke"
+        },
+        {
+            "name": "Макароны в мультиварке",
+            "slug": "makarony-v-multivarke"
+        },
+        {
+            "name": "Макароны по-флотски",
+            "slug": "makarony-po-flotski"
+        },
+        {
+            "name": "Макароны по-флотски в мультиварке",
+            "slug": "makarony-po-flotski-v-multivarke"
+        },
+        {
+            "name": "Макароны с мясом",
+            "slug": "makarony-s-myasom"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Мясо в мультиварке",
+            "slug": "myaso-v-multivarke"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ужин в мультиварке",
+            "slug": "ujin-v-multivarke"
+        },
+        {
+            "name": "Ужин из говядины",
+            "slug": "ujin-iz-govyadiny"
+        },
+        {
+            "name": "Ужин из макарон",
+            "slug": "ujin-iz-makaron"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

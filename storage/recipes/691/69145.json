@@ -1,0 +1,203 @@
+{
+    "source": "https://vkuso.ru/recipe/klassicheskij-minestrone-s-parmezanom/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Классический минестроне с пармезаном",
+    "description": "Минестроне – классическое блюдо итальянской кухни с большим количеством овощей. Готовить его просто, необходимы лишь доступные ингредиенты.",
+    "note": "Лучше дать какое-то время постоять под крышкой, а в идеале – до следующего дня.",
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/cd/7980cf586713acd_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кабачки",
+                    "slug": "kabachki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сельдерей",
+                    "slug": "selderey",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стебля",
+                    "amount": null
+                },
+                {
+                    "name": "зеленый горошек",
+                    "slug": "zeleniy-goroshek",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "макароны",
+                    "slug": "makarony",
+                    "notes": null,
+                    "value": "1",
+                    "type": "горсть",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "сыр пармезан",
+                    "slug": "syr-parmezan",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ломтик",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Подготовить все ингредиенты.",
+            "image": null
+        },
+        {
+            "text": "Овощи порезать на кубики.",
+            "image": null
+        },
+        {
+            "text": "Разогреть хорошо в сковороде масло, обжарить чеснок с луком до мягкости.",
+            "image": null
+        },
+        {
+            "text": "Положить морковку, готовить пару минут.",
+            "image": null
+        },
+        {
+            "text": "Добавить сладкий перец и сельдерей. Тушить 2-3 минуты.",
+            "image": null
+        },
+        {
+            "text": "Добавить кабачок, перемешать, тушить на малом огне около трети часа.",
+            "image": null
+        },
+        {
+            "text": "Приправить минестроне специями.",
+            "image": null
+        },
+        {
+            "text": "Перемешать, довести в кастрюле до кипения воду, положить картофель.",
+            "image": null
+        },
+        {
+            "text": "Добавить содержимое сковороды, дать закипеть.",
+            "image": null
+        },
+        {
+            "text": "Добавить горошек и дольки помидоров.",
+            "image": null
+        },
+        {
+            "text": "Положить в суп макароны, варить до готовности.",
+            "image": null
+        },
+        {
+            "text": "Подавать можно сразу, присыпать в тарелках стружкой пармезана.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Итальянский суп",
+            "slug": "italyanskiy-sup"
+        },
+        {
+            "name": "Классические рецепты",
+            "slug": "klassicheskie-recepty"
+        },
+        {
+            "name": "Классические супы",
+            "slug": "klassicheskie-supy"
+        },
+        {
+            "name": "Минестроне",
+            "slug": "minestrone"
+        },
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из кабачков",
+            "slug": "sup-iz-kabachkov"
+        },
+        {
+            "name": "Суп из сельдерея",
+            "slug": "sup-iz-seldereya"
+        },
+        {
+            "name": "Суп с макаронами",
+            "slug": "sup-s-makaronami"
+        }
+    ]
+}

@@ -1,0 +1,382 @@
+{
+    "source": "https://vkuso.ru/recipe/tvorozhnyj-shtrudel-s-dvumya-nachinkami/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Творожный штрудель с двумя начинками",
+    "description": "Две начинки на выбор: кто-то любит яблоки, а кто-то насыщенный ореховый вкус молотого мака.",
+    "note": "Блюдо можно подавать как холодным, так и теплым, к чаю, кофе.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/35/48646f464044635_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "5",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "грецкие орехи",
+                    "slug": "greckie-orehi",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "миндаль молотый",
+                    "slug": "mindal-molotiy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чернослив",
+                    "slug": "chernosliv",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "курага",
+                    "slug": "kuraga",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад молочный",
+                    "slug": "shokolad-molochniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "плитка",
+                    "amount": null
+                },
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лимон(цедра)",
+                    "slug": "limon-cedra",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "корица",
+                    "slug": "korica",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для первой начинки",
+            "list": [
+                {
+                    "name": "мак молотый",
+                    "slug": "mak-molotiy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "120",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "изюм",
+                    "slug": "izyum",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лимон(цедра)",
+                    "slug": "limon-cedra",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "ванилин",
+                    "slug": "vanilin",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "корица",
+                    "slug": "korica",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "мускатный орех",
+                    "slug": "muskatniy-oreh",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для второй начинки",
+            "list": [
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления теста смешать холодное, натертое сливочное масло, нежирный протертый творог и сахарный песок. Добавить просеянную пшеничную муку, перемешать до образования мягкого теста. Замесить на присыпанном мукой столе. Готовую массу разделить на четыре части, сформовать плоские лепешки прямоугольной формы, обернуть каждую пищевой пленкой и положить в холодильник для набухания клейковины.",
+            "image": null
+        },
+        {
+            "text": "Приготовить маковую начинку, для этого основной ингредиент нужно хорошо перемолоть. Обдать кипятком изюм без косточек, обсушить. Прогреть в кастрюле смесь молока, сахара и сливочного масла, до кипения не доводить. В горячую смесь добавить молотый мак, прогревать, помешивая, пока не впитается часть жидкости. Получившаяся масса должна напоминать кашу. Снять начинку с огня, добавить изюм и ванилин из пакетика, измельченную цедру лимона, ванилин, по щепотке корицы и молотого мускатного ореха, перемешать, остудить.",
+            "image": null
+        },
+        {
+            "text": "Для яблочной начинки нарезать плоды кубиками. Обдать кипятком сухофрукты, курагу и чернослив, обсушить и мелко нарезать. Перемолоть грецкие орехи на кусочки и миндальные – в муку. Растопить  молочный шоколад вместе со сливочным маслом, при помешивании всыпать тертую лимонную цедру, молотую корицу.",
+            "image": null
+        },
+        {
+            "text": "Порцию теста вынуть из холодильника, тонко раскатать, толщина должна быть 2 – 3 мм, присыпать мукой. На поверхность лепешки выложить часть маковой начинки, края загнуть внутрь, закатать в виде рулета. Так же поступить со второй порцией теста и яблочной начинкой: поверхность лепешки посыпать молотым миндалем для впитывания излишней жидкости, затем выложить массу и завернуть. Перед выпечкой штруделей смазать их смесью сырого желтка и молока. Печь творожный штрудель с двумя начинками на противне при температуре 180 градусов в течение 30 – 35 минут.  При подаче посыпать сахарной пудрой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка с изюмом",
+            "slug": "vypechka-s-izyumom"
+        },
+        {
+            "name": "Выпечка с корицей",
+            "slug": "vypechka-s-koricey"
+        },
+        {
+            "name": "Выпечка с маком",
+            "slug": "vypechka-s-makom"
+        },
+        {
+            "name": "Выпечка с орехами",
+            "slug": "vypechka-s-orehami"
+        },
+        {
+            "name": "Выпечка с сухофруктами",
+            "slug": "vypechka-s-suhofruktami"
+        },
+        {
+            "name": "Выпечка с черносливом",
+            "slug": "vypechka-s-chernoslivom"
+        },
+        {
+            "name": "Выпечка с шоколадом",
+            "slug": "vypechka-s-shokoladom"
+        },
+        {
+            "name": "Выпечка с яблоками",
+            "slug": "vypechka-s-yablokami"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Новогодняя выпечка",
+            "slug": "novogodnyaya-vypechka"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог на молоке",
+            "slug": "pirog-na-moloke"
+        },
+        {
+            "name": "Пирог с изюмом",
+            "slug": "pirog-s-izyumom"
+        },
+        {
+            "name": "Пирог с курагой",
+            "slug": "pirog-s-kuragoy"
+        },
+        {
+            "name": "Пирог с маком",
+            "slug": "pirog-s-makom"
+        },
+        {
+            "name": "Пирог с орехами",
+            "slug": "pirog-s-orehami"
+        },
+        {
+            "name": "Пирог с творогом и яблоками",
+            "slug": "pirog-s-tvorogom-i-yablokami"
+        },
+        {
+            "name": "Пирог с яблоками",
+            "slug": "pirog-s-yablokami"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рулет с маком",
+            "slug": "rulet-s-makom"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Сладкие пироги",
+            "slug": "sladkie-pirogi"
+        },
+        {
+            "name": "Творожный пирог",
+            "slug": "tvorojniy-pirog"
+        },
+        {
+            "name": "Штрудель",
+            "slug": "shtrudel"
+        },
+        {
+            "name": "Яблочный штрудель",
+            "slug": "yablochniy-shtrudel"
+        }
+    ]
+}

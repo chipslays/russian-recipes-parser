@@ -1,0 +1,132 @@
+{
+    "source": "https://vkuso.ru/recipe/sup-s-lapshoj-po-domashnemu-na-kurinom-bulone/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Суп с лапшой по-домашнему на курином бульоне",
+    "description": null,
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/46/9bc7e24b54a4c46_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "курицы",
+                    "slug": "kuricy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "воды",
+                    "slug": "vody",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "зелень петрушки",
+                    "slug": "zelen-petrushki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для лапши",
+            "list": [
+                {
+                    "name": "пшеничной муки",
+                    "slug": "pshenichnoy-muki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "яйцо",
+                    "slug": "yayco",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "молоко / вода",
+                    "slug": "moloko-voda",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Муку, соль, яйцо, молоко или воду смешать, приготовленное тесто раскатать так, чтобы оно было тонким.",
+            "image": null
+        },
+        {
+            "text": "Тесто слегка обсыпать мукой, разделить на полоски шириной по 6 см, сложить их друг на друга и нарезать поперек, полученной лапше дать подсохнуть.",
+            "image": null
+        },
+        {
+            "text": "Курицу, морковь и лук отварить, за несколько минут до готовности мяса добавить лапшу и варить 20 минут.",
+            "image": null
+        },
+        {
+            "text": "Суп с лапшой по-домашнему на курином бульоне подается горячим и посыпанный рубленой петрушкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Куриная лапша",
+            "slug": "kurinaya-lapsha"
+        },
+        {
+            "name": "Куриный суп",
+            "slug": "kuriniy-sup"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        }
+    ]
+}

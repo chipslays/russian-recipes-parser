@@ -1,0 +1,160 @@
+{
+    "source": "https://vkuso.ru/recipe/legkij-krem-sup-iz-belyx-gribov-s-grenkami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Легкий крем-суп из белых грибов с гренками",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/34/9a42e9ad616b634_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "грибы белые",
+                    "slug": "griby-belye",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сливки 10%",
+                    "slug": "slivki-10",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для супа",
+            "list": [
+                {
+                    "name": "хлеб белый",
+                    "slug": "hleb-beliy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кусок",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "зубчик",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Крупно порезать все овощи для супа и грибы, отваривать минут двадцать в небольшом количестве воды. Процедить через ситечко. Грибы и овощи пюрировать в блендере, добавить сливки, если необходимо процедить бульон. Посыпать перцем, солью.",
+            "image": null
+        },
+        {
+            "text": "Остальной бульон сохранить, так как супы-крема густеют и при разогревании их хорошо разводить бульоном. Довести до кипения, выключить огонь, дать супчику настояться минут двадцать. Подавать с чесночными гренками, зеленью. Употреблять крем-суп из белых грибов в горячем виде.",
+            "image": null
+        },
+        {
+            "text": "Приготовить гренки: духовку разогреть до 180 градусов. Положить на противень ломтики хлеба. Подсушить до золотистого оттенка в духовке. Натереть теплые гренки чесноком со всех сторон. Порезать на небольшие кубики.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Грибной крем-суп",
+            "slug": "gribnoy-krem-sup"
+        },
+        {
+            "name": "Грибной суп",
+            "slug": "gribnoy-sup"
+        },
+        {
+            "name": "Крем-суп",
+            "slug": "krem-sup"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из белых грибов",
+            "slug": "sup-iz-belyh-gribov"
+        },
+        {
+            "name": "Суп со сливками",
+            "slug": "sup-so-slivkami"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Суп-пюре грибной",
+            "slug": "sup-pyure-gribnoy"
+        }
+    ]
+}

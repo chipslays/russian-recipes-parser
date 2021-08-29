@@ -1,0 +1,135 @@
+{
+    "source": "https://vkuso.ru/recipe/syrno-ukropnaya-strata/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Сырно-укропная страта",
+    "description": null,
+    "note": null,
+    "cuisine": "Американская кухня",
+    "cuisine_slug": "amerikanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/26/a7fbe8365a38226_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб черный",
+                    "slug": "hleb-cherniy",
+                    "notes": null,
+                    "value": "4",
+                    "type": "куска",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": "½",
+                    "type": "пучка",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "На дно жаропрочной формы разложить кусочки хлеба, присыпать половиной мелко порубленного укропа, поверх уложить кусочки сыра, прикрыть кусочками хлеба, а потом – сыром, присыпать укропом. Перемешать молоко с яйцами, подсолить, поперчить, полить смесью хлеб.",
+            "image": null
+        },
+        {
+            "text": "Форму с сырно-укропной стратой закрыть пленкой, убрать на 8 часов, а лучше на всю ночь, в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Достать, запекать полчаса в заранее разогретой до 180 градусов духовке, подавать блюдо горячим.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Блюда из яиц",
+            "slug": "blyuda-iz-yaic"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Запеканки с сыром",
+            "slug": "zapekanki-s-syrom"
+        },
+        {
+            "name": "Омлет",
+            "slug": "omlet"
+        },
+        {
+            "name": "Омлет в духовке",
+            "slug": "omlet-v-duhovke"
+        },
+        {
+            "name": "Омлет с молоком",
+            "slug": "omlet-s-molokom"
+        },
+        {
+            "name": "Омлет с сыром",
+            "slug": "omlet-s-syrom"
+        },
+        {
+            "name": "Хлебная запеканка",
+            "slug": "hlebnaya-zapekanka"
+        },
+        {
+            "name": "Яйца с сыром",
+            "slug": "yayca-s-syrom"
+        }
+    ]
+}

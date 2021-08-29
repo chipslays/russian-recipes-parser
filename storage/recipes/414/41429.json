@@ -1,0 +1,87 @@
+{
+    "source": "https://vkuso.ru/recipe/orexovo-shokoladnyj-desert-k-chayu/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Орехово-шоколадный десерт к чаю",
+    "description": "Это не настоящий шоколад, а вкусная сладость на ореховой основе, её можно подавать к горячим напиткам вместо конфет.",
+    "note": "Если хотите послаще, добавьте больше меда. Вместо грецких орехов можно использовать другие сорта или смесь нескольких.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/45/d837a8f82914c45_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "какао",
+                    "slug": "kakao",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "грецкие орехи",
+                    "slug": "greckie-orehi",
+                    "notes": null,
+                    "value": "0,5",
+                    "type": "ст.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко обезжиренное",
+                    "slug": "moloko-obezjirennoe",
+                    "notes": null,
+                    "value": "0,5",
+                    "type": "ст.",
+                    "amount": null
+                },
+                {
+                    "name": "ванилин",
+                    "slug": "vanilin",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В горячем обезжиренном молоке растворить какао-порошок и ванилин. Залить смесью грецкие орехи, оставить на десять минут, затем измельчить с помощью блендера вместе с жидким мёдом.",
+            "image": null
+        },
+        {
+            "text": "Массу тонким слоем выложить на тарелку, поставить в морозильную камеру на три часа.",
+            "image": null
+        },
+        {
+            "text": "Готовую сладость нарезать и подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "На десерт",
+            "slug": "na-desert"
+        },
+        {
+            "name": "Шоколадный десерт",
+            "slug": "shokoladniy-desert"
+        }
+    ]
+}

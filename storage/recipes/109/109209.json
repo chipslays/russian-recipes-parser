@@ -1,0 +1,195 @@
+{
+    "source": "https://vkuso.ru/recipe/109209-samsa-s-tykvoj-i-lukom-iz-sloenogo-testa/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Самса с тыквой и луком из слоеного теста",
+    "description": "Для приготовления пирожков использовать магазинное или домашнее тесто.",
+    "note": "Перед выпечкой можно посыпать пирожки кунжутным семенем.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a3/3c202d72462a2a3_660x440.jpeg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "тыква",
+                    "slug": "tykva",
+                    "notes": null,
+                    "value": "600",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "тесто слоеное",
+                    "slug": "testo-sloenoe",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "15",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Тыкву очистить и нарезать кубиками.",
+            "image": null
+        },
+        {
+            "text": "Измельчить репчатый лук, спассеровать на растительном масле до прозрачного состояния.",
+            "image": null
+        },
+        {
+            "text": "Добавить тыкву, нарезанную кубиками, перец, соль и сахар.",
+            "image": null
+        },
+        {
+            "text": "Все вместе обжарить пять минут.",
+            "image": null
+        },
+        {
+            "text": "Сформовать из теста прямоугольники, выложить начинку.",
+            "image": null
+        },
+        {
+            "text": "Сформовать заготовки самсы, смазать смесью яйца со сметаной.",
+            "image": null
+        },
+        {
+            "text": "Выложить на противень, поместить в духовку на двадцать пять минут, температура – 200 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка из слоеного теста",
+            "slug": "vypechka-iz-sloenogo-testa"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Выпечка с луком",
+            "slug": "vypechka-s-lukom"
+        },
+        {
+            "name": "Выпечка с тыквой",
+            "slug": "vypechka-s-tykvoy"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки без дрожжей",
+            "slug": "pirojki-bez-drojjey"
+        },
+        {
+            "name": "Пирожки в духовке",
+            "slug": "pirojki-v-duhovke"
+        },
+        {
+            "name": "Пирожки на сметане",
+            "slug": "pirojki-na-smetane"
+        },
+        {
+            "name": "Пирожки с тыквой",
+            "slug": "pirojki-s-tykvoy"
+        },
+        {
+            "name": "Самса",
+            "slug": "samsa"
+        },
+        {
+            "name": "Самса из слоеного теста",
+            "slug": "samsa-iz-sloenogo-testa"
+        },
+        {
+            "name": "Самса с тыквой",
+            "slug": "samsa-s-tykvoy"
+        },
+        {
+            "name": "Слоеные пирожки",
+            "slug": "sloenye-pirojki"
+        },
+        {
+            "name": "Тыква в духовке",
+            "slug": "tykva-v-duhovke"
+        }
+    ]
+}

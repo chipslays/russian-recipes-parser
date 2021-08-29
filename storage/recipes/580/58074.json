@@ -1,0 +1,123 @@
+{
+    "source": "https://vkuso.ru/recipe/bananovyj-smuzi-s-mindalem-i-ovsyanymi-xlopyami/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Банановый смузи с миндалем и овсяными хлопьями",
+    "description": "Полезный и калорийный напиток, который может заменить легкий завтрак или дневной перекус.",
+    "note": "Смузи можно украсить кусочком банана, наколотым на шпажку или зубочистку, листочком свежей мяты.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a3/68d34a5a3f7a7a3_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бананы",
+                    "slug": "banany",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "овсяные хлопья",
+                    "slug": "ovsyanye-hlopya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "лед",
+                    "slug": "led",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "миндаль",
+                    "slug": "mindal",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "корица молотая",
+                    "slug": "korica-molotaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Измельчить с помощью блендера очищенный или неочищенный миндаль.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/a7/71e48d44dc5aba7_434x295.jpg"
+        },
+        {
+            "text": "То же самое сделать с овсяными хлопьями.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/5d/6c6d7ae2acd925d_434x295.jpg"
+        },
+        {
+            "text": "Оба ингредиента перемешать, влить воду, всыпать молотую корицу, положить лёд и нарезанный банан. Все вместе взбить и разлить в стаканы.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/97/2803b48bcdd7d97_434x295.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Банановый коктейль",
+            "slug": "bananoviy-kokteyl"
+        },
+        {
+            "name": "Безалкогольные коктейли",
+            "slug": "bezalkogolnye-kokteyli"
+        },
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Коктейли",
+            "slug": "kokteyli"
+        },
+        {
+            "name": "Овсянка на завтрак",
+            "slug": "ovsyanka-na-zavtrak"
+        },
+        {
+            "name": "Смузи",
+            "slug": "smuzi"
+        },
+        {
+            "name": "Смузи с бананом",
+            "slug": "smuzi-s-bananom"
+        },
+        {
+            "name": "Смузи с овсянкой",
+            "slug": "smuzi-s-ovsyankoy"
+        }
+    ]
+}

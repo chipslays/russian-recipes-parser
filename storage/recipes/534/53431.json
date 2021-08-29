@@ -1,0 +1,204 @@
+{
+    "source": "https://vkuso.ru/recipe/pide-s-yajcom-pomidorami-i-syrom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пиде с яйцом, помидорами и сыром",
+    "description": null,
+    "note": null,
+    "cuisine": "Турецкая кухня",
+    "cuisine_slug": "tureckaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d1/aa4f0363a1d14d1_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": "8 часов",
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "270",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи",
+                    "slug": "drojji",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр тертый",
+                    "slug": "syr-tertiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец чили",
+                    "slug": "perec-chili",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Соединить муку с солью.",
+            "image": null
+        },
+        {
+            "text": "Растворить в воде сахар и дрожжи, насыпать соленую муку. Перемешать.",
+            "image": null
+        },
+        {
+            "text": "Отправить тесто в холодильник на 8-10 часов, чтобы поднялось.",
+            "image": null
+        },
+        {
+            "text": "Разогреть духовку до 250 градусов.",
+            "image": null
+        },
+        {
+            "text": "Положить тесто на стол, присыпанный мукой.",
+            "image": null
+        },
+        {
+            "text": "Поделить на 4 части, сформировать овалы.",
+            "image": null
+        },
+        {
+            "text": "В центре распределить тертый сыр, несколько кусочков помидора, перца чили.",
+            "image": null
+        },
+        {
+            "text": "Края лепешки закрутить жгутиком.",
+            "image": null
+        },
+        {
+            "text": "Вбить яйцо в центре, посыпать перцем, солью.",
+            "image": null
+        },
+        {
+            "text": "Готовить пиде с яйцом, помидорами и сыром до румяной корочки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Лепешки",
+            "slug": "lepeshki"
+        },
+        {
+            "name": "Лепешки в духовке",
+            "slug": "lepeshki-v-duhovke"
+        },
+        {
+            "name": "Лепешки на воде и муке",
+            "slug": "lepeshki-na-vode-i-muke"
+        },
+        {
+            "name": "Несладкая выпечка",
+            "slug": "nesladkaya-vypechka"
+        },
+        {
+            "name": "Несладкие пироги",
+            "slug": "nesladkie-pirogi"
+        },
+        {
+            "name": "Открытый пирог",
+            "slug": "otkrytiy-pirog"
+        },
+        {
+            "name": "Пирог с яйцом",
+            "slug": "pirog-s-yaycom"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги из дрожжевого теста",
+            "slug": "pirogi-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Пироги с сыром",
+            "slug": "pirogi-s-syrom"
+        },
+        {
+            "name": "Сырные лепешки",
+            "slug": "syrnye-lepeshki"
+        }
+    ]
+}

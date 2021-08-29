@@ -1,0 +1,115 @@
+{
+    "source": "https://vkuso.ru/recipe/neobychnye-grenki-s-syrom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Необычные гренки с сыром",
+    "description": null,
+    "note": null,
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/55/dcb078f336e9355_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "батон",
+                    "slug": "baton",
+                    "notes": null,
+                    "value": "4",
+                    "type": "куска",
+                    "amount": null
+                },
+                {
+                    "name": "сосиски",
+                    "slug": "sosiski",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Батон порезать на ломтики, остальные компоненты измельчить с помощью терки, вбить сырые яйца и перемешать. Получившуюся массу намазать на кусочки хлеба и выложить на разогретую сковороду, начинкой вниз.",
+            "image": null
+        },
+        {
+            "text": "Обжарить гренки до золотистого цвета, затем перевернуть и обжарить с другой стороны. Гренки с сыром выложить на бумажное полотенце, чтобы удалить лишний жир. Подавать гренки теплыми. Приятного аппетита.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды на скорую руку",
+            "slug": "buterbrody-na-skoruyu-ruku"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Бутерброды с яйцом",
+            "slug": "buterbrody-s-yaycom"
+        },
+        {
+            "name": "Гренки",
+            "slug": "grenki"
+        },
+        {
+            "name": "Гренки из батона",
+            "slug": "grenki-iz-batona"
+        },
+        {
+            "name": "Гренки из белого хлеба",
+            "slug": "grenki-iz-belogo-hleba"
+        },
+        {
+            "name": "Гренки с сыром",
+            "slug": "grenki-s-syrom"
+        },
+        {
+            "name": "Гренки с яйцом",
+            "slug": "grenki-s-yaycom"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Простые бутерброды",
+            "slug": "prostye-buterbrody"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

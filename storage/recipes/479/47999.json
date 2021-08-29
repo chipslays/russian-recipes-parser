@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/yajca-s-syrom-v-pomidorax/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Яйца с сыром в помидорах",
+    "description": "Несложное блюдо для завтрака. Яркое начало дня в красно-желтых тонах.",
+    "note": "При подаче можно украсить яичницу дополнительной свежей зеленью петрушки и укропа.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ae/9c8f540eec8cbae_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "10 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр тертый",
+                    "slug": "syr-tertiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Вымыть крупные помидоры, срезать верхнюю часть, чайной ложкой аккуратно вынуть середину.",
+            "image": null
+        },
+        {
+            "text": "Отдельно взбить куриное яйцо и дополнительный белок с тертым сыром, солью, молотым перцем, добавить рубленую зелень укропа и петрушки.",
+            "image": null
+        },
+        {
+            "text": "Готовую смесь влить в томатные чашечки, прикрыть срезанными крышками-верхушками, запечь блюдо на максимальной мощности в СВЧ-печи в течение трех минут, до готовности. Яичная масса должна свернуться.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блюда из яиц",
+            "slug": "blyuda-iz-yaic"
+        },
+        {
+            "name": "Вторые блюда из овощей",
+            "slug": "vtorye-blyuda-iz-ovoschey"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Микроволновка",
+            "slug": "mikrovolnovka"
+        },
+        {
+            "name": "Помидоры с сыром",
+            "slug": "pomidory-s-syrom"
+        },
+        {
+            "name": "Яичница",
+            "slug": "yaichnica"
+        },
+        {
+            "name": "Яичница с сыром",
+            "slug": "yaichnica-s-syrom"
+        },
+        {
+            "name": "Яйца с сыром",
+            "slug": "yayca-s-syrom"
+        }
+    ]
+}

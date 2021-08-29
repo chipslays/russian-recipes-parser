@@ -1,0 +1,99 @@
+{
+    "source": "https://vkuso.ru/recipe/91245-tvorog-iz-prostokvashi-s-chesnokom/",
+    "category": "Молочные продукты домашние",
+    "category_slug": "molochnye-produkty-domashnie",
+    "title": "Творог из простокваши с чесноком",
+    "description": "Всем известный продукт можно превратить в острую закуску, если добавить в основную массу рубленую зелень, специи.",
+    "note": "В творожную закуску можно вбить сырое куриное яйцо, всыпать мелко нарезанный зеленый лук.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/89/c26b3aa7e896989_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/C4ENk7gHbak?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "простокваша",
+                    "slug": "prostokvasha",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "зелень укропа",
+                    "slug": "zelen-ukropa",
+                    "notes": null,
+                    "value": "50-100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "6-13",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Прогреть простоквашу в мультиварке в режиме «Молочная каша» или «Тушение» в течение десяти или пятнадцати минут.",
+            "image": null
+        },
+        {
+            "text": "Продукт остудить.",
+            "image": null
+        },
+        {
+            "text": "Нарубить свежую зелень, положить мелко нарезанный свежий или сушеный чеснок.",
+            "image": null
+        },
+        {
+            "text": "Соль и перец молотый – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Готовый продукт перелить в мешочек для отцеживания сыворотки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Творог в мультиварке",
+            "slug": "tvorog-v-multivarke"
+        },
+        {
+            "name": "Творог домашний",
+            "slug": "tvorog-domashniy"
+        }
+    ]
+}

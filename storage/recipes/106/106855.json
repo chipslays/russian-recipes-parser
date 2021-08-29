@@ -1,0 +1,107 @@
+{
+    "source": "https://vkuso.ru/recipe/106855-sous-karri-s-konservirovannym-ananasom/",
+    "category": "Соусы",
+    "category_slug": "sousy",
+    "title": "Соус карри с консервированным ананасом",
+    "description": "Упрощенный вариант заправки.",
+    "note": "Подать к столу к мясу, курице, бобовым.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f0/12c5d531b53d5f0_660x440.png",
+    "difficulty": "Низкая",
+    "cooktime": "15 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "130-150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ананас консервированный",
+                    "slug": "ananas-konservirovanniy",
+                    "notes": null,
+                    "value": "80-100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "80-100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "карри",
+                    "slug": "karri",
+                    "notes": null,
+                    "value": "20-25",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный свежемолотый",
+                    "slug": "perec-cherniy-svejemolotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Ананасы вынуть из банки, отцедить сироп, нарезать кубиками, всыпать в чашу блендера.",
+            "image": null
+        },
+        {
+            "text": "Репчатый лук порубить, добавить в ананасы.",
+            "image": null
+        },
+        {
+            "text": "Заправить майонезом, карри, посолить по вкусу, всыпать свежемолотый перец.",
+            "image": null
+        },
+        {
+            "text": "Массу перебить до однородного состояния. Соус охладить.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Соус для курицы",
+            "slug": "sous-dlya-kuricy"
+        },
+        {
+            "name": "Соус для пиццы",
+            "slug": "sous-dlya-piccy"
+        },
+        {
+            "name": "Соус для шашлыка",
+            "slug": "sous-dlya-shashlyka"
+        },
+        {
+            "name": "Сырный соус",
+            "slug": "syrniy-sous"
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "source": "https://vkuso.ru/recipe/96794-uxa-iz-file-gorbushi-so-slivkami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Уха из филе горбуши со сливками",
+    "description": "Нежный суп-пюре, насыщающий и согревающий в ненастную погоду.",
+    "note": "Уже в тарелке посыпать горячее блюдо тертым твердым сыром.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c6/3aa336e1681d7c6_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "50 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "филе горбуши",
+                    "slug": "file-gorbushi",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": " (нежирные)",
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "веточки",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Картофель очистить, крупно нарезать, варить в воде.",
+            "image": null
+        },
+        {
+            "text": "Репчатый лук обжарить на масле, добавить чеснок и белую часть зеленого лука.",
+            "image": null
+        },
+        {
+            "text": "Переложить обжарку к картофелю.",
+            "image": null
+        },
+        {
+            "text": "При готовности картофеля добавить филе горбуши, нарезанное крупными ломтиками.",
+            "image": null
+        },
+        {
+            "text": "Время варки – от пяти до семи минут.",
+            "image": null
+        },
+        {
+            "text": "Вынуть из супа овощи и рыбу, превратить в пюре при помощи блендера.",
+            "image": null
+        },
+        {
+            "text": "Добавить нарезанный укроп, зеленый лук, влить нежирные сливки.",
+            "image": null
+        },
+        {
+            "text": "Массу еще раз измельчить блендером, добавить бульон.",
+            "image": null
+        },
+        {
+            "text": "Суп довести до кипения, огонь погасить, добавить в кастрюлю лимонный сок.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Рыбный суп",
+            "slug": "rybniy-sup"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из горбуши",
+            "slug": "sup-iz-gorbushi"
+        },
+        {
+            "name": "Суп со сливками",
+            "slug": "sup-so-slivkami"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Сырный суп-пюре",
+            "slug": "syrniy-sup-pyure"
+        },
+        {
+            "name": "Уха",
+            "slug": "uha"
+        },
+        {
+            "name": "Уха из горбуши",
+            "slug": "uha-iz-gorbushi"
+        }
+    ]
+}

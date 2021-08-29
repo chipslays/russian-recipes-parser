@@ -1,0 +1,227 @@
+{
+    "source": "https://vkuso.ru/recipe/80858-befstroganov-iz-kuricy-s-shampinonami-v-duxovke/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Бефстроганов из курицы с шампиньонами в духовке",
+    "description": "Нежное блюдо, приготовленное в заменителе русской печи.",
+    "note": "Блюдо очень похоже на жульен, его можно украсить нарезанным огурцом, листочками зелени.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/fa/0f523ac7c8ceefa_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час 30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриная грудка",
+                    "slug": "kurinaya-grudka",
+                    "notes": null,
+                    "value": "800",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "400",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "шампиньоны",
+                    "slug": "shampinony",
+                    "notes": " (грибы)",
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "140",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Куриное мясо нашинковать тонкой соломкой, обжарить в течение нескольких минут на сковороде с кубиками репчатого лука.",
+            "image": null
+        },
+        {
+            "text": "Влить густую сметану, добавить соль, перец, нарезанный чеснок.",
+            "image": null
+        },
+        {
+            "text": "Все вместе потушить десять минут.",
+            "image": null
+        },
+        {
+            "text": "Шампиньоны или лесные грибы очистить и промыть.",
+            "image": null
+        },
+        {
+            "text": "Нарезать кусочками, жарить на масле до легкого румянца.",
+            "image": null
+        },
+        {
+            "text": "Влить оставшуюся сметану, перемешать, прогреть до кипения, потомить пять минут.",
+            "image": null
+        },
+        {
+            "text": "Мясную массу выложить в форму для запекания, сверху вылить грибную смесь.",
+            "image": null
+        },
+        {
+            "text": "Натереть сыр твердого сорта, посыпать блюдо, запекать в духовом шкафу десять минут, температура – 180 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бефстроганов",
+            "slug": "befstroganov"
+        },
+        {
+            "name": "Бефстроганов из куриной грудки",
+            "slug": "befstroganov-iz-kurinoy-grudki"
+        },
+        {
+            "name": "Бефстроганов из курицы",
+            "slug": "befstroganov-iz-kuricy"
+        },
+        {
+            "name": "Бефстроганов с грибами",
+            "slug": "befstroganov-s-gribami"
+        },
+        {
+            "name": "Бефстроганов со сметаной",
+            "slug": "befstroganov-so-smetanoy"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Грибы в духовке",
+            "slug": "griby-v-duhovke"
+        },
+        {
+            "name": "Грибы в сметане",
+            "slug": "griby-v-smetane"
+        },
+        {
+            "name": "Грибы с сыром в духовке",
+            "slug": "griby-s-syrom-v-duhovke"
+        },
+        {
+            "name": "Куриная грудка в духовке",
+            "slug": "kurinaya-grudka-v-duhovke"
+        },
+        {
+            "name": "Куриная грудка с грибами",
+            "slug": "kurinaya-grudka-s-gribami"
+        },
+        {
+            "name": "Куриная грудка с шампиньонами",
+            "slug": "kurinaya-grudka-s-shampinonami"
+        },
+        {
+            "name": "Курица в духовке",
+            "slug": "kurica-v-duhovke"
+        },
+        {
+            "name": "Курица с грибами",
+            "slug": "kurica-s-gribami"
+        },
+        {
+            "name": "Курица с грибами в духовке",
+            "slug": "kurica-s-gribami-v-duhovke"
+        },
+        {
+            "name": "Курица с чесноком в духовке",
+            "slug": "kurica-s-chesnokom-v-duhovke"
+        },
+        {
+            "name": "Курица с шампиньонами",
+            "slug": "kurica-s-shampinonami"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ужин из куриной грудки",
+            "slug": "ujin-iz-kurinoy-grudki"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "source": "https://vkuso.ru/recipe/slivochnyj-krem-s-varenoj-sgushhenkoj-i-orexami/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Сливочный крем с вареной сгущенкой и орехами",
+    "description": "Отличный крем для домашней выпечки.",
+    "note": "Такой крем отлично дополнит домашний бисквит.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/69/418e820094e3869_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/32aGFWuphXo?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко сгущенное вареное",
+                    "slug": "moloko-sguschennoe-varenoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "170-190",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "орехи",
+                    "slug": "orehi",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сливочное масло вынуть из холодильника, нарезать ломтиками.",
+            "image": null
+        },
+        {
+            "text": "Взбить блендером до увеличения объема в два раза.",
+            "image": null
+        },
+        {
+            "text": "Добавить вареную сгущенку, орехи, взбивать до однородного состояния.",
+            "image": null
+        },
+        {
+            "text": "Крем охладить.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерт со сгущенкой",
+            "slug": "desert-so-sguschenkoy"
+        },
+        {
+            "name": "Крем",
+            "slug": "krem"
+        },
+        {
+            "name": "Крем для пирожных",
+            "slug": "krem-dlya-pirojnyh"
+        },
+        {
+            "name": "Крем для торта",
+            "slug": "krem-dlya-torta"
+        },
+        {
+            "name": "Крем из вареной сгущенки",
+            "slug": "krem-iz-varenoy-sguschenki"
+        },
+        {
+            "name": "Крем из сгущенки",
+            "slug": "krem-iz-sguschenki"
+        },
+        {
+            "name": "Масляный крем",
+            "slug": "maslyaniy-krem"
+        },
+        {
+            "name": "Сливочный крем",
+            "slug": "slivochniy-krem"
+        }
+    ]
+}

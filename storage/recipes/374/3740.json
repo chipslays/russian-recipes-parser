@@ -1,0 +1,204 @@
+{
+    "source": "https://vkuso.ru/recipe/sloenyj-salat-s-bekonom-yajcami-i-zelenyu/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Слоеный салат с беконом, яйцами и зеленью",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/10/93ad13080bbbc10_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бекона",
+                    "slug": "bekona",
+                    "notes": null,
+                    "value": "16",
+                    "type": "ломтиков",
+                    "amount": null
+                },
+                {
+                    "name": "яиц",
+                    "slug": "yaic",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "8"
+                },
+                {
+                    "name": "помидора",
+                    "slug": "pomidora",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "4"
+                },
+                {
+                    "name": "зеленого горошка",
+                    "slug": "zelenogo-goroshka",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "салата латука",
+                    "slug": "salata-latuka",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шпината",
+                    "slug": "shpinata",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для заправки",
+            "list": [
+                {
+                    "name": "майонеза",
+                    "slug": "mayoneza",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сметаны",
+                    "slug": "smetany",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахара",
+                    "slug": "sahara",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Мелко порубить зелень, переложить в глубокую миску и перемешать с солью.",
+            "image": null
+        },
+        {
+            "text": "Порезать яйца, мелко нарезать бекон, крупно порезать чеснок.",
+            "image": null
+        },
+        {
+            "text": "Помидоры порезать небольшими кубиками, зеленый лук – средними колечками, сыр натереть на терке.",
+            "image": null
+        },
+        {
+            "text": "Для заправки смешать сметану, сахар и майонез.",
+            "image": null
+        },
+        {
+            "text": "Салат нужно выложить слоями: в емкость с зеленью выкладываем яйца, бекон, чеснок, помидоры, лук зеленый, сыр, зеленый горошек.",
+            "image": null
+        },
+        {
+            "text": "Слоеный салат с беконом, яйцами и зеленью заправляется приготовленной заправкой и подается к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Овощные салаты",
+            "slug": "ovoschnye-salaty"
+        },
+        {
+            "name": "Салат из помидоров",
+            "slug": "salat-iz-pomidorov"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с зеленым горошком",
+            "slug": "salat-s-zelenym-goroshkom"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с помидорами и сыром",
+            "slug": "salat-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Салат с помидорами и яйцами",
+            "slug": "salat-s-pomidorami-i-yaycami"
+        },
+        {
+            "name": "Салат с сыром и чесноком",
+            "slug": "salat-s-syrom-i-chesnokom"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салат с чесноком и майонезом",
+            "slug": "salat-s-chesnokom-i-mayonezom"
+        },
+        {
+            "name": "Салат с яйцом и сыром",
+            "slug": "salat-s-yaycom-i-syrom"
+        },
+        {
+            "name": "Салат со шпинатом",
+            "slug": "salat-so-shpinatom"
+        },
+        {
+            "name": "Салаты с беконом",
+            "slug": "salaty-s-bekonom"
+        },
+        {
+            "name": "Салаты с мясом",
+            "slug": "salaty-s-myasom"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        },
+        {
+            "name": "Салаты со сметаной",
+            "slug": "salaty-so-smetanoy"
+        },
+        {
+            "name": "Слоеные салаты",
+            "slug": "sloenye-salaty"
+        }
+    ]
+}

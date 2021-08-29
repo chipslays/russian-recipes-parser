@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/xleb-v-duxovke-po-domashnemu/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Хлеб в духовке по-домашнему",
+    "description": null,
+    "note": "Если нравится хрустящая, ломкая, корочка – тканью выпечку можно не накрывать.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/4b/1df672ec8238b4b_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "450",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "350",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Перемешать пшеничную просеянную муку, воду комнатной температуры, соль и сухие дрожжи. Тесто должно получиться негустым, его нужно накрыть полотенцем или крышкой и подержать для набухания клейковины при комнатной температуре в течение 12 часов, можно оставить на ночь.",
+            "image": null
+        },
+        {
+            "text": "Противень для выпечки посыпать мукой или выстелить пергаментом. Выложить тесто в виде сердечка или круга, острым ножом сделать надрезы, печь в духовке при температуре 250 градусов в течение 40–50 минут. При готовности должна образоваться золотистая корочка. Готовый хлеб выложить на решетку, накрыть полотенцем и остудить.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Белый хлеб",
+            "slug": "beliy-hleb"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Постная выпечка",
+            "slug": "postnaya-vypechka"
+        },
+        {
+            "name": "Постные блюда в духовке",
+            "slug": "postnye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Постный хлеб",
+            "slug": "postniy-hleb"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Хлеб в духовке",
+            "slug": "hleb-v-duhovke"
+        },
+        {
+            "name": "Хлеб домашний",
+            "slug": "hleb-domashniy"
+        }
+    ]
+}

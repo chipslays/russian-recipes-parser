@@ -1,0 +1,180 @@
+{
+    "source": "https://vkuso.ru/recipe/105446-salat-iz-zapechennyx-percev-i-repchatogo-luka/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат из запеченных перцев и репчатого лука",
+    "description": "Этот простой и быстрый салат родом из Испании. Он будет хорошим дополнением к шашлыку или стейку.",
+    "note": null,
+    "cuisine": "Испанская кухня",
+    "cuisine_slug": "ispanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/99/594317deb3b8a99_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "уксус винный белый",
+                    "slug": "uksus-vinniy-beliy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "По желанию",
+            "list": [
+                {
+                    "name": "тунец в масле",
+                    "slug": "tunec-v-masle",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "яйца вареные",
+                    "slug": "yayca-varenye",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "оливки",
+                    "slug": "olivki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Подготовить овощи, вымыть обсушить перцы, вдавить хвостик, потянуть за него и удалить семечки.",
+            "image": null
+        },
+        {
+            "text": "Разложить их в форме (смазать предварительно ее маслом), запечь в прогретой до 190 градусов духовке около трети часа.",
+            "image": null
+        },
+        {
+            "text": "Достать форму, перевернуть перцы вернуть в духовку еще на треть часа.",
+            "image": null
+        },
+        {
+            "text": "Готовые овощи достать закрыть в форме фольгой, дать остыть, снять кожицу, порезать на полоски.",
+            "image": null
+        },
+        {
+            "text": "Выложить в салатницу, залить через ситечко оставшимся в форме соком.",
+            "image": null
+        },
+        {
+            "text": "Нарезать тонкими полукольцами лук, добавить к перцу, подсолить, влить смесь масла и уксуса, аккуратно перемешать.",
+            "image": null
+        },
+        {
+            "text": "Готовый Салат из запеченных перцев и репчатого лука поставить на пару-тройку часов в холодильник.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Перец в духовке",
+            "slug": "perec-v-duhovke"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с оливками",
+            "slug": "salat-s-olivkami"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салат с рыбой",
+            "slug": "salat-s-ryboy"
+        },
+        {
+            "name": "Салат с тунцом",
+            "slug": "salat-s-tuncom"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты для пикника",
+            "slug": "salaty-dlya-piknika"
+        },
+        {
+            "name": "Салаты к шашлыку",
+            "slug": "salaty-k-shashlyku"
+        },
+        {
+            "name": "Салаты с болгарским перцем",
+            "slug": "salaty-s-bolgarskim-percem"
+        }
+    ]
+}

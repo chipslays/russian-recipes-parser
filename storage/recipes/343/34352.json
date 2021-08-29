@@ -1,0 +1,107 @@
+{
+    "source": "https://vkuso.ru/recipe/venskie-sosiski-v-sloenom-teste/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Венские сосиски в слоеном тесте",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ef/ea4cf9f6e4748ef_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сосиски венские",
+                    "slug": "sosiski-venskie",
+                    "notes": null,
+                    "value": "1",
+                    "type": "упаковка",
+                    "amount": null
+                },
+                {
+                    "name": "тесто слоеное",
+                    "slug": "testo-sloenoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Пласт готового слоеного теста из магазина раскатать так, чтобы квадрат превратился в прямоугольник. Разрезать тесто в длину на полоски любой ширины. Каждую вторую полоску завернуть наверх, делая сгиб посередине.",
+            "image": null
+        },
+        {
+            "text": "У самого сгиба, в центре, положить венскую сосиску, накрыть полосками теста, нечетные полоски завернуть вверх. Те же манипуляции проделать с другой стороной теста. Смазать сосиски в тесте желтком, посолить и поперчить по вкусу. Температура запекания–200 градусов. Тесто должно подрумяниться.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "В тесте",
+            "slug": "v-teste"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка из слоеного теста",
+            "slug": "vypechka-iz-sloenogo-testa"
+        },
+        {
+            "name": "Несладкая выпечка",
+            "slug": "nesladkaya-vypechka"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сосиски в слоеном тесте",
+            "slug": "sosiski-v-sloenom-teste"
+        },
+        {
+            "name": "Сосиски в тесте",
+            "slug": "sosiski-v-teste"
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "source": "https://vkuso.ru/recipe/korejskij-salat-kamdi-cha-iz-kartofelya-i-kuricy/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Корейский салат «Камди-ча» из картофеля и курицы",
+    "description": "Колоритный салат из восточной кухни, в котором картофель приобретает совершенно неожиданный вкус.",
+    "note": "По желанию в салат можно добавить кинзу и острый красный перец. Салат выложить горкой.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/13/01f6198ea49f613_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/xsN9c9bIOG8?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": " (говяжья вырезка)",
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "соус соевый",
+                    "slug": "sous-soeviy",
+                    "notes": null,
+                    "value": "30",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "уксус 6%",
+                    "slug": "uksus-6",
+                    "notes": null,
+                    "value": "30",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец острый красный",
+                    "slug": "perec-ostriy-krasniy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "семена кориандра",
+                    "slug": "semena-koriandra",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Репчатый лук, куриное мясо или говяжью вырезку нарезать соломкой.",
+            "image": null
+        },
+        {
+            "text": "Картофель вымыть, очистить, также нарезать соломкой. Залить его кипящей водой, довести до кипения, сразу откинуть на дуршлаг.",
+            "image": null
+        },
+        {
+            "text": "Разогреть на сковороде растительное масло, обжарить лук и мясо на сильном огне в течение пяти – шести минут. Посолить, поперчить, добавить соевый соус, кориандр, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Добавить в картофель. Очистить и нарубить чеснок, влить столовый уксус.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Картофельный салат",
+            "slug": "kartofelniy-salat"
+        },
+        {
+            "name": "Корейские салаты",
+            "slug": "koreyskie-salaty"
+        },
+        {
+            "name": "Корейский салат из курицы",
+            "slug": "koreyskiy-salat-iz-kuricy"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат с картофелем",
+            "slug": "salat-s-kartofelem"
+        },
+        {
+            "name": "Салат с куриным филе",
+            "slug": "salat-s-kurinym-file"
+        },
+        {
+            "name": "Салат с курицей",
+            "slug": "salat-s-kuricey"
+        },
+        {
+            "name": "Салат с курицей и овощами",
+            "slug": "salat-s-kuricey-i-ovoschami"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салат с соевым соусом",
+            "slug": "salat-s-soevym-sousom"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/dieticheskij-tvorozhnyj-syr-po-domashnemu/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Диетический творожный сыр по-домашнему",
+    "description": null,
+    "note": "Творог лучше использовать зерновой, сухой.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e3/80834e17a3233e3_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог обезжиренный",
+                    "slug": "tvorog-obezjirenniy",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "5",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "1/4",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Переложить творог в кастрюльку, налить молоко, поставить на медленный огонь. Готовить минут пятнадцать, время от времени помешивая. Смесь будет разделяться, будет выделяться сыворотка. Когда закипит, варить еще минут десять. Откинуть смесь на ситечко, чтобы стекла сыворотка.",
+            "image": null
+        },
+        {
+            "text": "Положить творог обратно в кастрюльку. Вбить яйцо, насыпать соду, соль, варить минут десять на маленьком огне. Когда смесь совсем расплавится, станет тягучей, готовить еще пять минут.",
+            "image": null
+        },
+        {
+            "text": "Смазать формочку растительным маслом, и сразу (так как быстро теряется пластичность), переложить сырную массу. Дать остыть, затем отправить диетический творожный сыр в холодильник для застывания.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Закуски с творогом",
+            "slug": "zakuski-s-tvorogom"
+        },
+        {
+            "name": "Сыр домашний",
+            "slug": "syr-domashniy"
+        },
+        {
+            "name": "Сыр из творога",
+            "slug": "syr-iz-tvoroga"
+        }
+    ]
+}

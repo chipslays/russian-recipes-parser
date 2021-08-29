@@ -1,0 +1,107 @@
+{
+    "source": "https://vkuso.ru/recipe/71489-francuzskij-omlet-s-syrom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Французский омлет с сыром",
+    "description": "Посмотрите видео пошагового приготовления, следуйте пограммовке и процессам приготовления и у вас получится . Готовьте с нами легко и очень вкусные блюда",
+    "note": null,
+    "cuisine": "Французская кухня",
+    "cuisine_slug": "francuzskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/04/f8c9de46139c104_660x440.jpeg",
+    "difficulty": "Низкая",
+    "cooktime": "20 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/9azrd3IPbDc?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 1 порцию",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр пармезан",
+                    "slug": "syr-parmezan",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло подсолнечное",
+                    "slug": "maslo-podsolnechnoe",
+                    "notes": null,
+                    "value": "5",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "щепоток"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Яичную смесь вылить на сковороду и обжарить с двух сторон",
+            "image": "https://vkuso.ru/data/cache/data/3c/c25605974d6003c_434x295_notrise.jpeg"
+        },
+        {
+            "text": "И добавить на одну половину сыр и закрыть другой половиной",
+            "image": "https://vkuso.ru/data/cache/data/ae/545e5a820998aae_434x295_notrise.jpeg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Блюда из яиц",
+            "slug": "blyuda-iz-yaic"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Омлет",
+            "slug": "omlet"
+        },
+        {
+            "name": "Омлет без молока",
+            "slug": "omlet-bez-moloka"
+        },
+        {
+            "name": "Омлет на завтрак",
+            "slug": "omlet-na-zavtrak"
+        },
+        {
+            "name": "Омлет на сковороде",
+            "slug": "omlet-na-skovorode"
+        },
+        {
+            "name": "Омлет с сыром",
+            "slug": "omlet-s-syrom"
+        },
+        {
+            "name": "Сковорода",
+            "slug": "skovoroda"
+        },
+        {
+            "name": "Яйца с сыром",
+            "slug": "yayca-s-syrom"
+        }
+    ]
+}

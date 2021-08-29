@@ -1,0 +1,137 @@
+{
+    "source": "https://vkuso.ru/recipe/desert-zhele-s-krasnoj-smorodinoj-i-slivkami/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Десерт-желе с красной смородиной и сливками",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ac/d74d5ed982013ac_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "смородина красная",
+                    "slug": "smorodina-krasnaya",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для желе",
+            "list": [
+                {
+                    "name": "сливки 33–35%",
+                    "slug": "slivki-33-35",
+                    "notes": null,
+                    "value": "400",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для суфле",
+            "list": [
+                {
+                    "name": "шоколад",
+                    "slug": "shokolad",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить желатин по инструкции на упаковке, приготовить пюре из ягод, протереть от косточек на сите. Перемешать ягодное пюре с сахаром, залить водой, нагреть до растворения сахара, влить раствор желатина, перемешать (не кипятить!). Заполнить полученной массой наполовину креманки, поставить десерт на 7 часов в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления суфле из сливок подготовить замоченный желатин, нагреть до полного растворения, остудить. Взбить в пышную устойчивую массу сахар со сливками, смешать с раствором желатина. Достать десерт-желе с красной смородиной, положить в каждую порцию сливочное суфле, присыпать мелко натертым шоколадом, убрать на 4 часа в холодильник.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Десерты с желатином",
+            "slug": "deserty-s-jelatinom"
+        },
+        {
+            "name": "Желе",
+            "slug": "jele"
+        },
+        {
+            "name": "Новогодние десерты",
+            "slug": "novogodnie-deserty"
+        },
+        {
+            "name": "Праздничные десерты",
+            "slug": "prazdnichnye-deserty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Фруктово-ягодные десерты",
+            "slug": "fruktovo-yagodnye-deserty"
+        }
+    ]
+}

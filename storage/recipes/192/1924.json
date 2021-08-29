@@ -1,0 +1,175 @@
+{
+    "source": "https://vkuso.ru/recipe/bifshteks-s-pikantnoj-pripravoj-po-tatarski/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Бифштекс с пикантной приправой по-татарски",
+    "description": null,
+    "note": null,
+    "cuisine": "Татарская кухня",
+    "cuisine_slug": "tatarskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/4f/bd30c1c74540d4f_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "говяжьего стейка",
+                    "slug": "govyajego-steyka",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "оливок с перцем",
+                    "slug": "olivok-s-percem",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соленых огурца",
+                    "slug": "solenyh-ogurca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "4"
+                },
+                {
+                    "name": "помидора",
+                    "slug": "pomidora",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "каперсов",
+                    "slug": "kapersov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "горчицы",
+                    "slug": "gorchicy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соли",
+                    "slug": "soli",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "острого молотого перца",
+                    "slug": "ostrogo-molotogo-perca",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "черного молотого перца",
+                    "slug": "chernogo-molotogo-perca",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "кресс-салат",
+                    "slug": "kress-salat",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Зажарить готовый стейк, порезать половинку луковицы мелкими кубиками, а вторую нашинковать тонкими полукольцами.",
+            "image": null
+        },
+        {
+            "text": "Порубить мелко три огурца, оставшийся — надрезать веером.",
+            "image": null
+        },
+        {
+            "text": "Разрезать на половинки четыре оливки, остальные и каперсы мелко нарезать.",
+            "image": null
+        },
+        {
+            "text": "Смешать все нарезанные ингредиенты с вареными желтками яиц, солью, перцем, горчицей, выложить полученную смесь на бифштекс, вокруг положить полукольца лука и половинки оливок",
+            "image": null
+        },
+        {
+            "text": "Украсить бифштекс с пикантной приправой по-татарски дольками помидора и веточками кресс-салата.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бифштекс",
+            "slug": "bifshteks"
+        },
+        {
+            "name": "Бифштекс из говядины",
+            "slug": "bifshteks-iz-govyadiny"
+        },
+        {
+            "name": "Вторые блюда из говядины",
+            "slug": "vtorye-blyuda-iz-govyadiny"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Говядина с овощами",
+            "slug": "govyadina-s-ovoschami"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Ужин из говядины",
+            "slug": "ujin-iz-govyadiny"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        }
+    ]
+}

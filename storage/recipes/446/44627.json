@@ -1,0 +1,155 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-iz-kalmarov-s-nutom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат из кальмаров с нутом",
+    "description": "Зернобобовая культура нут используется на нашем столе нечасто. У него много названий: турецкий горох, шиш, нахат, пузырник, бараний горох. Пищевой продукт популярен на Ближнем Востоке, это основа для хумуса.",
+    "note": "Если кабачки цуккини молодые, их можно нарезать вместе с кожурой. Украсить блюдо дольками лимона.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f0/2ba3c98cf8f3af0_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кальмары",
+                    "slug": "kalmary",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "нут",
+                    "slug": "nut",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "листья салата",
+                    "slug": "listya-salata",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "цукини",
+                    "slug": "cukini",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "40",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "перец чили",
+                    "slug": "perec-chili",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "паприка копченая",
+                    "slug": "paprika-kopchenaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Тушки мелких кальмаров выпотрошить, удалить шкурку, продукт нарезать кольцами.",
+            "image": null
+        },
+        {
+            "text": "На сковороде разогреть немного оливкового масла, накрошить сушеный или свежий перец чили, насыпать щепоть копченой паприки, положить кальмары. Жарить две минуты на сильном огне, снять с плиты и посолить.",
+            "image": null
+        },
+        {
+            "text": "Заранее отварить нут или использовать консервы.",
+            "image": null
+        },
+        {
+            "text": "Вымыть и обсушить микс зеленых салатных листьев, добавить морепродукты, нут и кабачок цуккини.",
+            "image": null
+        },
+        {
+            "text": "В сковороду, где жарились продукты, выдавить лимонный сок, налить оставшееся оливковое масло, заправку посолить по вкусу. Перемешать, залить соусом салат и сразу подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат с кальмарами",
+            "slug": "salat-s-kalmarami"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты из кабачков",
+            "slug": "salaty-iz-kabachkov"
+        },
+        {
+            "name": "Салаты из листьев салата",
+            "slug": "salaty-iz-listev-salata"
+        },
+        {
+            "name": "Салаты из морепродуктов",
+            "slug": "salaty-iz-moreproduktov"
+        }
+    ]
+}

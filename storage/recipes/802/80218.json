@@ -1,0 +1,195 @@
+{
+    "source": "https://vkuso.ru/recipe/rizotto-s-gribami-kurinym-file-i-syrom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Ризотто с грибами, куриным филе и сыром",
+    "description": "Оригинальный вкус привычного итальянского блюда.",
+    "note": "При подаче посыпать ризотто рубленой зеленью.",
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/af/bb130147acfdaaf_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/tE77VLKVvtI?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бульон",
+                    "slug": "bulon",
+                    "notes": null,
+                    "value": "800",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "грибы",
+                    "slug": "griby",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "вино белое",
+                    "slug": "vino-beloe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "бокал",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ломтик",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Репчатый лук нарезать, обжарить со сливочным маслом.",
+            "image": null
+        },
+        {
+            "text": "Добавить куриное филе, все вместе жарить еще две минуты.",
+            "image": null
+        },
+        {
+            "text": "Всыпать рис, влить белое вино, дождаться выпаривания.",
+            "image": null
+        },
+        {
+            "text": "Грибы нарезать пластинками, перемешать с рисом, влить бульон.",
+            "image": null
+        },
+        {
+            "text": "Прогревать до выпаривания жидкости.",
+            "image": null
+        },
+        {
+            "text": "Всыпать специи по вкусу и желанию.",
+            "image": null
+        },
+        {
+            "text": "Посыпать тертым сыром, добавить кусочек сливочного масла.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Вторые блюда из риса",
+            "slug": "vtorye-blyuda-iz-risa"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Курица с грибами",
+            "slug": "kurica-s-gribami"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ризотто",
+            "slug": "rizotto"
+        },
+        {
+            "name": "Ризотто с грибами",
+            "slug": "rizotto-s-gribami"
+        },
+        {
+            "name": "Ризотто с курицей",
+            "slug": "rizotto-s-kuricey"
+        },
+        {
+            "name": "Ризотто с курицей и грибами",
+            "slug": "rizotto-s-kuricey-i-gribami"
+        },
+        {
+            "name": "Ризотто с сыром",
+            "slug": "rizotto-s-syrom"
+        },
+        {
+            "name": "Рис с грибами",
+            "slug": "ris-s-gribami"
+        },
+        {
+            "name": "Рис с курицей",
+            "slug": "ris-s-kuricey"
+        },
+        {
+            "name": "Ужин из куриного филе",
+            "slug": "ujin-iz-kurinogo-file"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "source": "https://vkuso.ru/recipe/bliny-na-moloke-ili-kefire-zavarnye/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Блины на молоке или кефире заварные",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ef/4fe42c30e3b90ef_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молока / кефира",
+                    "slug": "moloka-kefira",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "воды",
+                    "slug": "vody",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "растительного масла",
+                    "slug": "rastitelnogo-masla",
+                    "notes": null,
+                    "value": "7",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлителя",
+                    "slug": "razryhlitelya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Взбить яйца с молоком (кефиром), добавить разрыхлитель, постепенно помешивая всыпать муку до консистенции теста на оладьи, заварить стаканом крутого кипятка, тщательно перемешать, влить растительное масло.",
+            "image": null
+        },
+        {
+            "text": "Выпекать с обеих сторон на сильно разогретой сковороде как обычные блины, блины на молоке или кефире заварные подавать к столу горячими со сметаной, маслом, вареньем или сгущенкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блины",
+            "slug": "bliny"
+        },
+        {
+            "name": "Блины без дрожжей",
+            "slug": "bliny-bez-drojjey"
+        },
+        {
+            "name": "Блины на кефире",
+            "slug": "bliny-na-kefire"
+        },
+        {
+            "name": "Блины на кефире с кипятком",
+            "slug": "bliny-na-kefire-s-kipyatkom"
+        },
+        {
+            "name": "Блины на Масленицу",
+            "slug": "bliny-na-maslenicu"
+        },
+        {
+            "name": "Выпечка на кефире",
+            "slug": "vypechka-na-kefire"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Выпечка с вареньем",
+            "slug": "vypechka-s-varenem"
+        },
+        {
+            "name": "Выпечка со сгущенкой",
+            "slug": "vypechka-so-sguschenkoy"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Масленица",
+            "slug": "maslenica"
+        },
+        {
+            "name": "Тесто для блинов",
+            "slug": "testo-dlya-blinov"
+        },
+        {
+            "name": "Тесто на кефире",
+            "slug": "testo-na-kefire"
+        }
+    ]
+}

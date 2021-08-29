@@ -1,0 +1,91 @@
+{
+    "source": "https://vkuso.ru/recipe/90476-domashnij-tvorog-iz-moloka-i-zakvaski-v-multivarke/",
+    "category": "Молочные продукты домашние",
+    "category_slug": "molochnye-produkty-domashnie",
+    "title": "Домашний творог из молока и закваски в мультиварке",
+    "description": "Для получения продукта понадобится натуральное молоко и закваска.",
+    "note": "Для закваски использовать специальную закваску или кефир, ряженку, йогурт.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5b/e2013cb90b0a15b_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "10 часов 30 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/ERoLTi995Lg?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "3",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "закваска",
+                    "slug": "zakvaska",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Домашнее молоко довести до кипения, а затем остудить до сорока градусов.",
+            "image": null
+        },
+        {
+            "text": "Если продукт приобретен в магазине, его нужно прогреть в мультиварке до указанной температуры.",
+            "image": null
+        },
+        {
+            "text": "Теплое молоко перемешать с закваской в нужной пропорции.",
+            "image": null
+        },
+        {
+            "text": "Выставить режим «Йогурт» на восемь часов.",
+            "image": null
+        },
+        {
+            "text": "Можно выбрать температуру в сорок градусов на это же время.",
+            "image": null
+        },
+        {
+            "text": "Молоко сквасится, далее выставить режим «Подогрев» на два часа.",
+            "image": null
+        },
+        {
+            "text": "Сыворотка должна отойти.",
+            "image": null
+        },
+        {
+            "text": "Дуршлаг застелить марлей, творог отжать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Творог в мультиварке",
+            "slug": "tvorog-v-multivarke"
+        },
+        {
+            "name": "Творог домашний",
+            "slug": "tvorog-domashniy"
+        },
+        {
+            "name": "Творог из молока",
+            "slug": "tvorog-iz-moloka"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "source": "https://vkuso.ru/recipe/yajca-s-sousom-xren-po-yaponski/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Яйца с соусом-хрен по-японски",
+    "description": null,
+    "note": null,
+    "cuisine": "Японская кухня",
+    "cuisine_slug": "yaponskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/61/2edae10d4a82a61_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "майонеза",
+                    "slug": "mayoneza",
+                    "notes": null,
+                    "value": "150",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "4"
+                },
+                {
+                    "name": "тертого хрена",
+                    "slug": "tertogo-hrena",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "помидор",
+                    "slug": "pomidor",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сваренные вкрутую яйца очистить и разрезать пополам поперек.",
+            "image": null
+        },
+        {
+            "text": "Майонез смешать с тертым хреном и выложить эту смесь в салатник, поверх смеси выложить яйца срезами вверх.",
+            "image": null
+        },
+        {
+            "text": "Подавать яйца с соусом-хрен по-японски, украсив рубленой зеленью и кусочками помидора.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Гарнир к курице",
+            "slug": "garnir-k-kurice"
+        },
+        {
+            "name": "Гарниры",
+            "slug": "garniry"
+        },
+        {
+            "name": "Закуски из яиц",
+            "slug": "zakuski-iz-yaic"
+        }
+    ]
+}

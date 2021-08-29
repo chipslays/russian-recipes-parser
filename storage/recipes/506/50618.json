@@ -1,0 +1,95 @@
+{
+    "source": "https://vkuso.ru/recipe/proteinovoe-molochnoe-zhele/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Протеиновое молочное желе",
+    "description": "Очень простой десерт с минимумом ингредиентов.",
+    "note": "Готовый десерт можно украсить творогом и целыми свежими ягодами клубники, малины, черники.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b7/437fea817fcecb7_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "300",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "молоко обезжиренное",
+                    "slug": "moloko-obezjirennoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "протеин",
+                    "slug": "protein",
+                    "notes": null,
+                    "value": "2",
+                    "type": "мерные ложки",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "15",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Желатин растворить в теплой воде, оставить на 20 минут для набухания.",
+            "image": null
+        },
+        {
+            "text": "Взбить с помощью блендера, добавить обезжиренное молоко и протеин.",
+            "image": null
+        },
+        {
+            "text": "Массу разлить в формочки, поставить в холодильник на два часа.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерты с желатином",
+            "slug": "deserty-s-jelatinom"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетические десерты",
+            "slug": "dieticheskie-deserty"
+        },
+        {
+            "name": "Желе",
+            "slug": "jele"
+        },
+        {
+            "name": "На десерт",
+            "slug": "na-desert"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

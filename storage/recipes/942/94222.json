@@ -1,0 +1,123 @@
+{
+    "source": "https://vkuso.ru/recipe/94222-francuzskij-xleb-s-provanskimi-travami-v-xlebopechke/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Французский хлеб с прованскими травами в хлебопечке",
+    "description": "Все знают название французского хлеба – багет. Нестареющая классика кулинарного искусства.",
+    "note": "Из багета можно приготовить горячие бутерброды с мясом, рыбой, овощами или сладкие изделия к чаю.",
+    "cuisine": "Французская кухня",
+    "cuisine_slug": "francuzskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/90/397aac1e7b7f190_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "3 часа",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/3oMd-VMNXCo?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "230",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "прованские травы",
+                    "slug": "provanskie-travy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В емкость хлебопечки влить теплую воду, всыпать соль, прованские травы, муку, сахарный песок, сухие дрожжи.",
+            "image": null
+        },
+        {
+            "text": "Выставить основной режим хлебопечения, корочка – «Средняя».",
+            "image": null
+        },
+        {
+            "text": "Влить растительное масло в конце замеса, все продукты должны быть комнатной температуры.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Французская выпечка",
+            "slug": "francuzskaya-vypechka"
+        },
+        {
+            "name": "Хлеб в хлебопечке",
+            "slug": "hleb-v-hlebopechke"
+        },
+        {
+            "name": "Хлеб домашний",
+            "slug": "hleb-domashniy"
+        },
+        {
+            "name": "Хлебопечка",
+            "slug": "hlebopechka"
+        }
+    ]
+}

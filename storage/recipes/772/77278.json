@@ -1,0 +1,211 @@
+{
+    "source": "https://vkuso.ru/recipe/rassolnik-bez-myasa-s-chechevicej/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Рассольник без мяса с чечевицей",
+    "description": "Блюдо можно приготовить для детского меню или для диеты. По желанию суп можно сварить в мультиварке.",
+    "note": "Готовое блюдо посыпать свежей зеленью.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/da/92096b0c78b78da_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": "30 минут",
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "огурцы соленые",
+                    "slug": "ogurcy-solenye",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чечевица",
+                    "slug": "chechevica",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "перловая крупа",
+                    "slug": "perlovaya-krupa",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "приправы",
+                    "slug": "pripravy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "На полчаса замочить рис и чечевицу.",
+            "image": null
+        },
+        {
+            "text": "Влить воду, варить 25 минут.",
+            "image": null
+        },
+        {
+            "text": "Обжарить репчатый лук, морковь, нарезанные томаты, огурцы.",
+            "image": null
+        },
+        {
+            "text": "Отдельно отварить перловку, ввести в суп вместе с кубиками картошки.",
+            "image": null
+        },
+        {
+            "text": "Приправы добавить через полчаса, посолить по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Варить рассольник еще шесть или семь минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетический суп",
+            "slug": "dieticheskiy-sup"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Постные блюда из чечевицы",
+            "slug": "postnye-blyuda-iz-chechevicy"
+        },
+        {
+            "name": "Постные рецепты",
+            "slug": "postnye-recepty"
+        },
+        {
+            "name": "Постный рассольник",
+            "slug": "postniy-rassolnik"
+        },
+        {
+            "name": "Постный суп",
+            "slug": "postniy-sup"
+        },
+        {
+            "name": "Постный суп из чечевицы",
+            "slug": "postniy-sup-iz-chechevicy"
+        },
+        {
+            "name": "Рассольник",
+            "slug": "rassolnik"
+        },
+        {
+            "name": "Рассольник с перловой крупой",
+            "slug": "rassolnik-s-perlovoy-krupoy"
+        },
+        {
+            "name": "Рассольник с рисом",
+            "slug": "rassolnik-s-risom"
+        },
+        {
+            "name": "Рассольник с рисом и солеными огурцами",
+            "slug": "rassolnik-s-risom-i-solenymi-ogurcami"
+        },
+        {
+            "name": "Специальное питание",
+            "slug": "specialnoe-pitanie"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из бобовых",
+            "slug": "sup-iz-bobovyh"
+        },
+        {
+            "name": "Суп из чечевицы",
+            "slug": "sup-iz-chechevicy"
+        },
+        {
+            "name": "Суп с перловкой",
+            "slug": "sup-s-perlovkoy"
+        },
+        {
+            "name": "Супы с крупами",
+            "slug": "supy-s-krupami"
+        }
+    ]
+}

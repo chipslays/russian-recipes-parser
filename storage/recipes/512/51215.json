@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/tvorozhno-yablochnye-lepeshki-s-otrubyami/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Творожно-яблочные лепешки с отрубями",
+    "description": null,
+    "note": "Лепешки можно подать к чаю или ароматному напитку из трав.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/55/182105753fd2055_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог обезжиренный",
+                    "slug": "tvorog-obezjirenniy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "80",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "отруби",
+                    "slug": "otrubi",
+                    "notes": null,
+                    "value": "15",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "на кончике ножа"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Обезжиренный творог смешать с сырым куриным яйцом с помощью блендера.",
+            "image": null
+        },
+        {
+            "text": "Отдельно натереть яблоко, добавить в массу вместе с молотыми отрубями и разрыхлителем, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Массу выкладывать на противень, застеленный бумагой для выпечки, чайной ложкой.",
+            "image": null
+        },
+        {
+            "text": "Печь в течение получаса при температуре 180 – 200 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блюда из творога для детей",
+            "slug": "blyuda-iz-tvoroga-dlya-detey"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка на скорую руку",
+            "slug": "vypechka-na-skoruyu-ruku"
+        },
+        {
+            "name": "Выпечка с яблоками",
+            "slug": "vypechka-s-yablokami"
+        },
+        {
+            "name": "Детское печенье",
+            "slug": "detskoe-pechene"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Печенье",
+            "slug": "pechene"
+        },
+        {
+            "name": "Печенье без муки",
+            "slug": "pechene-bez-muki"
+        },
+        {
+            "name": "Творожное печенье",
+            "slug": "tvorojnoe-pechene"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

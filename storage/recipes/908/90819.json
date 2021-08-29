@@ -1,0 +1,155 @@
+{
+    "source": "https://vkuso.ru/recipe/90819-chernyj-xleb-s-solodom-i-tminom-v-xlebopechke/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Черный хлеб с солодом и тмином в хлебопечке",
+    "description": "Продукт можно приготовить в хлебопечке, по вкусу он похож на «Бородинский» хлеб.",
+    "note": "Хлеб остудить на решетке.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/43/fd5907a275cd243_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "330",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "рожь",
+                    "slug": "roj",
+                    "notes": " (молотая)",
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко сухое",
+                    "slug": "moloko-suhoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "солод",
+                    "slug": "solod",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "тмин",
+                    "slug": "tmin",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи",
+                    "slug": "drojji",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В чашу вложить продукты в той очередности, которая положена по инструкции.",
+            "image": null
+        },
+        {
+            "text": "Использовать пшеничную муку, молотую рожь, сухое молоко, сливочное масло, немного меда, соль, солод, тмин и пекарские дрожжи.",
+            "image": null
+        },
+        {
+            "text": "Выбрать нужный режим, печь до получения корочки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бородинский хлеб",
+            "slug": "borodinskiy-hleb"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка на молоке",
+            "slug": "vypechka-na-moloke"
+        },
+        {
+            "name": "Выпечка с медом",
+            "slug": "vypechka-s-medom"
+        },
+        {
+            "name": "Ржаной хлеб",
+            "slug": "rjanoy-hleb"
+        },
+        {
+            "name": "Хлеб в хлебопечке",
+            "slug": "hleb-v-hlebopechke"
+        },
+        {
+            "name": "Хлеб домашний",
+            "slug": "hleb-domashniy"
+        },
+        {
+            "name": "Хлебопечка",
+            "slug": "hlebopechka"
+        }
+    ]
+}

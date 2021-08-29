@@ -1,0 +1,191 @@
+{
+    "source": "https://vkuso.ru/recipe/107303-vinegret-s-seledkoj-kvashenoj-kapustoj-i-ukropom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Винегрет с селедкой, квашеной капустой и укропом",
+    "description": "Диетический салат для зимы. Блюдо бюджетное и вкусное.",
+    "note": "Готовое блюдо по желанию можно дополнить яблоками и тыквой.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/55/eb95ade6d69d555_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/WuKbH9TzIG0?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "капуста квашеная",
+                    "slug": "kapusta-kvashenaya",
+                    "notes": null,
+                    "value": "110",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы соленые",
+                    "slug": "ogurcy-solenye",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "филе сельди",
+                    "slug": "file-seldi",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "свекла",
+                    "slug": "svekla",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень укропа",
+                    "slug": "zelen-ukropa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить картофель с морковью до готовности.",
+            "image": null
+        },
+        {
+            "text": "В отдельной емкости отварить свеклу, остудить и почистить.",
+            "image": null
+        },
+        {
+            "text": "Все овощи нарезать одинаковыми кубиками.",
+            "image": null
+        },
+        {
+            "text": "Измельчить любым способом соленые огурцы.",
+            "image": null
+        },
+        {
+            "text": "Квашеную капусту отжать, крупные кусочки мелко нарезать.",
+            "image": null
+        },
+        {
+            "text": "Все подготовленные ингредиенты соединить, поперчить по вкусу, полить оливковым маслом и перемешать.",
+            "image": null
+        },
+        {
+            "text": "Нарезать зелень, посыпать салат. Выложить ломтики сельди.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Винегрет",
+            "slug": "vinegret"
+        },
+        {
+            "name": "Винегрет с квашеной капустой",
+            "slug": "vinegret-s-kvashenoy-kapustoy"
+        },
+        {
+            "name": "Винегрет с селедкой",
+            "slug": "vinegret-s-seledkoy"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из капусты",
+            "slug": "salat-iz-kapusty"
+        },
+        {
+            "name": "Салат из капусты и моркови",
+            "slug": "salat-iz-kapusty-i-morkovi"
+        },
+        {
+            "name": "Салат из капусты и огурцов",
+            "slug": "salat-iz-kapusty-i-ogurcov"
+        },
+        {
+            "name": "Салат из свеклы",
+            "slug": "salat-iz-svekly"
+        },
+        {
+            "name": "Салат из свеклы и моркови",
+            "slug": "salat-iz-svekly-i-morkovi"
+        },
+        {
+            "name": "Салат с картофелем",
+            "slug": "salat-s-kartofelem"
+        },
+        {
+            "name": "Салат с рыбой",
+            "slug": "salat-s-ryboy"
+        },
+        {
+            "name": "Салат с солеными огурцами",
+            "slug": "salat-s-solenymi-ogurcami"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты с квашеной капустой",
+            "slug": "salaty-s-kvashenoy-kapustoy"
+        },
+        {
+            "name": "Салаты с селедкой",
+            "slug": "salaty-s-seledkoy"
+        }
+    ]
+}

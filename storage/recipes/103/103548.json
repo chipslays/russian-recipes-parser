@@ -1,0 +1,232 @@
+{
+    "source": "https://vkuso.ru/recipe/103548-gavajskaya-picca-s-kuricej-i-ananasami-v-duxovke/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Гавайская пицца с курицей и ананасами в духовке",
+    "description": "Такая выпечка популярна в европейских странах.",
+    "note": "Вместо свежего томата можно использовать консервированные помидоры, приготовленные в собственном соку.",
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/54/2f49ecb67994154_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час",
+    "preparetime": "1 час 30 минут",
+    "video": "https://www.youtube.com/embed/gWRxk4A7pdQ?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "¾",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи быстродействующие",
+                    "slug": "drojji-bystrodeystvuyuschie",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "курица",
+                    "slug": "kurica",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "150-200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ананас консервированный",
+                    "slug": "ananas-konservirovanniy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Всыпать в миску муку, перемешать с дрожжами, солью и сахарным песком.",
+            "image": null
+        },
+        {
+            "text": "Влить теплую воду, перемешать. В массе не должно быть комочков.",
+            "image": null
+        },
+        {
+            "text": "Добавить оставшуюся муку, тесто должно получиться тугим и послушным.",
+            "image": null
+        },
+        {
+            "text": "Емкость накрыть полотенцем, поставить в холод на час или полтора.",
+            "image": null
+        },
+        {
+            "text": "В кипящую подсоленную воду выложить курицу, отварить до готовности.",
+            "image": null
+        },
+        {
+            "text": "Бульон слить и использовать для приготовления первого блюда.",
+            "image": null
+        },
+        {
+            "text": "Мясо остудить, нарезать кубиками небольшого размера.",
+            "image": null
+        },
+        {
+            "text": "Свежие или консервированные ананасы нарезать кубиками.",
+            "image": null
+        },
+        {
+            "text": "Тонко раскатать тесто.",
+            "image": null
+        },
+        {
+            "text": "Форму для запекания смазать растительным маслом, выложить лепешку, края удалить.",
+            "image": null
+        },
+        {
+            "text": "Смазать поверхность томатной пастой, выложить кружочки свежих помидоров, куриное филе, ананасы.",
+            "image": null
+        },
+        {
+            "text": "Запекать полчаса при температуре 180 градусов.",
+            "image": null
+        },
+        {
+            "text": "Натереть сыр, выложить на пиццу, запекать еще десять минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка с сыром",
+            "slug": "vypechka-s-syrom"
+        },
+        {
+            "name": "Выпечка с фруктами",
+            "slug": "vypechka-s-fruktami"
+        },
+        {
+            "name": "Дрожжевая пицца",
+            "slug": "drojjevaya-picca"
+        },
+        {
+            "name": "Итальянская пицца",
+            "slug": "italyanskaya-picca"
+        },
+        {
+            "name": "Пицца",
+            "slug": "picca"
+        },
+        {
+            "name": "Пицца в духовке",
+            "slug": "picca-v-duhovke"
+        },
+        {
+            "name": "Пицца с ананасами",
+            "slug": "picca-s-ananasami"
+        },
+        {
+            "name": "Пицца с курицей",
+            "slug": "picca-s-kuricey"
+        },
+        {
+            "name": "Пицца с курицей и ананасами",
+            "slug": "picca-s-kuricey-i-ananasami"
+        },
+        {
+            "name": "Пицца с помидорами",
+            "slug": "picca-s-pomidorami"
+        },
+        {
+            "name": "Пицца с помидорами и сыром",
+            "slug": "picca-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Пицца с сыром",
+            "slug": "picca-s-syrom"
+        }
+    ]
+}

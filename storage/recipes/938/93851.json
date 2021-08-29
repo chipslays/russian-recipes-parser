@@ -1,0 +1,188 @@
+{
+    "source": "https://vkuso.ru/recipe/93851-panna-kotta-s-klubnichnym-pyure/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Панна Котта с клубничным пюре",
+    "description": "Вкуснейший легкий итальянский десерт.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f7/1cafb88656be5f7_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "15 минут",
+    "preparetime": "8 часов",
+    "video": "https://www.youtube.com/embed/f0OT_tyhZDM?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "сливки 35%",
+                    "slug": "slivki-35",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "желатин листовой",
+                    "slug": "jelatin-listovoy",
+                    "notes": null,
+                    "value": "5",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар ванильный",
+                    "slug": "sahar-vanilniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Панна Котта",
+            "list": [
+                {
+                    "name": "клубника",
+                    "slug": "klubnika",
+                    "notes": null,
+                    "value": "120",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "кукурузный крахмал",
+                    "slug": "kukuruzniy-krahmal",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Замочить желатин в воде на 10 минут.",
+            "image": null
+        },
+        {
+            "text": "Влить в кастрюлю сливки и молоко, добавить сахар. Поставить на средний огонь и готовить помешивая до тех пор, пока не начнет закипать.",
+            "image": null
+        },
+        {
+            "text": "Снять с огня, добавить желатин и ванильный сахар, хорошо перемешать. Разлить в формы и убрать в холодильник на ночь.",
+            "image": null
+        },
+        {
+            "text": "В блендере взбить клубнику с сахаром и лимонным соком.",
+            "image": null
+        },
+        {
+            "text": "Пропустить через сито и поставить на средний огонь. Готовить до закипания.",
+            "image": null
+        },
+        {
+            "text": "Кукурузный крахмал смешать с 1-2 ст.л. воды.",
+            "image": null
+        },
+        {
+            "text": "Помешивая клубничное пюре влить кукурузный крахмал частями. Как только смесь загустеет снять с огня и дать остыть.",
+            "image": null
+        },
+        {
+            "text": "Полить клубничным пюре готовую панна котту.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Десерты с желатином",
+            "slug": "deserty-s-jelatinom"
+        },
+        {
+            "name": "Десерты с клубникой",
+            "slug": "deserty-s-klubnikoy"
+        },
+        {
+            "name": "Панакота",
+            "slug": "panakota"
+        },
+        {
+            "name": "Праздничные десерты",
+            "slug": "prazdnichnye-deserty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Свадьба",
+            "slug": "svadba"
+        },
+        {
+            "name": "Фруктово-ягодные десерты",
+            "slug": "fruktovo-yagodnye-deserty"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        }
+    ]
+}

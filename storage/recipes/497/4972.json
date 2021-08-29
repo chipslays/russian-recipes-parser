@@ -1,0 +1,131 @@
+{
+    "source": "https://vkuso.ru/recipe/okroshka-na-nastoe-iz-suxofruktov/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Окрошка на настое из сухофруктов",
+    "description": null,
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a7/efab48937b66da7_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "огурцов",
+                    "slug": "ogurcov",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сушеных яблок",
+                    "slug": "sushenyh-yablok",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сушеных груш",
+                    "slug": "sushenyh-grush",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "сметаны",
+                    "slug": "smetany",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лимонного сока",
+                    "slug": "limonnogo-soka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахара",
+                    "slug": "sahara",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить картофель, остудить, нарезать вместе с огурцами на кубики, зелень нашинковать, порубить белки вареных яиц, желтки растереть и смешать со сметаной, присолить и все перемешать.",
+            "image": null
+        },
+        {
+            "text": "Залить сухофрукты парой стаканов кипятка, нагреть до кипения, закрыть крышкой, оставить на 4 часа, процедить, добавить чуть сахара, еще раз прокипятить, охладить.",
+            "image": null
+        },
+        {
+            "text": "Овощную смесь с зеленью и яйцами залить холодным узваром, размешать, попробовать, добавить в окрошку на настое из сухофруктов лимонный сок, перемешать и подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Окрошка",
+            "slug": "okroshka"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Холодные супы",
+            "slug": "holodnye-supy"
+        }
+    ]
+}

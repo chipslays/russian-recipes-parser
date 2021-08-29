@@ -1,0 +1,188 @@
+{
+    "source": "https://vkuso.ru/recipe/pirog-lotaringiya-s-bekonom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пирог «Лотарингия» с беконом",
+    "description": "Знаменитый, классический киш – пирог с заварным кремом и различными наполнителями. Рецепт очень популярен среди жителей восточных областей Франции. «Лотарингию» можно взять с собой на пикник, это замечательное блюдо к обеду или второму завтраку.",
+    "note": "Пирог можно подать с сухим белым вином.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/16/9ffc1a5f9987d16_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "1/3",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1/4",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для начинки",
+            "list": [
+                {
+                    "name": "бекон",
+                    "slug": "bekon",
+                    "notes": null,
+                    "value": "8",
+                    "type": "ломтиков",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сливки взбитые",
+                    "slug": "slivki-vzbitye",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1/3",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": "1/4",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1/4",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец красный молотый",
+                    "slug": "perec-krasniy-molotiy",
+                    "notes": null,
+                    "value": "1/8",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Перемешать в емкости пшеничную муку с солью, постепенно влить кипяченую воду, перемешать. Готовое тесто скатать в «колобок», завернуть в пищевую пленку или полиэтилен, положить в холодильник на 45 минут.",
+            "image": null
+        },
+        {
+            "text": "Охлажденное тесто раскатать в лепешку толщиной в один сантиметр. Выложить в смазанную растительным маслом форму для запекания. Краям теста придать волнистую форму. Печь пи 220 градусах в течение 10 – 15 минут.",
+            "image": null
+        },
+        {
+            "text": "Температуру уменьшить до 165 градусов. Выложить тонкие ломтики бекона, тертый твердый сыр, мелко нарезанный репчатый лук. Взбить в миске яйца, перемешать с отдельно взбитыми сливками, массу вылить на начинку. Соль, молотый черный и красный, каенский, перец – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Печь пирог «Лотарингия» с беконом в течение 45 – 50 минут. Проверить готовность с помощью ножа, он должен остаться сухим. Перед подачей дать постоять в течение 10 минут. Посыпать рубленой зеленой петрушкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Заливной пирог",
+            "slug": "zalivnoy-pirog"
+        },
+        {
+            "name": "Заливной пирог с луком и яйцом",
+            "slug": "zalivnoy-pirog-s-lukom-i-yaycom"
+        },
+        {
+            "name": "Киш",
+            "slug": "kish"
+        },
+        {
+            "name": "Открытый пирог",
+            "slug": "otkrytiy-pirog"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог с луком и яйцом",
+            "slug": "pirog-s-lukom-i-yaycom"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        }
+    ]
+}

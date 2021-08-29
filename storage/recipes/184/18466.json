@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/selyanka-moskovskaya-po-domashnemu/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Селянка московская по-домашнему",
+    "description": "Многие иностранцы, приезжающие в Россию, считают селянку и щи самыми вкусными и полезными блюдами русской кухни. В этом вареве собрано все: мясо, овощи, приправы.",
+    "note": "Вместо квашеной капусты блюдо можно приготовить со свежим продуктом, вкус готового кушанья будет не такой кислый.",
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/fb/f98f45fa6b170fb_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мясное ассорти",
+                    "slug": "myasnoe-assorti",
+                    "notes": null,
+                    "value": "900",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "капуста кислая",
+                    "slug": "kapusta-kislaya",
+                    "notes": null,
+                    "value": "900",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "115",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сосиски",
+                    "slug": "sosiski",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грибы маринованные",
+                    "slug": "griby-marinovannye",
+                    "notes": null,
+                    "value": "10",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "корнишоны",
+                    "slug": "kornishony",
+                    "notes": null,
+                    "value": "10",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "оливки",
+                    "slug": "olivki",
+                    "notes": null,
+                    "value": "10",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы соленые",
+                    "slug": "ogurcy-solenye",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Репчатый лук нарезать и обжарить на растительном масле. Добавить кислую нашинкованную капусту, перемешать и тушить под крышкой, до готовности. Помешивать, продукты не должны пригореть.",
+            "image": null
+        },
+        {
+            "text": "Почти готовую капусту посыпать небольшим количеством пшеничной муки и перемешать. Половину готовой массы переложить в сотейник или в кастрюлю с толстыми стенками. Отдельно нарезать и обжарить разное мясо: годится свинина, телятина, гусятина, курица, кролик.",
+            "image": null
+        },
+        {
+            "text": "Выложить мясные продукты на капусту, распределить ровным слоем, накрыть оставшейся капустой. Блюдо украсить нарезанными солеными огурцами, корнишонами, сосисками, маринованными или солеными грибами, оливками.",
+            "image": null
+        },
+        {
+            "text": "Посыпать специями. При желании можно добавить грибы трюфели. Массу полить соусом, оставшимся от обжаривания, поставить в духовку и прогреть до готовности. Селянку московскую по-домашнему подать к столу в той же посуде, в которой селянка запекалась.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Капуста с мясом",
+            "slug": "kapusta-s-myasom"
+        },
+        {
+            "name": "Мясо с грибами",
+            "slug": "myaso-s-gribami"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Овощное рагу с капустой",
+            "slug": "ovoschnoe-ragu-s-kapustoy"
+        },
+        {
+            "name": "Овощное рагу с курицей",
+            "slug": "ovoschnoe-ragu-s-kuricey"
+        },
+        {
+            "name": "Овощное рагу с мясом",
+            "slug": "ovoschnoe-ragu-s-myasom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рагу",
+            "slug": "ragu"
+        },
+        {
+            "name": "Тушеная капуста с мясом",
+            "slug": "tushenaya-kapusta-s-myasom"
+        },
+        {
+            "name": "Тушеное мясо",
+            "slug": "tushenoe-myaso"
+        },
+        {
+            "name": "Тушеные блюда",
+            "slug": "tushenye-blyuda"
+        },
+        {
+            "name": "Ужин из капусты",
+            "slug": "ujin-iz-kapusty"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из сосисок",
+            "slug": "ujin-iz-sosisok"
+        }
+    ]
+}

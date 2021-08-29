@@ -1,0 +1,139 @@
+{
+    "source": "https://vkuso.ru/recipe/okroshka-s-krabovymi-palochkami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Окрошка с крабовыми палочками",
+    "description": null,
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/6a/c7b7eebc31b976a_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "хлебного кваса",
+                    "slug": "hlebnogo-kvasa",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "крабовых палочек",
+                    "slug": "krabovyh-palochek",
+                    "notes": null,
+                    "value": "240",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "редисок",
+                    "slug": "redisok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "5"
+                },
+                {
+                    "name": "огурца",
+                    "slug": "ogurca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "сметаны",
+                    "slug": "smetany",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "горчицы",
+                    "slug": "gorchicy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "укропа",
+                    "slug": "ukropa",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Помыть и почистить огурцы, нарезать на кубики, белки яиц отделить от желтков и порезать на небольшие кубики, крабовые палочки тоже. Желтки растереть с перцем, солью, горчицей, сметаной и мелко порубленным укропом, перемешать, влить чуть кваса и перемешать до однородной массы, долить оставшийся квас и убрать на холод.",
+            "image": null
+        },
+        {
+            "text": "Редис нашинковать кружочками, смешать в глубокой миске с остальными подготовленными ингредиентами, залить охлажденной смесью кваса, размешать, разлить окрошку с крабовыми палочками по тарелкам, украсить веточками зелени.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Окрошка",
+            "slug": "okroshka"
+        },
+        {
+            "name": "Окрошка на квасе",
+            "slug": "okroshka-na-kvase"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп с крабовыми палочками",
+            "slug": "sup-s-krabovymi-palochkami"
+        },
+        {
+            "name": "Холодные супы",
+            "slug": "holodnye-supy"
+        }
+    ]
+}

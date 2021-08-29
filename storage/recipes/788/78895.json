@@ -1,0 +1,219 @@
+{
+    "source": "https://vkuso.ru/recipe/78895-burger-domashnij-s-myasnoj-kotletoj/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Бургер домашний с мясной котлетой",
+    "description": "Домашний бургер с сочной котлетой на обед, пикник или ужин.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e1/fd58f2e29811fe1_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/rlE13WOAieg?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "булочки для гамбургеров",
+                    "slug": "bulochki-dlya-gamburgerov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "свино-говяжий фарш",
+                    "slug": "svino-govyajiy-farsh",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук белый",
+                    "slug": "luk-beliy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук красный",
+                    "slug": "luk-krasniy",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы свежие",
+                    "slug": "ogurcy-svejie",
+                    "notes": null,
+                    "value": "¼",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "салат айсберг",
+                    "slug": "salat-aysberg",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца куриные",
+                    "slug": "yayca-kurinye",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр моцарелла",
+                    "slug": "syr-mocarella",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ломтика",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "кетчуп",
+                    "slug": "ketchup",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарежьте красный лук, огурец, салат и белый лук.",
+            "image": null
+        },
+        {
+            "text": "В миске смешайте фарш с яйцом, белым луком, солью и перцем.",
+            "image": null
+        },
+        {
+            "text": "Нагрейте сковороду, выложите булочки и готовьте до тех пор, пока они не станут золотистого цвета.",
+            "image": null
+        },
+        {
+            "text": "Разогрейте другую сковороду, добавьте растительное масло. Разделите фарш на две части и сформируйте лепешки размером чуть больше булочки.",
+            "image": null
+        },
+        {
+            "text": "Положите котлету на сковороду и готовьте на среднем огне 3-5 минут.",
+            "image": null
+        },
+        {
+            "text": "Переверните и готовьте еще 5 минут.",
+            "image": null
+        },
+        {
+            "text": "Смажьте нижнюю булочку 1 ч.л. майонеза. Выложите салат, огурец, лук и сыр.",
+            "image": null
+        },
+        {
+            "text": "Выложите котлету на сыр, добавьте 1 ч.л. кетчупа и накройте верхней булочкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бургер",
+            "slug": "burger"
+        },
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды на природу",
+            "slug": "buterbrody-na-prirodu"
+        },
+        {
+            "name": "Бутерброды с огурцом",
+            "slug": "buterbrody-s-ogurcom"
+        },
+        {
+            "name": "Бутерброды с яйцом",
+            "slug": "buterbrody-s-yaycom"
+        },
+        {
+            "name": "Гамбургер",
+            "slug": "gamburger"
+        },
+        {
+            "name": "Горячие закуски",
+            "slug": "goryachie-zakuski"
+        },
+        {
+            "name": "Гриль и барбекю",
+            "slug": "gril-i-barbekyu"
+        },
+        {
+            "name": "Закуски для пикника",
+            "slug": "zakuski-dlya-piknika"
+        },
+        {
+            "name": "Закуски из мяса",
+            "slug": "zakuski-iz-myasa"
+        },
+        {
+            "name": "Мясо с сыром",
+            "slug": "myaso-s-syrom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сковорода",
+            "slug": "skovoroda"
+        },
+        {
+            "name": "Сковорода-гриль",
+            "slug": "skovoroda-gril"
+        }
+    ]
+}

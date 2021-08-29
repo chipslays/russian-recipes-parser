@@ -1,0 +1,95 @@
+{
+    "source": "https://vkuso.ru/recipe/86185-moldavskaya-mamalyga-s-maslom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Молдавская мамалыга с маслом",
+    "description": "По структуре блюдо напоминает хлеб.",
+    "note": "К мамалыге так же можно подать овощную нарезку, домашние заготовки.",
+    "cuisine": "Молдавская кухня",
+    "cuisine_slug": "moldavskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/4f/c93336268e0734f_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/129Xd-mrmVU?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "600",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "мука кукурузная",
+                    "slug": "muka-kukuruznaya",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Толстостенную кастрюлю наполнить водой, добавить соль, сливочное масло, нагреть до кипения.",
+            "image": null
+        },
+        {
+            "text": "Всыпать муку или крупу, массу постоянно помешивать. Время прогревания – 20 минут.",
+            "image": null
+        },
+        {
+            "text": "Кушанье переложить на доску или полотенце.",
+            "image": null
+        },
+        {
+            "text": "Нарезать на порции суровой ниткой или деревянным ножом.",
+            "image": null
+        },
+        {
+            "text": "Подать блюдо к столу со свиными шкварками, козьим молоком, тушеным мясом или чесночным соусом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Каша",
+            "slug": "kasha"
+        },
+        {
+            "name": "Каша на воде",
+            "slug": "kasha-na-vode"
+        },
+        {
+            "name": "Каши на завтрак",
+            "slug": "kashi-na-zavtrak"
+        },
+        {
+            "name": "Мамалыга",
+            "slug": "mamalyga"
+        }
+    ]
+}

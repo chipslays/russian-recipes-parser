@@ -1,0 +1,163 @@
+{
+    "source": "https://vkuso.ru/recipe/tiramisu-s-konservirovannymi-ananasami/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Тирамису с консервированными ананасами",
+    "description": null,
+    "note": "Если нет консервированных ананасов, то можно готовить десерт из любых свежих фруктов, нельзя использовать только плоды кислого вкуса: киви, ананасов, папайи.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/15/41800495a6c0a15_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "ананасы консервированные",
+                    "slug": "ananasy-konservirovannye",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана 20%",
+                    "slug": "smetana-20",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "печенье савоярди",
+                    "slug": "pechene-savoyardi",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "цедра одного лимона",
+                    "slug": "cedra-odnogo-limona",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "ликёр",
+                    "slug": "liker",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "ванильный экстракт",
+                    "slug": "vanilniy-ekstrakt",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Откинуть консервированные ананасы на сито, дать жидкости стечь, дополнительно обсушить бумажными салфетками, нарезать на кубики.",
+            "image": null
+        },
+        {
+            "text": "Замочить желатин  в небольшом количестве воды минут на 10, осторожно нагреть (не давать закипеть!), помешивая довести жидкость до прозрачности. Сливки взбить до появления устойчивой пены.",
+            "image": null
+        },
+        {
+            "text": "В подходящую емкость положить сметану, цедру лимона, сахарную пудру, влить ликер (Сливочный, Бейлиз или просто коньяк), ванильный экстракт, все взбить, объединить со сливками и раствором желатина, аккуратно перемешать.",
+            "image": null
+        },
+        {
+            "text": "Бисквитное печенье окунуть в ананасовый сироп, выложить в форму, сверху – часть кубиков ананаса, прикрыть кремом, а сверху покрыть слоем печенья, повторить операцию с фруктами и кремом.",
+            "image": null
+        },
+        {
+            "text": "Накрыть тирамису с консервированными ананасами пленкой, отправить ночевать в холодильник.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Без яиц",
+            "slug": "bez-yaic"
+        },
+        {
+            "name": "Бисквитное печенье",
+            "slug": "biskvitnoe-pechene"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Десерты с желатином",
+            "slug": "deserty-s-jelatinom"
+        },
+        {
+            "name": "Печенье без муки",
+            "slug": "pechene-bez-muki"
+        },
+        {
+            "name": "Печенье без яиц",
+            "slug": "pechene-bez-yaic"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Тирамису",
+            "slug": "tiramisu"
+        },
+        {
+            "name": "Торт без яиц",
+            "slug": "tort-bez-yaic"
+        },
+        {
+            "name": "Торт из печенья",
+            "slug": "tort-iz-pechenya"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        }
+    ]
+}

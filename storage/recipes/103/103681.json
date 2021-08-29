@@ -1,0 +1,83 @@
+{
+    "source": "https://vkuso.ru/recipe/103681-napitok-iz-moloka-i-ovsa/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Напиток из молока и овса",
+    "description": "Полезный напиток для здорового образа жизни.",
+    "note": "В готовый напиток можно добавить немного сахара или другого подсластителя.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/11/b00c7424b51b411_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "2 часа 30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 3 порции",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "овсяная крупа",
+                    "slug": "ovsyanaya-krupa",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Овес перебрать, промыть, подсушить.",
+            "image": null
+        },
+        {
+            "text": "Вылить коровье молоко в сотейник, поставить на огонь, довести до кипения, всыпать зерна.",
+            "image": null
+        },
+        {
+            "text": "Огонь уменьшить, потомить жидкость под крышкой два часа.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления напитка можно использовать мультиварку, выставить режим «Тушение».",
+            "image": null
+        },
+        {
+            "text": "Молоко отжать.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Напитки с молоком",
+            "slug": "napitki-s-molokom"
+        },
+        {
+            "name": "Овсяное молоко домашнее",
+            "slug": "ovsyanoe-moloko-domashnee"
+        },
+        {
+            "name": "ПП рецепты на каждый день",
+            "slug": "pp-recepty-na-kajdiy-den"
+        },
+        {
+            "name": "Специальное питание",
+            "slug": "specialnoe-pitanie"
+        }
+    ]
+}

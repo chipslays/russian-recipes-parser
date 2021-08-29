@@ -1,0 +1,115 @@
+{
+    "source": "https://vkuso.ru/recipe/86192-klassicheskij-xashbraun-iz-kartofelya/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Классический хашбраун из картофеля",
+    "description": "Блюдо американской кухни, очень похожее на драники. Блюдо подается на завтрак, его можно заказать в любом кафе или купить в замороженном виде.",
+    "note": "Закуску можно подать к столу с майонезом или любым другим соусом.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/88/672289b70251488_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/6XtQlpqIZW8?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Клубни картофеля промыть, очистить, натереть на терке с мелкой решеткой.",
+            "image": null
+        },
+        {
+            "text": "Массу переложить в дуршлаг, лишняя жидкость должна стечь.",
+            "image": null
+        },
+        {
+            "text": "Разогреть на сковороде оливковое масло, выложить картофель в виде котлет.",
+            "image": null
+        },
+        {
+            "text": "Соль и молотый перец – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Обжарить с двух сторон до получения румяной корочки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из картофеля",
+            "slug": "vtorye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Вторые блюда из овощей",
+            "slug": "vtorye-blyuda-iz-ovoschey"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Драники",
+            "slug": "draniki"
+        },
+        {
+            "name": "Драники без яиц",
+            "slug": "draniki-bez-yaic"
+        },
+        {
+            "name": "Драники картофельные",
+            "slug": "draniki-kartofelnye"
+        },
+        {
+            "name": "Классические рецепты",
+            "slug": "klassicheskie-recepty"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Хашбраун",
+            "slug": "hashbraun"
+        }
+    ]
+}

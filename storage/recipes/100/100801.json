@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/100801-yaponskij-miso-sup-s-zelenyu/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Японский мисо-суп с зеленью",
+    "description": "Японская кухня очень подходит для низкокалорийной диеты.",
+    "note": "Суп подать теплым, добавить нарезанный зеленый лук.",
+    "cuisine": "Японская кухня",
+    "cuisine_slug": "yaponskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/54/2a9bfb3e2584454_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/HigWmiHsS-c?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "600",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "водоросли вакаме",
+                    "slug": "vodorosli-vakame",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "бульон",
+                    "slug": "bulon",
+                    "notes": " (даси)",
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мисо паста",
+                    "slug": "miso-pasta",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Картофель очистить, вымыть, нарезать кубиками небольшого размера.",
+            "image": null
+        },
+        {
+            "text": "Поставить вариться в кастрюле.",
+            "image": null
+        },
+        {
+            "text": "При закипании воды добавить сухой бульон даси.",
+            "image": null
+        },
+        {
+            "text": "При готовности картофеля добавить водоросли вакаме.",
+            "image": null
+        },
+        {
+            "text": "Снять кастрюлю с плиты.",
+            "image": null
+        },
+        {
+            "text": "Добавить светлую пасту мисо, продукт необходимо предварительно разбавить бульоном.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетический суп",
+            "slug": "dieticheskiy-sup"
+        },
+        {
+            "name": "Мисо суп",
+            "slug": "miso-sup"
+        },
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Низкокалорийные",
+            "slug": "nizkokaloriynye"
+        },
+        {
+            "name": "Специальное питание",
+            "slug": "specialnoe-pitanie"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "source": "https://vkuso.ru/recipe/karamelnye-yabloki-na-desert/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Карамельные яблоки на десерт",
+    "description": "Вкусный десерт для детей и взрослых из яблок небольшого размера.",
+    "note": "По желанию десерт можно полить растопленным на водяной бане черным или белым шоколадом, посыпать соленым арахисом. Для приготовления можно использовать палочки для суши.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/0d/389cc568b25dd0d_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар коричневый",
+                    "slug": "sahar-korichneviy",
+                    "notes": null,
+                    "value": "440",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки жирные",
+                    "slug": "slivki-jirnye",
+                    "notes": null,
+                    "value": "240",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "патока",
+                    "slug": "patoka",
+                    "notes": " (светлая)",
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "посыпка кондитерская",
+                    "slug": "posypka-konditerskaya",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "По желанию",
+            "list": [
+                {
+                    "name": "арахис соленый",
+                    "slug": "arahis-soleniy",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад белый",
+                    "slug": "shokolad-beliy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "шоколад черный горький",
+                    "slug": "shokolad-cherniy-gorkiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Мелкие яблоки вымыть и просушить. В каждый плод вставить палочку, заготовки убрать в морозилку на 40 минут.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/17/aaf21c0a8427e17_434x295.jpg"
+        },
+        {
+            "text": "Жирные сливки влить в сотейник, добавить светлую патоку и сахарный песок.",
+            "image": null
+        },
+        {
+            "text": "Смесь варить на тихом огне до растворения сахара, не перемешивать.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/80/c6f21e0c8e24880_434x295.jpg"
+        },
+        {
+            "text": "После закипания огонь увеличить до среднего, прогревать 10 – 15 минут, накрывая сотейник крышкой и немного наклоняя.",
+            "image": null
+        },
+        {
+            "text": "Снять с огня. Масса должна получиться эластичной и мягкой.",
+            "image": null
+        },
+        {
+            "text": "Ковшик наклонить, полностью погрузить в карамель яблоко на палочке, повернуть плод вокруг оси, вынуть, поместить в емкость с кондитерской посыпкой.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/96/d99332c9519a596_434x295.jpg"
+        },
+        {
+            "text": "Эту же процедуру проделать с другими яблоками. Загустевшую карамель прогреть несколько секунд на среднем огне и продолжить приготовление.",
+            "image": null
+        },
+        {
+            "text": "Готовые яблоки переставить в холод на 15 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Десерты из яблок",
+            "slug": "deserty-iz-yablok"
+        },
+        {
+            "name": "Детский день рождения",
+            "slug": "detskiy-den-rojdeniya"
+        },
+        {
+            "name": "Детский праздник",
+            "slug": "detskiy-prazdnik"
+        },
+        {
+            "name": "На шпажках",
+            "slug": "na-shpajkah"
+        },
+        {
+            "name": "Праздничные десерты",
+            "slug": "prazdnichnye-deserty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Фруктово-ягодные десерты",
+            "slug": "fruktovo-yagodnye-deserty"
+        },
+        {
+            "name": "Фрукты на шпажках",
+            "slug": "frukty-na-shpajkah"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        },
+        {
+            "name": "Яблоки в карамели",
+            "slug": "yabloki-v-karameli"
+        }
+    ]
+}

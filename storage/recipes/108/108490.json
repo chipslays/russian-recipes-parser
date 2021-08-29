@@ -1,0 +1,297 @@
+{
+    "source": "https://vkuso.ru/recipe/108490-gavajskaya-picca-s-ananasami-olivkami-i-vetchinoj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Гавайская пицца с ананасами, оливками и ветчиной",
+    "description": "Сегодня я готовлю вкусную ароматную гавайскую пиццу. В ней отлично сочетаются все вкусы! Сочные кисловато-сладкие ананасы, яркая нотка от ветчины и обжаренный хрустящий бекон. Оливки добавят пикантности, а пряный ароматный орегано с томатным соусом и свежими томатами завершат эту композицию вкусов. Побалуйте себя и своих близких.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e3/6beb622fef378e3_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "35 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/QDXqdnVhudI?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 3 порции",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": " (Стакан 200мл)",
+                    "value": "2.5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи сухие",
+                    "slug": "drojji-suhie",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": " (Тёплая)",
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Тесто (указано на 2 пиццы диаметром 33-35см).",
+            "list": [
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "бекон",
+                    "slug": "bekon",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ананас консервированный",
+                    "slug": "ananas-konservirovanniy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "оливки без косточек",
+                    "slug": "olivki-bez-kostochek",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": " (Средний)",
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": " (У меня Гауда)",
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "орегано сушеный",
+                    "slug": "oregano-susheniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Начинка (указано на 1 пиццу диаметром 33-35см)",
+            "list": [
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "75",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": " (или оливковое)",
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "орегано сушеный",
+                    "slug": "oregano-susheniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры сушеные",
+                    "slug": "pomidory-sushenye",
+                    "notes": " (необязательно)",
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовим тесто.\r\nУ меня сегодня дрожжи которые предварительно нужно развести в воде. Если быстродействующие можете сразу добавлять в муку.\r\nРазвести дрожжи в половине теплой воды и подождать 10 минут.",
+            "image": null
+        },
+        {
+            "text": "В муку добавить соль. Растительное масло. Подошедшие дрожжи. Вторую половину воды.\r\nЗамесить тесто, накрыть влажным полотенцем и оставить подходить в теплом месте на 20 минут.",
+            "image": null
+        },
+        {
+            "text": "Тем временем займёмся соусом.\r\nНа растительном или оливковом масле обжарить чеснок. Добавить томатную пасту, влить воду, тщательно перемешать.",
+            "image": null
+        },
+        {
+            "text": "Добавить сахар, соль, орегано. Добавить сушеные томаты (можно обойтись без них), хорошо перемешать довести до кипения и тушить пару минут.",
+            "image": null
+        },
+        {
+            "text": "Подготовим начинку.\r\nНарезать ветчину.\r\nПомидоры нарезать кольцами.\r\nОливки нарезать колечками.\r\nСыр натереть на крупной тёрке.\r\nТонко нарезать бекон.",
+            "image": null
+        },
+        {
+            "text": "Обжарить бекон до румяной корочки и слегка подсолить.\r\nВыложить на бумажное полотенце, чтобы убрать лишний жир.",
+            "image": null
+        },
+        {
+            "text": "Тесто увеличилось в 2 раза. Разделить его на 2 равные части.\r\nРаскатать тонкое тесто. Сначала я немного растягиваю руками, формируя круг, а дальше раскатываю скалкой.\r\nПеренести тесто на противень или форму для пиццы, разровнять.",
+            "image": null
+        },
+        {
+            "text": "Смазать основу соусом.\r\nВыложить часть ветчины.\r\nДобавить помидоры.\r\nВыложить остальную ветчину.\r\nДобавить ананасы, оливки, обжаренный бекон.\r\nПосыпать сыром.\r\nПосыпать орегано.",
+            "image": null
+        },
+        {
+            "text": "Отправляем в разогретую до 220°C духовку на 10-15 минут, до готовности теста. Ориентируйтесь на свою духовку.\r\nВот и все, ароматная сочная и вкуснейшая пицца готова. Осталось только налить молока или сока. И можно всех звать к столу.\r\nПодавать с любовью!\r\nПриятного аппетита!",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка с сыром",
+            "slug": "vypechka-s-syrom"
+        },
+        {
+            "name": "Выпечка с фруктами",
+            "slug": "vypechka-s-fruktami"
+        },
+        {
+            "name": "Гавайская пицца",
+            "slug": "gavayskaya-picca"
+        },
+        {
+            "name": "Дрожжевая пицца",
+            "slug": "drojjevaya-picca"
+        },
+        {
+            "name": "Пицца",
+            "slug": "picca"
+        },
+        {
+            "name": "Пицца в духовке",
+            "slug": "picca-v-duhovke"
+        },
+        {
+            "name": "Пицца с ананасами",
+            "slug": "picca-s-ananasami"
+        },
+        {
+            "name": "Пицца с ветчиной",
+            "slug": "picca-s-vetchinoy"
+        },
+        {
+            "name": "Пицца с помидорами",
+            "slug": "picca-s-pomidorami"
+        },
+        {
+            "name": "Пицца с помидорами и сыром",
+            "slug": "picca-s-pomidorami-i-syrom"
+        },
+        {
+            "name": "Пицца с сыром",
+            "slug": "picca-s-syrom"
+        }
+    ]
+}

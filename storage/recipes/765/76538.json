@@ -1,0 +1,191 @@
+{
+    "source": "https://vkuso.ru/recipe/xarcho-iz-govyadiny-s-pomidornym-pyure/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Харчо из говядины с помидорным пюре",
+    "description": "Кисловатый суп для всей семьи.",
+    "note": "Для приготовления супа харчо лучше использовать длинный шлифованный рис.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ec/e4b092c588416ec_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/GAYIrGmPY_U?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "говяжья грудинка",
+                    "slug": "govyajya-grudinka",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "рис длиннозерный",
+                    "slug": "ris-dlinnozerniy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец стручковый горький",
+                    "slug": "perec-struchkoviy-gorkiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стручок",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "хмели-сунели",
+                    "slug": "hmeli-suneli",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соус ткемали",
+                    "slug": "sous-tkemali",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень петрушки",
+                    "slug": "zelen-petrushki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень укропа",
+                    "slug": "zelen-ukropa",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "базилик",
+                    "slug": "bazilik",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "кориандр молотый",
+                    "slug": "koriandr-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Мясо нарезать, залить водой.",
+            "image": null
+        },
+        {
+            "text": "Сварить бульон, пену снимать.",
+            "image": null
+        },
+        {
+            "text": "Варить суп до полуготовности в течение 40 или 50 минут.",
+            "image": null
+        },
+        {
+            "text": "Помидоры ошпарить, кожуру снять, приготовить из мякоти пюре.",
+            "image": null
+        },
+        {
+            "text": "Мелко нарезать лук, положить на сковороду.",
+            "image": null
+        },
+        {
+            "text": "Вынуть из бульона мясо, положить в обжарку, позже добавить помидорную кашицу.",
+            "image": null
+        },
+        {
+            "text": "Тушить массу под крышкой.",
+            "image": null
+        },
+        {
+            "text": "Переложить в кастрюлю, залить процеженным бульоном.",
+            "image": null
+        },
+        {
+            "text": "Довести до кипения, добавить рис, любой кислый соус, «Томатный» или «Ткемали», специи, варить до готовности.",
+            "image": null
+        },
+        {
+            "text": "В конце приготовления добавить зелень и чесноком.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп из говядины",
+            "slug": "sup-iz-govyadiny"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Суп с рисом",
+            "slug": "sup-s-risom"
+        },
+        {
+            "name": "Суп Харчо",
+            "slug": "sup-harcho"
+        },
+        {
+            "name": "Супы с крупами",
+            "slug": "supy-s-krupami"
+        },
+        {
+            "name": "Харчо из говядины",
+            "slug": "harcho-iz-govyadiny"
+        }
+    ]
+}

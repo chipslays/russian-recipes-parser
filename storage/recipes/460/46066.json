@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/krasnyj-ris-s-chesnochkom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Красный рис с чесночком",
+    "description": "Для приготовления блюда используется обычный рис, который приобретает яркую окраску за счет смешивания с томатным соусом.",
+    "note": "При подаче украсить рис веточкой петрушки. Блюдо может быть самостоятельным или использоваться в качестве гарнира.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/9b/dd7efccb7e91d9b_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бульон куриный",
+                    "slug": "bulon-kuriniy",
+                    "notes": " (можно использовать воду)",
+                    "value": "600",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": " (небольшой)",
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Небольшую луковицу и чеснок мелко порубить и обжарить в сотейнике с растительным маслом, на приготовление обжарки понадобится три-четыре минуты.",
+            "image": null
+        },
+        {
+            "text": "Добавить томатную пасту, прогреть еще две минуты. Влить в массу овощной или куриный бульон, посолить по вкусу, довести до кипения.",
+            "image": null
+        },
+        {
+            "text": "Всыпать рис, перемешать, потомить под крышкой в течение 15 минут на небольшом огне. Жидкость должна выпариться полностью.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из риса",
+            "slug": "vtorye-blyuda-iz-risa"
+        },
+        {
+            "name": "Гарнир из риса",
+            "slug": "garnir-iz-risa"
+        },
+        {
+            "name": "Гарнир к курице",
+            "slug": "garnir-k-kurice"
+        },
+        {
+            "name": "Гарнир к мясу",
+            "slug": "garnir-k-myasu"
+        },
+        {
+            "name": "Гарнир к рыбе",
+            "slug": "garnir-k-rybe"
+        },
+        {
+            "name": "Гарниры",
+            "slug": "garniry"
+        }
+    ]
+}

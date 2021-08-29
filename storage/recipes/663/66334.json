@@ -1,0 +1,219 @@
+{
+    "source": "https://vkuso.ru/recipe/vegetarianskij-krem-sup-iz-shpinata-s-kokosovymi-slivkami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Вегетарианский крем-суп из шпината с кокосовыми сливками",
+    "description": "Правильное сочетание ингредиентов дает приятный вкус и цвет. Шпинат – кладезь железа, кальция, магния, витаминов. Полезен детям и пожилым людям.",
+    "note": "Крем-суп подают на стол горячим. Блюдо можно украсить листочком зелени и подать к нему гренки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/33/62299f2969e8d33_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/zwzEgu2eb-Q?rel=0",
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бульон овощной",
+                    "slug": "bulon-ovoschnoy",
+                    "notes": null,
+                    "value": "700",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "шпинат замороженный",
+                    "slug": "shpinat-zamorojenniy",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки кокосовые",
+                    "slug": "slivki-kokosovye",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "цукини",
+                    "slug": "cukini",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук-порей",
+                    "slug": "luk-porey",
+                    "notes": " (белая часть)",
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "корень имбиря",
+                    "slug": "koren-imbirya",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "зубчик",
+                    "amount": null
+                },
+                {
+                    "name": "мускатный орех",
+                    "slug": "muskatniy-oreh",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В сотейник налить оливковое масло, прогреть, обжарить нарезанный мелкими кусочками цуккини, лук-порей, корень имбиря.",
+            "image": null
+        },
+        {
+            "text": "Положить шпинат, все вместе тушить еще две или три минуты.",
+            "image": null
+        },
+        {
+            "text": "Влить заранее приготовленный овощной бульон, добавить давленый чеснок.",
+            "image": null
+        },
+        {
+            "text": "Посолить и поперчить по вкусу, положить молотый мускатный орех.",
+            "image": null
+        },
+        {
+            "text": "Суп довести до кипения, варить в течение пяти минут.",
+            "image": null
+        },
+        {
+            "text": "Взбить блендером до состояния однородности.",
+            "image": null
+        },
+        {
+            "text": "Долить кокосовые сливки, хорошо перемешать, подать на стол.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "Вегетарианские супы",
+            "slug": "vegetarianskie-supy"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетический суп",
+            "slug": "dieticheskiy-sup"
+        },
+        {
+            "name": "Крем-суп",
+            "slug": "krem-sup"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Сливочный суп",
+            "slug": "slivochniy-sup"
+        },
+        {
+            "name": "Специальное питание",
+            "slug": "specialnoe-pitanie"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп для похудения",
+            "slug": "sup-dlya-pohudeniya"
+        },
+        {
+            "name": "Суп из кабачков",
+            "slug": "sup-iz-kabachkov"
+        },
+        {
+            "name": "Суп из шпината",
+            "slug": "sup-iz-shpinata"
+        },
+        {
+            "name": "Суп с имбирем",
+            "slug": "sup-s-imbirem"
+        },
+        {
+            "name": "Суп со сливками",
+            "slug": "sup-so-slivkami"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Суп-пюре овощной",
+            "slug": "sup-pyure-ovoschnoy"
+        },
+        {
+            "name": "супы",
+            "slug": "supy"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

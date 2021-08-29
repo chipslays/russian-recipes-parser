@@ -1,0 +1,87 @@
+{
+    "source": "https://vkuso.ru/recipe/yajco-v-meshochke-po-francuzski/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Яйцо в «мешочке» по-французски",
+    "description": "Классический способ приготовления, самый сложный и старый. Традиционное блюдо французской кухни. Соль в воде увеличивает ее плотность, уксус усиливает свертываемость белка.",
+    "note": "С яйцом в «мешочке» можно приготовить бутерброд, посыпать зеленью. Отдельно подать любой овощной салат, зелень.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/52/118abf1b16eb252_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/6OsBGjAbti0?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "уксус",
+                    "slug": "uksus",
+                    "notes": null,
+                    "value": "30",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Влить в кастрюлю воду, добавить уксус, соль.",
+            "image": null
+        },
+        {
+            "text": "Смесь довести до кипения, затем огонь уменьшить.",
+            "image": null
+        },
+        {
+            "text": "Сырое куриное яйцо вбить в чашку.",
+            "image": null
+        },
+        {
+            "text": "Воду в кастрюле раскрутить так, чтобы образовалась воронка в центре.",
+            "image": null
+        },
+        {
+            "text": "Влить осторожно яйцо, через три минуты выловить шумовкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блюда из яиц",
+            "slug": "blyuda-iz-yaic"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/kartofelnye-oladushki-s-zelenym-lukom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Картофельные оладушки с зеленым луком",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c4/d36ec2a4bd2e9c4_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук зеленый",
+                    "slug": "luk-zeleniy",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "зубчик",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Картофель отварить до готовности прямо в кожуре, обдать холодной водой, удалить кожуру, подавить до состояния пюре, подсолить, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Порубить зелень петрушки и чеснок, измельчить лимонную цедру и перья зеленого лука, сдобрить оливковым маслом, перемешать с пюре.",
+            "image": null
+        },
+        {
+            "text": "Слепить из полученной массы небольшие шарики, сплюснуть, помести на треть часа в холодильник, обжарить картофельные оладушки с зеленым луком в сильно разогретом масле.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка с луком",
+            "slug": "vypechka-s-lukom"
+        },
+        {
+            "name": "Картофельные оладьи",
+            "slug": "kartofelnye-oladi"
+        },
+        {
+            "name": "Оладьи",
+            "slug": "oladi"
+        },
+        {
+            "name": "Оладьи без муки",
+            "slug": "oladi-bez-muki"
+        },
+        {
+            "name": "Оладьи без яиц",
+            "slug": "oladi-bez-yaic"
+        },
+        {
+            "name": "Постная выпечка",
+            "slug": "postnaya-vypechka"
+        },
+        {
+            "name": "Постные блюда из картофеля",
+            "slug": "postnye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Постные оладьи",
+            "slug": "postnye-oladi"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

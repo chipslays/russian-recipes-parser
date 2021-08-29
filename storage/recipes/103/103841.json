@@ -1,0 +1,99 @@
+{
+    "source": "https://vkuso.ru/recipe/103841-klubnichnyj-limonad-s-gazirovkoj/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Клубничный лимонад с газировкой",
+    "description": "Освежающий летний напиток, очень приятный на вкус.",
+    "note": "Можно добавить кубики льда при подаче.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d5/43baac6bb6a0ad5_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "20 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "клубника",
+                    "slug": "klubnika",
+                    "notes": null,
+                    "value": "450",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "вода газированная",
+                    "slug": "voda-gazirovannaya",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Клубнику промойте и очистите от плодоножек. У лимонов выжмите сок.",
+            "image": null
+        },
+        {
+            "text": "В чашу кухонного комбайна или блендера поместите ягоды, сахар и влейте сок.",
+            "image": null
+        },
+        {
+            "text": "Взбейте компоненты до получения однородной массы. Влейте охлажденную газировку. Тщательно перемешайте и разлейте по стаканам.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Блендер",
+            "slug": "blender"
+        },
+        {
+            "name": "Детский праздник",
+            "slug": "detskiy-prazdnik"
+        },
+        {
+            "name": "Лимонад",
+            "slug": "limonad"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Холодильник",
+            "slug": "holodilnik"
+        }
+    ]
+}

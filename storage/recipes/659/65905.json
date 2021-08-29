@@ -1,0 +1,312 @@
+{
+    "source": "https://vkuso.ru/recipe/aromatnyj-sup-xarcho-iz-kuricy-s-orexami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Ароматный суп харчо из курицы с орехами",
+    "description": "Хороший вариант для любителей легких блюд.",
+    "note": "По желанию в суп можно добавлять картофель, хотя классический рецепт этого не предусматривает.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e2/e195588161cf2e2_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "курица",
+                    "slug": "kurica",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "3",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "рис длиннозерный",
+                    "slug": "ris-dlinnozerniy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грецкие орехи",
+                    "slug": "greckie-orehi",
+                    "notes": null,
+                    "value": "10-12",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "4-5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": " (по желанию)",
+                    "value": "2-3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "корень петрушки",
+                    "slug": "koren-petrushki",
+                    "notes": " (по желанию)",
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кинза",
+                    "slug": "kinza",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "соус ткемали",
+                    "slug": "sous-tkemali",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": " специи",
+            "list": [
+                {
+                    "name": "перец душистый горошком",
+                    "slug": "perec-dushistiy-goroshkom",
+                    "notes": null,
+                    "value": "4-6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "хмели-сунели",
+                    "slug": "hmeli-suneli",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "кориандр молотый",
+                    "slug": "koriandr-molotiy",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "паприка",
+                    "slug": "paprika",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л",
+                    "amount": null
+                },
+                {
+                    "name": "перец красный молотый",
+                    "slug": "perec-krasniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "чабер",
+                    "slug": "chaber",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Мясо нарезать крупными кусками с косточкой, положить в кастрюлю.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/51/c75331f31e52951_434x295.jpg"
+        },
+        {
+            "text": "Залить водой, поставить на средний огонь и довести до кипения.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/40/e4a27353ddde040_434x295.jpg"
+        },
+        {
+            "text": "Снять пену при помощи ложки или шумовки. Если курица не домашняя, то первую воду лучше слить.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/1a/13b598b5d1f4f1a_434x295.jpg"
+        },
+        {
+            "text": "Нарезать крупными кусочками морковь, надрезать крестом очищенную головку лука.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/35/51a3236ec5c3535_434x295.jpg"
+        },
+        {
+            "text": "Вымыть зелень, отрезать стебли, они пригодятся для бульона.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/41/3665ae4e44ba441_434x295.jpg"
+        },
+        {
+            "text": "Когда вторая вода снова закипит – добавить лук, стебли, морковь, лавровый лист, черный и душистый перец. Бульон довести до кипения, огонь уменьшить. Варить при слабом кипении от 40 до 60 минут.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/e8/2a7fc73613c6ee8_434x295.jpg"
+        },
+        {
+            "text": "Из готового бульона вынуть травы, курицу и овощи.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/6b/1c7e7d9b21f7e6b_434x295.jpg"
+        },
+        {
+            "text": "Бульон процедить через марлю или сито. Еще раз довести жидкость до кипения.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/28/96fa6fdd1f44928_434x295.jpg"
+        },
+        {
+            "text": "В этот момент по желанию  можно добавить картофель.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/f0/954869762b048f0_434x295.jpg"
+        },
+        {
+            "text": "Всыпать промытый рис, вскипятить, варить 20 минут.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/93/b6e44ded0a81d93_434x295.jpg"
+        },
+        {
+            "text": "Прогреть растительное масло на среднем огне, добавить нарезанный лук, пассеровать четыре минуты, помешивать.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/c2/9eac958e3985cc2_434x295.jpg"
+        },
+        {
+            "text": "Отделить мясо от костей и нарезать кусочками небольшого размера.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/4b/4f01cddea6f4a4b_434x295.jpg"
+        },
+        {
+            "text": "Нарезать консервированные в собственном соку или свежие помидоры. Если они из магазина и не обладают выраженным вкусом – добавить по вкусу томатную пасту.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/a1/268878dc5581aa1_434x295.jpg"
+        },
+        {
+            "text": "В обжаренный до мягкости лук добавить куриные кусочки, жарить две минуты, помешивать.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/32/f245681dd97f332_434x295.jpg"
+        },
+        {
+            "text": "Положить специи: молотый кориандр, хмели-сунели, чабер, молотый красный перец, томатную пасту, соль.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/28/de6e1d308413028_434x295.jpg"
+        },
+        {
+            "text": "Добавить помидоры.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/4e/95ddf3f67853e4e_434x295.jpg"
+        },
+        {
+            "text": "Влить бульон, перемешать и потушить все вместе в течение семи или десяти минут.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/e5/f148e49e0ee06e5_434x295.jpg"
+        },
+        {
+            "text": "В почти готовый кипящий суп влить готовую обжарку, перемешать, снова довести до кипения.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/9b/2168d6527bfe49b_434x295.jpg"
+        },
+        {
+            "text": "Добавить паприку, грецкие орехи, черный молотый перец, соль – по необходимости. Заправить ткемали.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/5c/c4b7a5cb61b065c_434x295.jpg"
+        },
+        {
+            "text": "Плиту выключить, в суп добавить рубленый чеснок, рубленую зелень. Дать блюду постоять под крышкой десять или двадцать минут.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/05/3fa08b30f636a05_434x295.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Суп с рисом",
+            "slug": "sup-s-risom"
+        },
+        {
+            "name": "Суп Харчо",
+            "slug": "sup-harcho"
+        },
+        {
+            "name": "Харчо из курицы",
+            "slug": "harcho-iz-kuricy"
+        }
+    ]
+}

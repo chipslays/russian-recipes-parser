@@ -1,0 +1,95 @@
+{
+    "source": "https://vkuso.ru/recipe/vinogradnyj-kompot-s-klubnikoj/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Виноградный компот с клубникой",
+    "description": "Оригинальное сочетание продуктов.",
+    "note": "Компот можно подать со свежими листочками мяты и льдом.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/19/c23cc2a9c42ba19_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "3",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "виноград белый",
+                    "slug": "vinograd-beliy",
+                    "notes": null,
+                    "value": "220",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "клубника",
+                    "slug": "klubnika",
+                    "notes": null,
+                    "value": "170",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Промыть белый виноград.",
+            "image": null
+        },
+        {
+            "text": "Положить в кипящую воду вместе с сахаром.",
+            "image": null
+        },
+        {
+            "text": "Варить пять или шесть минут, кипение – среднее.",
+            "image": null
+        },
+        {
+            "text": "Всыпать перебранную клубнику, варить все вместе две минуты.",
+            "image": null
+        },
+        {
+            "text": "Время настаивания напитка – от 15 до 17 минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Домашний компот",
+            "slug": "domashniy-kompot"
+        },
+        {
+            "name": "Компот из винограда",
+            "slug": "kompot-iz-vinograda"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

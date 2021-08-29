@@ -1,0 +1,236 @@
+{
+    "source": "https://vkuso.ru/recipe/cyplyata-s-kartoshkoj-v-gorshochke/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Цыплята с картошкой в горшочке",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/43/c043a67898f3343_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "цыпленок",
+                    "slug": "cyplenok",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "140",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "жир кулинарный",
+                    "slug": "jir-kulinarniy",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грибы белые сушеные",
+                    "slug": "griby-belye-sushenye",
+                    "notes": null,
+                    "value": "5",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для соуса",
+            "list": [
+                {
+                    "name": "грибной отвар",
+                    "slug": "gribnoy-otvar",
+                    "notes": null,
+                    "value": "75",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "75",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Порубить тушку на порционные куски, порезать овощи кубиками, спассеровать лук, переложить на тарелку, спассеровать морковь, грибы отварить, порезать на кусочки. По горшочкам разложить порубленное мясо, картофель, лук и морковку, грибы, полить верх соусом.",
+            "image": null
+        },
+        {
+            "text": "Поставить цыплят с картошкой в горшочке на 40 минут в духовку, через полчаса присыпать тертым сыром. Для приготовления соуса поджарить на сухой сковороде муку, чуть охладить, залить горячим бульоном от грибов, хорошо перемешать до однородного состояния, проварить треть часа, добавить сметану, подсолить, проварить еще минут 5.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В горшочках",
+            "slug": "v-gorshochkah"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Картошка в горшочках",
+            "slug": "kartoshka-v-gorshochkah"
+        },
+        {
+            "name": "Картошка с грибами",
+            "slug": "kartoshka-s-gribami"
+        },
+        {
+            "name": "Картошка с грибами в горшочках",
+            "slug": "kartoshka-s-gribami-v-gorshochkah"
+        },
+        {
+            "name": "Картошка с грибами в духовке",
+            "slug": "kartoshka-s-gribami-v-duhovke"
+        },
+        {
+            "name": "Картошка с мясом и грибами",
+            "slug": "kartoshka-s-myasom-i-gribami"
+        },
+        {
+            "name": "Картошка с сыром",
+            "slug": "kartoshka-s-syrom"
+        },
+        {
+            "name": "Картошка с сыром в горшочках",
+            "slug": "kartoshka-s-syrom-v-gorshochkah"
+        },
+        {
+            "name": "Картошка с сыром в духовке",
+            "slug": "kartoshka-s-syrom-v-duhovke"
+        },
+        {
+            "name": "Курица в горшочках",
+            "slug": "kurica-v-gorshochkah"
+        },
+        {
+            "name": "Курица в духовке",
+            "slug": "kurica-v-duhovke"
+        },
+        {
+            "name": "Мясо с грибами",
+            "slug": "myaso-s-gribami"
+        },
+        {
+            "name": "Мясо с грибами и сыром",
+            "slug": "myaso-s-gribami-i-syrom"
+        },
+        {
+            "name": "Мясо с овощами в горшочках",
+            "slug": "myaso-s-ovoschami-v-gorshochkah"
+        },
+        {
+            "name": "Мясо с сыром",
+            "slug": "myaso-s-syrom"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Цыпленок в духовке",
+            "slug": "cyplenok-v-duhovke"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "source": "https://vkuso.ru/recipe/sous-dlya-ryby-iz-jogurta-taxiny-i-petrushki/",
+    "category": "Соусы",
+    "category_slug": "sousy",
+    "title": "Соус для рыбы из йогурта, тахины и петрушки",
+    "description": "Тахина – популярная на Среднем Востоке жирная, густая паста, приготовленная из протертого  кунжутного семени. Ее добавляют ко многим блюдам восточной кухни: к хумусу, фалафелю, халве. А еще это основа для многих соусов.",
+    "note": "В смесь можно добавить и другие ингредиенты: молотый кумин, красный перец. Ее можно использовать в качестве подливки или просто подать с хлебом, сделать бутерброды.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b9/3eb37d4e00069b9_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "перец чили зеленый",
+                    "slug": "perec-chili-zeleniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "йогурт натуральный",
+                    "slug": "yogurt-naturalniy",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "тахини",
+                    "slug": "tahini",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "петрушка",
+                    "slug": "petrushka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Смешать тахини с йогуртом без вкусовых и цветовых добавок. Добавить измельченный чеснок, лимонный сок, перемешать. Всыпать рубленую зелень петрушки, мелко нарезанный зеленый перец чили, соль, перемешать. Соус подать к рыбе.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Белый соус",
+            "slug": "beliy-sous"
+        },
+        {
+            "name": "Соус из йогурта",
+            "slug": "sous-iz-yogurta"
+        },
+        {
+            "name": "Соус к рыбе",
+            "slug": "sous-k-rybe"
+        }
+    ]
+}

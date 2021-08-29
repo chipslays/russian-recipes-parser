@@ -1,0 +1,373 @@
+{
+    "source": "https://vkuso.ru/recipe/italyanskij-torta-monia/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Итальянский тorta «Monia»",
+    "description": "Прелестный торт из хрустящей меренги, шоколада, бисквита, «шапкой» из взбитых сливок и свежих, ароматных, ягод клубники. Автором рецепта является итальянский кондитер Лука Монтерсино.",
+    "note": "Украсить блюдо можно взбитыми сливками, клубничным сиропом и нарезанными ягодами свежей клубники.",
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a1/64a6d7703be1ca1_660x440.jpg",
+    "difficulty": "Высокая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад черный горький",
+                    "slug": "shokolad-cherniy-gorkiy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для французской меренги",
+            "list": [
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "90",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "75",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "крахмал",
+                    "slug": "krahmal",
+                    "notes": null,
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "ваниль в стручках",
+                    "slug": "vanil-v-struchkah",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для бисквита",
+            "list": [
+                {
+                    "name": "сливки 35%",
+                    "slug": "slivki-35",
+                    "notes": null,
+                    "value": "560",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "крем заварной",
+                    "slug": "krem-zavarnoy",
+                    "notes": null,
+                    "value": "375",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "75",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "8",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для ванильного шантийи",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "крахмал",
+                    "slug": "krahmal",
+                    "notes": null,
+                    "value": "15",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "ваниль в стручках",
+                    "slug": "vanil-v-struchkah",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для заварного крема",
+            "list": [
+                {
+                    "name": "клубничное пюре",
+                    "slug": "klubnichnoe-pyure",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахарный сироп",
+                    "slug": "saharniy-sirop",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "55",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для клубничного сиропа",
+            "list": [
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "116",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для сахарного сиропа",
+            "list": [
+                {
+                    "name": "сливки 35%",
+                    "slug": "slivki-35",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "клубника",
+                    "slug": "klubnika",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления французской меренги взбить сырые яичные белки с 250 г сахарной пудрой в плотную пену. Добавить остатки пудры, перемешать с помощью венчика.",
+            "image": null
+        },
+        {
+            "text": "Меренгу выложить на бумагу для выпечки, придать форму двух кругов среднего диаметра. Печь при температуре 90 градусов в течение трех часов, фактически масса не печется, а сушится. Безе остудить в духовке, смазать в холодном виде растопленным на водяной бане темным шоколадом.",
+            "image": null
+        },
+        {
+            "text": "Для бисквита нагреть сырые куриные яйца с сахаром и ванилью. Лучше использовать семена из стручков. Температура смеси должна достигнуть 45 градусов, помешивать, затем взбить до образования легкой массы.",
+            "image": null
+        },
+        {
+            "text": "Осторожно вмешать, просеянную вместе с картофельным крахмалом, муку. Диаметр бисквитной лепешки должен быть на два сантиметра меньше, чем диаметр меренги. Печь в течение 15 – 20 минут при температуре 190 градусов. Готовность выпечки проверить с помощью зубочистки, она должна остаться сухой.",
+            "image": null
+        },
+        {
+            "text": "Для крема довести молоко до кипения вместе с зернами ванили. Отдельно взбить сырое куриное яйцо с сахаром, масса должна стать густой и светлой. Всыпать крахмал. В смесь постепенно влить горячее молоко, помешивать.",
+            "image": null
+        },
+        {
+            "text": "Крем перелить обратно в кастрюлю, прогревать на среднем огне. Довести до кипения, варить до загустения, помешивать. Вылить заваренный крем в миску, накрыть пищевой пленкой и остудить.",
+            "image": null
+        },
+        {
+            "text": "Приготовить ванильный шантийи. В небольшом количестве воды замочить желатин на 15 минут. Немного сливок нагреть до кипения, добавить желатиновую массу, перемешать до растворения, в смеси не должно быть комочков. Охладить сливки, взбить с сахаром до плотности.",
+            "image": null
+        },
+        {
+            "text": "Смешать желатиновую смесь с заварным кремом и добавить сливки. Массу перемешать, делать это аккуратно, поставить в холодильник до момента использования.",
+            "image": null
+        },
+        {
+            "text": "На безе с шоколадным слоем выложить шантийи, затем – бисквит, пропитанный сиропом из клубники, снова ванильный шантийи, безе, шоколадным слоем вниз. Остатками намазать бока тorta «Monia», поставить его на полчаса в холодильник.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Бисквитный торт",
+            "slug": "biskvitniy-tort"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка с клубникой",
+            "slug": "vypechka-s-klubnikoy"
+        },
+        {
+            "name": "Выпечка с шоколадом",
+            "slug": "vypechka-s-shokoladom"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Десерты с клубникой",
+            "slug": "deserty-s-klubnikoy"
+        },
+        {
+            "name": "Красивый торт",
+            "slug": "krasiviy-tort"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничные торты",
+            "slug": "prazdnichnye-torty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Слоеный торт",
+            "slug": "sloeniy-tort"
+        },
+        {
+            "name": "Торт на 14 февраля",
+            "slug": "tort-na-14-fevralya"
+        },
+        {
+            "name": "Торт на день рождения",
+            "slug": "tort-na-den-rojdeniya"
+        },
+        {
+            "name": "Торт с желе",
+            "slug": "tort-s-jele"
+        },
+        {
+            "name": "Торт со взбитыми сливками",
+            "slug": "tort-so-vzbitymi-slivkami"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        },
+        {
+            "name": "Торты безе",
+            "slug": "torty-beze"
+        },
+        {
+            "name": "Торты с клубникой",
+            "slug": "torty-s-klubnikoy"
+        },
+        {
+            "name": "Торты с ягодами",
+            "slug": "torty-s-yagodami"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

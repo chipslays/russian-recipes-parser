@@ -1,0 +1,103 @@
+{
+    "source": "https://vkuso.ru/recipe/konfety-iz-izyuma-kuragi-i-finikov/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Конфеты из изюма, кураги и фиников",
+    "description": "Не просто конфеты, а кладезь полезных веществ, витаминов, микроэлементов.",
+    "note": "В конфеты можно добавить немного лимонного сока и жидкого мёда.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/dc/3d4b820d1237ddc_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "грецкие орехи",
+                    "slug": "greckie-orehi",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "изюм без косточек",
+                    "slug": "izyum-bez-kostochek",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "курага",
+                    "slug": "kuraga",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "финики без косточек",
+                    "slug": "finiki-bez-kostochek",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Измельчить с помощью блендера в равных количествах изюм, курагу, финики без косточек, добавить грецкие орехи.",
+            "image": null
+        },
+        {
+            "text": "Из готовой смеси сформовать шарики, оставить для подсыхания.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерт на скорую руку",
+            "slug": "desert-na-skoruyu-ruku"
+        },
+        {
+            "name": "Диетические десерты",
+            "slug": "dieticheskie-deserty"
+        },
+        {
+            "name": "Домашние конфеты",
+            "slug": "domashnie-konfety"
+        },
+        {
+            "name": "Конфеты из фиников",
+            "slug": "konfety-iz-finikov"
+        },
+        {
+            "name": "На десерт",
+            "slug": "na-desert"
+        },
+        {
+            "name": "Праздничные десерты",
+            "slug": "prazdnichnye-deserty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        }
+    ]
+}

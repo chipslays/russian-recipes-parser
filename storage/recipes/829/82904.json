@@ -1,0 +1,91 @@
+{
+    "source": "https://vkuso.ru/recipe/82904-varene-iz-svezhej-krasnoj-smorodiny-na-zimu/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Варенье из свежей красной смородины на зиму",
+    "description": "В ягодах красной смородины содержится пектин, он и позволяет превратить массу в желе.",
+    "note": "В варенье можно добавить яблоки, ванилин, орехи, бананы, мед.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/af/16d7a6814a66eaf_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час 30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "смородина красная",
+                    "slug": "smorodina-krasnaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Ягоды перебрать, промыть, выложить в эмалированную кастрюлю, подлить воду.",
+            "image": null
+        },
+        {
+            "text": "Массу довести до кипения, варить две минуты, протереть через сито.",
+            "image": null
+        },
+        {
+            "text": "Всыпать сахарный песок, варить полчаса на тихом огне.",
+            "image": null
+        },
+        {
+            "text": "Банки стерилизовать, разлить варенье, закатать. Хранить в прохладе.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Варенье",
+            "slug": "varene"
+        },
+        {
+            "name": "Варенье из красной смородины",
+            "slug": "varene-iz-krasnoy-smorodiny"
+        },
+        {
+            "name": "Варенье из смородины",
+            "slug": "varene-iz-smorodiny"
+        },
+        {
+            "name": "Варенье из ягод",
+            "slug": "varene-iz-yagod"
+        },
+        {
+            "name": "Красная смородина на зиму",
+            "slug": "krasnaya-smorodina-na-zimu"
+        },
+        {
+            "name": "Смородина на зиму",
+            "slug": "smorodina-na-zimu"
+        }
+    ]
+}

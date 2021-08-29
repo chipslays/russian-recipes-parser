@@ -1,0 +1,155 @@
+{
+    "source": "https://vkuso.ru/recipe/109545-sufle-iz-kurinogo-farsha-s-mankoj-na-paru/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Суфле из куриного фарша с манкой на пару",
+    "description": "Нежное суфле с минимумом калорий.",
+    "note": "При подаче украсить блюдо рубленой зеленью.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/38/25ebce7bc33b238_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/M-H6lGKMfv0?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "манная крупа",
+                    "slug": "mannaya-krupa",
+                    "notes": null,
+                    "value": "35-40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Филе курицы вымыть и обсушить салфеткой, нарезать кусочками, перемолоть в кухонном комбайне.",
+            "image": null
+        },
+        {
+            "text": "Вбить сырые яйца, посолить, перетереть.",
+            "image": null
+        },
+        {
+            "text": "Добавить манку, еще раз все перетереть.",
+            "image": null
+        },
+        {
+            "text": "Влить сметану, массу взбить.",
+            "image": null
+        },
+        {
+            "text": "Фарш переложить в смазанные маслом порционные формочки.",
+            "image": null
+        },
+        {
+            "text": "Выставить на решетку пароварки, влить воду. Время приготовления – двадцать минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блюда из курицы для детей",
+            "slug": "blyuda-iz-kuricy-dlya-detey"
+        },
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Детская запеканка",
+            "slug": "detskaya-zapekanka"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Детский обед",
+            "slug": "detskiy-obed"
+        },
+        {
+            "name": "Детский ужин",
+            "slug": "detskiy-ujin"
+        },
+        {
+            "name": "Запеканка мясная",
+            "slug": "zapekanka-myasnaya"
+        },
+        {
+            "name": "Запеканка с манкой",
+            "slug": "zapekanka-s-mankoy"
+        },
+        {
+            "name": "Запеканки",
+            "slug": "zapekanki"
+        },
+        {
+            "name": "Запеканки с курицей",
+            "slug": "zapekanki-s-kuricey"
+        },
+        {
+            "name": "Запеканки с фаршем",
+            "slug": "zapekanki-s-farshem"
+        },
+        {
+            "name": "На пару",
+            "slug": "na-paru"
+        },
+        {
+            "name": "Ужин из куриного филе",
+            "slug": "ujin-iz-kurinogo-file"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        }
+    ]
+}

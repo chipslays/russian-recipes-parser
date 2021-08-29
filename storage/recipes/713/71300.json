@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/paelya-s-krevetkami-kukuruzoj-i-belym-vinom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Паэлья с креветками, кукурузой и белым вином",
+    "description": "Если вы не любите другие морепродукты, кроме креветок, то можно обойтись и таким набором продуктов. Для приготовления блюда понадобится консервированная кукуруза и белое сухое вино.",
+    "note": "Чтобы очистить помидоры, их нужно опустить на пару минут в кипящую воду.",
+    "cuisine": "Испанская кухня",
+    "cuisine_slug": "ispanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a7/d23100dd9e6d9a7_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "креветки",
+                    "slug": "krevetki",
+                    "notes": null,
+                    "value": "450",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "280",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кукуруза консервированная",
+                    "slug": "kukuruza-konservirovannaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "бульон овощной",
+                    "slug": "bulon-ovoschnoy",
+                    "notes": " (бульон рыбный)",
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "вино белое сухое",
+                    "slug": "vino-beloe-suhoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "шафран",
+                    "slug": "shafran",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Очистить помидоры от кожицы, мякоть нарезать небольшими кубиками.",
+            "image": null
+        },
+        {
+            "text": "Порубить чеснок, сладкий перец нарезать полосками.",
+            "image": null
+        },
+        {
+            "text": "Спассеровать на большой сковороде чеснок и перец.",
+            "image": null
+        },
+        {
+            "text": "Всыпать рис, шафран, другие приправы.",
+            "image": null
+        },
+        {
+            "text": "Прогреть продукты в течение пяти минут.",
+            "image": null
+        },
+        {
+            "text": "Положить помидоры, креветки.",
+            "image": null
+        },
+        {
+            "text": "Влить рыбный или овощной бульон, потушить до готовности крупы.",
+            "image": null
+        },
+        {
+            "text": "Незадолго до готовности влить белое сухое вино, положить кукурузу из банки.",
+            "image": null
+        },
+        {
+            "text": "Всыпать рубленую зелень в готовое блюдо по желанию.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из риса",
+            "slug": "vtorye-blyuda-iz-risa"
+        },
+        {
+            "name": "Креветки с овощами",
+            "slug": "krevetki-s-ovoschami"
+        },
+        {
+            "name": "Креветки с чесноком",
+            "slug": "krevetki-s-chesnokom"
+        },
+        {
+            "name": "Морепродукты с овощами",
+            "slug": "moreprodukty-s-ovoschami"
+        },
+        {
+            "name": "Паэлья",
+            "slug": "paelya"
+        },
+        {
+            "name": "Паэлья с креветками",
+            "slug": "paelya-s-krevetkami"
+        },
+        {
+            "name": "Паэлья с морепродуктами",
+            "slug": "paelya-s-moreproduktami"
+        },
+        {
+            "name": "Рис с креветками",
+            "slug": "ris-s-krevetkami"
+        },
+        {
+            "name": "Рис с кукурузой",
+            "slug": "ris-s-kukuruzoy"
+        },
+        {
+            "name": "Рис с морепродуктами",
+            "slug": "ris-s-moreproduktami"
+        },
+        {
+            "name": "Тушеные блюда",
+            "slug": "tushenye-blyuda"
+        }
+    ]
+}

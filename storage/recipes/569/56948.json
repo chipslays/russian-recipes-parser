@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/pyshnye-oladi-na-kefire-s-limonom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пышные оладьи на кефире с лимоном",
+    "description": "Толстые оладьи с пузырьками можно подать на завтрак к чаю или кофе.",
+    "note": "По желанию оладьи можно сделать слаще, если добавить в тесто еще немного сахара. Или подать их со сгущенным молоком, любимым вареньем, джемом, фруктовым сиропом.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a5/75d91275b0e84a5_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука пшеничная",
+                    "slug": "muka-pshenichnaya",
+                    "notes": null,
+                    "value": "450",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кефир",
+                    "slug": "kefir",
+                    "notes": null,
+                    "value": "300",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "5-6",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Влить в глубокую емкость кефир, всыпать пищевую соду, перемешать и оставить смесь на пять минут.",
+            "image": null
+        },
+        {
+            "text": "Лимон хорошо вымыть, обдать кипятком, снять цедру, выдавить сок.",
+            "image": null
+        },
+        {
+            "text": "То и другое добавить в кефир, всыпать сахарный песок. На поверхности должны появиться пузырьки.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/a5/552d7b29a9479a5_434x295.jpg"
+        },
+        {
+            "text": "Подмешать заранее просеянную пшеничную муку.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/59/f4c6d1c7c0eef59_434x295.jpg"
+        },
+        {
+            "text": "Массу перемешать ложкой или силиконовой лопаткой, полученное тесто должно быть однородным и воздушным.",
+            "image": null
+        },
+        {
+            "text": "Прогреть сковороду, влить растительное масло.",
+            "image": null
+        },
+        {
+            "text": "Выкладывать по ложке теста, печь оладьи с двух сторон до золотистой корочки.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/51/026bdbbaf8cb651_434x295.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка для детей",
+            "slug": "vypechka-dlya-detey"
+        },
+        {
+            "name": "Выпечка на кефире",
+            "slug": "vypechka-na-kefire"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Детский завтрак",
+            "slug": "detskiy-zavtrak"
+        },
+        {
+            "name": "Меню школьника",
+            "slug": "menyu-shkolnika"
+        },
+        {
+            "name": "Оладьи",
+            "slug": "oladi"
+        },
+        {
+            "name": "Оладьи без дрожжей",
+            "slug": "oladi-bez-drojjey"
+        },
+        {
+            "name": "Оладьи без яиц",
+            "slug": "oladi-bez-yaic"
+        },
+        {
+            "name": "Оладьи на кефире",
+            "slug": "oladi-na-kefire"
+        },
+        {
+            "name": "Пышные оладьи",
+            "slug": "pyshnye-oladi"
+        }
+    ]
+}

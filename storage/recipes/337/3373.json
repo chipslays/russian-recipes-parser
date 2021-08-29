@@ -1,0 +1,139 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-kartofelnyj-s-fasolyu-i-smetanoj/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат картофельный с фасолью и сметаной",
+    "description": null,
+    "note": null,
+    "cuisine": "Польская кухня",
+    "cuisine_slug": "polskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/91/7f6df643882ed91_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сухой фасоли",
+                    "slug": "suhoy-fasoli",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "зеленого лука",
+                    "slug": "zelenogo-luka",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "зеленого салата",
+                    "slug": "zelenogo-salata",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "3",
+                    "type": "клубня",
+                    "amount": null
+                },
+                {
+                    "name": "сметаны",
+                    "slug": "smetany",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "уксус",
+                    "slug": "uksus",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец",
+                    "slug": "perec",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В холодной воде замочить фасоль на 12 часов, отварить в ней же до готовности, посолить.",
+            "image": null
+        },
+        {
+            "text": "Помыть и отварить картофель в мундире, облить холодной водой (тогда легче чистить), остудить, очистить, нарезать на мелкие кубики.",
+            "image": null
+        },
+        {
+            "text": "Смешать картофель и фасоль, добавить порезанный кубиками лук, заправить сметаной, добавить по вкусу уксус, горчицу, сахар, посолить, поперчить, для пикантности можно добавить пару щепоток сухой мяты.",
+            "image": null
+        },
+        {
+            "text": "Выложить салат картофельный с фасолью и сметаной в салатник, посыпать измельченным зеленым луком, украсить листиками салата, салат получится более привлекательного вида, если взять белую и красную фасоль.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат с картофелем",
+            "slug": "salat-s-kartofelem"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с фасолью",
+            "slug": "salat-s-fasolyu"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты со сметаной",
+            "slug": "salaty-so-smetanoy"
+        }
+    ]
+}

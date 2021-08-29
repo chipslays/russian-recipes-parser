@@ -1,0 +1,140 @@
+{
+    "source": "https://vkuso.ru/recipe/tradicionnye-blinchiki-s-gorkim-shokoladom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Традиционные блинчики с горьким шоколадом",
+    "description": "Для начинки потребуется горький шоколад.",
+    "note": "Блинчики с шоколадом можно подать на завтрак.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/36/fa5b2a9562e4636_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для блинчиков",
+            "list": [
+                {
+                    "name": "шоколад черный горький",
+                    "slug": "shokolad-cherniy-gorkiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "плитка",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Блины готовят по обычному рецепту.",
+            "image": null
+        },
+        {
+            "text": "Поломать кусочками плитку горького шоколада, поставить на водяную баню.",
+            "image": null
+        },
+        {
+            "text": "Растопленной массой полить готовые блины и свернуть в трубочку.",
+            "image": null
+        },
+        {
+            "text": "Второй вариант: в растопленный шоколад можно добавить сливочное масло и хорошо перемешать.",
+            "image": null
+        },
+        {
+            "text": "Третий вариант: шоколад натереть и положить внутрь блинов.",
+            "image": null
+        },
+        {
+            "text": "Свернуть и обжарить на сливочном масле.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Блинчики",
+            "slug": "blinchiki"
+        },
+        {
+            "name": "Блинчики на молоке",
+            "slug": "blinchiki-na-moloke"
+        },
+        {
+            "name": "Блины",
+            "slug": "bliny"
+        },
+        {
+            "name": "Блины без дрожжей",
+            "slug": "bliny-bez-drojjey"
+        },
+        {
+            "name": "Блины на молоке",
+            "slug": "bliny-na-moloke"
+        },
+        {
+            "name": "Выпечка с шоколадом",
+            "slug": "vypechka-s-shokoladom"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Начинки для блинов",
+            "slug": "nachinki-dlya-blinov"
+        },
+        {
+            "name": "Тонкие блины",
+            "slug": "tonkie-bliny"
+        },
+        {
+            "name": "Тонкие блины на молоке",
+            "slug": "tonkie-bliny-na-moloke"
+        }
+    ]
+}

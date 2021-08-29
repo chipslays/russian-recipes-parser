@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/kotlety-iz-kartofelya-i-yablok/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Котлеты из картофеля и яблок",
+    "description": null,
+    "note": null,
+    "cuisine": "Польская кухня",
+    "cuisine_slug": "polskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/bd/2654bcc25efdebd_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "5-6",
+                    "type": "клубней",
+                    "amount": null
+                },
+                {
+                    "name": "яблок",
+                    "slug": "yablok",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "жира",
+                    "slug": "jira",
+                    "notes": null,
+                    "value": "80",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "сметаны",
+                    "slug": "smetany",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "муки",
+                    "slug": "muki",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "белых панировочных сухарей",
+                    "slug": "belyh-panirovochnyh-suharey",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить до готовности хорошо промытый картофель в мундире, затем остуженный и очищенный прокрутить через мясорубку.",
+            "image": null
+        },
+        {
+            "text": "Очищенные яблоки потереть на крупной терке, вместе с мукой, жиром, яйцом и солью добавить к картофельной массе и перемешать.",
+            "image": null
+        },
+        {
+            "text": "Обвалять в сухарях сформованные из готовой массы котлеты.",
+            "image": null
+        },
+        {
+            "text": "Котлеты из картофеля и яблок обжарить со всех сторон и подать с овощным салатом, сметаной.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из овощей",
+            "slug": "vtorye-blyuda-iz-ovoschey"
+        },
+        {
+            "name": "Картофельные котлеты",
+            "slug": "kartofelnye-kotlety"
+        },
+        {
+            "name": "Овощные котлеты без мяса",
+            "slug": "ovoschnye-kotlety-bez-myasa"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из овощей",
+            "slug": "ujin-iz-ovoschey"
+        }
+    ]
+}

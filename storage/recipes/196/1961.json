@@ -1,0 +1,119 @@
+{
+    "source": "https://vkuso.ru/recipe/morkovnaya-sumsa-po-tatarski/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Морковная сумса по-татарски",
+    "description": null,
+    "note": null,
+    "cuisine": "Татарская кухня",
+    "cuisine_slug": "tatarskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/c0/12d79f1501c2fc0_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "дрожжевого теста",
+                    "slug": "drojjevogo-testa",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "моркови",
+                    "slug": "morkovi",
+                    "notes": null,
+                    "value": "350-400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливочного масла",
+                    "slug": "slivochnogo-masla",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "сахара",
+                    "slug": "sahara",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "растительного масла",
+                    "slug": "rastitelnogo-masla",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сварить очищенную морковь, мелко порубить, добавить сахар и немного соли.",
+            "image": null
+        },
+        {
+            "text": "Отварить яйца вкрутую, остудить, мелко порезать, смешать с морковью, добавить масло.",
+            "image": null
+        },
+        {
+            "text": "Из готового дрожжевого теста сделать небольшие лепешки, положить морковный фарш и сформовать в форме полумесяца пирожки.",
+            "image": null
+        },
+        {
+            "text": "Морковная сумса по-татарски жарится на сковороде с большим количеством подсолнечного масла до готовности.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Дрожжевые пирожки",
+            "slug": "drojjevye-pirojki"
+        },
+        {
+            "name": "Жареные пирожки",
+            "slug": "jarenye-pirojki"
+        },
+        {
+            "name": "Пирожки",
+            "slug": "pirojki"
+        },
+        {
+            "name": "Пирожки с морковью",
+            "slug": "pirojki-s-morkovyu"
+        },
+        {
+            "name": "Татарская выпечка",
+            "slug": "tatarskaya-vypechka"
+        },
+        {
+            "name": "Татарские пирожки",
+            "slug": "tatarskie-pirojki"
+        }
+    ]
+}

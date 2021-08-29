@@ -1,0 +1,212 @@
+{
+    "source": "https://vkuso.ru/recipe/energeticheskij-salat-s-krevetkami-i-avokado/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Энергетический салат с креветками и авокадо",
+    "description": null,
+    "note": "Для остроты в заправку можно добавить чили масло, а салат посыпать не простой, а морской солью.",
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/87/19d7d8abdb23987_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": true,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "капуста брокколи",
+                    "slug": "kapusta-brokkoli",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кочан",
+                    "amount": null
+                },
+                {
+                    "name": "салат айсберг",
+                    "slug": "salat-aysberg",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кочан",
+                    "amount": null
+                },
+                {
+                    "name": "бобы соевые зеленые",
+                    "slug": "boby-soevye-zelenye",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "креветки",
+                    "slug": "krevetki",
+                    "notes": null,
+                    "value": "20",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "авокадо",
+                    "slug": "avokado",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для заправки\r\n\r\nмайонез 1/3 стакана\r\nвода 2 ст.л.\r\nкунжут 1 ст.л.\r\nмасло кунжутное 1/2 ч.л.\r\nсоль\r\n\r\n",
+            "list": [
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "1/3",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "кунжут",
+                    "slug": "kunjut",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло кунжутное",
+                    "slug": "maslo-kunjutnoe",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Брокколи разобрать на соцветия.  Зеленые соевые бобы и капусту брокколи отварить в кипятке в течение 2  минут, воду слить, овощи положить в форму изо льда, продукты не должны потерять цвет.",
+            "image": null
+        },
+        {
+            "text": "В салатницы выложить порционно хорошо вымытый и обсушенный зеленый салат «Айсберг», брокколи, бобы, очищенные и нарезанные авокадо, отваренные вкрутую и накрошенные яйца, готовые креветки.",
+            "image": null
+        },
+        {
+            "text": "Взбить с водой майонез и кунжутное масло. Сбрызнуть полученной заправкой энергетический салат с креветками и авокадо и посыпать кунжутным семенем.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вегетарианские рецепты",
+            "slug": "vegetarianskie-recepty"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетические салаты",
+            "slug": "dieticheskie-salaty"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Зеленые салаты",
+            "slug": "zelenye-salaty"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Салат из яиц",
+            "slug": "salat-iz-yaic"
+        },
+        {
+            "name": "Салат морской коктейль",
+            "slug": "salat-morskoy-kokteyl"
+        },
+        {
+            "name": "Салат с авокадо",
+            "slug": "salat-s-avokado"
+        },
+        {
+            "name": "Салат с авокадо и креветками",
+            "slug": "salat-s-avokado-i-krevetkami"
+        },
+        {
+            "name": "Салат с бананами",
+            "slug": "salat-s-bananami"
+        },
+        {
+            "name": "Салат с креветками",
+            "slug": "salat-s-krevetkami"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без майонеза на праздничный стол",
+            "slug": "salaty-bez-mayoneza-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты из круп",
+            "slug": "salaty-iz-krup"
+        },
+        {
+            "name": "Салаты из морепродуктов",
+            "slug": "salaty-iz-moreproduktov"
+        },
+        {
+            "name": "Салаты из сырых овощей",
+            "slug": "salaty-iz-syryh-ovoschey"
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/prostoj-shtrudel-s-yablokami-v-lavashe/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Простой штрудель с яблоками в лаваше",
+    "description": "Идеальное дополнение к чаю,  лаваш решает проблему долгого приготовления вытяжного теста.",
+    "note": "Точно так же можно приготовить штрудель с грушами или абрикосами.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/08/8c0b8c788db1d08_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/vvKP_TkHfHk?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "лаваш",
+                    "slug": "lavash",
+                    "notes": " (50х35 см)",
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сухари панировочные",
+                    "slug": "suhari-panirovochnye",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "корица",
+                    "slug": "korica",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сливки жирные",
+                    "slug": "slivki-jirnye",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Растопить на сковороде сливочное масло, всыпать ложку сахарного песка, перемешать, выложить измельченные яблоки, посыпать молотой корицей, потушить до готовности.",
+            "image": null
+        },
+        {
+            "text": "На тонкий лаваш насыпать ложку сухарей, выложить яблоки, концы завернуть, свернуть рулет. Точно так же поступить со вторым изделием.",
+            "image": null
+        },
+        {
+            "text": "Сверху смазать маслом или полить сливками, посыпать сахаром. Время выпекания – 20 минут, температура – 190 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка с корицей",
+            "slug": "vypechka-s-koricey"
+        },
+        {
+            "name": "Выпечка с яблоками",
+            "slug": "vypechka-s-yablokami"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог без яиц",
+            "slug": "pirog-bez-yaic"
+        },
+        {
+            "name": "Пирог из лаваша",
+            "slug": "pirog-iz-lavasha"
+        },
+        {
+            "name": "Пирог с яблоками",
+            "slug": "pirog-s-yablokami"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рулет из лаваша",
+            "slug": "rulet-iz-lavasha"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Сладкие пироги",
+            "slug": "sladkie-pirogi"
+        },
+        {
+            "name": "Штрудель",
+            "slug": "shtrudel"
+        },
+        {
+            "name": "Яблочный штрудель",
+            "slug": "yablochniy-shtrudel"
+        }
+    ]
+}

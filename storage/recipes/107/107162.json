@@ -1,0 +1,95 @@
+{
+    "source": "https://vkuso.ru/recipe/107162-pashtet-iz-seldi-s-plavlenymi-syrkami/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Паштет из сельди с плавлеными сырками",
+    "description": "«Намазка» для бутербродов, в состав паштета входит морковь.",
+    "note": "В паштет для усиления вкуса можно ввести кинзу, базилик, петрушку.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ff/cf0de700aff22ff_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "50 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "сельдь",
+                    "slug": "seld",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый",
+                    "slug": "syr-plavleniy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Морковь отварить.",
+            "image": null
+        },
+        {
+            "text": "Подготовить тушку сельди: отрезать хвост и голову, снять кожу, вынуть внутренности, кости. Промыть холодной водой.",
+            "image": null
+        },
+        {
+            "text": "Отваренную морковь нарезать.",
+            "image": null
+        },
+        {
+            "text": "Подготовленные ингредиенты и плавленые сырки пропустить два раза через мясорубку или перемолоть блендером.",
+            "image": null
+        },
+        {
+            "text": "Ввести специи, травы.",
+            "image": null
+        },
+        {
+            "text": "Хранить в холодильнике под крышкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Паштет из селедки",
+            "slug": "pashtet-iz-seledki"
+        },
+        {
+            "name": "Паштеты",
+            "slug": "pashtety"
+        },
+        {
+            "name": "Рыбный паштет",
+            "slug": "rybniy-pashtet"
+        }
+    ]
+}

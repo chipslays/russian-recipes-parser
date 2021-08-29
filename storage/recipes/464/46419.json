@@ -1,0 +1,391 @@
+{
+    "source": "https://vkuso.ru/recipe/tort-mocart-s-fistashkovym-kremom/",
+    "category": null,
+    "category_slug": null,
+    "title": "Торт «Моцарт» с фисташковым кремом",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/7e/8f7fe4bf7947e7e_660x440.jpg",
+    "difficulty": "Высокая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "90",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": " (комнатной температуры)",
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад черный горький",
+                    "slug": "shokolad-cherniy-gorkiy",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для коржа",
+            "list": [
+                {
+                    "name": "сливки взбитые",
+                    "slug": "slivki-vzbitye",
+                    "notes": null,
+                    "value": "140",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "фисташковая паста",
+                    "slug": "fistashkovaya-pasta",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "марципан",
+                    "slug": "marcipan",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "коньяк",
+                    "slug": "konyak",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "желатин листовой",
+                    "slug": "jelatin-listovoy",
+                    "notes": null,
+                    "value": "6",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для фисташкового крема",
+            "list": [
+                {
+                    "name": "конфитюр вишневый",
+                    "slug": "konfityur-vishneviy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "коньяк",
+                    "slug": "konyak",
+                    "notes": null,
+                    "value": "5",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для пропитки",
+            "list": [
+                {
+                    "name": "сливки взбитые",
+                    "slug": "slivki-vzbitye",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад молочный",
+                    "slug": "shokolad-molochniy",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "нуга",
+                    "slug": "nuga",
+                    "notes": " (лесной орех)",
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лесные орехи",
+                    "slug": "lesnye-orehi",
+                    "notes": " (карамелизированные)",
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "8",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар ванильный",
+                    "slug": "sahar-vanilniy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для крема из молочного шоколада и нуги",
+            "list": [
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "90",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад черный горький",
+                    "slug": "shokolad-cherniy-gorkiy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "какао",
+                    "slug": "kakao",
+                    "notes": " (без добавок)",
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "4",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Включить и прогреть до 180 градусов духовку. Перемешать шоколад, масло, сахарную пудру, соединить с желтками, сахарный песок взбить с белками, объединить с шоколадной массой. Заполнить полученной смесью форму, выпекать порядка 20 минут, дать остыть.",
+            "image": null
+        },
+        {
+            "text": "Для крема перемешать молоко с сахаром, желтками, солью, взбить до получения густой массы на паровой бане. Разбухший желатин залить теплым молоком, добавить пасту из фисташек, влить коньяк, взбить до однородности, остудить, перемешать со взбитыми сливками.",
+            "image": null
+        },
+        {
+            "text": "Прогреть конфитюр, перемешать с коньяком, смазать остывший корж, выложить фисташковый крем, убрать десерт на час в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Прогреть 80 г сливок на слабом огне, всыпать кусочки молочного шоколада, ванильный сахар, нугу, подсолить, перемешать, кипеть не давать. Дать желатину набухнуть в воде 10 минут, отжать, соединить с теплыми сливками. Сахар взбить с оставшимися сливками, всыпать орехи. Аккуратно перемешать сливки с шоколадной массой.",
+            "image": null
+        },
+        {
+            "text": "Достать из холодильника хорошо остывшую форму, покрыть фисташковый крем слоем шоколадного и убрать еще раз на час в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Разбухший желатин залить подогретыми сливками, всыпать какао, добавить черный шоколад и масло, перемешать в однородную массу. Довести до кипения воду с сахаром, проварить пару-тройку минут, перемешать с шоколадной массой, дать хорошо остыть, покрыть глазурью верх торта.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Красивый торт",
+            "slug": "krasiviy-tort"
+        },
+        {
+            "name": "Крем для торта",
+            "slug": "krem-dlya-torta"
+        },
+        {
+            "name": "Кремовый торт",
+            "slug": "kremoviy-tort"
+        },
+        {
+            "name": "Праздничные торты",
+            "slug": "prazdnichnye-torty"
+        },
+        {
+            "name": "Рождественский торт",
+            "slug": "rojdestvenskiy-tort"
+        },
+        {
+            "name": "Слоеный торт",
+            "slug": "sloeniy-tort"
+        },
+        {
+            "name": "Торт без мастики",
+            "slug": "tort-bez-mastiki"
+        },
+        {
+            "name": "Торт на 14 февраля",
+            "slug": "tort-na-14-fevralya"
+        },
+        {
+            "name": "Торт на день рождения",
+            "slug": "tort-na-den-rojdeniya"
+        },
+        {
+            "name": "Торт с желе",
+            "slug": "tort-s-jele"
+        },
+        {
+            "name": "Торт со взбитыми сливками",
+            "slug": "tort-so-vzbitymi-slivkami"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        },
+        {
+            "name": "Фисташковый торт",
+            "slug": "fistashkoviy-tort"
+        },
+        {
+            "name": "Шоколадный торт",
+            "slug": "shokoladniy-tort"
+        }
+    ]
+}

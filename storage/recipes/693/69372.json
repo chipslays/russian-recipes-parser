@@ -1,0 +1,199 @@
+{
+    "source": "https://vkuso.ru/recipe/ujgurskij-lagman-s-govyadinoj-bez-lapshi/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Уйгурский лагман с говядиной без лапши",
+    "description": "Блюдо хорошо тем, что готовить его просто и быстро. Можно использовать любой набор овощей, но чтобы обязательно присутствовали лук и помидоры.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/2c/555fea43b54de2c_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/Ioiq-nig7aM?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "говядина",
+                    "slug": "govyadina",
+                    "notes": null,
+                    "value": "550",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "капуста пекинская",
+                    "slug": "kapusta-pekinskaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "вилок",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "фасоль стручковая",
+                    "slug": "fasol-struchkovaya",
+                    "notes": null,
+                    "value": "45",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сельдерей",
+                    "slug": "selderey",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "аджика",
+                    "slug": "adjika",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "хмели-сунели",
+                    "slug": "hmeli-suneli",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец острый сушеный",
+                    "slug": "perec-ostriy-susheniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Лук нашинковать.",
+            "image": null
+        },
+        {
+            "text": "Нарезать на квадратики капусту.",
+            "image": null
+        },
+        {
+            "text": "Порубить перец.",
+            "image": null
+        },
+        {
+            "text": "Порезать мясо.",
+            "image": null
+        },
+        {
+            "text": "Помидоры очистить от шкурки и тоже нарезать.",
+            "image": null
+        },
+        {
+            "text": "Сильно разогреть в казане масло, обжарить мясо.",
+            "image": null
+        },
+        {
+            "text": "Добавить в уйгурский лагман с говядиной без лапши помидоры с луком.",
+            "image": null
+        },
+        {
+            "text": "Прогреть 2-3 минуты.",
+            "image": null
+        },
+        {
+            "text": "Добавить к мясу джандо (стручковая фасоль), капусту и сельдерей, перемешать сдобрить специями.",
+            "image": null
+        },
+        {
+            "text": "Обжарить всё вместе минут 5-7.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Лагман",
+            "slug": "lagman"
+        },
+        {
+            "name": "Лагман из говядины",
+            "slug": "lagman-iz-govyadiny"
+        },
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп из бобовых",
+            "slug": "sup-iz-bobovyh"
+        },
+        {
+            "name": "Суп из говядины",
+            "slug": "sup-iz-govyadiny"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Суп с фасолью",
+            "slug": "sup-s-fasolyu"
+        },
+        {
+            "name": "Уйгурский лагман",
+            "slug": "uygurskiy-lagman"
+        }
+    ]
+}

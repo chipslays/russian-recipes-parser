@@ -1,0 +1,107 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-kapitanskij-s-kopchenoj-ryboj/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Капитанский» с копченой рыбой",
+    "description": "Главный ингредиент этого блюда – копченая рыба. Можно использовать треску, морского окуня, лосось.",
+    "note": "Готовый салат можно посыпать рубленой зеленью укропа.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/4d/0a11a319a2af74d_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/VVI90S7ikWU?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 8 порции",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "600",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "треска копченая",
+                    "slug": "treska-kopchenaya",
+                    "notes": null,
+                    "value": "400-450",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Клубни картофеля отварить, размять вилкой до состояния пюре.",
+            "image": null
+        },
+        {
+            "text": "Рыбу горячего копчения перебрать, удалить все кости.",
+            "image": null
+        },
+        {
+            "text": "Репчатый лук мелко нарезать и ошпарить кипятком, чтобы ушла лишняя горечь.",
+            "image": null
+        },
+        {
+            "text": "Все продукты соединить, добавить майонез.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из трески",
+            "slug": "salat-iz-treski"
+        },
+        {
+            "name": "Салат с картофелем",
+            "slug": "salat-s-kartofelem"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с рыбой",
+            "slug": "salat-s-ryboy"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты на скорую руку",
+            "slug": "salaty-na-skoruyu-ruku"
+        }
+    ]
+}

@@ -1,0 +1,219 @@
+{
+    "source": "https://vkuso.ru/recipe/farshirovannye-cukkini-s-syrom-v-duxovke/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Фаршированные цуккини с сыром в духовке",
+    "description": "Вкусные «лодочки» из кабачка цуккини не стыдно подать и на праздничный стол. Блюдо можно украсить зеленью и «звездочками» из отваренной или обжаренной моркови.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/fd/d7ded228674f8fd_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "цукини",
+                    "slug": "cukini",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "зубчик",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Кабачки промыть, разрезать пополам, вынуть содержимое, «лодочкам» дать обсохнуть.",
+            "image": null
+        },
+        {
+            "text": "Нарезать мякоть, очищенный лук и морковь мелкими кубиками.",
+            "image": null
+        },
+        {
+            "text": "Овощную смесь обжарить на оливковом масле вместе с нарезанным чесноком и помидорами.",
+            "image": null
+        },
+        {
+            "text": "Всыпать измельченную зелень, специи.",
+            "image": null
+        },
+        {
+            "text": "Готовую обжарку положить в кабачковые «лодочки», посыпать тертым сыром.",
+            "image": null
+        },
+        {
+            "text": "Печь в духовом шкафу при температуре 170 градусов в течение 15 – 20 минут. Сыр должен расплавиться.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блюда запеченные с сыром",
+            "slug": "blyuda-zapechennye-s-syrom"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Закуска из кабачков",
+            "slug": "zakuska-iz-kabachkov"
+        },
+        {
+            "name": "Закуски на день рождения",
+            "slug": "zakuski-na-den-rojdeniya"
+        },
+        {
+            "name": "Запеченные блюда",
+            "slug": "zapechennye-blyuda"
+        },
+        {
+            "name": "Кабачки в духовке",
+            "slug": "kabachki-v-duhovke"
+        },
+        {
+            "name": "Кабачки запеченные",
+            "slug": "kabachki-zapechennye"
+        },
+        {
+            "name": "Кабачки с помидорами",
+            "slug": "kabachki-s-pomidorami"
+        },
+        {
+            "name": "Кабачки с сыром",
+            "slug": "kabachki-s-syrom"
+        },
+        {
+            "name": "Кабачки с чесноком",
+            "slug": "kabachki-s-chesnokom"
+        },
+        {
+            "name": "Кабачки фаршированные овощами",
+            "slug": "kabachki-farshirovannye-ovoschami"
+        },
+        {
+            "name": "Кабачки фаршированные сыром",
+            "slug": "kabachki-farshirovannye-syrom"
+        },
+        {
+            "name": "Лодочки из кабачков",
+            "slug": "lodochki-iz-kabachkov"
+        },
+        {
+            "name": "Овощи в духовке",
+            "slug": "ovoschi-v-duhovke"
+        },
+        {
+            "name": "Овощи запеченные",
+            "slug": "ovoschi-zapechennye"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Фаршированные блюда",
+            "slug": "farshirovannye-blyuda"
+        },
+        {
+            "name": "Фаршированные закуски",
+            "slug": "farshirovannye-zakuski"
+        },
+        {
+            "name": "Фаршированные кабачки",
+            "slug": "farshirovannye-kabachki"
+        },
+        {
+            "name": "Фаршированные овощи",
+            "slug": "farshirovannye-ovoschi"
+        }
+    ]
+}

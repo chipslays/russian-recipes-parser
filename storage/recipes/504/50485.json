@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/xrustyashhee-pechene-s-ovsyanymi-otrubyami/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Хрустящее печенье с овсяными отрубями",
+    "description": "Хруст выпечке придают овсяные отруби, наполнители для теста обогатят выпечку витаминами.",
+    "note": "В тесто для печенья можно положить какао-порошок, вяленую клюкву, любые другие сухофрукты, молотую корицу.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/0a/41844c344ecf90a_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "овсяные отруби",
+                    "slug": "ovsyanye-otrubi",
+                    "notes": " (перемолотые в муку)",
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "овсяные отруби",
+                    "slug": "ovsyanye-otrubi",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": " (холодная)",
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "заменитель сахара",
+                    "slug": "zamenitel-sahara",
+                    "notes": " (жидкий)",
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "ванилин",
+                    "slug": "vanilin",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Перемолотые в муку овсяные отруби смешать с неперемолотыми отрубями, ванилином и разрыхлителем.",
+            "image": null
+        },
+        {
+            "text": "Сырой куриный белок взбить со щепоткой соли, добавить сахарозаменитель, взбить в плотную пену.",
+            "image": null
+        },
+        {
+            "text": "Влить воду, оливковое масло, смесь перемешать.",
+            "image": null
+        },
+        {
+            "text": "Смешать сухую и белковую смесь, дать постоять, отруби должны разбухнуть.",
+            "image": null
+        },
+        {
+            "text": "Застелить бумагой противень или положить коврик из силикона. Выложить печень с помощью столовой ложки.",
+            "image": null
+        },
+        {
+            "text": "Печь в течение 15 – 20 минут при температуре 220 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка на скорую руку",
+            "slug": "vypechka-na-skoruyu-ruku"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетическое печенье",
+            "slug": "dieticheskoe-pechene"
+        },
+        {
+            "name": "Овсяное печенье",
+            "slug": "ovsyanoe-pechene"
+        },
+        {
+            "name": "Печенье",
+            "slug": "pechene"
+        },
+        {
+            "name": "Печенье без муки",
+            "slug": "pechene-bez-muki"
+        },
+        {
+            "name": "Печенье на скорую руку",
+            "slug": "pechene-na-skoruyu-ruku"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

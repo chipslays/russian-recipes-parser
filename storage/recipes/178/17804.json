@@ -1,0 +1,83 @@
+{
+    "source": "https://vkuso.ru/recipe/bystryj-pechenochnyj-pashtet/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Быстрый печеночный паштет",
+    "description": null,
+    "note": null,
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/5f/104c52377281d5f_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "говяжья печень",
+                    "slug": "govyajya-pechen",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "180",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "головки",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Печень порезать на кусочки и обжарить на сковороде, лук нашинковать и присоединить к печени, все сдобрить солью и специями, потушить. Яйца отварить и очистить, масло довести до комнатной температуры.",
+            "image": null
+        },
+        {
+            "text": "С помощью блендера или мясорубки измельчить все компоненты, перемешать. Быстрый печеночный паштет можно намазать на хлеб или подать в качестве холодной закуски.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Паштет из говяжьей печени",
+            "slug": "pashtet-iz-govyajey-pecheni"
+        },
+        {
+            "name": "Паштет из печени",
+            "slug": "pashtet-iz-pecheni"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

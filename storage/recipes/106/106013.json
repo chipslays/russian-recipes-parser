@@ -1,0 +1,135 @@
+{
+    "source": "https://vkuso.ru/recipe/106013-dieticheskaya-panakota-s-molokom-i-zheltkami/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Диетическая панакота с молоком и желтками",
+    "description": "Десерт для людей, ведущих здоровый образ жизни.",
+    "note": "Панакоту украсить свежими или консервированными ягодами и подать к чаю.",
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/28/77e25c8e8810028_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": "30 минут",
+    "video": "https://www.youtube.com/embed/9al3AnDBBgw?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": " (0,5%)",
+                    "value": "610",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "320",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "кукурузный крахмал",
+                    "slug": "kukuruzniy-krahmal",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "агар-агар",
+                    "slug": "agar-agar",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "ваниль в стручках",
+                    "slug": "vanil-v-struchkah",
+                    "notes": null,
+                    "value": "2",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "заменитель сахара стевия",
+                    "slug": "zamenitel-sahara-steviya",
+                    "notes": null,
+                    "value": "4",
+                    "type": "капли",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Агар-агар залить для набухания чистой водой на полчаса.",
+            "image": null
+        },
+        {
+            "text": "Отдельно перемешать чуть взбитые белки с молоком, каплями стевии, кукурузным крахмалом и ванилином.",
+            "image": null
+        },
+        {
+            "text": "Смесь взбить на минимальной скорости в миксере.",
+            "image": null
+        },
+        {
+            "text": "Готовую массу поставить на водяную баню, прогреть до загустения.",
+            "image": null
+        },
+        {
+            "text": "Агар-агар прокипятить в течение минуты и влить в крем.",
+            "image": null
+        },
+        {
+            "text": "Массу взбить до остывания миксером.",
+            "image": null
+        },
+        {
+            "text": "Готовую массу перелить в формы, остудить.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетические десерты",
+            "slug": "dieticheskie-deserty"
+        },
+        {
+            "name": "Панакота",
+            "slug": "panakota"
+        },
+        {
+            "name": "Праздничные десерты",
+            "slug": "prazdnichnye-deserty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Специальное питание",
+            "slug": "specialnoe-pitanie"
+        }
+    ]
+}

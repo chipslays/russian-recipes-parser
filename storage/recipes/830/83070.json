@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/83070-vishnevoe-povidlo-s-abrikosami-i-smorodinoj/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Вишневое повидло с абрикосами и смородиной",
+    "description": "Рецепт не требует большого количества сахара, заготовка понравится худеющим сладкоежкам.",
+    "note": "Вместо желатина можно использовать желфикс или пектин.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/71/cd939c54cd30371_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вишня без косточек",
+                    "slug": "vishnya-bez-kostochek",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "600",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "абрикосы",
+                    "slug": "abrikosy",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "смородина белая",
+                    "slug": "smorodina-belaya",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Измельчить в блендере белую смородину, вишню и абрикосы.",
+            "image": null
+        },
+        {
+            "text": "Отдельно довести воду до кипения и всыпать сахар.",
+            "image": null
+        },
+        {
+            "text": "Варить сироп пятнадцать минут.",
+            "image": null
+        },
+        {
+            "text": "Желатин из пакетика залить холодной водой для набухания.",
+            "image": null
+        },
+        {
+            "text": "Порциями добавить в негорячий сироп, влить ягодную массу.",
+            "image": null
+        },
+        {
+            "text": "Варить все вместе один час.",
+            "image": null
+        },
+        {
+            "text": "Разложить в банки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Варенье",
+            "slug": "varene"
+        },
+        {
+            "name": "Варенье из ягод",
+            "slug": "varene-iz-yagod"
+        },
+        {
+            "name": "Повидло",
+            "slug": "povidlo"
+        },
+        {
+            "name": "Повидло из абрикосов",
+            "slug": "povidlo-iz-abrikosov"
+        },
+        {
+            "name": "Повидло из вишни",
+            "slug": "povidlo-iz-vishni"
+        },
+        {
+            "name": "Повидло из смородины",
+            "slug": "povidlo-iz-smorodiny"
+        }
+    ]
+}

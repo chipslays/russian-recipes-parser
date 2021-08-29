@@ -1,0 +1,163 @@
+{
+    "source": "https://vkuso.ru/recipe/ovsyanoe-pechene-s-izyumom-chernoslivom-i-semenami-lna/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Овсяное печенье с изюмом, черносливом и семенами льна",
+    "description": "Отличный вариант для дневного перекуса, приготовленного своими руками. Печенье не выпекается, а сушится довольно продолжительное время в духовом шкафу.",
+    "note": "Печенье можно взять в долгую дорогу или подать на стол к чаю или кофе. Оно хорошо хранится в холодильнике, завернутое в фольгу или бумагу.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ca/abc1ce040e78eca_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "изюм",
+                    "slug": "izyum",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чернослив",
+                    "slug": "chernosliv",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "семена льна",
+                    "slug": "semena-lna",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грецкие орехи",
+                    "slug": "greckie-orehi",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "овсяные хлопья",
+                    "slug": "ovsyanye-hlopya",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Измельчить с помощью блендера изюм без косточек, чернослив, очищенные грецкие орехи. Добавить сырые куриные белки, льняное семя, овсяные хлопья.",
+            "image": null
+        },
+        {
+            "text": "Застелить противень бумагой для выпекания, распределить полученную смесь тонким слоем в полсантиметра.",
+            "image": null
+        },
+        {
+            "text": "Печь при температуре 100 градусов в течение часа или полутора. За это время масса должна высохнуть. Горячий корж нарезать квадратами или другими фигурками и остудить.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка для детей",
+            "slug": "vypechka-dlya-detey"
+        },
+        {
+            "name": "Выпечка с изюмом",
+            "slug": "vypechka-s-izyumom"
+        },
+        {
+            "name": "Выпечка с орехами",
+            "slug": "vypechka-s-orehami"
+        },
+        {
+            "name": "Выпечка с сухофруктами",
+            "slug": "vypechka-s-suhofruktami"
+        },
+        {
+            "name": "Выпечка с черносливом",
+            "slug": "vypechka-s-chernoslivom"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Детское печенье",
+            "slug": "detskoe-pechene"
+        },
+        {
+            "name": "Овсяное печенье",
+            "slug": "ovsyanoe-pechene"
+        },
+        {
+            "name": "Печенье",
+            "slug": "pechene"
+        },
+        {
+            "name": "Печенье без муки",
+            "slug": "pechene-bez-muki"
+        },
+        {
+            "name": "Печенье из овсяных хлопьев",
+            "slug": "pechene-iz-ovsyanyh-hlopev"
+        },
+        {
+            "name": "Печенье с изюмом",
+            "slug": "pechene-s-izyumom"
+        },
+        {
+            "name": "Печенье с орехами",
+            "slug": "pechene-s-orehami"
+        },
+        {
+            "name": "Печенье с сухофруктами",
+            "slug": "pechene-s-suhofruktami"
+        },
+        {
+            "name": "Печенье с сухофруктами и орехами",
+            "slug": "pechene-s-suhofruktami-i-orehami"
+        },
+        {
+            "name": "Полдник",
+            "slug": "poldnik"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

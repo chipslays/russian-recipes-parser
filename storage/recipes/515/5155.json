@@ -1,0 +1,246 @@
+{
+    "source": "https://vkuso.ru/recipe/kurica-s-risom-i-pryanym-sousom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Курица с рисом и пряным соусом",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ec/0fd09873bc627ec_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "риса",
+                    "slug": "risa",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "свежего корня имбиря",
+                    "slug": "svejego-kornya-imbirya",
+                    "notes": null,
+                    "value": "5",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "бадьяна",
+                    "slug": "badyana",
+                    "notes": null,
+                    "value": "1",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "зеленого лука",
+                    "slug": "zelenogo-luka",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "пучка",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для риса",
+            "list": [
+                {
+                    "name": "куриные грудки",
+                    "slug": "kurinye-grudki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "чеснока",
+                    "slug": "chesnoka",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "свежего корня имбиря",
+                    "slug": "svejego-kornya-imbirya",
+                    "notes": null,
+                    "value": "5",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "зеленого лука",
+                    "slug": "zelenogo-luka",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "пучка",
+                    "amount": null
+                },
+                {
+                    "name": "кунжутного масла",
+                    "slug": "kunjutnogo-masla",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "приправы 5 специй",
+                    "slug": "pripravy-5-speciy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для мяса ",
+            "list": [
+                {
+                    "name": "черного молотого перца",
+                    "slug": "chernogo-molotogo-perca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "молотой корицы",
+                    "slug": "molotoy-koricy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "семян фенхеля",
+                    "slug": "semyan-fenhelya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "молотого бадьяна",
+                    "slug": "molotogo-badyana",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "молотой гвоздики",
+                    "slug": "molotoy-gvozdiki",
+                    "notes": null,
+                    "value": "1/8",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для приправы 5 специй",
+            "list": [
+                {
+                    "name": "коричневого сахара",
+                    "slug": "korichnevogo-sahara",
+                    "notes": null,
+                    "value": "15",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соевого соуса",
+                    "slug": "soevogo-sousa",
+                    "notes": null,
+                    "value": "6",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "рисового уксуса",
+                    "slug": "risovogo-uksusa",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "воды",
+                    "slug": "vody",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Первым этапом приготовить рис, перебрать, промыть до чистой воды. Переложить рис в небольшую кастрюлю, всыпать бадьян (звездный анис), измельченный корень имбиря, посолить, поперчить, залить водой, закрыть крышкой и дать закипеть.",
+            "image": null
+        },
+        {
+            "text": "Уменьшить нагрев и варить, не снимая крышки, около 10 минут. Снять крышку, убрать специи, которые всплыли на поверхность, добавить измельченные перья лука, натертый на мелкой терке имбирь, перемешать, отставить в сторону.",
+            "image": null
+        },
+        {
+            "text": "Теперь готовим курицу.  Разогреть кунжутное масло (можно заменить растительным или арахисовым), выдавить чеснок, натереть на мелкой терке имбирь, порезать зеленый лук, все жарить около минуты, добавить куски курицы и обжарить с 2 сторон до полной готовности.",
+            "image": null
+        },
+        {
+            "text": "Смешать для соуса сахар, рисовый уксус, соевый соус, воду.",
+            "image": null
+        },
+        {
+            "text": "Смешать готовое куриное филе, добавить приправу 5 специй, влить соус, перемешать, дать закипеть, снять с плиты.",
+            "image": null
+        },
+        {
+            "text": "Подавать курицу с рисом и пряным соусом следующим образом: разложить рис по тарелкам, сверху положить мясо, полить соусом, присыпать измельченными перьями зеленого лука.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из риса",
+            "slug": "vtorye-blyuda-iz-risa"
+        },
+        {
+            "name": "Рис с курицей",
+            "slug": "ris-s-kuricey"
+        },
+        {
+            "name": "Рис с мясом",
+            "slug": "ris-s-myasom"
+        }
+    ]
+}

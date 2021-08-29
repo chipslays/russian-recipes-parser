@@ -1,0 +1,171 @@
+{
+    "source": "https://vkuso.ru/recipe/oladi-iz-brokkoli-s-mocarelloj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Оладьи из брокколи с моцареллой",
+    "description": "Очень полезное блюдо с минимальным содержанием жира.",
+    "note": "Подать блюдо можно со сметаной и зеленью.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/bc/6cd42e8cf8e26bc_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "кефир обезжиренный",
+                    "slug": "kefir-obezjirenniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "брокколи",
+                    "slug": "brokkoli",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр моцарелла",
+                    "slug": "syr-mocarella",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сода",
+                    "slug": "soda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Капусту брокколи отварить в течение пяти минут в подсоленной воде.",
+            "image": null
+        },
+        {
+            "text": "Вынуть, обсушить, размять.",
+            "image": null
+        },
+        {
+            "text": "Взбить сырые яйца со щепоткой соли, влить кефир, погашенную уксусом или лимонным соком соду, её можно заменить на разрыхлитель.",
+            "image": null
+        },
+        {
+            "text": "Всыпать пшеничную муку, массу перемешать.",
+            "image": null
+        },
+        {
+            "text": "Добавить в полученное тесто измельченную капусту, тертую «Моцареллу», специи.",
+            "image": null
+        },
+        {
+            "text": "Жарить на раскаленной сковороде с добавлением растительного масла.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка с сыром",
+            "slug": "vypechka-s-syrom"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Капустные оладьи",
+            "slug": "kapustnye-oladi"
+        },
+        {
+            "name": "Несладкая выпечка",
+            "slug": "nesladkaya-vypechka"
+        },
+        {
+            "name": "Низкокалорийные",
+            "slug": "nizkokaloriynye"
+        },
+        {
+            "name": "Овощные оладьи",
+            "slug": "ovoschnye-oladi"
+        },
+        {
+            "name": "Оладьи",
+            "slug": "oladi"
+        },
+        {
+            "name": "Оладьи на кефире",
+            "slug": "oladi-na-kefire"
+        },
+        {
+            "name": "Оладьи с сыром",
+            "slug": "oladi-s-syrom"
+        },
+        {
+            "name": "Специальное питание",
+            "slug": "specialnoe-pitanie"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

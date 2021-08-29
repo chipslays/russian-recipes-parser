@@ -1,0 +1,135 @@
+{
+    "source": "https://vkuso.ru/recipe/svinina-s-syrom-zapechennaya-v-karameli/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Свинина с сыром запеченная в карамели",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/21/e2c05c079865321_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыра пармезан",
+                    "slug": "syra-parmezan",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "свинины",
+                    "slug": "svininy",
+                    "notes": null,
+                    "value": "3",
+                    "type": "куска",
+                    "amount": null
+                },
+                {
+                    "name": "соленых огурца",
+                    "slug": "solenyh-ogurca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "петрушки",
+                    "slug": "petrushki",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "пучка",
+                    "amount": null
+                },
+                {
+                    "name": "базилика",
+                    "slug": "bazilika",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "пучка",
+                    "amount": null
+                },
+                {
+                    "name": "корня имбиря",
+                    "slug": "kornya-imbirya",
+                    "notes": null,
+                    "value": "3",
+                    "type": "см",
+                    "amount": null
+                },
+                {
+                    "name": "сахара",
+                    "slug": "sahara",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "майонеза",
+                    "slug": "mayoneza",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Расплавить на сковороде сахар с добавлением растительного масла, почистить имбирь, разрезать кусочек пополам и положить в сковороду с карамелью.",
+            "image": null
+        },
+        {
+            "text": "Мелко нашинковать зелень петрушки и базилик, потереть сыр, нарезать мелко соленые огурцы, перемешать, заправить майонезом, включить для разогрева на 200 градусов духовку.",
+            "image": null
+        },
+        {
+            "text": "Кусочки свинины немного отбить, надрезать вдоль, чтобы получились кармашки, посолить, поперчить, нафаршировать их смесью сыра, зелени и майонеза, переложить отбивные в сковороду с карамелью и обжарить по 5 мин с каждой стороны.",
+            "image": null
+        },
+        {
+            "text": "Положить мясо на противень, запекать в духовке 5-7 минут, подавать свинину с сыром запеченную в карамели горячей.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Мясо в духовке",
+            "slug": "myaso-v-duhovke"
+        },
+        {
+            "name": "Мясо с сыром",
+            "slug": "myaso-s-syrom"
+        },
+        {
+            "name": "Свинина в духовке",
+            "slug": "svinina-v-duhovke"
+        },
+        {
+            "name": "Свинина с сыром",
+            "slug": "svinina-s-syrom"
+        }
+    ]
+}

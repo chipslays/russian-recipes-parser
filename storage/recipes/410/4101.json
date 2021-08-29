@@ -1,0 +1,195 @@
+{
+    "source": "https://vkuso.ru/recipe/salat-iz-kurinogo-file-francuzskaya-lyubovnica/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат из куриного филе «Французская любовница»",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a0/58c7142c4da43a0_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриного филе",
+                    "slug": "kurinogo-file",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыра",
+                    "slug": "syra",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "репчатого лука",
+                    "slug": "repchatogo-luka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "апельсина",
+                    "slug": "apelsina",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1-2"
+                },
+                {
+                    "name": "моркови",
+                    "slug": "morkovi",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1-2"
+                },
+                {
+                    "name": "светлого изюма",
+                    "slug": "svetlogo-izyuma",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "грецких орехов",
+                    "slug": "greckih-orehov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Порезать куриное отварное филе мелко.",
+            "image": null
+        },
+        {
+            "text": "Нарезать лук полукольцами, облить кипятком и замариновать в смеси сахара, соли и капли уксуса.",
+            "image": null
+        },
+        {
+            "text": "Светлый изюм промыть, залить на несколько минут кипятком, порубить грецкие орехи.",
+            "image": null
+        },
+        {
+            "text": "Морковь и сыр натереть на терке.",
+            "image": null
+        },
+        {
+            "text": "Салат из куриного филе «Французская любовница» необходимо выложить слоями: курица, маринованный лук, изюм, морковь, сыр, орехи; каждый слой салата смазать майонезом.",
+            "image": null
+        },
+        {
+            "text": "Салат украшается кубиками апельсина.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из моркови",
+            "slug": "salat-iz-morkovi"
+        },
+        {
+            "name": "Салат из свежей моркови",
+            "slug": "salat-iz-svejey-morkovi"
+        },
+        {
+            "name": "Салат с апельсином",
+            "slug": "salat-s-apelsinom"
+        },
+        {
+            "name": "Салат с грецкими орехами",
+            "slug": "salat-s-greckimi-orehami"
+        },
+        {
+            "name": "Салат с курицей",
+            "slug": "salat-s-kuricey"
+        },
+        {
+            "name": "Салат с курицей и апельсинами",
+            "slug": "salat-s-kuricey-i-apelsinami"
+        },
+        {
+            "name": "Салат с курицей и грецкими орехами",
+            "slug": "salat-s-kuricey-i-greckimi-orehami"
+        },
+        {
+            "name": "Салат с курицей и морковью",
+            "slug": "salat-s-kuricey-i-morkovyu"
+        },
+        {
+            "name": "Салат с курицей и овощами",
+            "slug": "salat-s-kuricey-i-ovoschami"
+        },
+        {
+            "name": "Салат с курицей и сыром",
+            "slug": "salat-s-kuricey-i-syrom"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с орехами",
+            "slug": "salat-s-orehami"
+        },
+        {
+            "name": "Салаты с сыром",
+            "slug": "salaty-s-syrom"
+        },
+        {
+            "name": "Слоеные салаты",
+            "slug": "sloenye-salaty"
+        },
+        {
+            "name": "Слоеный салат с курицей и сыром",
+            "slug": "sloeniy-salat-s-kuricey-i-syrom"
+        }
+    ]
+}

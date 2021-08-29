@@ -1,0 +1,175 @@
+{
+    "source": "https://vkuso.ru/recipe/90228-rybnye-kotlety-iz-mintaya-s-xlebom-i-slivkami/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Рыбные котлеты из минтая с хлебом и сливками",
+    "description": "То, что мы понимаем под названием «котлета», изначально считалось приготовленным куском мяса на кости: бедренной или (преимущественно) рёберной и бедренной — у птицы; а так же разновидность рыбного филе. В русской кухне данное понятие со временем изменилось, и мы подготовили рецепт рыбных котлет так, как это принято считать (из фарша).",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/7e/2faa7a846efd67e_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "45 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/nOGUcy4foMM?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "филе минтая",
+                    "slug": "file-mintaya",
+                    "notes": null,
+                    "value": "450",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб",
+                    "slug": "hleb",
+                    "notes": " (белый или батон)",
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки 10%",
+                    "slug": "slivki-10",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный",
+                    "slug": "perec-cherniy",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мускатный орех",
+                    "slug": "muskatniy-oreh",
+                    "notes": null,
+                    "value": "&frac13;",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": " (для жарки)",
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сухари панировочные",
+                    "slug": "suhari-panirovochnye",
+                    "notes": " (для панировки)",
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакан",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Белый хлеб или батон залить водой на 20 минут.",
+            "image": null
+        },
+        {
+            "text": "В чашу блендера положить лук. Батон отжать от лишней воды, добавить к луку. Туда же поместить филе минтая. Измельчить.",
+            "image": null
+        },
+        {
+            "text": "Переложить содержимое блендера в глубокую тарелку, вбить яйцо, соль (1 ч.л.), перец(1/2 ч.л.), мускатный орех (1/3 ч.л.), влить сливки - перемешать.",
+            "image": null
+        },
+        {
+            "text": "В сковороду налить растительного масла и разогреть.",
+            "image": null
+        },
+        {
+            "text": "Формируем из фарша котлетки, обваливаем котлетку со всех сторон в панировочных сухарях. Готовим на среднем огне 7 минут с каждой стороны под крышкой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блендер",
+            "slug": "blender"
+        },
+        {
+            "name": "Вторые блюда из рыбы",
+            "slug": "vtorye-blyuda-iz-ryby"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Жареные блюда",
+            "slug": "jarenye-blyuda"
+        },
+        {
+            "name": "Котлеты",
+            "slug": "kotlety"
+        },
+        {
+            "name": "Котлеты из минтая",
+            "slug": "kotlety-iz-mintaya"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рыба на сковороде",
+            "slug": "ryba-na-skovorode"
+        },
+        {
+            "name": "Рыбные котлеты",
+            "slug": "rybnye-kotlety"
+        },
+        {
+            "name": "Сковорода",
+            "slug": "skovoroda"
+        }
+    ]
+}

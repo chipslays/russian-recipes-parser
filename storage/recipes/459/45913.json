@@ -1,0 +1,128 @@
+{
+    "source": "https://vkuso.ru/recipe/nizkokalorijnoe-domashnee-beze/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Низкокалорийное домашнее безе",
+    "description": "Домашнее безе, приготовленное с сахарозаменителем. Вкусная сладость без лишних калорий.",
+    "note": "Десерт можно украсить свежими или размороженными ягодами вишни или малины.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/50/97767ecf79bdd50_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "заменитель сахара",
+                    "slug": "zamenitel-sahara",
+                    "notes": null,
+                    "value": "по вкусу",
+                    "type": "",
+                    "amount": null
+                },
+                {
+                    "name": "ванилин",
+                    "slug": "vanilin",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для крема",
+            "list": [
+                {
+                    "name": "какао-порошок",
+                    "slug": "kakao-poroshok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сырые куриные яйца охладить, отделить желтки от белков. Белки взбить в плотную пену с помощью миксера, затем добавить ванилин и сахарозаменитель.",
+            "image": null
+        },
+        {
+            "text": "Противень застелить бумагой для выпечки, сухой чайной ложкой выложить полученную массу в виде небольших лепешек. Вместо ложки можно взять кондитерский мешок или шприц.",
+            "image": null
+        },
+        {
+            "text": "Поставить блюдо в теплую духовку на час, температура для выпекания: 80 – 100 градусов.",
+            "image": null
+        },
+        {
+            "text": "Для крема соединить какао-порошок и воду, масса должна быть густой.",
+            "image": null
+        },
+        {
+            "text": "Готовые безе соединить по два с помощью шоколадного крема и подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безе и меренги",
+            "slug": "beze-i-merengi"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Детский день рождения",
+            "slug": "detskiy-den-rojdeniya"
+        },
+        {
+            "name": "Детский праздник",
+            "slug": "detskiy-prazdnik"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетические десерты",
+            "slug": "dieticheskie-deserty"
+        },
+        {
+            "name": "Пирожные",
+            "slug": "pirojnye"
+        },
+        {
+            "name": "Пирожные на день рождения",
+            "slug": "pirojnye-na-den-rojdeniya"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        }
+    ]
+}

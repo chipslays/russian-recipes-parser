@@ -1,0 +1,259 @@
+{
+    "source": "https://vkuso.ru/recipe/101222-shhi-iz-svezhej-kapusty-s-kartofelem-i-kurinymi-kleckami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Щи из свежей капусты с картофелем и куриными клецками",
+    "description": "Когда я варю такие щи, никто не может остановиться. С этими щами у меня так всегда, никто не может остановиться, пока кастрюля не опустеет. Я варю щи необычным способом, не совсем нетрадиционно, как принято. Все делаю немного по другому. \r\nЩи из свежей капусты с клецками у меня получаются очень густые и мой фирменный способ в том, что я сначала складываю в пустую кастрюлю все обжаренные овощи и только потом заливаю водой, таким вот восточным способом. А вместо мяса я кладу куриные клецки. Именно клецки для супа из куриного фарша, а не фрикадельки и не мучные клецки. \r\nКуриные клецки мало кто пробовал, но попробовав один раз все начинают делать только так. Особенно хороши такие клецки с чесночком и зеленью. Что мы сейчас и сделаем.",
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/29/f7bd9a5e93d9f29_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "45 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/91Og7_MkBjU?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 8 порции",
+            "list": [
+                {
+                    "name": "капуста",
+                    "slug": "kapusta",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца куриные",
+                    "slug": "yayca-kurinye",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сметана 10%",
+                    "slug": "smetana-10",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "мука пшеничная",
+                    "slug": "muka-pshenichnaya",
+                    "notes": null,
+                    "value": "6",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "перец черный горошком",
+                    "slug": "perec-cherniy-goroshkom",
+                    "notes": null,
+                    "value": "10",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "1.7",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "хмели-сунели",
+                    "slug": "hmeli-suneli",
+                    "notes": null,
+                    "value": "½",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать репчатый лук мелким кубиком и обжарить на растительном масле до золотистости. Куриное филе прокрутить через мясорубку 2 раза или пробить блендером, мелко нарезать зелень. В полученный очень мелкий куриный фарш положить остывший обжаренный лук и зелень, выдавить чеснок.",
+            "image": "https://vkuso.ru/data/cache/data/4a/8c8a41d4edfcf4a_434x295_notrise.jpg"
+        },
+        {
+            "text": "Вбить яйцо, добавить сметану, посолить и поперчить по вкусу. Все перемешать.",
+            "image": "https://vkuso.ru/data/cache/data/2c/fb796a2bbc7dd2c_434x295_notrise.jpg"
+        },
+        {
+            "text": "Постепенно в 2 захода всыпать муку, хорошо перемешивая ложкой. Масса должна получиться более жидкой и вязкой, чем для котлет.",
+            "image": "https://vkuso.ru/data/cache/data/c1/971c7b751f8edc1_434x295_notrise.jpg"
+        },
+        {
+            "text": "Нарезать капусту, картошку, репчатый лук, болгарский перец, помидоры и натереть морковь на крупной терке. На растительном масле обжарить помешивая все овощи сразу до уменьшения объема, жарить на среднем огне примерно 5 мин. Переложить все овощи в большую кастрюлю, посолить и поперчить по вкусу, добавить хмели-сунели, лавровый лист и перец горошек.",
+            "image": "https://vkuso.ru/data/cache/data/3d/192b522b3421f3d_434x295_notrise.jpg"
+        },
+        {
+            "text": "Залить овощи водой, дать закипеть помешивая.",
+            "image": "https://vkuso.ru/data/cache/data/79/73e2d6fb4979079_434x295_notrise.jpg"
+        },
+        {
+            "text": "Закрыть крышкой и варить на среднем огне около 15 мин.",
+            "image": "https://vkuso.ru/data/cache/data/69/8aeaebcc5bb4869_434x295_notrise.jpg"
+        },
+        {
+            "text": "Через 15 мин снять крышку и опустить в щи куриные клецки, формируя их двумя ложками, смоченными в воде.",
+            "image": "https://vkuso.ru/data/cache/data/21/e09e8f1d6580021_434x295_notrise.jpg"
+        },
+        {
+            "text": "Стараться формировать клецки одинакового размера. Суп при этом должен слегка кипеть, чтобы клецки не слипались. Когда все клецки будут опущены, накрыть щи крышкой и оставить на среднем огне еще на 10 мин.",
+            "image": "https://vkuso.ru/data/cache/data/03/931c3c6bc341503_434x295_notrise.jpg"
+        },
+        {
+            "text": "Подавать щи со сметаной, посыпав их нарезанным зеленым луком.",
+            "image": "https://vkuso.ru/data/cache/data/5b/b5cdecc0f05335b_434x295_notrise.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Картофельный суп",
+            "slug": "kartofelniy-sup"
+        },
+        {
+            "name": "Куриный суп",
+            "slug": "kuriniy-sup"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Суп из птицы",
+            "slug": "sup-iz-pticy"
+        },
+        {
+            "name": "Суп картофельный с мясом",
+            "slug": "sup-kartofelniy-s-myasom"
+        },
+        {
+            "name": "Суп с капустой",
+            "slug": "sup-s-kapustoy"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Щи",
+            "slug": "schi"
+        },
+        {
+            "name": "Щи из свежей капусты",
+            "slug": "schi-iz-svejey-kapusty"
+        }
+    ]
+}

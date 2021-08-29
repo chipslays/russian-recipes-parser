@@ -1,0 +1,203 @@
+{
+    "source": "https://vkuso.ru/recipe/vinegret-s-seldereem-i-selyodkoj/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Винегрет с сельдереем и селёдкой",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f3/37a47f493843bf3_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "филе сельди",
+                    "slug": "file-seldi",
+                    "notes": " (в масле)",
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель отварной",
+                    "slug": "kartofel-otvarnoy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "свекла вареная",
+                    "slug": "svekla-varenaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь вареная",
+                    "slug": "morkov-varenaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сельдерей",
+                    "slug": "selderey",
+                    "notes": null,
+                    "value": "1",
+                    "type": "черешок",
+                    "amount": null
+                },
+                {
+                    "name": "перец душистый молотый",
+                    "slug": "perec-dushistiy-molotiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "руккола",
+                    "slug": "rukkola",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "лук-порей",
+                    "slug": "luk-porey",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Порезать овощи на крупные кубики.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/2e/66b741922207a2e_434x295.jpg"
+        },
+        {
+            "text": "Положить сельдь, лук и сельдерей, порезанные на кубики.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/7a/79bb8758a18707a_434x295.jpg"
+        },
+        {
+            "text": "Заправить все маслом от сельди. Поперчить, размешать.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/ec/a4e2a0d5bc5dbec_434x295.jpg"
+        },
+        {
+            "text": "Положить винегрет с сельдереем и селёдкой в салатницу, украсить луком-пореем и рукколой.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/f3/37a47f493843bf3_434x295.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Винегрет",
+            "slug": "vinegret"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Легкий салат",
+            "slug": "legkiy-salat"
+        },
+        {
+            "name": "Овощные салаты",
+            "slug": "ovoschnye-salaty"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из вареной моркови",
+            "slug": "salat-iz-varenoy-morkovi"
+        },
+        {
+            "name": "Салат из вареной свеклы",
+            "slug": "salat-iz-varenoy-svekly"
+        },
+        {
+            "name": "Салат из свеклы",
+            "slug": "salat-iz-svekly"
+        },
+        {
+            "name": "Салат из свеклы и моркови",
+            "slug": "salat-iz-svekly-i-morkovi"
+        },
+        {
+            "name": "Салат с картофелем",
+            "slug": "salat-s-kartofelem"
+        },
+        {
+            "name": "Салат с луком",
+            "slug": "salat-s-lukom"
+        },
+        {
+            "name": "Салат с сельдереем",
+            "slug": "salat-s-seldereem"
+        },
+        {
+            "name": "Салаты без майонеза на праздничный стол",
+            "slug": "salaty-bez-mayoneza-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты на скорую руку",
+            "slug": "salaty-na-skoruyu-ruku"
+        },
+        {
+            "name": "Салаты с селедкой",
+            "slug": "salaty-s-seledkoy"
+        }
+    ]
+}

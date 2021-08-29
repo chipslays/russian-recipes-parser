@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/tartar-iz-lososya-s-avokado-i-marinovannymi-kapersami/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Тартар из лосося с авокадо и маринованными каперсами",
+    "description": "Полезное блюдо станет еще лучше, если в него добавить авокадо. Идеальное сочетание продуктов для изысканной подачи на стол.",
+    "note": "Готовые бутерброды по желанию украсить листочками зелени.",
+    "cuisine": "Французская кухня",
+    "cuisine_slug": "francuzskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/bb/a2d2003f24fa8bb_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/IyrGVAiJO-I?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "лосось",
+                    "slug": "losos",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "каперсы маринованные",
+                    "slug": "kapersy-marinovannye",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "авокадо",
+                    "slug": "avokado",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб черный",
+                    "slug": "hleb-cherniy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ломтика",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Репчатый лук мелко нарезать, добавить измельченные маринованные каперсы.",
+            "image": null
+        },
+        {
+            "text": "Добавить оливковое масло и молотый перец по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Нарезать кубиками небольшого размера мякоть авокадо и рыбу.",
+            "image": null
+        },
+        {
+            "text": "Авокадо лучше сбрызнуть лимонным соком, иначе фрукт может потемнеть.",
+            "image": null
+        },
+        {
+            "text": "Вырезать из черного хлеба круг при помощи сервировочного кольца, подсушить его в духовом шкафу или в тостере.",
+            "image": null
+        },
+        {
+            "text": "Поместить кольцо на блюдо.",
+            "image": null
+        },
+        {
+            "text": "Положить в него кусочек хлеба, рыбу, лук и каперсы, авокадо, последний слои – лосось и авокадо.",
+            "image": null
+        },
+        {
+            "text": "Сбрызнуть закуску оливковым маслом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "закуски",
+            "slug": "zakuski"
+        },
+        {
+            "name": "Закуски для фуршета",
+            "slug": "zakuski-dlya-fursheta"
+        },
+        {
+            "name": "Закуски из рыбы",
+            "slug": "zakuski-iz-ryby"
+        },
+        {
+            "name": "Закуски на день рождения",
+            "slug": "zakuski-na-den-rojdeniya"
+        },
+        {
+            "name": "Закуски с красной рыбой",
+            "slug": "zakuski-s-krasnoy-ryboy"
+        },
+        {
+            "name": "Новогодние закуски",
+            "slug": "novogodnie-zakuski"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рыба на Новый год",
+            "slug": "ryba-na-noviy-god"
+        },
+        {
+            "name": "Тартар",
+            "slug": "tartar"
+        },
+        {
+            "name": "Тартар из лосося",
+            "slug": "tartar-iz-lososya"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        },
+        {
+            "name": "Холодные закуски",
+            "slug": "holodnye-zakuski"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

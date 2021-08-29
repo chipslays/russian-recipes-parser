@@ -1,0 +1,123 @@
+{
+    "source": "https://vkuso.ru/recipe/gribnoj-pashtet-s-lukom-i-slivochnym-syrom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Грибной паштет с луком и сливочным сыром",
+    "description": "Нежнейший и простой в приготовлении паштет из грибов. Он явно придётся по вкусу всем вашим домашним. Сыр брать для приготовления лучше сливочный.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/0d/00994b18b08380d_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "40 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/HustnBwPkkc?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "грибы",
+                    "slug": "griby",
+                    "notes": null,
+                    "value": "700-800",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр сливочный",
+                    "slug": "syr-slivochniy",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "эстрагон",
+                    "slug": "estragon",
+                    "notes": " (по желанию)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Отварить грибы.",
+            "image": null
+        },
+        {
+            "text": "Нашинковать крупно лук, обжарить его до незначительного изменения цвета.",
+            "image": null
+        },
+        {
+            "text": "Добавить в сковороду грибы, обжаривать до испарения жидкости, поперчить посолить, можно добавить любимую приправу, тушить около 4 минут, остудить.",
+            "image": null
+        },
+        {
+            "text": "Переложить грибную смесь в чашу блендера, к паштету из грибов добавить сыр, перемешать всё до однородного состояния, разложить  по баночкам, убрать в холодильник.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды с грибами",
+            "slug": "buterbrody-s-gribami"
+        },
+        {
+            "name": "Бутерброды с сыром",
+            "slug": "buterbrody-s-syrom"
+        },
+        {
+            "name": "Грибной паштет",
+            "slug": "gribnoy-pashtet"
+        },
+        {
+            "name": "Закуски из грибов",
+            "slug": "zakuski-iz-gribov"
+        },
+        {
+            "name": "Паштеты",
+            "slug": "pashtety"
+        },
+        {
+            "name": "Холодные закуски",
+            "slug": "holodnye-zakuski"
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "source": "https://vkuso.ru/recipe/gribnoj-krem-sup-s-fasolyu/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Грибной крем-суп с фасолью",
+    "description": "Блюдо годится для поста, в нем нет запрещенных продуктов.",
+    "note": "Для приготовления супа можно использовать сушеный укроп.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/1d/0b6159b1673061d_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "грибы белые замороженные",
+                    "slug": "griby-belye-zamorojennye",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "фасоль",
+                    "slug": "fasol",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "130",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "грибы сушеные",
+                    "slug": "griby-sushenye",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "укроп",
+                    "slug": "ukrop",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "головка",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сушеные грибы промыть, дать настояться в течение часа.",
+            "image": null
+        },
+        {
+            "text": "Отварить фасоль, раздавить вилкой.",
+            "image": null
+        },
+        {
+            "text": "Очистить от кожуры картофель, нарезать кубиками. Морковь нарезать крупными кусочками.",
+            "image": null
+        },
+        {
+            "text": "Сушеные грибы, морковь и картофель отварить до готовности.",
+            "image": null
+        },
+        {
+            "text": "Нарезать кубиками репчатый лук, обжарить на сковороде.",
+            "image": null
+        },
+        {
+            "text": "Добавить размороженные грибы, жарить на тихом огне. Излишки жидкости слить в стакан.",
+            "image": null
+        },
+        {
+            "text": "Обжарку и фасоль добавить в кастрюлю.",
+            "image": null
+        },
+        {
+            "text": "Все ингредиенты перемолоть в блендере, долить бульон. Соль и перец – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Суп поставить на огонь. При закипании добавить сливки. Смесь еще раз перемешать, посыпать укропом, снять с огня.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Грибной крем-суп",
+            "slug": "gribnoy-krem-sup"
+        },
+        {
+            "name": "Грибной суп",
+            "slug": "gribnoy-sup"
+        },
+        {
+            "name": "Грибной суп из замороженных грибов",
+            "slug": "gribnoy-sup-iz-zamorojennyh-gribov"
+        },
+        {
+            "name": "Грибной суп из сушеных грибов",
+            "slug": "gribnoy-sup-iz-sushenyh-gribov"
+        },
+        {
+            "name": "Крем-суп",
+            "slug": "krem-sup"
+        },
+        {
+            "name": "Сливочный суп",
+            "slug": "slivochniy-sup"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из белых грибов",
+            "slug": "sup-iz-belyh-gribov"
+        },
+        {
+            "name": "Суп из бобовых",
+            "slug": "sup-iz-bobovyh"
+        },
+        {
+            "name": "Суп с фасолью",
+            "slug": "sup-s-fasolyu"
+        },
+        {
+            "name": "Суп со сливками",
+            "slug": "sup-so-slivkami"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Суп-пюре грибной",
+            "slug": "sup-pyure-gribnoy"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        }
+    ]
+}

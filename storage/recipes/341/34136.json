@@ -1,0 +1,372 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnij-tort-snikers-k-prazdniku/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Домашний торт «Сникерс» к празднику",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/97/b5e66aa9463f597_660x440.jpg",
+    "difficulty": "Высокая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад черный горький",
+                    "slug": "shokolad-cherniy-gorkiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "2",
+                    "type": "щепотки",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "125",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для швейцарской меренги",
+            "list": [
+                {
+                    "name": "сливки 33%",
+                    "slug": "slivki-33",
+                    "notes": null,
+                    "value": "220",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": "2/3",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для карамели",
+            "list": [
+                {
+                    "name": "молоко сгущенное вареное",
+                    "slug": "moloko-sguschennoe-varenoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "банка",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "арахис",
+                    "slug": "arahis",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для крема",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "85",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "какао",
+                    "slug": "kakao",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для глазури",
+            "list": [
+                {
+                    "name": "ром",
+                    "slug": "rom",
+                    "notes": null,
+                    "value": "100-120",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "арахисовая паста",
+                    "slug": "arahisovaya-pasta",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад черный горький",
+                    "slug": "shokolad-cherniy-gorkiy",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления теста взбить масло с сахаром, добавить расплавленный шоколад, перемешать, добавить по одному желтки, взбить в пушистую светлую массу. Оставшиеся белки взбить с сахаром в гладкую массу, просеять смесь муки, разрыхлителя и соли. В шоколадную массу порциями добавить муку, чередуя ее с белками, аккуратно перемешать лопаточкой снизу вверх, чтобы смесь не потеряла пышности.",
+            "image": null
+        },
+        {
+            "text": "Заполнить тестом смазанную маслом форму, обернуть ее несколькими слоями фольги, чтобы края сильно не подсыхали, выпекать порядка 40 минут при температуре 180 градусов. Слегка остудить корж, вынуть из формы, дать окончательно остыть на решетке, разрезать на три части, пропитать ромом, обернуть каждый в пленку, убрать в холодильник на ночь.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления карамели в сотейнике с толстым дном растопить сахар, добавить горячие сливки, через 30 секунд размешать, добавить соль, масло, проварить минут 5, дать остыть, перелить в миску, оставить до следующего дня. Для приготовления меренги перемешать сахар и белки, прогреть их на среднем огне на водяной бане, мешая венчиком, чтобы растворился сахар, взбивать дальше до пышной устойчивой пены, окончательно взбить в комбайне до глянцевого состояния.",
+            "image": null
+        },
+        {
+            "text": "Разогреть духовку до 100 г, на силиконовый коврик выложить 2 коржа примерно по 20 см в диаметре, поставить в духовку, температуру понизить до 70 градусов, выпекать (подсушивать) 1,5 часа до образования сухой корочки, дать остыть. Для крема порубить слегка обжаренный арахис, сгущенку взбить с маслом до пышного состояния, перемешать с орехами, делать непосредственно перед сборкой торта «Сникерс», чтобы крем сильно не застыл в холодильнике.",
+            "image": null
+        },
+        {
+            "text": "Смешать две порции карамели примерно по 120 г с 40 г пасты из арахиса, каждую аккуратно и равномерно нанести на корж, сильно не давить, иначе коржи расплющатся, присыпать тертым шоколадом, прикрыть меренговыми коржами. Отложить 200 г крема, остаток разделить пополам. Смазать меренговый корж, прикрыть коржом с бисквитом карамелью и меренгой.",
+            "image": null
+        },
+        {
+            "text": "Осторожно смазать кремом, прикрыть третьим коржом, смазать его и бока торта остатками крема с пастой из арахиса. Для приготовления глазури перемешать какао и сахарную пудру, просеять смесь в сотейник, влить молоко, добавить масло, прогреть, перемешивая до однородности, слегка остудить, залить верх торта, далее оформить по желанию.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "Бисквитный торт",
+            "slug": "biskvitniy-tort"
+        },
+        {
+            "name": "Бисквитный торт со сгущенкой",
+            "slug": "biskvitniy-tort-so-sguschenkoy"
+        },
+        {
+            "name": "Выпечка с шоколадом",
+            "slug": "vypechka-s-shokoladom"
+        },
+        {
+            "name": "Выпечка со сгущенкой",
+            "slug": "vypechka-so-sguschenkoy"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Детский день рождения",
+            "slug": "detskiy-den-rojdeniya"
+        },
+        {
+            "name": "Классические торты",
+            "slug": "klassicheskie-torty"
+        },
+        {
+            "name": "Красивый торт",
+            "slug": "krasiviy-tort"
+        },
+        {
+            "name": "Новогодний торт",
+            "slug": "novogodniy-tort"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Ореховый торт",
+            "slug": "orehoviy-tort"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничные торты",
+            "slug": "prazdnichnye-torty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Рождественский торт",
+            "slug": "rojdestvenskiy-tort"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Свадьба",
+            "slug": "svadba"
+        },
+        {
+            "name": "Торт на 14 февраля",
+            "slug": "tort-na-14-fevralya"
+        },
+        {
+            "name": "Торт на день рождения",
+            "slug": "tort-na-den-rojdeniya"
+        },
+        {
+            "name": "Торт с вареной сгущенкой",
+            "slug": "tort-s-varenoy-sguschenkoy"
+        },
+        {
+            "name": "Торт Сникерс",
+            "slug": "tort-snikers"
+        },
+        {
+            "name": "Торт со сгущенкой",
+            "slug": "tort-so-sguschenkoy"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        },
+        {
+            "name": "Хэллоуин",
+            "slug": "hellouin"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

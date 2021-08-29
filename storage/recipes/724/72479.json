@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnee-vanilnoe-morozhenoe-s-tvorogom/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Домашнее ванильное мороженое с творогом",
+    "description": "Домашний десерт с домашним же мороженым. Вкус блюда можно разнообразить различными добавками: от орехов до сухофруктов и цукатов.",
+    "note": "По желанию готовое мороженое можно украсить орешками, изюмом, свежими или размороженными ягодами.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/94/0b66c17c96d7794_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": " (нежирное)",
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "200-250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "ванилин",
+                    "slug": "vanilin",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": " (нежирный)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Вскипятить молоко с мёдом.",
+            "image": null
+        },
+        {
+            "text": "Отдельно взбить в пену сырые куриные яйца.",
+            "image": null
+        },
+        {
+            "text": "Добавить немного горячего молока, массу перемешать и влить тонкой струйкой в емкость с кипящим молоком.",
+            "image": null
+        },
+        {
+            "text": "Продолжать взбивать смесь венчиком, огонь – слабый.",
+            "image": null
+        },
+        {
+            "text": "Должны образоваться пузыри.",
+            "image": null
+        },
+        {
+            "text": "Готовую массу снять с огня, охладить, несколько раз перемешать.",
+            "image": null
+        },
+        {
+            "text": "Добавить по вкусу ванилин, поставить в морозильную камеру.",
+            "image": null
+        },
+        {
+            "text": "При готовности добавить нежирный творог, взбить смесь блендером.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетические десерты",
+            "slug": "dieticheskie-deserty"
+        },
+        {
+            "name": "Домашнее мороженое",
+            "slug": "domashnee-morojenoe"
+        },
+        {
+            "name": "Низкокалорийные",
+            "slug": "nizkokaloriynye"
+        },
+        {
+            "name": "Специальное питание",
+            "slug": "specialnoe-pitanie"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

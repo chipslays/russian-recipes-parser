@@ -1,0 +1,99 @@
+{
+    "source": "https://vkuso.ru/recipe/draniki-iz-kartoshki/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Драники из картошки",
+    "description": null,
+    "note": null,
+    "cuisine": "Белорусская кухня, Европейская кухня",
+    "cuisine_slug": "belorusskaya-kuhnya-evropeyskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/13/61e5387ce223213_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "3"
+                },
+                {
+                    "name": "чеснока",
+                    "slug": "chesnoka",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Потереть очищенные клубни картофеля на крупной терке, посолить, размешать и отжать лишний сок и воду. Вбить в массу яйца, мелко нарезать или выдавить через пресс чеснок, тщательно перемешать.",
+            "image": null
+        },
+        {
+            "text": "Разогреть в сковороде растительное масло, выложить в кипящее масло столовой ложкой картофельную смесь в форме тонких оладий для лучшего прожаривания.",
+            "image": null
+        },
+        {
+            "text": "Готовые драники из картошки, прожаренные с обеих сторон до золотистого цвета, переложить на несколько сложенных салфеток, чтобы избавиться от лишнего жира. Подавать драники горячими со сметаной или кетчупом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из картофеля",
+            "slug": "vtorye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Вторые блюда из овощей",
+            "slug": "vtorye-blyuda-iz-ovoschey"
+        },
+        {
+            "name": "Драники",
+            "slug": "draniki"
+        },
+        {
+            "name": "Драники картофельные",
+            "slug": "draniki-kartofelnye"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из овощей",
+            "slug": "ujin-iz-ovoschey"
+        }
+    ]
+}

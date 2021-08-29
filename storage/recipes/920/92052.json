@@ -1,0 +1,338 @@
+{
+    "source": "https://vkuso.ru/recipe/92052-ekzoticheskij-tort-s-kokosom-i-ananasom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Экзотический торт с кокосом и ананасом",
+    "description": "Экзотические продукты, которые никого не оставят равнодушными.",
+    "note": "Торт можно украсить кусочками ананаса.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/31/3c22601389c9031_660x440.jpg",
+    "difficulty": "Высокая",
+    "cooktime": "3 часа",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 8 порции",
+            "list": [
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "24",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "16",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука миндальная",
+                    "slug": "muka-mindalnaya",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "разрыхлитель",
+                    "slug": "razryhlitel",
+                    "notes": null,
+                    "value": "½",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для бисквита",
+            "list": [
+                {
+                    "name": "шоколад белый",
+                    "slug": "shokolad-beliy",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кокосовая стружка",
+                    "slug": "kokosovaya-strujka",
+                    "notes": null,
+                    "value": "26",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вафли",
+                    "slug": "vafli",
+                    "notes": " (кукурузные хлопья)",
+                    "value": "24",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для кокосового слоя",
+            "list": [
+                {
+                    "name": "ананасы",
+                    "slug": "ananasy",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "60",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "крахмал",
+                    "slug": "krahmal",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для конфи",
+            "list": [
+                {
+                    "name": "сливки жирные",
+                    "slug": "slivki-jirnye",
+                    "notes": null,
+                    "value": "250",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "молоко кокосовое",
+                    "slug": "moloko-kokosovoe",
+                    "notes": null,
+                    "value": "200",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "шоколад белый",
+                    "slug": "shokolad-beliy",
+                    "notes": null,
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "желатин",
+                    "slug": "jelatin",
+                    "notes": null,
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яичный желток",
+                    "slug": "yaichniy-jeltok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления бисквита протереть на водяной бане яйцо с сахарным песком.",
+            "image": null
+        },
+        {
+            "text": "Массу взбить в пену, всыпать пшеничную и миндальную муку и разрыхлитель.",
+            "image": null
+        },
+        {
+            "text": "Аккуратно, по краю, влить растопленное сливочное масло, ингредиенты перемешать.",
+            "image": null
+        },
+        {
+            "text": "Выпечь бисквит, диаметр коржа – около шестнадцати сантиметров.",
+            "image": null
+        },
+        {
+            "text": "Приготовить хрустящий слой из вафельных хлопьев, кокосовой стружки, растопленного масла, белого шоколада.",
+            "image": null
+        },
+        {
+            "text": "Массу перелить в кольцо того же диаметра, что и корж, поместить в морозильную камеру.",
+            "image": null
+        },
+        {
+            "text": "Мякоть свежих ананасов превратить в пюре при помощи блендера, всыпать крахмал и сахарный песок, варить в течение пяти минут.",
+            "image": null
+        },
+        {
+            "text": "Пюре остудить до шестидесяти градусов, ввести заранее приготовленный желатин.",
+            "image": null
+        },
+        {
+            "text": "Массу заморозить в кольце.",
+            "image": null
+        },
+        {
+            "text": "Приготовить мусс из кокосового молока.",
+            "image": null
+        },
+        {
+            "text": "Продукт довести до кипения, заварить смесь желтков с сахаром.",
+            "image": null
+        },
+        {
+            "text": "Добавить белый шоколад, продукт должен растаять.",
+            "image": null
+        },
+        {
+            "text": "Влить набухший желатин.",
+            "image": null
+        },
+        {
+            "text": "Крем остудить до двадцати градусов, перемешать со взбитыми сливками.",
+            "image": null
+        },
+        {
+            "text": "Собрать десерт: утопить в форме с муссом поочередно конфи, грильяж и бисквит.",
+            "image": null
+        },
+        {
+            "text": "Поставить торт в морозильную камеру.",
+            "image": null
+        },
+        {
+            "text": "Приготовить зеркальную глазурь, полить десерт.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка с кокосовой стружкой",
+            "slug": "vypechka-s-kokosovoy-strujkoy"
+        },
+        {
+            "name": "Выпечка с шоколадом",
+            "slug": "vypechka-s-shokoladom"
+        },
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Красивый торт",
+            "slug": "krasiviy-tort"
+        },
+        {
+            "name": "Муссовый торт",
+            "slug": "mussoviy-tort"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничные торты",
+            "slug": "prazdnichnye-torty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Слоеный торт",
+            "slug": "sloeniy-tort"
+        },
+        {
+            "name": "Торт на день рождения",
+            "slug": "tort-na-den-rojdeniya"
+        },
+        {
+            "name": "Торт с зеркальной глазурью",
+            "slug": "tort-s-zerkalnoy-glazuryu"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        },
+        {
+            "name": "Юбилей",
+            "slug": "yubiley"
+        }
+    ]
+}

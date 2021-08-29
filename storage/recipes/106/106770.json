@@ -1,0 +1,135 @@
+{
+    "source": "https://vkuso.ru/recipe/106770-salat-iz-tykvy-s-fruktami-so-smetannoj-zapravkoj/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат из тыквы с фруктами со сметанной заправкой",
+    "description": "Сладкое блюдо-десерт.",
+    "note": "Угощение лучше подать порционно, украсить листочками мелиссы.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/72/306732dd3527572_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": "1 час",
+    "video": "https://www.youtube.com/embed/Xo6j_-Rf9JE?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "тыква",
+                    "slug": "tykva",
+                    "notes": null,
+                    "value": "430",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливы",
+                    "slug": "slivy",
+                    "notes": null,
+                    "value": "430",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "изюм",
+                    "slug": "izyum",
+                    "notes": null,
+                    "value": "110",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "чай черный крепкий",
+                    "slug": "chay-cherniy-krepkiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "корица молотая",
+                    "slug": "korica-molotaya",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Изюм замочить в заваренном крепком черном чае на час.",
+            "image": null
+        },
+        {
+            "text": "Тыкву очистить, нарезать тонкой соломкой.",
+            "image": null
+        },
+        {
+            "text": "Из слив вынуть косточки, мякоть нарезать кусочками.",
+            "image": null
+        },
+        {
+            "text": "Выложить в салатницу, сливу и тыкву, добавить отцеженный изюм.",
+            "image": null
+        },
+        {
+            "text": "Приготовить заправку из сметаны с сахарным песком и корицей. Полить салат.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из тыквы",
+            "slug": "salat-iz-tykvy"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты с фруктами",
+            "slug": "salaty-s-fruktami"
+        },
+        {
+            "name": "Салаты со сметаной",
+            "slug": "salaty-so-smetanoy"
+        },
+        {
+            "name": "Сладкие салаты",
+            "slug": "sladkie-salaty"
+        }
+    ]
+}

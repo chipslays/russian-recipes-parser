@@ -1,0 +1,207 @@
+{
+    "source": "https://vkuso.ru/recipe/85305-salat-kozel-v-ogorode-s-kurinym-file-i-yablokom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат «Козел в огороде» с куриным филе и яблоком",
+    "description": "Легкое, низкокалорийное, диетическое блюдо.",
+    "note": "Майонез лучше приготовить самостоятельно. Его также можно заменить сметаной.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/d6/1afcf1bdad610d6_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь по-корейски",
+                    "slug": "morkov-po-koreyski",
+                    "notes": null,
+                    "value": "220",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "180-200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "капуста",
+                    "slug": "kapusta",
+                    "notes": null,
+                    "value": "½",
+                    "type": "кочана",
+                    "amount": null
+                },
+                {
+                    "name": "свекла вареная",
+                    "slug": "svekla-varenaya",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яблоки",
+                    "slug": "yabloki",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Курицу отварить в подсоленной воде с лавровым листом.",
+            "image": null
+        },
+        {
+            "text": "Филе охладить и нарезать брусками.",
+            "image": null
+        },
+        {
+            "text": "Белокочанную капусту нашинковать, помять руками.",
+            "image": null
+        },
+        {
+            "text": "Отваренную свеклу очистить, порезать тонкой соломкой.",
+            "image": null
+        },
+        {
+            "text": "Яблоко очистить, удалить сердцевину, нарезать соломкой.",
+            "image": null
+        },
+        {
+            "text": "Продукт полить лимонным соком, чтобы не почернел.",
+            "image": null
+        },
+        {
+            "text": "Ингредиенты выложить по краям, в центре – мясо, политое майонезом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "День рождения",
+            "slug": "den-rojdeniya"
+        },
+        {
+            "name": "Праздничные салаты",
+            "slug": "prazdnichnye-salaty"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат из вареной свеклы",
+            "slug": "salat-iz-varenoy-svekly"
+        },
+        {
+            "name": "Салат из капусты",
+            "slug": "salat-iz-kapusty"
+        },
+        {
+            "name": "Салат из моркови",
+            "slug": "salat-iz-morkovi"
+        },
+        {
+            "name": "Салат из моркови и яблока",
+            "slug": "salat-iz-morkovi-i-yabloka"
+        },
+        {
+            "name": "Салат из свежей капусты и моркови",
+            "slug": "salat-iz-svejey-kapusty-i-morkovi"
+        },
+        {
+            "name": "Салат из свеклы",
+            "slug": "salat-iz-svekly"
+        },
+        {
+            "name": "Салат из свеклы и моркови",
+            "slug": "salat-iz-svekly-i-morkovi"
+        },
+        {
+            "name": "Салат Козел в огороде",
+            "slug": "salat-kozel-v-ogorode"
+        },
+        {
+            "name": "Салат с куриным филе",
+            "slug": "salat-s-kurinym-file"
+        },
+        {
+            "name": "Салат с курицей",
+            "slug": "salat-s-kuricey"
+        },
+        {
+            "name": "Салат с курицей и капустой",
+            "slug": "salat-s-kuricey-i-kapustoy"
+        },
+        {
+            "name": "Салат с курицей и корейской морковью",
+            "slug": "salat-s-kuricey-i-koreyskoy-morkovyu"
+        },
+        {
+            "name": "Салат с курицей и морковью",
+            "slug": "salat-s-kuricey-i-morkovyu"
+        },
+        {
+            "name": "Салат с курицей и овощами",
+            "slug": "salat-s-kuricey-i-ovoschami"
+        },
+        {
+            "name": "Салаты на день рождения",
+            "slug": "salaty-na-den-rojdeniya"
+        },
+        {
+            "name": "Салаты с майонезом",
+            "slug": "salaty-s-mayonezom"
+        },
+        {
+            "name": "Салаты с морковью по-корейски",
+            "slug": "salaty-s-morkovyu-po-koreyski"
+        },
+        {
+            "name": "Салаты с фруктами",
+            "slug": "salaty-s-fruktami"
+        },
+        {
+            "name": "Салаты с яблоками",
+            "slug": "salaty-s-yablokami"
+        }
+    ]
+}

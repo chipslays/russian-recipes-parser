@@ -1,0 +1,167 @@
+{
+    "source": "https://vkuso.ru/recipe/klassicheskij-rassolnik-so-svininoj-i-perlovkoj/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Классический рассольник со свининой и перловкой",
+    "description": "Классический рецепт русской кухни.",
+    "note": "Готовый суп можно посыпать рубленым укропом.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/38/81739890e336e38_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "свинина",
+                    "slug": "svinina",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перловая крупа",
+                    "slug": "perlovaya-krupa",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы соленые",
+                    "slug": "ogurcy-solenye",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Мясо, картофель, лук нарезать кусочками небольшого размера.",
+            "image": null
+        },
+        {
+            "text": "Натереть соленые огурцы и морковь.",
+            "image": null
+        },
+        {
+            "text": "Воду довести до кипения, положить мясо, варить полчаса на тихом огне.",
+            "image": null
+        },
+        {
+            "text": "Морковь, лук и огурцы обжарить, в конце приготовления положить сметану.",
+            "image": null
+        },
+        {
+            "text": "В кастрюлю с бульоном выложить отваренную перловку и сырой картофель.",
+            "image": null
+        },
+        {
+            "text": "Варить 15 минут.",
+            "image": null
+        },
+        {
+            "text": "В конце приготовления добавить обжарку, пряности, лавровый лист.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Классические рецепты",
+            "slug": "klassicheskie-recepty"
+        },
+        {
+            "name": "Классические супы",
+            "slug": "klassicheskie-supy"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Рассольник",
+            "slug": "rassolnik"
+        },
+        {
+            "name": "Рассольник домашний",
+            "slug": "rassolnik-domashniy"
+        },
+        {
+            "name": "Рассольник классический",
+            "slug": "rassolnik-klassicheskiy"
+        },
+        {
+            "name": "Рассольник с перловой крупой",
+            "slug": "rassolnik-s-perlovoy-krupoy"
+        },
+        {
+            "name": "Суп из свинины",
+            "slug": "sup-iz-svininy"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Суп с перловкой",
+            "slug": "sup-s-perlovkoy"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Супы с крупами",
+            "slug": "supy-s-krupami"
+        }
+    ]
+}

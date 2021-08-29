@@ -1,0 +1,159 @@
+{
+    "source": "https://vkuso.ru/recipe/goroxovyj-krem-sup-s-kuricej-i-seldereem/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Гороховый крем-суп с курицей и сельдереем",
+    "description": "Сытный белковый обед, для приготовления блюда можно использовать как зеленый, так и желтый горох.",
+    "note": "При подаче украсить суп рубленой зеленью, сухарики подать отдельно.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/be/3b678131551e2be_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бульон куриный",
+                    "slug": "bulon-kuriniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "горох",
+                    "slug": "goroh",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "10",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сельдерей",
+                    "slug": "selderey",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стебля",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Горох замочить на ночь в воде.",
+            "image": null
+        },
+        {
+            "text": "Наутро отцедить и отварить в курином бульоне.",
+            "image": null
+        },
+        {
+            "text": "Через полчаса после начала варки добавить картофель, куриное филе, морковь, репчатый лук, немного сливочного масла.",
+            "image": null
+        },
+        {
+            "text": "Отдельно измельчить стебли сельдерея при помощи блендера, должна получиться зеленая кашица.",
+            "image": null
+        },
+        {
+            "text": "Влить массу в суп, добавить молоко.",
+            "image": null
+        },
+        {
+            "text": "Довести до кипения, выключить.",
+            "image": null
+        },
+        {
+            "text": "Взбить суп при помощи блендера.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Гороховый суп",
+            "slug": "gorohoviy-sup"
+        },
+        {
+            "name": "Гороховый суп с курицей",
+            "slug": "gorohoviy-sup-s-kuricey"
+        },
+        {
+            "name": "Крем-суп",
+            "slug": "krem-sup"
+        },
+        {
+            "name": "Куриный суп",
+            "slug": "kuriniy-sup"
+        },
+        {
+            "name": "Куриный суп-пюре",
+            "slug": "kuriniy-sup-pyure"
+        },
+        {
+            "name": "Суп из бобовых",
+            "slug": "sup-iz-bobovyh"
+        },
+        {
+            "name": "Суп из птицы",
+            "slug": "sup-iz-pticy"
+        },
+        {
+            "name": "Суп из сельдерея",
+            "slug": "sup-iz-seldereya"
+        },
+        {
+            "name": "Суп-пюре",
+            "slug": "sup-pyure"
+        },
+        {
+            "name": "Суп-пюре гороховый",
+            "slug": "sup-pyure-gorohoviy"
+        }
+    ]
+}

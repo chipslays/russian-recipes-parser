@@ -1,0 +1,211 @@
+{
+    "source": "https://vkuso.ru/recipe/107618-rostbif-iz-govyadiny-s-shampinonami-i-lukom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Ростбиф из говядины с шампиньонами и луком",
+    "description": "Аромат грибов напоминает о лете даже в зимнюю стужу. Порадуйте близких вам людей вкусным и сытным блюдом.",
+    "note": "При подаче фольгу развернуть, мясо нарезать, украсить зеленью.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/4c/747705e9bc7fd4c_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "1 час 15 минут",
+    "preparetime": "2 часа",
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 4 порции",
+            "list": [
+                {
+                    "name": "говядина",
+                    "slug": "govyadina",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "грибы",
+                    "slug": "griby",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "горчица",
+                    "slug": "gorchica",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соус соевый",
+                    "slug": "sous-soeviy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Говяжью вырезку натереть солью, молотым перцем, сушеным розмарином и эстрагоном.",
+            "image": null
+        },
+        {
+            "text": "Полить кусок соевым соусом, смазать горчицей и медом. Оставить для пропитывания.",
+            "image": null
+        },
+        {
+            "text": "Прогреть сковороду, обжарить вырезку на растительном масле до получения румяной корочки, огонь – сильный.",
+            "image": null
+        },
+        {
+            "text": "Мясо переложить на лист фольги.",
+            "image": null
+        },
+        {
+            "text": "Отдельно обжарить целые или нарезанные шампиньоны.",
+            "image": null
+        },
+        {
+            "text": "Выложить грибы вокруг мяса.",
+            "image": null
+        },
+        {
+            "text": "Нарезать полукольцами репчатый лук, посолить и поперчить, выложить поверх грибов.",
+            "image": null
+        },
+        {
+            "text": "Закрыть продукты сверху вторым листом фольги, прогреть при температуре 200 градусов, время – полчаса или чуть больше.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "23 февраля",
+            "slug": "23-fevralya"
+        },
+        {
+            "name": "8 марта",
+            "slug": "8-marta"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Второе с грибами",
+            "slug": "vtoroe-s-gribami"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из говядины",
+            "slug": "vtorye-blyuda-iz-govyadiny"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Говядина в духовке",
+            "slug": "govyadina-v-duhovke"
+        },
+        {
+            "name": "Говядина в фольге",
+            "slug": "govyadina-v-folge"
+        },
+        {
+            "name": "Говядина с грибами",
+            "slug": "govyadina-s-gribami"
+        },
+        {
+            "name": "Горячие блюда на праздничный стол",
+            "slug": "goryachie-blyuda-na-prazdnichniy-stol"
+        },
+        {
+            "name": "Грибы в духовке",
+            "slug": "griby-v-duhovke"
+        },
+        {
+            "name": "Мясо в духовке",
+            "slug": "myaso-v-duhovke"
+        },
+        {
+            "name": "Мясо в фольге",
+            "slug": "myaso-v-folge"
+        },
+        {
+            "name": "Мясо с грибами",
+            "slug": "myaso-s-gribami"
+        },
+        {
+            "name": "Мясо с грибами в духовке",
+            "slug": "myaso-s-gribami-v-duhovke"
+        },
+        {
+            "name": "Мясо с луком",
+            "slug": "myaso-s-lukom"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Ростбиф",
+            "slug": "rostbif"
+        },
+        {
+            "name": "Ужин из говядины",
+            "slug": "ujin-iz-govyadiny"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Фольга",
+            "slug": "folga"
+        }
+    ]
+}

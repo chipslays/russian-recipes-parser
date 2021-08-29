@@ -1,0 +1,175 @@
+{
+    "source": "https://vkuso.ru/recipe/kurinoe-xarcho-s-risom-v-multivarke/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Куриное харчо с рисом в мультиварке",
+    "description": "Умный прибор сэкономит ваше время и силы.",
+    "note": "Рубленый чеснок можно положить прямо в тарелку. Приправить густыми сливками или сметаной.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/db/a3847f3d95619db_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "курица",
+                    "slug": "kurica",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "&frac13;",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": " (кетчуп)",
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Куриное мясо и картофель нарезать небольшими кусочками.",
+            "image": null
+        },
+        {
+            "text": "Измельчить репчатый лук.",
+            "image": null
+        },
+        {
+            "text": "Промыть рис, залить горячей водой.",
+            "image": null
+        },
+        {
+            "text": "Натереть морковь.",
+            "image": null
+        },
+        {
+            "text": "В чашу мультиварки влить растительное масло.",
+            "image": null
+        },
+        {
+            "text": "Выложить мясо, выставить режим «Выпечка» на 25 минут.",
+            "image": null
+        },
+        {
+            "text": "Добавить морковь и лук, все вместе тушить еще 15 минут.",
+            "image": null
+        },
+        {
+            "text": "Добавить картофель, всыпать специи, влить воду.",
+            "image": null
+        },
+        {
+            "text": "Выставить режим «Тушение» на полтора часа.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Картофельный суп",
+            "slug": "kartofelniy-sup"
+        },
+        {
+            "name": "Куриный суп",
+            "slug": "kuriniy-sup"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Суп из птицы",
+            "slug": "sup-iz-pticy"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Суп с рисом",
+            "slug": "sup-s-risom"
+        },
+        {
+            "name": "Суп Харчо",
+            "slug": "sup-harcho"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Супы с крупами",
+            "slug": "supy-s-krupami"
+        },
+        {
+            "name": "Харчо из курицы",
+            "slug": "harcho-iz-kuricy"
+        }
+    ]
+}

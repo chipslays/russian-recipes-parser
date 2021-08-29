@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/sup-iz-plavlennyx-syrkov-i-kopchenogo-okorochka/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Суп из плавленных сырков и копченого окорочка",
+    "description": "Суп получается довольно сытным: кроме овощей и сыра, в нем присутствует копченый окорочок.",
+    "note": "При подаче блюдо можно украсить мелко нарезанным зеленым луком и кусочками обжаренного окорочка.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/9b/fcab8cbeff41b9b_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "куриные окорочка копченые",
+                    "slug": "kurinye-okorochka-kopchenye",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сыр плавленый",
+                    "slug": "syr-plavleniy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": " (средняя)",
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": " (для обжарки моркови)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сырки положить в морозилку – в дальнейшем их будет легче измельчить.",
+            "image": null
+        },
+        {
+            "text": "Вымыть, очистить и нарезать кубиками клубни картофеля. Переложить в кастрюлю с водой, поставить вариться.",
+            "image": null
+        },
+        {
+            "text": "Очистить и натереть морковь, обжарить на растительном масле. Вместе с корнеплодом можно обжарить измельченный репчатый лук.  Добавить в суп.",
+            "image": null
+        },
+        {
+            "text": "Отделить от костей мякоть копченого окорочка, мелко нарезать и также добавить в суп.",
+            "image": null
+        },
+        {
+            "text": "Натереть сырки, выложить в кастрюлю, прогреть, помешивая до полного растворения, огонь – средний.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Суп с копченостями",
+            "slug": "sup-s-kopchenostyami"
+        },
+        {
+            "name": "Суп с курицей и плавленным сыром",
+            "slug": "sup-s-kuricey-i-plavlennym-syrom"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Суп с плавленым сыром",
+            "slug": "sup-s-plavlenym-syrom"
+        },
+        {
+            "name": "Супы на скорую руку",
+            "slug": "supy-na-skoruyu-ruku"
+        },
+        {
+            "name": "Сырный суп",
+            "slug": "syrniy-sup"
+        }
+    ]
+}

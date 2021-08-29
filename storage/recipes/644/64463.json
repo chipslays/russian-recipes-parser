@@ -1,0 +1,183 @@
+{
+    "source": "https://vkuso.ru/recipe/gaspacho-v-multivarke-s-suxarikami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Гаспачо в мультиварке с сухариками",
+    "description": "Вкусное гаспачо можно приготовить и в мультиварке. Сухарики можно взять и готовые, лучше обычные соленые без «резких» добавок.",
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ce/671f04e185362ce_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "батон",
+                    "slug": "baton",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "110",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы",
+                    "slug": "ogurcy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "30",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "уксус",
+                    "slug": "uksus",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соус Табаско",
+                    "slug": "sous-tabasko",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Помидоры разрезать на 4 части, удалить семечки.",
+            "image": null
+        },
+        {
+            "text": "Огурцы очистить от шкурки, тоже убрать семечки.",
+            "image": null
+        },
+        {
+            "text": "Овощи крупно нарезать, сложить все в миску, добавить молоко, влить масло, соус табаско и уксус, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Поставить на полтора-два часа в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Смесь измельчить блендером, вылить в чашу мультиварки, посолить, поперчить, добавить специи и перемешать, если масса слишком густая, то добавить воды.",
+            "image": null
+        },
+        {
+            "text": "Варить 15 минут, выставить режим «суп», дать остыть.",
+            "image": null
+        },
+        {
+            "text": "Перелить в другую посуду, поставить в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Пока гаспачо в мультиварке с сухариками остывает, нарезать на кубики батон, обжарить в мультиварке до корочки на режиме «Выпечка».",
+            "image": null
+        },
+        {
+            "text": "Охлажденную массу разложить по тарелкам, присыпать сухариками.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Гаспачо",
+            "slug": "gaspacho"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Овощной суп",
+            "slug": "ovoschnoy-sup"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп в мультиварке",
+            "slug": "sup-v-multivarke"
+        },
+        {
+            "name": "Томатный суп",
+            "slug": "tomatniy-sup"
+        },
+        {
+            "name": "Холодные супы",
+            "slug": "holodnye-supy"
+        }
+    ]
+}

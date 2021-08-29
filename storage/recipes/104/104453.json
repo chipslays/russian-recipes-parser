@@ -1,0 +1,296 @@
+{
+    "source": "https://vkuso.ru/recipe/104453-svekolnik-s-rebryshkami-i-fasolyu/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Свекольник с ребрышками и фасолью",
+    "description": "Известное блюдо можно сварить с бобовыми. Оригинальный рецепт для семейного обеда или ужина.",
+    "note": "Суп налить в глубокие миски. Для дополнения к супу подойдет черный, ржаной хлеб.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/42/49ee7605254d842_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "2 часа 30 минут",
+    "preparetime": "6 часов",
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "говяжьи ребра",
+                    "slug": "govyaji-rebra",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "свекла",
+                    "slug": "svekla",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "фасоль",
+                    "slug": "fasol",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец сладкий болгарский",
+                    "slug": "perec-sladkiy-bolgarskiy",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "томатная паста",
+                    "slug": "tomatnaya-pasta",
+                    "notes": null,
+                    "value": "75",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "5",
+                    "type": "зубчиков",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лимонный сок",
+                    "slug": "limonniy-sok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный горошком",
+                    "slug": "perec-cherniy-goroshkom",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для подачи",
+            "list": [
+                {
+                    "name": "хлеб ржаной",
+                    "slug": "hleb-rjanoy",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "15",
+                    "type": "зубчиков",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "40",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Фасоль залить водой с вечера.",
+            "image": null
+        },
+        {
+            "text": "Промыть ребра с мясом, нарубить порционно.",
+            "image": null
+        },
+        {
+            "text": "Залить также холодной водой, довести до кипения. Снять пену шумовкой.",
+            "image": null
+        },
+        {
+            "text": "Варить полтора часа на тихом огне.",
+            "image": null
+        },
+        {
+            "text": "Фасоль отварить до полуготовности в сотейнике, залив холодной водой и доведя ее до кипения.",
+            "image": null
+        },
+        {
+            "text": "Очистить свеклу и картофель, вымыть.",
+            "image": null
+        },
+        {
+            "text": "Картофель нарезать кубиками, свеклу натереть на крупной терке.",
+            "image": null
+        },
+        {
+            "text": "Очистить перец болгарский, чеснок и лук.",
+            "image": null
+        },
+        {
+            "text": "Прогреть сотейник, потушить перец с луком и сливочным маслом.",
+            "image": null
+        },
+        {
+            "text": "Через три или пять минут добавить свеклу, нарезанный чеснок, томатную пасту.",
+            "image": null
+        },
+        {
+            "text": "Влить лимонный сок для сохранения цвета. Время тушения – от десяти до пятнадцати минут.",
+            "image": null
+        },
+        {
+            "text": "Через полтора часа к ребрышкам добавить картофель.",
+            "image": null
+        },
+        {
+            "text": "Фасоль отцедить и положить к остальным ингредиентам.",
+            "image": null
+        },
+        {
+            "text": "Через пятнадцать минут добавить в кастрюлю обжарку, соль, перец-горошек, лавровый лист. Время варки – около пятнадцати минут.",
+            "image": null
+        },
+        {
+            "text": "Хлеб нарезать ломтиками.",
+            "image": null
+        },
+        {
+            "text": "Очистить и пропустить через пресс чеснок.",
+            "image": null
+        },
+        {
+            "text": "Добавить рубленую зелень, воду и растительное масло, соль, перец молотый, перемешать.",
+            "image": null
+        },
+        {
+            "text": "Окунуть в полученный соус ломтики хлеба. Подать к супу на блюдечке.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Свекольник",
+            "slug": "svekolnik"
+        },
+        {
+            "name": "Свекольник горячий",
+            "slug": "svekolnik-goryachiy"
+        },
+        {
+            "name": "Свекольник с мясом",
+            "slug": "svekolnik-s-myasom"
+        },
+        {
+            "name": "Суп из бобовых",
+            "slug": "sup-iz-bobovyh"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Суп с фасолью",
+            "slug": "sup-s-fasolyu"
+        },
+        {
+            "name": "Супы на каждый день",
+            "slug": "supy-na-kajdiy-den"
+        },
+        {
+            "name": "Фасоль с мясом",
+            "slug": "fasol-s-myasom"
+        }
+    ]
+}

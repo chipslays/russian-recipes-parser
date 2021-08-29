@@ -1,0 +1,140 @@
+{
+    "source": "https://vkuso.ru/recipe/pirozhnoe-belochka-s-izyumom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пирожное «Белочка» с изюмом",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/03/9823716de338a03_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "изюм",
+                    "slug": "izyum",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сода/уксус",
+                    "slug": "soda-uksus",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для коржей",
+            "list": [
+                {
+                    "name": "молоко сгущенное",
+                    "slug": "moloko-sguschennoe",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "банки",
+                    "amount": null
+                },
+                {
+                    "name": "сливки 33%",
+                    "slug": "slivki-33",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "фундук молотый",
+                    "slug": "funduk-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Взять половину количества сахара, взбить с белками, а другую половину – с желтками. Влить к желткам молоко, добавить соду, изюм, прокрученный через мясорубку, все перемешать на малых оборотах блендера, всыпать муку, еще раз перемешать, а в конце аккуратно ввести в смесь взбитые белки осторожно (снизу вверх) все смешать.",
+            "image": null
+        },
+        {
+            "text": "Выстелить форму пергаментом, заполнить тестом, выпекать корж для пирожного около получаса в духовке с температурой 180 градусов, разрезать остывший корж вдоль на две части. Для прослойки пирожных «Белочка» с изюмом взбить сгущенное молоко и сливки, промазать коржи, присыпать верх ореховой крошкой, поставить в холодильник, охлажденный десерт порезать на отдельные пирожные.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бисквитное пирожное",
+            "slug": "biskvitnoe-pirojnoe"
+        },
+        {
+            "name": "Выпечка с изюмом",
+            "slug": "vypechka-s-izyumom"
+        },
+        {
+            "name": "Выпечка с сухофруктами",
+            "slug": "vypechka-s-suhofruktami"
+        },
+        {
+            "name": "Выпечка со сгущенкой",
+            "slug": "vypechka-so-sguschenkoy"
+        },
+        {
+            "name": "Пирожное со сгущенкой",
+            "slug": "pirojnoe-so-sguschenkoy"
+        },
+        {
+            "name": "Пирожные",
+            "slug": "pirojnye"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        }
+    ]
+}

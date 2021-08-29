@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/107097-salat-iz-krasnogo-sladkogo-perca-s-chesnokom/",
+    "category": "Салаты",
+    "category_slug": "salaty",
+    "title": "Салат из красного сладкого перца с чесноком",
+    "description": "Данный овощ – основной компонент рецепта.",
+    "note": "По желанию в салат можно добавить и другие ароматные травы.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f2/5e0d51ec3c45af2_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час 10 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 3 порции",
+            "list": [
+                {
+                    "name": "перец болгарский красный",
+                    "slug": "perec-bolgarskiy-krasniy",
+                    "notes": null,
+                    "value": "5-6",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "5-10",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "уксус 9%",
+                    "slug": "uksus-9",
+                    "notes": null,
+                    "value": "25",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "зелень петрушки",
+                    "slug": "zelen-petrushki",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Болгарский перец промыть, наколоть вилкой или ножом в нескольких местах, выложить на противень. Время запекания – от 40 минут, температура приготовления – от 200 до 220 градусов, в процессе плоды переворачивать для равномерного прогрева.",
+            "image": null
+        },
+        {
+            "text": "Горячими переложить в кастрюлю, прикрыть крышкой на 10 или 15 минут.",
+            "image": null
+        },
+        {
+            "text": "Готовый перец очистить от кожицы, семян, посолить, добавить нарезанную петрушку и чеснок.",
+            "image": null
+        },
+        {
+            "text": "Полить растительным маслом, смешанным с уксусом, подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Перец в духовке",
+            "slug": "perec-v-duhovke"
+        },
+        {
+            "name": "Простые салаты",
+            "slug": "prostye-salaty"
+        },
+        {
+            "name": "Салат без яиц",
+            "slug": "salat-bez-yaic"
+        },
+        {
+            "name": "Салат с растительным маслом",
+            "slug": "salat-s-rastitelnym-maslom"
+        },
+        {
+            "name": "Салат с чесноком",
+            "slug": "salat-s-chesnokom"
+        },
+        {
+            "name": "Салаты без майонеза",
+            "slug": "salaty-bez-mayoneza"
+        },
+        {
+            "name": "Салаты без мяса",
+            "slug": "salaty-bez-myasa"
+        },
+        {
+            "name": "Салаты с болгарским перцем",
+            "slug": "salaty-s-bolgarskim-percem"
+        }
+    ]
+}

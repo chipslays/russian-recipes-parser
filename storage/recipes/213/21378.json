@@ -1,0 +1,156 @@
+{
+    "source": "https://vkuso.ru/recipe/vareniki-s-syrom-i-kartoshkoj/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Вареники с сыром и картошкой",
+    "description": null,
+    "note": null,
+    "cuisine": "Интернациональная кухня",
+    "cuisine_slug": "internacionalnaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/61/9f31e34963e6761_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "6",
+                    "type": "стаканов",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "сыр чеддер",
+                    "slug": "syr-chedder",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "11",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "4",
+                    "type": "головки",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Почистить картофель и отварить. Потом воду слить и отставить остывать. Измельчить лук и поджарить его до золотистого цвета. Немного лука оставить, а большую часть положить в картофель. Затем туда же добавить тертый сыр и помять все вместе.",
+            "image": null
+        },
+        {
+            "text": "Положить соль, перец и измельченный чеснок, перемешать (можно миксером). В большую емкость насыпать муку, сделать выемку, положить в нее соль, яйца (немного взбитые) и воду (1 стакан). Хорошо все перемешать и замесить эластичное тесто.",
+            "image": null
+        },
+        {
+            "text": "При необходимости можно добавить еще воды. Выложить тесто на поверхность, присыпанную мукой и тонко раскатать. Вырезать с помощью стакана круги, на каждый кружок положить ложку начинки (чайную), края теста смазать взбитым яйцом и защипать.",
+            "image": null
+        },
+        {
+            "text": "Варить вареники в подсоленной, кипящей воде, пока не всплывут. Затем достать шумовкой из воды и подавать вареники с сыром и картошкой вместе с оставшимся обжаренным луком, сливочным маслом или сметаной.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вареники",
+            "slug": "vareniki"
+        },
+        {
+            "name": "Вареники с картошкой",
+            "slug": "vareniki-s-kartoshkoy"
+        },
+        {
+            "name": "Вареники с картошкой и луком",
+            "slug": "vareniki-s-kartoshkoy-i-lukom"
+        },
+        {
+            "name": "Вареники с сыром",
+            "slug": "vareniki-s-syrom"
+        },
+        {
+            "name": "Вторые блюда на каждый день",
+            "slug": "vtorye-blyuda-na-kajdiy-den"
+        },
+        {
+            "name": "Диета Дюкана",
+            "slug": "dieta-dyukana"
+        },
+        {
+            "name": "Картошка с сыром",
+            "slug": "kartoshka-s-syrom"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        }
+    ]
+}

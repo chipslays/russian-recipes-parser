@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/pechenaya-tvorozhnaya-pasxa-s-cukatami/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Печеная творожная пасха с цукатами",
+    "description": "Традиционное блюдо русской кухни, которое готовят на великий церковный праздник. Есть множество рецептов пасхи, самым главным ингредиентом в них является творог, а вот добавки можно варьировать по своему вкусу.",
+    "note": "Украсить готовую «пирамидку» можно на свой вкус, кресты на гранях можно выложить тем же изюмом или кусочками мармелада, орехами.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/6c/b4db5e6a2e2796c_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "1",
+                    "type": "кг",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "170",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "110",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "8",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "цукаты",
+                    "slug": "cukaty",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "изюм",
+                    "slug": "izyum",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Смешать до однородности творог, сахар, муку, желтки сырых яиц, сливки. В качестве добавок можно положить изюм и цукаты, рубленые орехи.",
+            "image": null
+        },
+        {
+            "text": "Отдельно взбить в устойчивую массу белки, осторожно, чтобы пена не опала, соединить с основной творожной массой.  Выложить в смазанную форму, печь творожную пасху при температуре 180 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерт на скорую руку",
+            "slug": "desert-na-skoruyu-ruku"
+        },
+        {
+            "name": "Пасха",
+            "slug": "pasha"
+        },
+        {
+            "name": "Пасха творожная",
+            "slug": "pasha-tvorojnaya"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        }
+    ]
+}

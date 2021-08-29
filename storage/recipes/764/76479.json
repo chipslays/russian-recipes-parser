@@ -1,0 +1,152 @@
+{
+    "source": "https://vkuso.ru/recipe/76479-grenki-s-syrom-v-bekone/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Гренки с сыром в беконе",
+    "description": "Всем привет, сегодня и решил приготовить вкусные беконные рулетики с начинкой! А также приготовил вкусный соус к этим беконным рулетикам! Все получается очень вкусно и аппетитно!",
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/14/61b474633433314_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/sPaItXl5twc?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 6 порции",
+            "list": [
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "кетчуп",
+                    "slug": "ketchup",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ч.л.",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для соуса",
+            "list": [
+                {
+                    "name": "бекон сырокопченый",
+                    "slug": "bekon-syrokopcheniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "упаковка",
+                    "amount": null
+                },
+                {
+                    "name": "хлеб черный",
+                    "slug": "hleb-cherniy",
+                    "notes": null,
+                    "value": "5",
+                    "type": "ломтиков",
+                    "amount": null
+                },
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "25",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для начала приготовим соус. Чеснок мелко-мелко рубим.",
+            "image": null
+        },
+        {
+            "text": "В глубокую тарелку перекладываем чеснок. добавляем сметану и кетчуп. Перемешиваем и убираем в сторону.",
+            "image": null
+        },
+        {
+            "text": "Приступаем к приготовлению рулетиков. Сыр нарезаем на небольшие ломтики.",
+            "image": null
+        },
+        {
+            "text": "Черный хлеб также нарезаем на небольшие ломтики!",
+            "image": null
+        },
+        {
+            "text": "На раскаленную сковородe кладем подготовленный кусочек сливочного масла, и на этом масле поджариваем хлеб. Должны получиться гренки.",
+            "image": null
+        },
+        {
+            "text": "Гренки натираем чесноком.",
+            "image": null
+        },
+        {
+            "text": "Теперь, на гренку укладываем ломтик сыра, и все заворачиваем в бекон.",
+            "image": null
+        },
+        {
+            "text": "Отправляем в духовку на 5 минут при 180 градусах.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Горячие закуски",
+            "slug": "goryachie-zakuski"
+        },
+        {
+            "name": "Гренки",
+            "slug": "grenki"
+        },
+        {
+            "name": "Гренки из хлеба",
+            "slug": "grenki-iz-hleba"
+        },
+        {
+            "name": "Гренки из черного хлеба",
+            "slug": "grenki-iz-chernogo-hleba"
+        },
+        {
+            "name": "Гренки к пиву",
+            "slug": "grenki-k-pivu"
+        },
+        {
+            "name": "Гренки с сыром",
+            "slug": "grenki-s-syrom"
+        },
+        {
+            "name": "Гренки с чесноком",
+            "slug": "grenki-s-chesnokom"
+        },
+        {
+            "name": "Чесночные гренки",
+            "slug": "chesnochnye-grenki"
+        }
+    ]
+}

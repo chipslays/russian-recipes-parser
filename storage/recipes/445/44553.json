@@ -1,0 +1,143 @@
+{
+    "source": "https://vkuso.ru/recipe/vetchinnye-ruletiki-s-chesnokom-syrom-i-yajcami/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Ветчинные рулетики с чесноком, сыром и яйцами",
+    "description": "Все продукты довольно доступны и просты. Из предложенного количества продуктов получается двадцать рулетов.",
+    "note": "Перед подачей ветчинные рулетики с чесноком, сыром и яйцами украсить.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a6/6ac0284336062a6_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 10 порции",
+            "list": [
+                {
+                    "name": "ветчина",
+                    "slug": "vetchina",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сыр твердый",
+                    "slug": "syr-tverdiy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "4",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Потереть яйца и сыр. Соединить с прессованным чесноком.",
+            "image": null
+        },
+        {
+            "text": "Заправить майонезом, размешать.",
+            "image": null
+        },
+        {
+            "text": "Положить начинку на ветчину, порезанную на кружочки.",
+            "image": null
+        },
+        {
+            "text": "Закрутить, положить на тарелку вниз швом.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Закуски для фуршета",
+            "slug": "zakuski-dlya-fursheta"
+        },
+        {
+            "name": "Закуски из яиц",
+            "slug": "zakuski-iz-yaic"
+        },
+        {
+            "name": "Закуски на день рождения",
+            "slug": "zakuski-na-den-rojdeniya"
+        },
+        {
+            "name": "Закуски на скорую руку",
+            "slug": "zakuski-na-skoruyu-ruku"
+        },
+        {
+            "name": "Новогодние закуски",
+            "slug": "novogodnie-zakuski"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Праздничный стол на скорую руку",
+            "slug": "prazdnichniy-stol-na-skoruyu-ruku"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        },
+        {
+            "name": "Рулетики из ветчины",
+            "slug": "ruletiki-iz-vetchiny"
+        },
+        {
+            "name": "Рулетики с начинкой",
+            "slug": "ruletiki-s-nachinkoy"
+        },
+        {
+            "name": "Рулеты",
+            "slug": "rulety"
+        },
+        {
+            "name": "Рулеты на Новый год",
+            "slug": "rulety-na-noviy-god"
+        },
+        {
+            "name": "Сырный рулет",
+            "slug": "syrniy-rulet"
+        },
+        {
+            "name": "Фуршет",
+            "slug": "furshet"
+        }
+    ]
+}

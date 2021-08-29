@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/zharenye-syrnye-kubiki-s-sousom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Жареные сырные кубики с соусом",
+    "description": null,
+    "note": "Подавать закуску с соусом для пиццы, прогретом в течение нескольких секунд в микроволновой печи. Такое дополнение к блюду можно приготовить самостоятельно: нарезать очищенные помидоры кусочками, сок слить, мякоть прокипятить и протереть, добавить соль и красный перец, тушить на тихом огне до загустения.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/1e/aaedc860c7e941e_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр моцарелла",
+                    "slug": "syr-mocarella",
+                    "notes": null,
+                    "value": "220",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сухари панировочные",
+                    "slug": "suhari-panirovochnye",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "1/4",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соус",
+                    "slug": "sous",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сыр моцарелла нарезать на небольшие квадратики. В три небольшие мисочки выложить пшеничную муку, сухари для панировки, кляр из взбитых с молоком яиц.",
+            "image": null
+        },
+        {
+            "text": "Каждый кусочек сыра по очереди окунуть в муку, затем – в яйцо, и в сухари. В сковороде или в кастрюле растопить сливочное масло, довести до кипения. Слой масла должен быть в пять сантиметров.",
+            "image": null
+        },
+        {
+            "text": "Порциями, по несколько квадратиков опускать в масло на одну минуту. На поверхности должна образовываться золотистая корочка. Доставать сырные кубики шумовкой. Сразу выкладывать на бумажные полотенца для впитывания излишков жира.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В кляре",
+            "slug": "v-klyare"
+        },
+        {
+            "name": "Горячие закуски",
+            "slug": "goryachie-zakuski"
+        },
+        {
+            "name": "Жареный сыр",
+            "slug": "jareniy-syr"
+        },
+        {
+            "name": "Закуски из сыра",
+            "slug": "zakuski-iz-syra"
+        },
+        {
+            "name": "Закуски к пиву",
+            "slug": "zakuski-k-pivu"
+        },
+        {
+            "name": "Праздничные закуски",
+            "slug": "prazdnichnye-zakuski"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Сыр в кляре",
+            "slug": "syr-v-klyare"
+        }
+    ]
+}

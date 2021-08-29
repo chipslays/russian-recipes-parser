@@ -1,0 +1,127 @@
+{
+    "source": "https://vkuso.ru/recipe/forel-v-medu-zapechennaya-v-folge/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Форель в меду запеченная в фольге",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/21/6d50878185f5521_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "филе форели",
+                    "slug": "file-foreli",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "4"
+                },
+                {
+                    "name": "меда",
+                    "slug": "meda",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "рубленого лука-шалота",
+                    "slug": "rublenogo-luka-shalota",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "рубленых листьев тимьяна",
+                    "slug": "rublenyh-listev-timyana",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соли",
+                    "slug": "soli",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "красного молотого перца",
+                    "slug": "krasnogo-molotogo-perca",
+                    "notes": null,
+                    "value": "1/4",
+                    "type": "ч.л",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для соуса смешать мед, соль, тимьян, измельченный лук-шалот и молотый красный перец.",
+            "image": null
+        },
+        {
+            "text": "Подготовленное филе форели переложить в форму (блюдо) для запекания.",
+            "image": null
+        },
+        {
+            "text": "Смазать рыбу получившимся медовым соусом и запекать под нагретым бройлером (нагреватель в верхней части духовки) в течение 10-12 минут.",
+            "image": null
+        },
+        {
+            "text": "Подается форель в меду, запеченная в фольге, с любимым гарниром.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Рыба в духовке",
+            "slug": "ryba-v-duhovke"
+        },
+        {
+            "name": "Рыба в фольге",
+            "slug": "ryba-v-folge"
+        },
+        {
+            "name": "Рыба запеченная",
+            "slug": "ryba-zapechennaya"
+        },
+        {
+            "name": "Фольга",
+            "slug": "folga"
+        },
+        {
+            "name": "Форель в духовке",
+            "slug": "forel-v-duhovke"
+        },
+        {
+            "name": "Форель в фольге",
+            "slug": "forel-v-folge"
+        },
+        {
+            "name": "Форель запеченная",
+            "slug": "forel-zapechennaya"
+        }
+    ]
+}

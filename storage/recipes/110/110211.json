@@ -1,0 +1,203 @@
+{
+    "source": "https://vkuso.ru/recipe/110211-lenivye-draniki-so-smetanoj-v-duxovke/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Ленивые драники со сметаной в духовке",
+    "description": "Блюдо можно приготовить на сковороде. Отличный вариант для ужина.",
+    "note": "Подать с зеленым салатом и сметаной.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/b0/cc41235948154b0_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "1 час",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 8 порции",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "13",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "фарш",
+                    "slug": "farsh",
+                    "notes": null,
+                    "value": "650",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "220",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень укропа",
+                    "slug": "zelen-ukropa",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Картофель измельчить любым способом, отжать жидкость.",
+            "image": null
+        },
+        {
+            "text": "Картофельную массу перемешать с мясным фаршем.",
+            "image": null
+        },
+        {
+            "text": "Добавить рубленую зелень.",
+            "image": null
+        },
+        {
+            "text": "Влить сметану, яйцо, всыпать перец, соль.",
+            "image": null
+        },
+        {
+            "text": "Добавить нарезанный репчатый лук, хорошо перемешать.",
+            "image": null
+        },
+        {
+            "text": "Раскалить масло на сковороде.",
+            "image": null
+        },
+        {
+            "text": "Тесто разделить на шарики мокрыми руками.",
+            "image": null
+        },
+        {
+            "text": "Обжарить на сковороде.",
+            "image": null
+        },
+        {
+            "text": "Шарики переложить в форму для запекания.",
+            "image": null
+        },
+        {
+            "text": "Поставить в духовой шкаф на полчаса, температура – 200 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Вторые блюда в духовке",
+            "slug": "vtorye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Вторые блюда из картофеля",
+            "slug": "vtorye-blyuda-iz-kartofelya"
+        },
+        {
+            "name": "Вторые блюда из мяса",
+            "slug": "vtorye-blyuda-iz-myasa"
+        },
+        {
+            "name": "Вторые блюда из фарша",
+            "slug": "vtorye-blyuda-iz-farsha"
+        },
+        {
+            "name": "Драники",
+            "slug": "draniki"
+        },
+        {
+            "name": "Драники в духовке",
+            "slug": "draniki-v-duhovke"
+        },
+        {
+            "name": "Драники картофельные",
+            "slug": "draniki-kartofelnye"
+        },
+        {
+            "name": "Драники с мясом",
+            "slug": "draniki-s-myasom"
+        },
+        {
+            "name": "Драники с фаршем",
+            "slug": "draniki-s-farshem"
+        },
+        {
+            "name": "Картошка в духовке",
+            "slug": "kartoshka-v-duhovke"
+        },
+        {
+            "name": "Картошка с мясом",
+            "slug": "kartoshka-s-myasom"
+        },
+        {
+            "name": "Картошка с мясом в духовке",
+            "slug": "kartoshka-s-myasom-v-duhovke"
+        },
+        {
+            "name": "Картошка с фаршем",
+            "slug": "kartoshka-s-farshem"
+        },
+        {
+            "name": "Картошка с фаршем в духовке",
+            "slug": "kartoshka-s-farshem-v-duhovke"
+        },
+        {
+            "name": "Ужин из картошки",
+            "slug": "ujin-iz-kartoshki"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        }
+    ]
+}

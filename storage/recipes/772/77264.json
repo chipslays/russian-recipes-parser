@@ -1,0 +1,195 @@
+{
+    "source": "https://vkuso.ru/recipe/rassolnik-leningradskij-s-govyadinoj-kartofelem-i-perlovkoj/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Рассольник «Ленинградский» с говядиной и картофелем",
+    "description": "Сытное блюдо из советской кулинарной книги.",
+    "note": "Вместо перловки в суп можно ввести рис, гречку, пшеницу, овсянку. Суп должен быть густым.",
+    "cuisine": "Советская кухня СССР",
+    "cuisine_slug": "sovetskaya-kuhnya-sssr",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/3a/b63b5e4ea2c7b3a_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "2.5",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "говядина",
+                    "slug": "govyadina",
+                    "notes": null,
+                    "value": "700",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "рассол",
+                    "slug": "rassol",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "½",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "огурцы соленые",
+                    "slug": "ogurcy-solenye",
+                    "notes": null,
+                    "value": "60",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "перловая крупа",
+                    "slug": "perlovaya-krupa",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "лук-порей",
+                    "slug": "luk-porey",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сварить бульон из говядины без специй, мясо вынуть.",
+            "image": null
+        },
+        {
+            "text": "Промыть перловку.",
+            "image": null
+        },
+        {
+            "text": "Спассеровать репчатый лук и морковь.",
+            "image": null
+        },
+        {
+            "text": "Продукты добавить в суп.",
+            "image": null
+        },
+        {
+            "text": "Нарезать картофель брусками, добавить в суп через полчаса.",
+            "image": null
+        },
+        {
+            "text": "Спассеровать нарезанные соломкой соленые огурцы, добавить в рассольник.",
+            "image": null
+        },
+        {
+            "text": "Лавровый лист, перец, соль – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Через 15 минут влить огуречный рассол, варить суп 10 минут.",
+            "image": null
+        },
+        {
+            "text": "Всыпать лук-порей, подать к столу.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Рассольник",
+            "slug": "rassolnik"
+        },
+        {
+            "name": "Рассольник ленинградский",
+            "slug": "rassolnik-leningradskiy"
+        },
+        {
+            "name": "Рассольник с перловой крупой",
+            "slug": "rassolnik-s-perlovoy-krupoy"
+        },
+        {
+            "name": "Суп из говядины",
+            "slug": "sup-iz-govyadiny"
+        },
+        {
+            "name": "Суп с мясом",
+            "slug": "sup-s-myasom"
+        },
+        {
+            "name": "Суп с перловкой",
+            "slug": "sup-s-perlovkoy"
+        },
+        {
+            "name": "Супы с крупами",
+            "slug": "supy-s-krupami"
+        }
+    ]
+}

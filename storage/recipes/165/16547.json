@@ -1,0 +1,123 @@
+{
+    "source": "https://vkuso.ru/recipe/kofe-frappe-s-konyakom-i-vzbitymi-slivkami/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Кофе Фраппе с коньяком и взбитыми сливками",
+    "description": null,
+    "note": null,
+    "cuisine": "Греческая кухня",
+    "cuisine_slug": "grecheskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/30/f91cf5aea573330_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "лед колотый",
+                    "slug": "led-kolotiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "кофе черный",
+                    "slug": "kofe-cherniy",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "шоколадный сироп",
+                    "slug": "shokoladniy-sirop",
+                    "notes": null,
+                    "value": "4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "кленовый сироп",
+                    "slug": "klenoviy-sirop",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "коньяк",
+                    "slug": "konyak",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "корица молотая",
+                    "slug": "korica-molotaya",
+                    "notes": null,
+                    "value": "1",
+                    "type": "щепотка",
+                    "amount": null
+                },
+                {
+                    "name": "сливки взбитые",
+                    "slug": "slivki-vzbitye",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сварить кофе (крепкий), охладить. Положить в чашу блендера: сиропы, кофе, молоко, корицу, коньяк – взбивать до однородной консистенции.",
+            "image": null
+        },
+        {
+            "text": "Прибавить лед (колотый), взбивать 1 минуту. Разлить в бокалы, украсить кофе Фраппе с коньяком, взбитыми сливками.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "День влюбленных",
+            "slug": "den-vlyublennyh"
+        },
+        {
+            "name": "Кофе и кофейные напитки",
+            "slug": "kofe-i-kofeynye-napitki"
+        },
+        {
+            "name": "Кофе с молоком",
+            "slug": "kofe-s-molokom"
+        },
+        {
+            "name": "Кофе со сливками",
+            "slug": "kofe-so-slivkami"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        }
+    ]
+}

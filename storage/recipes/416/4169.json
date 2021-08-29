@@ -1,0 +1,199 @@
+{
+    "source": "https://vkuso.ru/recipe/syrnyj-pirog-s-tvorogom-iz-lavasha/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Сырный пирог с творогом из лаваша",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/eb/1137a2a699b16eb_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "адыгейского сыра / слабосоленой брынзы",
+                    "slug": "adygeyskogo-syra-slabosolenoy-brynzy",
+                    "notes": null,
+                    "value": "350",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "твердого сыра",
+                    "slug": "tverdogo-syra",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "кефира 1%",
+                    "slug": "kefira-1",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "творога 1,8%",
+                    "slug": "tvoroga-1-8",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "тонкого лаваша",
+                    "slug": "tonkogo-lavasha",
+                    "notes": null,
+                    "value": "3",
+                    "type": "листа",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "2"
+                },
+                {
+                    "name": "растительного масла",
+                    "slug": "rastitelnogo-masla",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "В кефирно-яичной смеси замочить на 15-20 минут листы лаваша.",
+            "image": null
+        },
+        {
+            "text": "С помощью крупной терки натереть сыр, творог и брынзу, все смешать с зеленью.",
+            "image": null
+        },
+        {
+            "text": "Взять антипригарную форму, смазать ее бортики чайной ложкой растительного масла, застелить не отжатым листом лаваша так, чтобы его края свисали.",
+            "image": null
+        },
+        {
+            "text": "На лаваш выложить 1/2 часть всей сырной массы, накрыть вторым листом лаваша и распределить по нему оставшуюся часть начинки.",
+            "image": null
+        },
+        {
+            "text": "Слой начинки накрыть последним листом лаваша, свисающие края первого листа завернуть.",
+            "image": null
+        },
+        {
+            "text": "По верхнему слою пирога равномерно распределить оставшуюся яично-кефирную смесь.",
+            "image": null
+        },
+        {
+            "text": "Запечь сырный пирог с творогом из лаваша в духовке при 250 градусах до появления румяной корочки.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без сметаны",
+            "slug": "vypechka-bez-smetany"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка на кефире",
+            "slug": "vypechka-na-kefire"
+        },
+        {
+            "name": "Закуски из лаваша",
+            "slug": "zakuski-iz-lavasha"
+        },
+        {
+            "name": "Закуски с творогом",
+            "slug": "zakuski-s-tvorogom"
+        },
+        {
+            "name": "Лаваш с сыром",
+            "slug": "lavash-s-syrom"
+        },
+        {
+            "name": "Лаваш с сыром и яйцом",
+            "slug": "lavash-s-syrom-i-yaycom"
+        },
+        {
+            "name": "Лаваш с яйцом",
+            "slug": "lavash-s-yaycom"
+        },
+        {
+            "name": "Пирог без дрожжей",
+            "slug": "pirog-bez-drojjey"
+        },
+        {
+            "name": "Пирог из лаваша",
+            "slug": "pirog-iz-lavasha"
+        },
+        {
+            "name": "Пирог из лаваша с сыром",
+            "slug": "pirog-iz-lavasha-s-syrom"
+        },
+        {
+            "name": "Пирог на кефире",
+            "slug": "pirog-na-kefire"
+        },
+        {
+            "name": "Пирог на кефире в духовке",
+            "slug": "pirog-na-kefire-v-duhovke"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги с начинкой",
+            "slug": "pirogi-s-nachinkoy"
+        },
+        {
+            "name": "Пироги с сыром",
+            "slug": "pirogi-s-syrom"
+        }
+    ]
+}

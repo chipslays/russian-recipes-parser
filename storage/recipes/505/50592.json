@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/nizkouglevodnaya-kurinaya-picca/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Низкоуглеводная куриная пицца",
+    "description": "Если есть проблемы с лишним весом, а вкусной выпечки очень хочется – данный рецепт поможет убить этих «двух зайцев».",
+    "note": "Для начинки можно использовать перцы разного цвета – блюдо будет выглядеть живописнее.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/dc/00ffc72c805ebdc_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "помидоры черри",
+                    "slug": "pomidory-cherri",
+                    "notes": null,
+                    "value": "2-3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "3",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "куриное филе",
+                    "slug": "kurinoe-file",
+                    "notes": null,
+                    "value": "70",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "клетчатка",
+                    "slug": "kletchatka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "перец болгарский красный",
+                    "slug": "perec-bolgarskiy-krasniy",
+                    "notes": " (по желанию)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": " (по желанию)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "зелень",
+                    "slug": "zelen",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Перемешать белок сырого яйца, столовую ложку клетчатки, обжарить на сковороде с тефлоновым покрытием, без масла.",
+            "image": null
+        },
+        {
+            "text": "Куриное филе также обжарить с томатами черри. Добавить специи, соль по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Выложить на готовый блинчик.",
+            "image": null
+        },
+        {
+            "text": "Сверху – начинка из красного болгарского перца, репчатого лука. Залить белком сырого яйца, поставить в микроволновую печь на одну-две минуты.",
+            "image": null
+        },
+        {
+            "text": "Готовую пиццу достать, посыпать рубленой зеленью петрушки и укропа, любыми приправами.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка с зеленью",
+            "slug": "vypechka-s-zelenyu"
+        },
+        {
+            "name": "Диетическая куриная грудка",
+            "slug": "dieticheskaya-kurinaya-grudka"
+        },
+        {
+            "name": "Диетическая пицца",
+            "slug": "dieticheskaya-picca"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Домашняя пицца",
+            "slug": "domashnyaya-picca"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Пицца",
+            "slug": "picca"
+        },
+        {
+            "name": "Пицца без дрожжей",
+            "slug": "picca-bez-drojjey"
+        },
+        {
+            "name": "Пицца за 10 минут",
+            "slug": "picca-za-10-minut"
+        },
+        {
+            "name": "Пицца на сковороде",
+            "slug": "picca-na-skovorode"
+        },
+        {
+            "name": "Пицца на сковороде за 10 минут",
+            "slug": "picca-na-skovorode-za-10-minut"
+        },
+        {
+            "name": "Пицца на скорую руку",
+            "slug": "picca-na-skoruyu-ruku"
+        },
+        {
+            "name": "Пицца с курицей",
+            "slug": "picca-s-kuricey"
+        },
+        {
+            "name": "Пицца с помидорами",
+            "slug": "picca-s-pomidorami"
+        },
+        {
+            "name": "Тонкая пицца",
+            "slug": "tonkaya-picca"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "source": "https://vkuso.ru/recipe/okroshka-s-ryboj-i-redkoj/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Окрошка с рыбой и редькой",
+    "description": null,
+    "note": null,
+    "cuisine": "Русская кухня",
+    "cuisine_slug": "russkaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/6e/adb0e312543e86e_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "кваса",
+                    "slug": "kvasa",
+                    "notes": null,
+                    "value": "1,5",
+                    "type": "л",
+                    "amount": null
+                },
+                {
+                    "name": "филе белой рыбы",
+                    "slug": "file-beloy-ryby",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "картофеля",
+                    "slug": "kartofelya",
+                    "notes": null,
+                    "value": "3",
+                    "type": "клубня",
+                    "amount": null
+                },
+                {
+                    "name": "огурца",
+                    "slug": "ogurca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "3"
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "3"
+                },
+                {
+                    "name": "редька",
+                    "slug": "redka",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "петрушки",
+                    "slug": "petrushki",
+                    "notes": null,
+                    "value": "5",
+                    "type": "веточек",
+                    "amount": null
+                },
+                {
+                    "name": "укропа",
+                    "slug": "ukropa",
+                    "notes": null,
+                    "value": "5",
+                    "type": "веточек",
+                    "amount": null
+                },
+                {
+                    "name": "сметаны",
+                    "slug": "smetany",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "зеленого лука",
+                    "slug": "zelenogo-luka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "пучок",
+                    "amount": null
+                },
+                {
+                    "name": "горчицы",
+                    "slug": "gorchicy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Сварить в подсоленной воде рыбу, слить воду, остудить, нарезать небольшими кусочками.",
+            "image": null
+        },
+        {
+            "text": "Очистить от кожуры редьку и огурцы, нарезать кубиками огурцы, редьку натереть, зелень укропа, петрушки и лук мелко нашинковать. Сварить яйца и картофель в мундире, дать остыть, очистить, нарезать.",
+            "image": null
+        },
+        {
+            "text": "Растереть в миске лук с горчицей, солью, сахаром, влить немного кваса. В другой глубокой миске смешать огурцы, картофель, яйца, зелень, растертый лук и редьку, перемешать, залить белым квасом (он более кислый), добавить кусочки рыбы.",
+            "image": null
+        },
+        {
+            "text": "Разлить охлажденную окрошку с рыбой и редькой по тарелкам, положить в каждую по столовой ложке сметаны.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Окрошка",
+            "slug": "okroshka"
+        },
+        {
+            "name": "Окрошка на квасе",
+            "slug": "okroshka-na-kvase"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Холодные супы",
+            "slug": "holodnye-supy"
+        }
+    ]
+}

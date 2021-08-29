@@ -1,0 +1,103 @@
+{
+    "source": "https://vkuso.ru/recipe/sladkie-suxariki-so-smetanoj-iz-batona/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Сладкие сухарики со сметаной из батона",
+    "description": "Домашние сухарики – хорошее дополнение к чаю или кофе.",
+    "note": "Для приготовления закуски можно использовать зачерствевшие булочки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/11/b1b74480e3b5b11_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "батон",
+                    "slug": "baton",
+                    "notes": " (булочки)",
+                    "value": "200-300",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "1.5",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нарезать хлебобулочное изделие на квадратики.",
+            "image": null
+        },
+        {
+            "text": "В небольшую миску всыпать сахарный песок, в другую – положить сметану.",
+            "image": null
+        },
+        {
+            "text": "Каждый хлебный кусочек обмакнуть сначала в сметану, а затем – в сахар.",
+            "image": null
+        },
+        {
+            "text": "Выложить изделия на сухой противень.",
+            "image": null
+        },
+        {
+            "text": "Хлеб запечь, температура – 200 градусов, время приготовления – пять минут.",
+            "image": null
+        },
+        {
+            "text": "Подавать в остывшем виде.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Гренки",
+            "slug": "grenki"
+        },
+        {
+            "name": "Гренки из батона",
+            "slug": "grenki-iz-batona"
+        },
+        {
+            "name": "Закуски для пикника",
+            "slug": "zakuski-dlya-piknika"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сладкие гренки",
+            "slug": "sladkie-grenki"
+        },
+        {
+            "name": "Сухари",
+            "slug": "suhari"
+        }
+    ]
+}

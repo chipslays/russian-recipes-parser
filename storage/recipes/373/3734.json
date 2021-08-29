@@ -1,0 +1,95 @@
+{
+    "source": "https://vkuso.ru/recipe/koktejl-tropicheskij-s-kokosovym-molokom-bananom-i-mango/",
+    "category": "Напитки",
+    "category_slug": "napitki",
+    "title": "Коктейль «Тропический» с кокосовым молоком, бананом и манго",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/01/f63990a118b2a01_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молока",
+                    "slug": "moloka",
+                    "notes": null,
+                    "value": "2",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "кокосового молока",
+                    "slug": "kokosovogo-moloka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "замороженный банан",
+                    "slug": "zamorojenniy-banan",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "манго",
+                    "slug": "mango",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "маленькая банка нарезанных ананасов",
+                    "slug": "malenkaya-banka-narezannyh-ananasov",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "1"
+                },
+                {
+                    "name": "лед",
+                    "slug": "led",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "С помощью блендера взбить до однородности нарезанный замороженный банан, очищенное и порезанное манго, лед, кокосовое молоко, ананас и коровье молоко.",
+            "image": null
+        },
+        {
+            "text": "В результате получится освежающий и вкусный коктейль «Тропический» с кокосовым молоком, бананом и манго",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Безалкогольные напитки",
+            "slug": "bezalkogolnye-napitki"
+        },
+        {
+            "name": "Молочный коктейль",
+            "slug": "molochniy-kokteyl"
+        },
+        {
+            "name": "Напитки с молоком",
+            "slug": "napitki-s-molokom"
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "source": "https://vkuso.ru/recipe/shpinatnyj-krem-sup-s-midiyami/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Шпинатный крем-суп с мидиями",
+    "description": "Нежный и ароматный суп с морепродуктами.",
+    "note": "Для приготовления супа использовать мидии в ракушке.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/3e/18ca8210844b83e_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/D3HCJJaXIas?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": "150",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "бульон овощной",
+                    "slug": "bulon-ovoschnoy",
+                    "notes": null,
+                    "value": "150",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "шпинат свежий",
+                    "slug": "shpinat-svejiy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мидии в ракушках",
+                    "slug": "midii-v-rakushkah",
+                    "notes": null,
+                    "value": "5",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "вино белое сухое",
+                    "slug": "vino-beloe-suhoe",
+                    "notes": null,
+                    "value": "50",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "базилик свежий",
+                    "slug": "bazilik-svejiy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "веточки",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Листья шпината вымыть, оборвать стебли.",
+            "image": null
+        },
+        {
+            "text": "Зеленую массу обжарить в течение нескольких минут с оливковым маслом в сотейнике.",
+            "image": null
+        },
+        {
+            "text": "Добавить свежий базилик и посолить по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Залить овощным бульоном, добавить сливки, все вместе тушить пять минут.",
+            "image": null
+        },
+        {
+            "text": "Массу помешивать, иначе сливки могут пригореть.",
+            "image": null
+        },
+        {
+            "text": "Налить оливковое масло на сковороду, обжарить мидии с белым вином и чесноком.",
+            "image": null
+        },
+        {
+            "text": "Прогревать, пока вино не выпарится.",
+            "image": null
+        },
+        {
+            "text": "Морепродукты посолить, поперчить.",
+            "image": null
+        },
+        {
+            "text": "Суп превратить в пюре.",
+            "image": null
+        },
+        {
+            "text": "Вылить в тарелку, добавить жареные мидии.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Крем-суп",
+            "slug": "krem-sup"
+        },
+        {
+            "name": "Сливочный суп",
+            "slug": "slivochniy-sup"
+        },
+        {
+            "name": "Суп без картошки",
+            "slug": "sup-bez-kartoshki"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из морепродуктов",
+            "slug": "sup-iz-moreproduktov"
+        },
+        {
+            "name": "Суп из шпината",
+            "slug": "sup-iz-shpinata"
+        },
+        {
+            "name": "Суп со сливками",
+            "slug": "sup-so-slivkami"
+        },
+        {
+            "name": "супы",
+            "slug": "supy"
+        }
+    ]
+}

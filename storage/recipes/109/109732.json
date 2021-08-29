@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/109732-krylyshki-v-grechishnom-mede-v-multivarke/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Крылышки в гречишном меде в мультиварке",
+    "description": "Блюдо быстрого приготовления с гречишным медом.",
+    "note": "При подаче посыпать рубленой зеленью.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/a8/ae767f4bbceaea8_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": "30 минут",
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 5 порции",
+            "list": [
+                {
+                    "name": "куриные крылышки",
+                    "slug": "kurinye-krylyshki",
+                    "notes": null,
+                    "value": "10-12",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мёд гречишный",
+                    "slug": "med-grechishniy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "соус соевый",
+                    "slug": "sous-soeviy",
+                    "notes": null,
+                    "value": "30",
+                    "type": "мл",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Куриные крылышки промыть и очистить.",
+            "image": null
+        },
+        {
+            "text": "Перемешать с соевым соусом и медом.",
+            "image": null
+        },
+        {
+            "text": "Вложить в чашу мультиварки вместе с маринадом.",
+            "image": null
+        },
+        {
+            "text": "Выставить режим «Выпечка» или «Гриль» на пятнадцать или семнадцать минут.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда в мультиварке",
+            "slug": "vtorye-blyuda-v-multivarke"
+        },
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Куриные крылышки в мультиварке",
+            "slug": "kurinye-krylyshki-v-multivarke"
+        },
+        {
+            "name": "Куриные крылышки в соевом соусе",
+            "slug": "kurinye-krylyshki-v-soevom-souse"
+        },
+        {
+            "name": "Курица в мультиварке",
+            "slug": "kurica-v-multivarke"
+        },
+        {
+            "name": "Курица в соевом соусе",
+            "slug": "kurica-v-soevom-souse"
+        },
+        {
+            "name": "Курица в соусе",
+            "slug": "kurica-v-souse"
+        },
+        {
+            "name": "Курица с медом",
+            "slug": "kurica-s-medom"
+        },
+        {
+            "name": "Мультиварка",
+            "slug": "multivarka"
+        },
+        {
+            "name": "Ужин в мультиварке",
+            "slug": "ujin-v-multivarke"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        }
+    ]
+}

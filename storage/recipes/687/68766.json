@@ -1,0 +1,135 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnij-pirog-iz-drozhzhevogo-testa-so-shhavelem/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Домашний пирог из дрожжевого теста со щавелем",
+    "description": "Это блюдо – настоящая классика деревенской кулинарии.",
+    "note": "По желанию в начинку можно добавить ревень, нарезанные сладкие яблоки.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/2f/912d269232c612f_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "щавель",
+                    "slug": "schavel",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "120",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "75",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "дрожжи быстродействующие",
+                    "slug": "drojji-bystrodeystvuyuschie",
+                    "notes": null,
+                    "value": "11",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "молоко",
+                    "slug": "moloko",
+                    "notes": null,
+                    "value": "225",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Перемешать сахарный песок с дрожжами, влить подогретое молоко. Ввести сырое яйцо, растопленное, но не горячее масло.",
+            "image": null
+        },
+        {
+            "text": "Муку просеять, замесить тесто, оно не должно быть тугим. Поставить в тепло на 45 минут.",
+            "image": null
+        },
+        {
+            "text": "Щавель потушить с маслом и сахаром. Масса в процессе тепловой обработки должна уменьшиться.",
+            "image": null
+        },
+        {
+            "text": "Половину теста выложить в форму, затем начинку, закрыть сверху другой половиной теста. Время выпекания – от 45 до 50 минут, температура – от 190 до 200 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка из дрожжевого теста",
+            "slug": "vypechka-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Выпечка на молоке",
+            "slug": "vypechka-na-moloke"
+        },
+        {
+            "name": "Пирог на молоке",
+            "slug": "pirog-na-moloke"
+        },
+        {
+            "name": "Пирог со щавелем",
+            "slug": "pirog-so-schavelem"
+        },
+        {
+            "name": "Пироги",
+            "slug": "pirogi"
+        },
+        {
+            "name": "Пироги в духовке",
+            "slug": "pirogi-v-duhovke"
+        },
+        {
+            "name": "Пироги из дрожжевого теста",
+            "slug": "pirogi-iz-drojjevogo-testa"
+        },
+        {
+            "name": "Пироги с начинкой",
+            "slug": "pirogi-s-nachinkoy"
+        }
+    ]
+}

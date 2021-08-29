@@ -1,0 +1,111 @@
+{
+    "source": "https://vkuso.ru/recipe/xrustyashhie-syrnye-krekery-po-domashnemu/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Хрустящие сырные крекеры по-домашнему",
+    "description": "Домашняя выпечка, способная с успехом заменить сухарики или чипсы.",
+    "note": "Подать крекеры к столу можно в корзиночке с бумажной салфеткой.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/e6/e89f9ca20f689e6_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/L5BrPpREnJQ?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сыр",
+                    "slug": "syr",
+                    "notes": null,
+                    "value": "200",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Мягкое сливочное масло перемешать с мукой, вбить яйцо, добавить тертый сыр. Соль и перец – по вкусу.",
+            "image": null
+        },
+        {
+            "text": "Готовое тесто поставить на два часа в холодильник.",
+            "image": null
+        },
+        {
+            "text": "Массу раскатать, обрезать в круг и разделить на сегменты, на восемь частей.",
+            "image": null
+        },
+        {
+            "text": "Время выпекания в духовом шкафу – от 15 до 20 минут, температура – 180 градусов.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Крекеры",
+            "slug": "krekery"
+        },
+        {
+            "name": "Печенье",
+            "slug": "pechene"
+        },
+        {
+            "name": "Сырное печенье",
+            "slug": "syrnoe-pechene"
+        }
+    ]
+}

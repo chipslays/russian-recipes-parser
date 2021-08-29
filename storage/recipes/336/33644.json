@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/domashnie-slojki-s-tvorozhnoj-nachinkoj-i-izyumom/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Домашние слойки с творожной начинкой и изюмом",
+    "description": null,
+    "note": "Рулеты также можно посыпать маком или молотой корицей, сахарным песком.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/94/172451b529c3a94_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "тесто слоеное бездрожжевое",
+                    "slug": "testo-sloenoe-bezdrojjevoe",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "400",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яйца",
+                    "slug": "yayca",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "3-4",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сметана",
+                    "slug": "smetana",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "ванилин",
+                    "slug": "vanilin",
+                    "notes": null,
+                    "value": "1/3",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "кунжут",
+                    "slug": "kunjut",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "изюм",
+                    "slug": "izyum",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Смешать творог с яйцом, сметаной, ванилином из пакетика. Всыпать предварительно распаренный и обсушенный изюм без косточек.",
+            "image": null
+        },
+        {
+            "text": "Готовое слоеное бездрожжевое тесто разморозить, разрезать пополам. Раскатать каждую часть в прямоугольник, смазать половиной нормы творожной начинки, до краев не доходить. Свернуть рулетами, заворачивать с узкого края, защипнуть, перевернуть швом вниз и нарезать кусочками толщиной в три-четыре сантиметра.",
+            "image": null
+        },
+        {
+            "text": "Оба рулета выложить на застеленный пергаментом противень, смазать немного взбитым сырым яйцом, посыпать кунжутным семенем. Печь слойки с творожной начинкой при температуре 200 градусов до готовности, должна получиться золотистая корочка. Готовую выпечку остудить, посыпать сахарной пудрой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Бездрожжевая выпечка",
+            "slug": "bezdrojjevaya-vypechka"
+        },
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка для детей",
+            "slug": "vypechka-dlya-detey"
+        },
+        {
+            "name": "Выпечка из слоеного теста",
+            "slug": "vypechka-iz-sloenogo-testa"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка на сметане",
+            "slug": "vypechka-na-smetane"
+        },
+        {
+            "name": "Выпечка с изюмом",
+            "slug": "vypechka-s-izyumom"
+        },
+        {
+            "name": "Выпечка с сухофруктами",
+            "slug": "vypechka-s-suhofruktami"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Детский завтрак",
+            "slug": "detskiy-zavtrak"
+        },
+        {
+            "name": "Завтрак из яиц",
+            "slug": "zavtrak-iz-yaic"
+        },
+        {
+            "name": "Полдник",
+            "slug": "poldnik"
+        },
+        {
+            "name": "Простые на каждый день",
+            "slug": "prostye-na-kajdiy-den"
+        },
+        {
+            "name": "Сладкая выпечка",
+            "slug": "sladkaya-vypechka"
+        },
+        {
+            "name": "Сладкая выпечка из слоеного теста",
+            "slug": "sladkaya-vypechka-iz-sloenogo-testa"
+        },
+        {
+            "name": "Слойки",
+            "slug": "sloyki"
+        },
+        {
+            "name": "Слойки из готового слоеного теста",
+            "slug": "sloyki-iz-gotovogo-sloenogo-testa"
+        },
+        {
+            "name": "Слойки с творогом",
+            "slug": "sloyki-s-tvorogom"
+        }
+    ]
+}

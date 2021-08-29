@@ -1,0 +1,186 @@
+{
+    "source": "https://vkuso.ru/recipe/4-varianta-proteinovogo-morozhenogo/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "4 варианта протеинового мороженого",
+    "description": "Вкусный и полезный десерт, который можно приготовить различными способами. Продукт на любой вкус.",
+    "note": "Ингредиенты можно варьировать, добавляя любые ягоды или другие наполнители. Удобнее всего готовить блюдо в мороженице.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/3b/06b39ab5250af3b_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бананы",
+                    "slug": "banany",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "творог обезжиренный",
+                    "slug": "tvorog-obezjirenniy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "протеин ванильный",
+                    "slug": "protein-vanilniy",
+                    "notes": " (протеин шоколадный)",
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для бананового мороженого",
+            "list": [
+                {
+                    "name": "йогурт натуральный",
+                    "slug": "yogurt-naturalniy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "ягоды замороженные",
+                    "slug": "yagody-zamorojennye",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                },
+                {
+                    "name": "протеин",
+                    "slug": "protein",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        },
+        {
+            "name": "Для ягодного мороженого",
+            "list": [
+                {
+                    "name": "протеин ванильный",
+                    "slug": "protein-vanilniy",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "миндальное молоко",
+                    "slug": "mindalnoe-moloko",
+                    "notes": null,
+                    "value": "1",
+                    "type": "чашка",
+                    "amount": null
+                },
+                {
+                    "name": "карамельный сироп",
+                    "slug": "karamelniy-sirop",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        },
+        {
+            "name": "Для миндального мороженого",
+            "list": [
+                {
+                    "name": "протеин ванильный",
+                    "slug": "protein-vanilniy",
+                    "notes": null,
+                    "value": "30",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "клубника",
+                    "slug": "klubnika",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "миндальное молоко",
+                    "slug": "mindalnoe-moloko",
+                    "notes": null,
+                    "value": "1",
+                    "type": "чашка",
+                    "amount": null
+                },
+                {
+                    "name": "ванильный экстракт",
+                    "slug": "vanilniy-ekstrakt",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Для приготовления мороженого смешать с помощью блендера мякоть банана, нежирный творог, ванильный или шоколадный протеин. Заморозить в силиконовой форме, контейнере.",
+            "image": null
+        },
+        {
+            "text": "Другой вариант: смешать натуральный йогурт, любые замороженные ягоды и протеин, заморозить.",
+            "image": null
+        },
+        {
+            "text": "Для миндального мороженого смешать молоко из миндаля, ванильный протеин, карамельный сироп на фруктозе или с сахарозаменителем, заморозить.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления клубничного мороженого смешать  миндальное молоко, ягоды клубники, ванильный экстракт, ванильный протеин, заморозить.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Десерты с клубникой",
+            "slug": "deserty-s-klubnikoy"
+        },
+        {
+            "name": "Диетические десерты",
+            "slug": "dieticheskie-deserty"
+        },
+        {
+            "name": "Домашнее мороженое",
+            "slug": "domashnee-morojenoe"
+        },
+        {
+            "name": "Другие десерты",
+            "slug": "drugie-deserty"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}

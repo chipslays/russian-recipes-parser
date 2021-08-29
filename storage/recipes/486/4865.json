@@ -1,0 +1,75 @@
+{
+    "source": "https://vkuso.ru/recipe/karamel-po-domashnemu/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Карамель по-домашнему",
+    "description": null,
+    "note": null,
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/89/22e4a47fc811789_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "молока",
+                    "slug": "moloka",
+                    "notes": null,
+                    "value": "500",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "сливочного масла",
+                    "slug": "slivochnogo-masla",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахара",
+                    "slug": "sahara",
+                    "notes": null,
+                    "value": "3",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сухого молока",
+                    "slug": "suhogo-moloka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Смешать в кастрюле молоко, сахар и сухое молоко, поставить ее на огонь и, постоянно помешивая, варить массу на самом маленьком огне пока молочная масса не станет коричневатого цвета.",
+            "image": null
+        },
+        {
+            "text": "Как только масса приобретет нужный оттенок, к ней необходимо добавить сливочное масло и продолжить варить до полной готовности.",
+            "image": null
+        },
+        {
+            "text": "Варится карамель по-домашнему не меньше 90 минут: если ее не доварить, получится вареная сгущенка, если наоборот переварить – ириски.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Домашние конфеты",
+            "slug": "domashnie-konfety"
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "source": "https://vkuso.ru/recipe/pryanik-panforte-rozhdestvenskij/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Пряник «Панфорте» рождественский",
+    "description": "Традиционный рождественский пряник с таким названием придумали в Италии. Пан – это хлеб, форте – сильный. Традиционно в него добавляется мед, орехи, шоколад и сушеные фрукты. Пряник получается очень плотным, по этой причине его часто называют конфетой.",
+    "note": "В рецепте можно использовать любые сухофрукты, например, изюм. Пирог хорошо хранится в холодильнике, его подают в нарезанном виде к горячим напиткам.",
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/8d/21fb4f4f4a4cb8d_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "сухофрукты",
+                    "slug": "suhofrukty",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "сахар",
+                    "slug": "sahar",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "150",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "миндаль очищенный",
+                    "slug": "mindal-ochischenniy",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "фундук",
+                    "slug": "funduk",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "мука",
+                    "slug": "muka",
+                    "notes": null,
+                    "value": "1",
+                    "type": "стакан",
+                    "amount": null
+                },
+                {
+                    "name": "какао-порошок",
+                    "slug": "kakao-poroshok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "смесь специй для пряников",
+                    "slug": "smes-speciy-dlya-pryanikov",
+                    "notes": null,
+                    "value": "1/2",
+                    "type": "ч.л.",
+                    "amount": null
+                },
+                {
+                    "name": "сахарная пудра",
+                    "slug": "saharnaya-pudra",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Очистить миндаль, бланшировать фундук. Орехи обжарить на сковороде до золотистого цвета. В посуду с толстым дном положить мед и сахарный песок, прогреть на среднем огне, должен получиться сироп. Варить на среднем огне до густоты.",
+            "image": null
+        },
+        {
+            "text": "Какао-порошок и муку просеять в миску, добавить сухофрукты и орехи, смесь корицы, кардамона, душистого перца, муската. Перемешать, полить горячим сиропом, перемешать еще раз. Форму среднего размера выстелить бумагой, перелить тесто, печь пряник «Панфорте» в течение 45 минут при температуре 160 градусов. Готовый пирог остудить, посыпать сахарной пудрой.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "В духовке",
+            "slug": "v-duhovke"
+        },
+        {
+            "name": "Выпечка без молока",
+            "slug": "vypechka-bez-moloka"
+        },
+        {
+            "name": "Выпечка без яиц",
+            "slug": "vypechka-bez-yaic"
+        },
+        {
+            "name": "Выпечка с медом",
+            "slug": "vypechka-s-medom"
+        },
+        {
+            "name": "Выпечка с орехами",
+            "slug": "vypechka-s-orehami"
+        },
+        {
+            "name": "Выпечка с сухофруктами",
+            "slug": "vypechka-s-suhofruktami"
+        },
+        {
+            "name": "Медовые пряники",
+            "slug": "medovye-pryaniki"
+        },
+        {
+            "name": "Новогодние пряники",
+            "slug": "novogodnie-pryaniki"
+        },
+        {
+            "name": "Новогодняя выпечка",
+            "slug": "novogodnyaya-vypechka"
+        },
+        {
+            "name": "Новый год",
+            "slug": "noviy-god"
+        },
+        {
+            "name": "Постная выпечка",
+            "slug": "postnaya-vypechka"
+        },
+        {
+            "name": "Постные блюда в духовке",
+            "slug": "postnye-blyuda-v-duhovke"
+        },
+        {
+            "name": "Праздничная выпечка",
+            "slug": "prazdnichnaya-vypechka"
+        },
+        {
+            "name": "Праздничный стол",
+            "slug": "prazdnichniy-stol"
+        },
+        {
+            "name": "Пряники",
+            "slug": "pryaniki"
+        },
+        {
+            "name": "Рождество",
+            "slug": "rojdestvo"
+        }
+    ]
+}

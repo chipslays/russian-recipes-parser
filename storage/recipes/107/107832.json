@@ -1,0 +1,201 @@
+{
+    "source": "https://vkuso.ru/recipe/107832-teplyj-sendvich-s-kurinoj-grudkoj-i-bekonom/",
+    "category": "Закуски",
+    "category_slug": "zakuski",
+    "title": "Теплый сэндвич с куриной грудкой и беконом",
+    "description": "Домашние бутерброды с бокалом вина превращают обычную трапезу в изысканное застолье.",
+    "note": "Такой бутерброд можно подать с бокалом эльзасского вина, Пино или Алиготе, белым сухим Бордо.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/94/7ba4dfbc8321694_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": "30 минут",
+    "preparetime": "2 часа",
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 2 порции",
+            "list": [
+                {
+                    "name": "куриная грудка",
+                    "slug": "kurinaya-grudka",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "багет",
+                    "slug": "baget",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "помидоры",
+                    "slug": "pomidory",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "бекон сырокопченый",
+                    "slug": "bekon-syrokopcheniy",
+                    "notes": null,
+                    "value": "20",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "салат латук",
+                    "slug": "salat-latuk",
+                    "notes": null,
+                    "value": "1",
+                    "type": "лист",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для соуса",
+            "list": [
+                {
+                    "name": "майонез",
+                    "slug": "mayonez",
+                    "notes": null,
+                    "value": "40",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "соус соевый",
+                    "slug": "sous-soeviy",
+                    "notes": null,
+                    "value": "5",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "горчица дижонская",
+                    "slug": "gorchica-dijonskaya",
+                    "notes": null,
+                    "value": "5",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "name": "Для маринада",
+            "list": [
+                {
+                    "name": "масло растительное",
+                    "slug": "maslo-rastitelnoe",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "чеснок",
+                    "slug": "chesnok",
+                    "notes": null,
+                    "value": "2",
+                    "type": "зубчика",
+                    "amount": null
+                },
+                {
+                    "name": "соус соевый",
+                    "slug": "sous-soeviy",
+                    "notes": null,
+                    "value": "2",
+                    "type": "ст.л.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Приготовить маринад из подсолнечного масла, рубленого чеснока, соевого соуса.",
+            "image": null
+        },
+        {
+            "text": "Куриную грудку положить в смесь на два часа, затем обжарить до готовности с двух сторон.",
+            "image": null
+        },
+        {
+            "text": "Обжарить на сковороде бекон.",
+            "image": null
+        },
+        {
+            "text": "Разрезать вдоль багет, прогреть хлеб в духовом шкафу до появления хрустящей корочки.",
+            "image": null
+        },
+        {
+            "text": "Обе половины смазать соусом из майонеза, соевого соуса и дижонской горчицы.",
+            "image": null
+        },
+        {
+            "text": "На одну половину хлеба выложить салат латук, помидоры кружочками, обжаренную грудку, нарезанную наискосок.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/e6/218c98d4c43d8e6_434x295.jpg"
+        },
+        {
+            "text": "Сверху – обжаренный бекон, вторая половина багета.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/53/d56d02e658c2353_434x295.jpg"
+        },
+        {
+            "text": "Готовый сэндвич разрезать на две части.",
+            "image": "https:https://st.vkuso.ru/data/cache/thumb/2a/076556f89b38c2a_434x295.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пошаговые фото-рецепты",
+            "slug": "poshagovye-foto-recepty"
+        },
+        {
+            "name": "Бутерброды",
+            "slug": "buterbrody"
+        },
+        {
+            "name": "Бутерброды на завтрак",
+            "slug": "buterbrody-na-zavtrak"
+        },
+        {
+            "name": "Бутерброды на природу",
+            "slug": "buterbrody-na-prirodu"
+        },
+        {
+            "name": "Бутерброды с курицей",
+            "slug": "buterbrody-s-kuricey"
+        },
+        {
+            "name": "Бутерброды с помидорами",
+            "slug": "buterbrody-s-pomidorami"
+        },
+        {
+            "name": "Закуски для пикника",
+            "slug": "zakuski-dlya-piknika"
+        },
+        {
+            "name": "Закуски из курицы",
+            "slug": "zakuski-iz-kuricy"
+        },
+        {
+            "name": "Сэндвич с курицей",
+            "slug": "sendvich-s-kuricey"
+        },
+        {
+            "name": "Сэндвич с мясом",
+            "slug": "sendvich-s-myasom"
+        },
+        {
+            "name": "Сэндвичи",
+            "slug": "sendvichi"
+        }
+    ]
+}

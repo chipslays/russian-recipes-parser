@@ -1,0 +1,107 @@
+{
+    "source": "https://vkuso.ru/recipe/shokoladno-tvorozhnoe-pirozhnoe-s-proteinom/",
+    "category": "Десерты",
+    "category_slug": "deserty",
+    "title": "Шоколадно-творожное пирожное с протеином",
+    "description": "Простое пирожное, напоминающее всем известную в детские годы «картошку». Кулинарные технологии не стоят на месте: вместо молотого печенья – шоколадный протеин.",
+    "note": "Подать блюдо можно сразу или подержать два часа в холодильнике.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/43/784164db0b29f43_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты на 1 порцию",
+            "list": [
+                {
+                    "name": "творог обезжиренный",
+                    "slug": "tvorog-obezjirenniy",
+                    "notes": " (пастообразный)",
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "протеин шоколадный",
+                    "slug": "protein-shokoladniy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "порция",
+                    "amount": null
+                },
+                {
+                    "name": "хлебцы",
+                    "slug": "hlebcy",
+                    "notes": " (хрустящие молотые)",
+                    "value": "10",
+                    "type": "г",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Перемешать обезжиренный творог, шоколадный протеин, половину нормы молотых хрустящих хлебцев. Должна получиться густая паста.",
+            "image": null
+        },
+        {
+            "text": "Её нужно брать чайной ложкой, формовать округлые пирожные и обваливать в оставшихся сухарях.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Десерт на скорую руку",
+            "slug": "desert-na-skoruyu-ruku"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетические десерты",
+            "slug": "dieticheskie-deserty"
+        },
+        {
+            "name": "На десерт",
+            "slug": "na-desert"
+        },
+        {
+            "name": "Пирожное Картошка",
+            "slug": "pirojnoe-kartoshka"
+        },
+        {
+            "name": "Пирожные",
+            "slug": "pirojnye"
+        },
+        {
+            "name": "Пирожные без выпечки",
+            "slug": "pirojnye-bez-vypechki"
+        },
+        {
+            "name": "Творожный десерт",
+            "slug": "tvorojniy-desert"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        },
+        {
+            "name": "Шоколадное пирожное",
+            "slug": "shokoladnoe-pirojnoe"
+        },
+        {
+            "name": "Шоколадный десерт",
+            "slug": "shokoladniy-desert"
+        }
+    ]
+}

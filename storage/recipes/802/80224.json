@@ -1,0 +1,163 @@
+{
+    "source": "https://vkuso.ru/recipe/rizotto-s-kuricej-parmezanom-i-belym-vinom/",
+    "category": "Вторые блюда",
+    "category_slug": "vtorye-blyuda",
+    "title": "Ризотто с курицей, пармезаном и белым вином",
+    "description": "Легкое и вкусное блюдо на все случаи жизни.",
+    "note": "Перед подачей посыпать блюдо тертым сыром, лучше использовать «Пармезан».",
+    "cuisine": "Итальянская кухня",
+    "cuisine_slug": "italyanskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/f7/6c17fe227ce1bf7_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": "https://www.youtube.com/embed/ZXX0sM29kDs?rel=0",
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "бульон",
+                    "slug": "bulon",
+                    "notes": null,
+                    "value": "600",
+                    "type": "мл",
+                    "amount": null
+                },
+                {
+                    "name": "курица",
+                    "slug": "kurica",
+                    "notes": null,
+                    "value": "500",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вино белое",
+                    "slug": "vino-beloe",
+                    "notes": null,
+                    "value": "½",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "рис",
+                    "slug": "ris",
+                    "notes": null,
+                    "value": "100",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "морковь",
+                    "slug": "morkov",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лук репчатый",
+                    "slug": "luk-repchatiy",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "½",
+                    "type": "пачки",
+                    "amount": null
+                },
+                {
+                    "name": "сыр пармезан тертый",
+                    "slug": "syr-parmezan-tertiy",
+                    "notes": null,
+                    "value": "50",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "специи",
+                    "slug": "specii",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Очистить репчатый лук и морковь.",
+            "image": null
+        },
+        {
+            "text": "Лук нарезать, морковь натереть.",
+            "image": null
+        },
+        {
+            "text": "Выложить на сковороду со сливочным маслом репчатый лук, жарить до румянца, всыпать тертую морковь.",
+            "image": null
+        },
+        {
+            "text": "Жарить овощи пять минут, добавить кубики куриного филе.",
+            "image": null
+        },
+        {
+            "text": "Всыпать рис, влить вино, подержать на огне до впитывания и выпаривания.",
+            "image": null
+        },
+        {
+            "text": "Всыпать любимые приправы, влить бульон.",
+            "image": null
+        },
+        {
+            "text": "Довести блюдо до готовности, положить кусочек сливочного масла.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вторые блюда из курицы",
+            "slug": "vtorye-blyuda-iz-kuricy"
+        },
+        {
+            "name": "Вторые блюда из риса",
+            "slug": "vtorye-blyuda-iz-risa"
+        },
+        {
+            "name": "Ризотто",
+            "slug": "rizotto"
+        },
+        {
+            "name": "Ризотто с курицей",
+            "slug": "rizotto-s-kuricey"
+        },
+        {
+            "name": "Ризотто с сыром",
+            "slug": "rizotto-s-syrom"
+        },
+        {
+            "name": "Рис с курицей",
+            "slug": "ris-s-kuricey"
+        },
+        {
+            "name": "Ужин из курицы",
+            "slug": "ujin-iz-kuricy"
+        },
+        {
+            "name": "Ужин из мяса",
+            "slug": "ujin-iz-myasa"
+        },
+        {
+            "name": "Ужин из фарша",
+            "slug": "ujin-iz-farsha"
+        }
+    ]
+}

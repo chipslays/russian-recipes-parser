@@ -1,0 +1,187 @@
+{
+    "source": "https://vkuso.ru/recipe/finskij-slivochnyj-supchik-s-lososem/",
+    "category": "Супы",
+    "category_slug": "supy",
+    "title": "Финский сливочный супчик с лососем",
+    "description": null,
+    "note": "Можно при подаче добавить в финский сливочный супчик с лососем лимонный сок.",
+    "cuisine": "Финская кухня",
+    "cuisine_slug": "finskaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/ec/16fcc49784c53ec_660x440.jpg",
+    "difficulty": "Средняя",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "картофель",
+                    "slug": "kartofel",
+                    "notes": null,
+                    "value": "340",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "филе лосося",
+                    "slug": "file-lososya",
+                    "notes": null,
+                    "value": "340",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "3",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "сливки",
+                    "slug": "slivki",
+                    "notes": null,
+                    "value": "¾",
+                    "type": "стакана",
+                    "amount": null
+                },
+                {
+                    "name": "масло оливковое",
+                    "slug": "maslo-olivkovoe",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "крахмал",
+                    "slug": "krahmal",
+                    "notes": null,
+                    "value": "1-1.5",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "масло сливочное",
+                    "slug": "maslo-slivochnoe",
+                    "notes": null,
+                    "value": "1",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "лук-порей",
+                    "slug": "luk-porey",
+                    "notes": " (белая и светло-зелёная часть)",
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "лавровый лист",
+                    "slug": "lavroviy-list",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "зелень петрушки",
+                    "slug": "zelen-petrushki",
+                    "notes": " (зелень укропа)",
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "перец черный молотый",
+                    "slug": "perec-cherniy-molotiy",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "соль",
+                    "slug": "sol",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": null
+                },
+                {
+                    "name": "лимон",
+                    "slug": "limon",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Нагреть в кастрюле оливковое масло, чуть-чуть потушить мелко нарезанный лук.",
+            "image": null
+        },
+        {
+            "text": "Налить воду, добавить лавровый лист. Подождать, пока закипит.",
+            "image": null
+        },
+        {
+            "text": "Положить нарезанный кубиками картофель. Готовить под крышкой, пока он не приготовится.",
+            "image": null
+        },
+        {
+            "text": "Положить в кастрюлю рыбу (без кожи, костей и мелко нарезанную), готовить 5 минут.",
+            "image": null
+        },
+        {
+            "text": "Налить сливки, размешать.",
+            "image": null
+        },
+        {
+            "text": "Сделать кашицу, добавив в крахмал ложку воды, перемешать, чтобы растворился крахмал.",
+            "image": null
+        },
+        {
+            "text": "Положить кашицу в суп, варить до загустения.",
+            "image": null
+        },
+        {
+            "text": "Добавить сливочное масло, размешать, убрать с плиты.",
+            "image": null
+        },
+        {
+            "text": "Посыпать перцем, солью. Присыпать измельченной зеленью.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Национальные супы",
+            "slug": "nacionalnye-supy"
+        },
+        {
+            "name": "Рыбный суп",
+            "slug": "rybniy-sup"
+        },
+        {
+            "name": "Суп без мяса",
+            "slug": "sup-bez-myasa"
+        },
+        {
+            "name": "Суп из лосося",
+            "slug": "sup-iz-lososya"
+        },
+        {
+            "name": "Суп со сливками",
+            "slug": "sup-so-slivkami"
+        }
+    ]
+}

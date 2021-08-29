@@ -1,0 +1,184 @@
+{
+    "source": "https://vkuso.ru/recipe/legkij-fitnes-tort-s-fruktovo-tvorozhnoj-nachinkoj/",
+    "category": "Выпечка",
+    "category_slug": "vypechka",
+    "title": "Легкий фитнес-торт с фруктово-творожной начинкой",
+    "description": "Вместо муки – овсяные хлопья, «связующее звено» – яичный белок. Творожный крем органично дополняет предлагаемый рецепт.",
+    "note": "Торт можно подать со свежими или размороженными ягодами клубники или малины, вишни, черешни.",
+    "cuisine": "Домашняя кухня",
+    "cuisine_slug": "domashnyaya-kuhnya",
+    "poster": "https://st.vkuso.ru/data/cache/thumb/7e/a751ab32930c37e_660x440.jpg",
+    "difficulty": "Низкая",
+    "cooktime": null,
+    "preparetime": null,
+    "video": null,
+    "vegan": false,
+    "ingredients": [
+        {
+            "name": "Ингредиенты",
+            "list": [
+                {
+                    "name": "овсяные хлопья",
+                    "slug": "ovsyanye-hlopya",
+                    "notes": null,
+                    "value": "80",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "вода",
+                    "slug": "voda",
+                    "notes": null,
+                    "value": "3",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "корица",
+                    "slug": "korica",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        },
+        {
+            "name": "Для теста",
+            "list": [
+                {
+                    "name": "творог",
+                    "slug": "tvorog",
+                    "notes": null,
+                    "value": "250",
+                    "type": "г",
+                    "amount": null
+                },
+                {
+                    "name": "фрукты",
+                    "slug": "frukty",
+                    "notes": " (яблоки, груши)",
+                    "value": "2",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "яичный белок",
+                    "slug": "yaichniy-belok",
+                    "notes": null,
+                    "value": "1",
+                    "type": "шт.",
+                    "amount": null
+                },
+                {
+                    "name": "мед",
+                    "slug": "med",
+                    "notes": null,
+                    "value": "1-2",
+                    "type": "ст.л.",
+                    "amount": null
+                },
+                {
+                    "name": "ванилин",
+                    "slug": "vanilin",
+                    "notes": null,
+                    "value": null,
+                    "type": null,
+                    "amount": "по вкусу"
+                }
+            ]
+        }
+    ],
+    "instruction": [
+        {
+            "text": "Овсяные хлопья перемолоть, смешать с сырым белком, водой и молотой корицей.",
+            "image": null
+        },
+        {
+            "text": "Готовое тесто выложить в форму для выпекания, сформовать бортики. Печь при температуре 180 градусов в течение 10 минут.",
+            "image": null
+        },
+        {
+            "text": "Для приготовления начинки перетереть творог с фруктами с помощью блендера. Добавить сырой белок, ванилин, мёд. Массу еще раз перетереть блендером.",
+            "image": null
+        },
+        {
+            "text": "Вылить начинку на корж, снова поставить в духовку и допечь в течение 45 – 50 минут при той же температуре.",
+            "image": null
+        }
+    ],
+    "tags": [
+        {
+            "name": "Блюда из творога для детей",
+            "slug": "blyuda-iz-tvoroga-dlya-detey"
+        },
+        {
+            "name": "Выпечка без муки",
+            "slug": "vypechka-bez-muki"
+        },
+        {
+            "name": "Выпечка для детей",
+            "slug": "vypechka-dlya-detey"
+        },
+        {
+            "name": "Выпечка из творога",
+            "slug": "vypechka-iz-tvoroga"
+        },
+        {
+            "name": "Выпечка с корицей",
+            "slug": "vypechka-s-koricey"
+        },
+        {
+            "name": "Выпечка с медом",
+            "slug": "vypechka-s-medom"
+        },
+        {
+            "name": "Десерты для детей",
+            "slug": "deserty-dlya-detey"
+        },
+        {
+            "name": "Детские рецепты",
+            "slug": "detskie-recepty"
+        },
+        {
+            "name": "Детский торт",
+            "slug": "detskiy-tort"
+        },
+        {
+            "name": "Диетические",
+            "slug": "dieticheskie"
+        },
+        {
+            "name": "Диетический торт",
+            "slug": "dieticheskiy-tort"
+        },
+        {
+            "name": "Медовый торт",
+            "slug": "medoviy-tort"
+        },
+        {
+            "name": "Торт проще простого",
+            "slug": "tort-prosche-prostogo"
+        },
+        {
+            "name": "Торты",
+            "slug": "torty"
+        },
+        {
+            "name": "Торты с фруктами",
+            "slug": "torty-s-fruktami"
+        },
+        {
+            "name": "фитнес",
+            "slug": "fitnes"
+        }
+    ]
+}
